@@ -3,7 +3,9 @@ Honorifics (with the exception of the "-chan" in "Mahou-chan") get removed. ("Ma
 
 PriPara-isms:
 
-A "Promise" is an event that anyone can create
+Promise: A "Promise" is an event that anyone can create/host, including but not limited to "snick-meets" and performances.
+
+Chakiro - Snick
 
 MottoPara - ExtraPara
 
@@ -12,3 +14,5 @@ DanPri - BoyPara
 Live - Performance
 
 Coord - Coord
+
+Making Drama - Making Drama (it's like a little performance "drama" meant to "convey the feelings of the idol to the audience")
