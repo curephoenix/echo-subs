@@ -1,0 +1,5 @@
+*.mkv
+*.webm
+*.mp4
+".\PriPara\_workdir\"
+/PriPara/_workdir
