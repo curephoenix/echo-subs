@@ -13,15 +13,14 @@ Video Zoom: 5
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: PriParaS2E36.mkv
-Video File: PriParaS2E36.mkv
-Keyframes File: PriParaS2E36_keyframes.log
+Audio File: ../BDMV/PriPara - 74.mkv
+Video File: ../BDMV/PriPara - 74.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 385
-Active Line: 501
-Video Position: 29879
+Scroll Position: 166
+Active Line: 168
+Video Position: 8868
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -135,7 +134,7 @@ Dialogue: 0,0:00:03.95,0:00:05.55,Default,Reona,0,0,0,,Isn't that great?!
 Dialogue: 0,0:00:05.55,0:00:06.84,Default,Dorothy,0,0,0,,C'mon! Let's snap!
 Dialogue: 0,0:00:06.84,0:00:07.91,Default,Reona,0,0,0,,Okay.
 Dialogue: 0,0:00:10.41,0:00:12.15,Default,Announcer,0,0,0,,This is the entertainment news.
-Dialogue: 0,0:00:12.56,0:00:17.84,Default,Announcer,0,0,0,,Internationally famous movie star and winner of the title of "Ideal Prince",
+Dialogue: 0,0:00:12.56,0:00:17.84,Default,Announcer,0,0,0,,Internationally famous movie star\N and winner of the title of "Ideal Prince",
 Dialogue: 0,0:00:17.84,0:00:22.05,Default,Announcer,0,0,0,,Shikyouin Hibiki, has revealed she's actually a girl.
 Dialogue: 0,0:01:54.49,0:01:59.02,S2 Episode Title,Hibiki,0,0,0,,{\be15\fad(1022,0)\3c&HA120FB&}Shikyouin Hibiki's\N\N\N\N\N\N\N\NSplendid Everyday Life
 Dialogue: 0,0:01:59.02,0:02:04.77,Default,Announcer,0,0,0,,{\an8}Hibiki has made her idol début in PriPara, \Nthe female-only idol themeworld.
@@ -398,7 +397,7 @@ Dialogue: 0,0:15:21.70,0:15:23.91,Default,Dorothy,0,0,0,,Don't let her get away!
 Dialogue: 0,0:15:25.21,0:15:28.12,Default,Reona,0,0,0,,You're actually a girl, aren't you?
 Dialogue: 0,0:15:28.65,0:15:32.08,Default,Reona,0,0,0,,Yet, why is it that you dress like that?
 Dialogue: 0,0:15:36.31,0:15:37.87,Default,Hibiki,0,0,0,,Why, you ask?
-Dialogue: 0,0:15:37.87,0:15:41.07,Default,Hibiki,0,0,0,,This world is a lie—a farce—you see.
+Dialogue: 0,0:15:37.87,0:15:41.07,Default,Hibiki,0,0,0,,The world is made of lies and deceit, you see.{This world is a lie—a farce—you see.}{なぜかって？ しょせん\Nこの世は 嘘と まやかし｡}
 Dialogue: 0,0:15:41.07,0:15:42.59,Default,Hibiki,0,0,0,,So what, pray tell, is the problem?
 Dialogue: 0,0:15:42.71,0:15:43.59,Default,Reona,0,0,0,,What?
 Dialogue: 0,0:15:43.80,0:15:45.45,Default,SubDirector,0,0,0,,H-Huh?
