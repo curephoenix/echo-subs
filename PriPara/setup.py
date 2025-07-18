@@ -1,6 +1,7 @@
 from muxtools import *
+episode = int(input("Please enter an episode number: "))
 setup = Setup(
-    f"{74}",
+    f"{episode:02d}",
      None,
     bdmv_dir=f"./BDMV/",
     show_name="PriPara",
