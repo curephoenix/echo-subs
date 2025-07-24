@@ -16,9 +16,9 @@ Video File: ../BDMV/PriPara - 82.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.389815
-Scroll Position: 165
-Active Line: 173
-Video Position: 16777
+Scroll Position: 423
+Active Line: 368
+Video Position: 16510
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,14 +85,15 @@ Dialogue: 0,0:01:28.76,0:01:31.00,Default,,0,0,0,,Pri! I have a good idea-pri!
 Dialogue: 0,0:01:31.00,0:01:34.02,Default,,0,0,0,,Let's throw a cele-pri-tion even CelePara can't ignore!
 Dialogue: 0,0:01:34.65,0:01:36.25,Default,,0,0,0,,On Valentine's Day...
 Dialogue: 0,0:01:36.25,0:01:37.99,Default,,0,0,0,,No, Devitine's day.
-Dialogue: 0,0:01:37.99,0:01:42.24,Default,,0,0,0,,There shall be the 21st Demon Revolution,\NDevil Revolution 666.
-Dialogue: 0,0:01:42.24,0:01:44.75,Default,,0,0,0,,How's about it Reona? Let's do it!
+Dialogue: 0,0:01:37.99,0:01:42.24,Default,,0,0,0,,There shall be the 21st Demon Revolution.{,\NDevil Revolution 666.}
+Dialogue: 0,0:01:42.24,0:01:43.55,Default,,0,0,0,,Let's give it a whirl!
+Dialogue: 0,0:01:43.55,0:01:44.75,Default,,0,0,0,,How 'bout it, Reona?
 Dialogue: 0,0:01:44.75,0:01:47.02,Default,,0,0,0,,Yeah! I'm really fired up, Dorothy!
 Dialogue: 0,0:01:47.02,0:01:49.20,Default,,0,0,0,,We'll perform a whole bunch and snap chocolate!
 Dialogue: 0,0:01:49.47,0:01:51.10,Default,,0,0,0,,I'll hand out flyers-pri!
 Dialogue: 0,0:01:51.50,0:01:53.25,Default,,0,0,0,,I'll put up posters!
 Dialogue: 0,0:01:53.25,0:01:54.83,Default,,0,0,0,,I'll decorate the stage!
-Dialogue: 0,0:01:55.27,0:01:56.91,Default,,0,0,0,,I'll leave teeth marks!
+Dialogue: 0,0:01:55.27,0:01:56.91,Default,,0,0,0,,Gaaruru will leave teeth marks!
 Dialogue: 0,0:01:57.26,0:02:00.37,Default,,0,0,0,,Let's give it our all! All for one, one for all!
 Dialogue: 0,0:02:01.25,0:02:02.61,Default,,0,0,0,,All for one, one for all!
 Dialogue: 0,0:02:02.61,0:02:04.75,Default,,0,0,0,,Hip, hip! Capisce!
@@ -103,7 +104,7 @@ Dialogue: 0,0:02:17.34,0:02:18.26,Default,,0,0,0,,Garu?
 Dialogue: 0,0:02:18.79,0:02:20.71,Default,,0,0,0,,She's asking you if you wanna do it together.
 Dialogue: 0,0:02:21.26,0:02:22.90,Default,,0,0,0,,Gaaruru and Aromageddon...
 Dialogue: 0,0:02:23.21,0:02:26.57,Garumageddon,,0,0,0,,{\move(960,1185,960,1065,10,120)}GAARMAGEDDON
-Dialogue: 0,0:02:25.19,0:02:26.57,Default,,0,0,330,,I wanna join you!
+Dialogue: 0,0:02:25.19,0:02:26.57,Default,,0,0,330,,{I wanna}Lemme join you!
 Dialogue: 0,0:02:26.90,0:02:28.87,Default,,0,0,0,,Okay, then let us snap.
 Dialogue: 0,0:02:29.55,0:02:31.33,Default,,0,0,0,,Well, that's what I was thinking... \N
 Dialogue: 0,0:02:31.33,0:02:32.41,Default,,0,0,0,,But you can't, can you?
@@ -160,7 +161,7 @@ Dialogue: 0,0:06:32.21,0:06:35.51,Default,,0,0,0,,they may be able to rival the 
 Dialogue: 0,0:06:36.39,0:06:37.76,Default,,0,0,0,,This is also a revolution.
 Dialogue: 0,0:06:38.30,0:06:41.63,Default,,0,0,0,,"Revolution", my favorite word.
 Dialogue: 0,0:06:42.29,0:06:45.05,Default,,0,0,0,,However, only the elite are fit to lead. {This is another one of her "prodigies better lmao" but using prodigy here felt clunky.}
-Dialogue: 0,0:06:45.05,0:06:49.10,Default,,0,0,0,,When lead by commoners, \Nrevolution is fated to end only in violence.
+Dialogue: 0,0:06:45.05,0:06:49.10,Default,,0,0,0,,When led by commoners, \Nrevolution is fated to end only in violence.
 Dialogue: 0,0:06:49.81,0:06:52.61,Default,,0,0,0,,But even if that were to happen,
 Dialogue: 0,0:06:52.61,0:06:54.82,Default,,0,0,0,,I'll still allow you to enter.
 Dialogue: 0,0:06:54.82,0:06:57.17,Default,,0,0,0,,You wouldn't be able to win anyways.
@@ -183,10 +184,10 @@ Dialogue: 0,0:09:13.73,0:09:15.26,Default,,0,0,0,,Yet despite all that...
 Dialogue: 0,0:09:16.36,0:09:18.10,Default,,0,0,0,,Not a single soul came.
 Dialogue: 0,0:09:20.18,0:09:23.03,Default,,0,0,0,,Everyone went to the CelePara party.
 Dialogue: 0,0:09:23.40,0:09:24.75,Default,,0,0,0,,That's disappointing-garu.
-Dialogue: 0,0:09:26.38,0:09:30.01,Default,,0,0,0,,To lose so crushingly on the dawn of our revolution,
+Dialogue: 0,0:09:26.38,0:09:30.01,Default,,0,0,0,,To lose so crushingly on the dawn of our revolution...
 Dialogue: 0,0:09:30.55,0:09:32.39,Default,,0,0,0,,is humiliating-pri...
 Dialogue: 0,0:09:32.91,0:09:34.95,Default,,0,0,0,,So what do we do now, Aroma?
-Dialogue: 0,0:09:34.95,0:09:36.18,Default,,0,0,0,,This was all your idea, after all.
+Dialogue: 0,0:09:34.95,0:09:36.18,Default,,0,0,0,,This was {\i1}your{\i0} idea, after all.
 Dialogue: 0,0:09:36.18,0:09:37.61,Default,,0,0,0,,Think of something!
 Dialogue: 0,0:09:37.61,0:09:39.88,Default,,0,0,0,,I don't wanna be a loser!
 Dialogue: 0,0:09:40.90,0:09:42.98,Default,,0,0,0,,Or even worse, a loser ninja!
@@ -200,7 +201,7 @@ Dialogue: 0,0:09:57.07,0:09:57.72,Default,,0,0,0,,Bugs...
 Dialogue: 0,0:09:58.27,0:09:59.35,Default,,0,0,0,,Ah!
 Dialogue: 0,0:10:01.59,0:10:03.90,Default,,0,0,0,,I have just received a prophecy!
 Dialogue: 0,0:10:04.82,0:10:07.95,Default,,0,0,0,,A new volume of the Aroma Prophecy is here!
-Dialogue: 0,0:10:08.30,0:10:12.49,Default,,0,0,0,,Small devils will infiltrate and exhaust the giant!
+Dialogue: 0,0:10:08.30,0:10:12.49,Default,,0,0,0,,Small imps will infiltrate and exhaust the giant!
 Dialogue: 0,0:10:14.95,0:10:17.07,Default,,0,0,0,,Gaarmageddon, move out!
 Dialogue: 0,0:10:17.07,0:10:18.41,Default,,0,0,0,,Okie!
 Dialogue: 0,0:10:18.02,0:10:18.93,Default,,0,0,0,,Garu!
@@ -208,10 +209,10 @@ Dialogue: 0,0:10:21.03,0:10:22.08,Default,,0,0,0,,What?
 Dialogue: 0,0:10:22.08,0:10:23.23,Default,,0,0,0,,Capisce?
 Dialogue: 0,0:10:32.59,0:10:34.43,Default,,0,0,0,,As bugs crowding around chocolate,
 Dialogue: 0,0:10:34.43,0:10:36.89,Default,,0,0,0,,we shall eat every last drop.
-Dialogue: 0,0:10:37.07,0:10:39.46,Default,,0,0,0,,Chocolate is so yummy!{So yummy!}
+Dialogue: 0,0:10:37.07,0:10:39.46,Default,,0,0,0,,Chocolate's so yummers! Super yummers!{So yummy!}
 Dialogue: 0,0:10:39.13,0:10:40.68,Default,,0,0,0,,Delicious{-garurururu}...
 Dialogue: 0,0:10:42.62,0:10:45.60,Default,,0,0,0,,I shall lead all the disappointed peasants...
-Dialogue: 0,0:10:45.60,0:10:50.44,Default,,0,0,0,,...to the gates of Hell and bring about walpriparanacht!
+Dialogue: 0,0:10:45.60,0:10:50.44,Default,,0,0,0,,...to the {gates of Hell}depths and bring about walpriparanacht!
 Dialogue: 0,0:10:50.84,0:10:54.83,Default,,0,0,0,,She means she'll bring all the girls to SubPara!
 Dialogue: 0,0:10:55.23,0:10:57.88,Default,,0,0,0,,That's so devilish-garu!
 Dialogue: 0,0:10:58.52,0:10:59.71,Default,,0,0,0,,Devi!
@@ -220,7 +221,7 @@ Dialogue: 0,0:11:02.73,0:11:05.51,Default,,0,0,0,,Based on the feared Aroma Prop
 Dialogue: 0,0:11:05.98,0:11:08.45,Default,,0,0,0,,The devil will eat all your chocolate!
 Dialogue: 0,0:11:08.45,0:11:10.51,Default,,0,0,0,,Devi, Devi!
 Dialogue: 0,0:11:21.58,0:11:23.50,Default,,0,0,0,,For you, Princess Falulu.
-Dialogue: 0,0:11:24.87,0:11:28.61,Default,,0,0,0,,Thanks, Maho-chan! \NFalulu loves her chocolate Unicorn!
+Dialogue: 0,0:11:24.87,0:11:28.61,Default,,0,0,0,,Thanks, Maho-chan! \NThis chocolate Unicorn is wonderful!
 Dialogue: 0,0:11:29.50,0:11:30.54,Default,,0,0,0,,And for Sion.
 Dialogue: 0,0:11:30.54,0:11:31.94,Default,,0,0,0,,I don't need it.
 Dialogue: 0,0:11:32.16,0:11:33.75,Default,,0,0,0,,Don't say that...
@@ -299,50 +300,50 @@ Dialogue: 0,0:14:59.41,0:15:00.75,Default,,0,0,0,,Aromageddon and
 Dialogue: 0,0:15:00.75,0:15:01.65,Default,,0,0,0,,Gaaruru!
 Dialogue: 0,0:15:01.65,0:15:03.79,Default,,0,0,0,,Devil, angel, fangs, assimilate!
 Dialogue: 0,0:15:04.69,0:15:07.00,Default,,0,0,0,,Together we're Gaarumageddon!
-Dialogue: 0,0:15:11.00,0:15:13.08,Reversible Engel,,0,0,0,,Ring the blessed bell
-Dialogue: 0,0:15:14.21,0:15:16.51,Reversible Engel,,0,0,0,,A sweet red apple
-Dialogue: 0,0:15:17.52,0:15:19.85,Reversible Engel,,0,0,0,,Take one bite and you will see
-Dialogue: 0,0:15:20.88,0:15:24.11,Reversible Engel,,0,0,0,,You'll be captive forever
-Dialogue: 0,0:15:24.28,0:15:26.63,Reversible English devil,,0,0,0,,Prostrate yourself before me
-Dialogue: 0,0:15:27.57,0:15:29.99,Reversible English devil,,0,0,0,,My soul
-Dialogue: 0,0:15:30.95,0:15:33.36,Reversible English devil,,0,0,0,,Longs and thirsts
-Dialogue: 0,0:15:34.31,0:15:37.81,Reversible English devil,,0,0,0,,To call your name
-Dialogue: 0,0:15:38.27,0:15:44.68,Reversible Engel,,0,0,0,,Let's invite them beyond fate
-Dialogue: 0,0:15:42.00,0:15:45.48,Default,,0,0,0,,Making Drama, switch on!
-Dialogue: 0,0:15:45.09,0:15:51.35,Reversible English devil,,0,0,0,,Light and dark mingle in chaos
-Dialogue: 0,0:15:51.92,0:15:58.74,Reversible Eng,,0,0,0,,Reversible-Ring, a Mobius strip bound to your finger
-Dialogue: 0,0:15:58.74,0:16:00.31,Reversible English devil,,0,0,0,,The alluring devil
-Dialogue: 0,0:16:00.31,0:16:02.73,Reversible Engel,,0,0,0,,The smiling angel
-Dialogue: 0,0:16:03.07,0:16:08.25,Reversible Eng,,0,0,0,,Remember the two maidens
-Dialogue: 0,0:16:08.65,0:16:15.49,Reversible Eng,,0,0,0,,Reversible-Ring, a Mobius strip bound to your finger
-Dialogue: 0,0:16:15.49,0:16:16.88,Reversible Engel,,0,0,0,,Be not afraid
+Comment: 0,0:15:11.00,0:15:13.08,Reversible Engel,,0,0,0,,Ring the blessed bell
+Comment: 0,0:15:14.21,0:15:16.51,Reversible Engel,,0,0,0,,A sweet red apple
+Comment: 0,0:15:17.52,0:15:19.85,Reversible Engel,,0,0,0,,Take one bite and you will see
+Comment: 0,0:15:20.88,0:15:24.11,Reversible Engel,,0,0,0,,You'll be captive forever
+Comment: 0,0:15:24.28,0:15:26.63,Reversible English devil,,0,0,0,,Prostrate yourself before me
+Comment: 0,0:15:27.57,0:15:29.99,Reversible English devil,,0,0,0,,My soul
+Comment: 0,0:15:30.95,0:15:33.36,Reversible English devil,,0,0,0,,Longs and thirsts
+Comment: 0,0:15:34.31,0:15:37.81,Reversible English devil,,0,0,0,,To call your name
+Comment: 0,0:15:38.27,0:15:44.68,Reversible Engel,,0,0,0,,Let's invite them beyond fate
+Comment: 0,0:15:42.00,0:15:45.48,Default,,0,0,0,,Making Drama, switch on!
+Comment: 0,0:15:45.09,0:15:51.35,Reversible English devil,,0,0,0,,Light and dark mingle in chaos
+Comment: 0,0:15:51.92,0:15:58.74,Reversible Eng,,0,0,0,,Reversible-Ring, a Mobius strip bound to your finger
+Comment: 0,0:15:58.74,0:16:00.31,Reversible English devil,,0,0,0,,The alluring devil
+Comment: 0,0:16:00.31,0:16:02.73,Reversible Engel,,0,0,0,,The smiling angel
+Comment: 0,0:16:03.07,0:16:08.25,Reversible Eng,,0,0,0,,Remember the two maidens
+Comment: 0,0:16:08.65,0:16:15.49,Reversible Eng,,0,0,0,,Reversible-Ring, a Mobius strip bound to your finger
+Comment: 0,0:16:15.49,0:16:16.88,Reversible Engel,,0,0,0,,Be not afraid
 Dialogue: 0,0:16:17.71,0:16:20.27,Default,,0,0,0,,Cyalume Change!
-Dialogue: 0,0:16:16.88,0:16:18.04,Reversible English devil,,0,0,0,,Surrender yourself and
-Dialogue: 0,0:16:18.04,0:16:19.85,Reversible Eng,,0,0,0,,Follow us
-Dialogue: 0,0:16:19.85,0:16:21.56,Reversible Engel,,0,0,0,,Devil & Angel
-Dialogue: 0,0:16:21.56,0:16:23.17,Reversible English devil,,0,0,0,,Devil & Angel
-Dialogue: 0,0:16:23.17,0:16:29.88,Reversible Eng,,0,0,0,,Love the two maidens
-Dialogue: 0,0:15:11.00,0:15:13.08,Reversible Romangel,,0,0,0,,shukufuku no kane ringon
-Dialogue: 0,0:15:14.21,0:15:16.51,Reversible Romangel,,0,0,0,,akakute amai ringo
-Dialogue: 0,0:15:17.52,0:15:19.85,Reversible Romangel,,0,0,0,,hitokuchi kajireba hora
-Dialogue: 0,0:15:20.88,0:15:24.11,Reversible Romangel,,0,0,0,,kurakura mou toriko
-Dialogue: 0,0:15:24.28,0:15:26.63,Reversible Romadevi,,0,0,0,,soko ni hizamazuke
-Dialogue: 0,0:15:27.57,0:15:29.99,Reversible Romadevi,,0,0,0,,ware no tamashii ga
-Dialogue: 0,0:15:30.95,0:15:33.36,Reversible Romadevi,,0,0,0,,uzuki kawakidasu
-Dialogue: 0,0:15:34.31,0:15:37.81,Reversible Romadevi,,0,0,0,,nanji no na o yobu
-Dialogue: 0,0:15:38.27,0:15:44.68,Reversible Romangel,,0,0,0,,sasoimashou unmei no mukou
-Dialogue: 0,0:15:45.09,0:15:51.35,Reversible Romadevi,,0,0,0,,yami to hikari mazaru konton
-Dialogue: 0,0:15:51.92,0:15:58.74,Reversible Roma,,0,0,0,,reversible ring kusuriyubi ni mebiusu no yubiwa musubu
-Dialogue: 0,0:15:58.74,0:16:00.31,Reversible Romadevi,,0,0,0,,miwaku no debiru
-Dialogue: 0,0:16:00.31,0:16:02.73,Reversible Romangel,,0,0,0,,hohoemi no enjeru
-Dialogue: 0,0:16:03.07,0:16:08.25,Reversible Roma,,0,0,0,,futari otome o shiruse
-Dialogue: 0,0:16:08.65,0:16:15.49,Reversible Roma,,0,0,0,,reversible ring kusuriyubi ni mebiusu no yubiwa musubu
-Dialogue: 0,0:16:15.49,0:16:16.88,Reversible Romangel,,0,0,0,,kowagarazu ni
-Dialogue: 0,0:16:16.88,0:16:18.04,Reversible Romadevi,,0,0,0,,mi o yudane
-Dialogue: 0,0:16:18.04,0:16:19.85,Reversible Roma,,0,0,0,,oide
-Dialogue: 0,0:16:19.85,0:16:21.56,Reversible Romangel,,0,0,0,,debiru enjeru
-Dialogue: 0,0:16:21.56,0:16:23.17,Reversible Romadevi,,0,0,0,,debiru enjeru
-Dialogue: 0,0:16:23.17,0:16:29.88,Reversible Roma,,0,0,0,,futari otome o aise
+Comment: 0,0:16:16.88,0:16:18.04,Reversible English devil,,0,0,0,,Surrender yourself and
+Comment: 0,0:16:18.04,0:16:19.85,Reversible Eng,,0,0,0,,Follow us
+Comment: 0,0:16:19.85,0:16:21.56,Reversible Engel,,0,0,0,,Devil & Angel
+Comment: 0,0:16:21.56,0:16:23.17,Reversible English devil,,0,0,0,,Devil & Angel
+Comment: 0,0:16:23.17,0:16:29.88,Reversible Eng,,0,0,0,,Love the two maidens
+Comment: 0,0:15:11.00,0:15:13.08,Reversible Romangel,,0,0,0,,shukufuku no kane ringon
+Comment: 0,0:15:14.21,0:15:16.51,Reversible Romangel,,0,0,0,,akakute amai ringo
+Comment: 0,0:15:17.52,0:15:19.85,Reversible Romangel,,0,0,0,,hitokuchi kajireba hora
+Comment: 0,0:15:20.88,0:15:24.11,Reversible Romangel,,0,0,0,,kurakura mou toriko
+Comment: 0,0:15:24.28,0:15:26.63,Reversible Romadevi,,0,0,0,,soko ni hizamazuke
+Comment: 0,0:15:27.57,0:15:29.99,Reversible Romadevi,,0,0,0,,ware no tamashii ga
+Comment: 0,0:15:30.95,0:15:33.36,Reversible Romadevi,,0,0,0,,uzuki kawakidasu
+Comment: 0,0:15:34.31,0:15:37.81,Reversible Romadevi,,0,0,0,,nanji no na o yobu
+Comment: 0,0:15:38.27,0:15:44.68,Reversible Romangel,,0,0,0,,sasoimashou unmei no mukou
+Comment: 0,0:15:45.09,0:15:51.35,Reversible Romadevi,,0,0,0,,yami to hikari mazaru konton
+Comment: 0,0:15:51.92,0:15:58.74,Reversible Roma,,0,0,0,,reversible ring kusuriyubi ni mebiusu no yubiwa musubu
+Comment: 0,0:15:58.74,0:16:00.31,Reversible Romadevi,,0,0,0,,miwaku no debiru
+Comment: 0,0:16:00.31,0:16:02.73,Reversible Romangel,,0,0,0,,hohoemi no enjeru
+Comment: 0,0:16:03.07,0:16:08.25,Reversible Roma,,0,0,0,,futari otome o shiruse
+Comment: 0,0:16:08.65,0:16:15.49,Reversible Roma,,0,0,0,,reversible ring kusuriyubi ni mebiusu no yubiwa musubu
+Comment: 0,0:16:15.49,0:16:16.88,Reversible Romangel,,0,0,0,,kowagarazu ni
+Comment: 0,0:16:16.88,0:16:18.04,Reversible Romadevi,,0,0,0,,mi o yudane
+Comment: 0,0:16:18.04,0:16:19.85,Reversible Roma,,0,0,0,,oide
+Comment: 0,0:16:19.85,0:16:21.56,Reversible Romangel,,0,0,0,,debiru enjeru
+Comment: 0,0:16:21.56,0:16:23.17,Reversible Romadevi,,0,0,0,,debiru enjeru
+Comment: 0,0:16:23.17,0:16:29.88,Reversible Roma,,0,0,0,,futari otome o aise
 Dialogue: 0,0:15:45.80,0:15:46.71,Default,,0,0,0,,Where are we?
 Dialogue: 0,0:15:47.13,0:15:49.07,Default,,0,0,0,,Gaaruru's house!
 Dialogue: 0,0:15:50.20,0:15:51.11,Default,,0,0,0,,Garu!
@@ -420,19 +421,19 @@ Dialogue: 0,0:20:34.63,0:20:36.13,Default,,0,0,0,,By the way,
 Dialogue: 0,0:20:36.13,0:20:39.10,Default,,0,0,0,,I received chocolate glasses from Reona this year, too.
 Dialogue: 0,0:20:39.10,0:20:40.41,Default,,0,0,0,,Oh my.
 Dialogue: 0,0:20:40.41,0:20:43.41,Default,,0,0,0,,It seems my sweet mask just got sweeter.
-Dialogue: 0,0:07:24.12,0:07:28.63,Dream Parade - ENG,,0,0,0,,If you’re not sure whether to go for it or not
-Dialogue: 0,0:07:24.12,0:07:28.63,Dream Parade - JAP,,0,0,0,,Okubyou to yuuki ga kenka shiteru nara
-Dialogue: 0,0:07:28.63,0:07:34.73,Dream Parade - ENG,,0,0,0,,Come on over here quick, ‘cause we’re waiting for you
-Dialogue: 0,0:07:28.63,0:07:34.73,Dream Parade - JAP,,0,0,0,,Ima sugu koko e oide yo hora matteru
-Dialogue: 0,0:07:35.26,0:07:45.51,Dream Parade - ENG,,0,0,0,,Not everyone can always get full points, so just be confident and go
-Dialogue: 0,0:07:35.26,0:07:45.51,Dream Parade - JAP,,0,0,0,,Dare datte itsumo hyakuten bakari ja nai kara kimi mo jishin motte yukou
-Dialogue: 0,0:07:46.04,0:07:50.76,Dream Parade - ENG,,0,0,0,,I’ve always dreamed
-Dialogue: 0,0:07:46.04,0:07:50.76,Dream Parade - JAP,,0,0,0,,Zutto mae kara akogareteta
-Dialogue: 0,0:07:50.89,0:07:54.99,Dream Parade - ENG,,0,0,0,,of standing upon the stage
-Dialogue: 0,0:07:50.89,0:07:54.99,Dream Parade - JAP,,0,0,0,,Stage ni ima tatsu no sa
-Dialogue: 0,0:07:55.67,0:07:58.60,Dream Parade - ENG,,0,0,0,,together with everyone
-Dialogue: 0,0:07:55.67,0:07:58.60,Dream Parade - JAP,,0,0,0,,Minna to issho ni
-Dialogue: 0,0:07:59.72,0:08:02.01,Dream Parade - BOTH,,0,0,0,,Special Fever
+Comment: 0,0:07:24.12,0:07:28.63,Dream Parade - ENG,,0,0,0,,If you’re not sure whether to go for it or not
+Comment: 0,0:07:24.12,0:07:28.63,Dream Parade - JAP,,0,0,0,,Okubyou to yuuki ga kenka shiteru nara
+Comment: 0,0:07:28.63,0:07:34.73,Dream Parade - ENG,,0,0,0,,Come on over here quick, ‘cause we’re waiting for you
+Comment: 0,0:07:28.63,0:07:34.73,Dream Parade - JAP,,0,0,0,,Ima sugu koko e oide yo hora matteru
+Comment: 0,0:07:35.26,0:07:45.51,Dream Parade - ENG,,0,0,0,,Not everyone can always get full points, so just be confident and go
+Comment: 0,0:07:35.26,0:07:45.51,Dream Parade - JAP,,0,0,0,,Dare datte itsumo hyakuten bakari ja nai kara kimi mo jishin motte yukou
+Comment: 0,0:07:46.04,0:07:50.76,Dream Parade - ENG,,0,0,0,,I’ve always dreamed
+Comment: 0,0:07:46.04,0:07:50.76,Dream Parade - JAP,,0,0,0,,Zutto mae kara akogareteta
+Comment: 0,0:07:50.89,0:07:54.99,Dream Parade - ENG,,0,0,0,,of standing upon the stage
+Comment: 0,0:07:50.89,0:07:54.99,Dream Parade - JAP,,0,0,0,,Stage ni ima tatsu no sa
+Comment: 0,0:07:55.67,0:07:58.60,Dream Parade - ENG,,0,0,0,,together with everyone
+Comment: 0,0:07:55.67,0:07:58.60,Dream Parade - JAP,,0,0,0,,Minna to issho ni
+Comment: 0,0:07:59.72,0:08:02.01,Dream Parade - BOTH,,0,0,0,,Special Fever
 Dialogue: 4,0:02:44.22,0:02:47.79,OP Romaji-Alt,,0,0,0,fx,{\an5\pos(441,123)\1c&HE5A4D2&\3c&H760C95&\4c&H760C95&\blur0.75\org(-1919,123)\frz3\t(0,150,0.5,\frz-0.3)\t(150,300,1.5,\frz0.4)\t(300,450,0.5,\frz0)\t(450,600,\1c&HFEE1F6&\3c&HEB42E5&\4c&HEB42E5&\blur2.25)\t(600,900,\3c&H760C95&\4c&HEB42E5&\blur0.75)\t(3050,3200,\fscx2\alpha&HFF&)}P
 Dialogue: 4,0:02:44.22,0:02:47.79,OP English,,0,0,0,fx,{\an5\pos(469.5,123)\1c&HE5A4D2&\3c&H760C95&\4c&H760C95&\blur0.75\org(-1919,123)\frz3\t(10,160,0.5,\frz-0.3)\t(160,310,1.5,\frz0.4)\t(310,460,0.5,\frz0)\t(460,610,\1c&HFEE1F6&\3c&HEB42E5&\4c&HEB42E5&\blur2.25)\t(610,910,\3c&H760C95&\4c&HEB42E5&\blur0.75)\t(3060,3210,\fscx2\alpha&HFF&)}u
 Dialogue: 4,0:02:44.22,0:02:47.79,OP English,,0,0,0,fx,{\an5\pos(495,123)\1c&HE5A4D2&\3c&H760C95&\4c&H760C95&\blur0.75\org(-1919,123)\frz3\t(20,170,0.5,\frz-0.3)\t(170,320,1.5,\frz0.4)\t(320,470,0.5,\frz0)\t(470,620,\1c&HFEE1F6&\3c&HEB42E5&\4c&HEB42E5&\blur2.25)\t(620,920,\3c&H760C95&\4c&HEB42E5&\blur0.75)\t(3070,3220,\fscx2\alpha&HFF&)}t
