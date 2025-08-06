@@ -16,9 +16,9 @@ Video File: ../BDMV/PriPara - 85.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 261
-Active Line: 268
-Video Position: 23659
+Scroll Position: 72
+Active Line: 79
+Video Position: 8037
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -125,11 +125,11 @@ Dialogue: 0,0:05:06.50,0:05:09.68,Default,,0,0,0,,He's being tricked by her!\N I
 Dialogue: 0,0:05:09.98,0:05:11.14,Default,,0,0,0,,Take this!
 Dialogue: 0,0:05:14.46,0:05:15.89,Default,,0,0,0,,What the?!
 Dialogue: 0,0:05:16.27,0:05:18.82,Default,C4,0,0,0,,We got Reona West!
-Dialogue: 0,0:05:18.50,0:05:20.92,Default2,C4,0,0,0,,{\an8}When we combine our strength, we can do anything!
+Dialogue: 0,0:05:18.50,0:05:20.92,Default,C4,0,0,0,,{\an8}When we combine our strength, we can do anything!
 Dialogue: 0,0:05:19.62,0:05:21.48,Default,Dorothy,0,0,0,,I've seen you guys before!
 Dialogue: 0,0:05:21.48,0:05:24.24,Default,Dorothy,0,0,0,,What the heck are you up to?!
-Dialogue: 0,0:05:22.55,0:05:24.24,Default2,C4,0,0,0,,{\an8}She sure is a loud one.
-Dialogue: 0,0:05:35.19,0:05:36.72,Default,,0,0,0,,It's pointless to squirm!
+Dialogue: 0,0:05:22.55,0:05:24.24,Default,C4,0,0,0,,{\an8}She sure is a loud one.
+Dialogue: 0,0:05:35.19,0:05:36.72,Default,,0,0,0,,There's no use squirming!
 Dialogue: 0,0:05:36.88,0:05:40.76,Default,,0,0,0,,You're 100 light-years too early for Prince Hibiki's team!
 Dialogue: 0,0:05:47.24,0:05:49.13,Default,,0,0,0,,You yellowtail teriyaki!
 Dialogue: 0,0:05:49.44,0:05:51.21,Default,,0,0,0,,Yellowtail teriyaki!
@@ -160,7 +160,7 @@ Dialogue: 0,0:06:35.19,0:06:38.67,Default,,0,0,0,,So we got Reona's stupid siste
 Dialogue: 0,0:06:38.67,0:06:39.48,Default,,0,0,0,,Hey!
 Dialogue: 0,0:06:39.48,0:06:42.72,Default,,0,0,0,,{\i1}You say you're competing in that unavailing Spring Dream Idol Grand Prix?
 Dialogue: 0,0:06:42.72,0:06:43.99,Default,,0,0,0,,What a mistake...
-Dialogue: 0,0:06:44.12,0:06:48.95,Default,,0,0,0,,Hey, I not gonna sit around and be insulted\N by a bunch of old, washed-up, has-been hags!
+Dialogue: 0,0:06:44.12,0:06:48.95,Default,,0,0,0,,Hey, I'm not gonna sit around and be insulted\N by a bunch of old, washed-up, has-been hags!
 Dialogue: 0,0:06:49.45,0:06:50.97,Default,,0,0,0,,How rude!
 Dialogue: 0,0:06:50.97,0:06:53.16,Default,,0,0,0,,We're in high school!
 Dialogue: 0,0:06:53.93,0:06:56.32,Default,,0,0,0,,{\i1}So they were going after Reona...
@@ -169,14 +169,14 @@ Dialogue: 0,0:07:01.12,0:07:03.62,Default,,0,0,0,,Where did Dorothy go?
 Dialogue: 0,0:07:06.15,0:07:07.50,Default,,0,0,0,,Dorothy?
 Dialogue: 0,0:07:08.55,0:07:10.18,Default,,0,0,0,,Yellowtail teriyaki 4?
 Dialogue: 0,0:07:10.30,0:07:12.02,Default,,0,0,0,,It's CeLeBriTy 4!
-Dialogue: 0,0:07:12.02,0:07:13.76,Default,,0,0,0,,You remember us, right?!
+Dialogue: 0,0:07:12.02,0:07:13.76,Default,,0,0,0,,You remember us, don't you?!
 Dialogue: 0,0:07:14.24,0:07:16.00,Default,,0,0,0,,We have your sister.
 Dialogue: 0,0:07:16.00,0:07:16.60,Default,,0,0,0,,What?!
 Dialogue: 0,0:07:21.30,0:07:23.94,Default,,0,0,0,,As if we'd let her compete\N in the Spring Dream Grand Prix!
 Comment: 0,0:07:23.94,0:07:24.67,Default,,0,0,0,,Ah!
 Dialogue: 0,0:07:25.17,0:07:26.90,Default,,0,0,0,,If you want her back safely,
 Dialogue: 0,0:07:26.90,0:07:29.38,Default,,0,0,0,,come to the third floor of the castle basement, alone.
-Dialogue: 0,0:07:29.38,0:07:31.40,Default,,0,0,0,,Reona, don't come!
+Dialogue: 0,0:07:29.38,0:07:31.40,Default,,0,0,0,,Reona, stay away!
 Dialogue: 0,0:07:31.40,0:07:33.86,Default,,0,0,0,,I can get out of this myself!
 Dialogue: 0,0:07:34.18,0:07:35.55,Default,,0,0,0,,What are you doing?!
 Dialogue: 0,0:07:36.40,0:07:37.31,Default,,0,0,0,,Dorothy!
@@ -241,13 +241,13 @@ Dialogue: 0,0:11:15.95,0:11:18.56,Default,,0,0,0,,Making snow bunnies? Are you a
 Dialogue: 0,0:11:18.66,0:11:21.46,Default,,0,0,0,,His eyes are all red, he looks like a snow bunny!
 Dialogue: 0,0:11:23.54,0:11:26.17,Default,,0,0,0,,If you like snowballs so much,
 Dialogue: 0,0:11:26.17,0:11:28.60,Default,,0,0,0,,how 'bout ya kiss one!
-Dialogue: 0,0:11:27.91,0:11:28.60,Default2,,0,0,0,,- Dorothy!
+Dialogue: 0,0:11:27.91,0:11:28.60,Default,,0,0,0,,- Dorothy!
 Dialogue: 0,0:11:29.02,0:11:30.70,Default,,0,0,0,,Serves you right!
 Dialogue: 0,0:11:31.18,0:11:33.18,Default,,0,0,0,,Thank you, Dorothy!
 Dialogue: 0,0:11:33.36,0:11:37.34,Default,,0,0,0,,I'll protect you, so don't stray too far, Reona!
 Dialogue: 0,0:11:43.12,0:11:44.79,Default,,0,0,0,,Ninja Technique: The Silent Stride.
 Dialogue: 0,0:11:50.23,0:11:52.37,Default,,0,0,0,,Caught myself...
-Dialogue: 0,0:11:50.84,0:11:52.23,Default2,,0,0,0,,Let me go!
+Dialogue: 0,0:11:50.84,0:11:52.23,Default,,0,0,0,,Let me go!
 Dialogue: 0,0:11:52.37,0:11:55.62,Default,,0,0,0,,a rodent!
 Dialogue: 0,0:11:55.62,0:11:57.80,Default,,0,0,0,,Ninja Technique: Flour!
 Dialogue: 0,0:12:04.69,0:12:07.18,Default,,0,0,0,,I'm free! Now's just for this one!

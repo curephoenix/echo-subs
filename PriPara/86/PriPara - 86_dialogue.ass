@@ -17,9 +17,9 @@ Keyframes File: PriPara - 86_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 261
-Active Line: 267
-Video Position: 29862
+Scroll Position: 133
+Active Line: 140
+Video Position: 17779
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -176,11 +176,11 @@ Dialogue: 1,0:11:40.93,0:11:42.69,Default,,0,0,0,,{\bord8.2\blur8.2\3c&H345195&}
 Dialogue: 3,0:11:43.83,0:11:46.01,Default,,0,0,0,,{\bord0\c&HB8F1FD&}Gold Airy!
 Dialogue: 1,0:11:43.83,0:11:46.01,Default,,0,0,0,,{\bord8.2\blur8.2\3c&H345195&}Gold Airy!
 Dialogue: 0,0:11:47.15,0:11:48.72,Default,,0,0,0,,The coord isn't shining!
-Dialogue: 0,0:11:48.90,0:11:53.08,Default,,0,0,0,,That's the spring coord, but why isn't it shining?
-Dialogue: 0,0:11:53.08,0:11:56.58,Default,,0,0,0,,Nobody's rung the bell, the battle isn't over-kuma!
+Dialogue: 0,0:11:48.90,0:11:53.08,Default,,0,0,0,,That's the spring coord, but why isn't it glowing?
+Dialogue: 0,0:11:53.08,0:11:56.58,Default,,0,0,0,,Nobody's rung the bell, it's not over yet-kuma!
 Dialogue: 0,0:12:09.76,0:12:12.15,Default,,0,0,0,,My dreams are within my grasp!
 Dialogue: 0,0:12:18.70,0:12:20.58,Default,,0,0,0,,I'll end this with one fell swoop!
-Dialogue: 0,0:12:21.51,0:12:23.58,Default,,0,0,0,,I won't let you-pri!
+Dialogue: 0,0:12:21.51,0:12:23.58,Default,,0,0,0,,Not on my watch-pri!
 Dialogue: 0,0:12:24.77,0:12:27.35,Default,,0,0,0,,Lighting speed! That coord is mine!
 Dialogue: 0,0:12:28.03,0:12:29.61,Default,,0,0,0,,Tension...
 Dialogue: 0,0:12:29.61,0:12:31.01,Default,,0,0,0,,Max!
@@ -229,7 +229,7 @@ Dialogue: 0,0:14:42.97,0:14:44.15,Default,,0,0,0,,Relax!
 Dialogue: 0,0:14:44.70,0:14:46.20,Default,,0,0,0,,Slow down-pri!
 Dialogue: 0,0:14:45.74,0:14:46.91,Default-alt,,0,0,0,,Get back here!
 Dialogue: 0,0:14:47.22,0:14:48.98,Default,,0,0,0,,I really am surprised.
-Dialogue: 0,0:14:49.60,0:14:53.63,Default,,0,0,0,,Through coming this far, all of you have\N allowed me to enjoy a most splendid performance.
+Dialogue: 0,0:14:49.60,0:14:53.63,Default,,0,0,0,,Through coming this far, all of you have allowed me\N to enjoy a most wonderful performance.
 Dialogue: 0,0:14:53.69,0:14:57.01,Default,,0,0,0,,Wait!
 Dialogue: 0,0:14:57.26,0:15:00.82,Default,,0,0,0,,{\i1}They're just like juniors\N aspiring to reach the same heights at me.
 Dialogue: 0,0:15:02.36,0:15:05.10,Default,,0,0,0,,{\i1}I may just have fallen in love with all of you.
@@ -292,12 +292,12 @@ Dialogue: 0,0:18:34.77,0:18:36.50,Default,,0,0,0,,A Final Airy?!
 Dialogue: 0,0:18:37.52,0:18:39.70,Default,,0,0,0,,Impossible... It can't be...
 Dialogue: 0,0:18:44.34,0:18:46.15,Default,,0,0,0,,I'll protect PriPara!
 Dialogue: 0,0:18:46.45,0:18:47.82,Default,,0,0,0,,No, I will!
-Dialogue: 0,0:18:51.01,0:18:54.25,Default,,0,0,0,,Final stage, the world of lies is over!
+Dialogue: 0,0:18:51.01,0:18:54.25,Default,,0,0,0,,Final stage — the world of lies is over!
 Dialogue: 0,0:18:54.25,0:18:57.58,Default,,0,0,0,,We're all friends! We're all idols!
 Dialogue: 0,0:19:06.57,0:19:07.31,Default,,0,0,0,,What?!
 Dialogue: 0,0:19:09.19,0:19:12.57,Default,,0,0,0,,Cyalume Change!
-Dialogue: 0,0:19:13.70,0:19:16.84,Default,,0,0,0,,Cyalume change!
-Dialogue: 0,0:19:18.27,0:19:21.43,Default,,0,0,0,,Cyalume change!
+Dialogue: 0,0:19:13.70,0:19:16.84,Default,,0,0,0,,Cyalume Change!
+Dialogue: 0,0:19:18.27,0:19:21.43,Default,,0,0,0,,Cyalume Change!
 Dialogue: 0,0:19:23.04,0:19:25.96,Default,,0,0,0,,We'll bring all our hopes together!
 Dialogue: 0,0:19:27.80,0:19:29.92,Default,,0,0,0,,We all want the same thing!
 Dialogue: 0,0:19:32.73,0:19:34.38,Default,,0,0,0,,Ring out!
