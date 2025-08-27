@@ -17,70 +17,80 @@ Keyframes File: PriPara - 86_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 24
-Active Line: 41
+Active Line: 3
+Video Position: 15266
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,3.6,1.2,2,120,120,53,1
-Style: Around the PriPa-land (EN),Aclonica,54,&H00FFF3F7,&H000000FF,&H003D0523,&H000B0006,0,0,0,0,100,100,0,0,1,3.75,2.45,9,40,40,40,1
-Style: Around the PriPa-land (EN) - extra,Aclonica,50,&H00FFF3F7,&H000000FF,&H003D0523,&H000B0006,0,0,0,0,100,100,0,0,1,3.75,2.45,9,40,40,40,1
+Style: Around the PriPa-land (EN),Aclonica,56,&H00FFF3F7,&H000000FF,&H003D0523,&H000B0006,0,0,0,0,100,100,0,0,1,3.75,2.45,9,40,40,40,1
+Style: Around the PriPa-land (EN) - extra,Aclonica,54,&H00FFF3F7,&H000000FF,&H003D0523,&H000B0006,0,0,0,0,100,100,0,0,1,3.75,2.45,9,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:10:24.71,0:10:27.88,Around the PriPa-land (EN),,0,0,0,,Our exciting travels begin!
-Dialogue: 0,0:10:27.88,0:10:30.65,Around the PriPa-land (EN),,0,0,0,,Such incredible scenery comes to life just as we take off.
-Dialogue: 0,0:10:30.65,0:10:33.76,Around the PriPa-land (EN),,0,0,0,,It's been a long journey,
-Dialogue: 0,0:10:33.76,0:10:37.00,Around the PriPa-land (EN),,0,0,0,,but we're gonna hang in there and go!
-Dialogue: 0,0:10:37.09,0:10:38.12,Around the PriPa-land (EN),,0,0,0,,Fee as a bird;
-Dialogue: 0,0:10:38.83,0:10:41.12,Around the PriPa-land (EN),,0,0,0,,people come and go as they please.
-Dialogue: 0,0:10:41.12,0:10:43.48,Around the PriPa-land (EN),,0,0,0,,Look how everyone sports the latest fashions!
-Dialogue: 0,0:10:43.48,0:10:44.67,Around the PriPa-land (EN),,0,0,0,,Let's kick it up a notch.
-Dialogue: 0,0:10:44.67,0:10:51.00,Around the PriPa-land (EN),,0,0,0,,Even goddesses want to express themselves through song!
+Dialogue: 0,0:10:24.63,0:10:27.69,Around the PriPa-land (EN),,0,0,0,,{\fad(200,200)}Our exciting travels begin!
+Dialogue: 0,0:10:27.69,0:10:30.65,Around the PriPa-land (EN),,0,0,0,,{\fad(200,200)}Such incredible scenery comes to life just as we take off.
+Dialogue: 0,0:10:30.65,0:10:33.76,Around the PriPa-land (EN),,0,0,0,,{\fad(200,200)}It's been a long journey,
+Dialogue: 0,0:10:33.76,0:10:37.07,Around the PriPa-land (EN),,0,0,0,,{\fad(200,200)}but we're gonna hang in there and go!
+Dialogue: 0,0:10:37.07,0:10:38.72,Around the PriPa-land (EN),,0,0,0,,Fee as a bird;
+Dialogue: 0,0:10:38.72,0:10:41.12,Around the PriPa-land (EN),,0,0,0,,people come and go as they please.
+Dialogue: 0,0:10:41.12,0:10:43.71,Around the PriPa-land (EN),,0,0,0,,Look how everyone sports the latest fashions!
+Dialogue: 0,0:10:43.71,0:10:44.67,Around the PriPa-land (EN),,0,0,0,,Let's kick it up a notch.
+Dialogue: 0,0:10:44.67,0:10:51.32,Around the PriPa-land (EN),,0,0,0,,Even goddesses want to express themselves through song!
 Dialogue: 0,0:10:49.75,0:10:52.24,Around the PriPa-land (EN),,0,0,0,,{\an7}It's so much fun, it makes you smile!
-Dialogue: 0,0:10:52.24,0:10:55.49,Around the PriPa-land (EN),,0,0,0,,We'll be traveling for a long, long time!
-Dialogue: 0,0:10:56.25,0:10:57.80,Around the PriPa-land (EN),,0,0,0,,An opera singer?
-Dialogue: 0,0:10:58.55,0:11:02.81,Around the PriPa-land (EN),,0,0,0,,Or maybe an artist? Bonjour, idols!
-Dialogue: 0,0:11:03.47,0:11:08.30,Around the PriPa-land (EN),,0,0,0,,The power of ours songs creates an aurora in the sky
-Dialogue: 0,0:11:08.30,0:11:16.72,Around the PriPa-land (EN),,0,0,0,,And this wonderful, ever-turning world combines into one.
-Dialogue: 0,0:11:17.53,0:11:22.16,Around the PriPa-land (EN),,0,0,0,,{\an7}Around! No matter where you go,
-Dialogue: 0,0:11:18.11,0:11:19.07,Around the PriPa-land (EN) - extra,,0,0,0,,(Merry go!)
+Dialogue: 0,0:10:52.24,0:10:55.89,Around the PriPa-land (EN),,0,0,0,,We'll be traveling for a long, long time!
+Dialogue: 0,0:10:55.89,0:10:58.44,Around the PriPa-land (EN),,0,0,0,,An opera singer?
+Dialogue: 0,0:10:58.44,0:10:59.64,Around the PriPa-land (EN),,0,0,0,,Or maybe an artist?
+Dialogue: 0,0:10:59.64,0:11:03.36,Around the PriPa-land (EN),,0,0,0,,Bonjour, idols!
+Dialogue: 0,0:11:03.36,0:11:08.30,Around the PriPa-land (EN),,0,0,0,,Ours songs form an aurora in the sky
+Dialogue: 0,0:11:08.30,0:11:17.41,Around the PriPa-land (EN),,0,0,0,,And this wonderful, ever-turning world combines into one.
+Dialogue: 0,0:11:17.41,0:11:22.16,Around the PriPa-land (EN),,0,0,0,,Around! No matter where you go,
+Dialogue: 0,0:11:18.03,0:11:19.07,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Merry go!)
 Dialogue: 0,0:11:22.16,0:11:24.28,Around the PriPa-land (EN),,0,0,0,,the whole world is friends
 Dialogue: 0,0:11:24.28,0:11:26.97,Around the PriPa-land (EN),,0,0,0,,as our planet turns and turns —
-Dialogue: 0,0:11:26.97,0:11:30.09,Around the PriPa-land (EN),,0,0,0,,the earth really is the greatest stage!
-Dialogue: 0,0:11:30.09,0:11:31.49,Around the PriPa-land (EN),,0,0,0,,Around! (Merry go!)
-Dialogue: 0,0:11:31.49,0:11:35.62,Around the PriPa-land (EN),,0,0,0,,{\an7}When the Bell of Beginnings rings out
-Dialogue: 0,0:11:31.49,0:11:35.62,Around the PriPa-land (EN),,0,0,0,,(ring ring a bell)
-Dialogue: 0,0:11:37.60,0:11:44.44,Around the PriPa-land (EN),,0,0,0,,we'll be smiling brightly in the parade!
-Dialogue: 0,0:17:37.22,0:17:38.66,Around the PriPa-land (EN),,0,0,0,,(Around!)
+Dialogue: 0,0:11:26.97,0:11:29.92,Around the PriPa-land (EN),,0,0,0,,the earth really is the greatest stage!
+Dialogue: 0,0:11:29.92,0:11:31.49,Around the PriPa-land (EN),,0,0,0,,Around! (Merry go!)
+Dialogue: 0,0:11:31.49,0:11:36.01,Around the PriPa-land (EN),,0,0,0,,When the Bell of Beginnings rings out...
+Dialogue: 0,0:11:33.63,0:11:36.01,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(ring ring a bell)
+Dialogue: 0,0:11:37.52,0:11:44.42,Around the PriPa-land (EN),,0,0,0,,we'll be smiling brightly in the parade!
+Dialogue: 0,0:17:37.14,0:17:38.66,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Around!)
 Dialogue: 0,0:17:38.66,0:17:42.04,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land...
-Dialogue: 0,0:17:42.20,0:17:45.74,Around the PriPa-land (EN),,0,0,0,,We'll go together!
+Dialogue: 0,0:17:42.04,0:17:46.06,Around the PriPa-land (EN),,0,0,0,,We'll go together!
 Dialogue: 0,0:17:55.05,0:17:56.73,Around the PriPa-land (EN),,0,0,0,,I know...
 Dialogue: 0,0:17:56.73,0:18:00.16,Around the PriPa-land (EN),,0,0,0,,The dreams we want to come true...
 Dialogue: 0,0:18:00.16,0:18:03.44,Around the PriPa-land (EN),,0,0,0,,and all our ambitions...
 Dialogue: 0,0:18:03.44,0:18:08.15,Around the PriPa-land (EN),,0,0,0,,each and every one of them will form a precious light.
-Dialogue: 0,0:18:08.41,0:18:13.14,Around the PriPa-land (EN),,0,0,0,,C'mon, let's sing it one more time
-Dialogue: 0,0:18:12.41,0:18:13.53,Around the PriPa-land (EN),,0,0,0,,(The world is...)
-Dialogue: 0,0:18:15.65,0:18:16.63,Around the PriPa-land (EN),,0,0,0,,so wide,
+Dialogue: 0,0:18:08.15,0:18:13.46,Around the PriPa-land (EN),,0,0,0,,C'mon, let's sing it one more time
+Dialogue: 0,0:18:11.70,0:18:14.82,Around the PriPa-land (EN),,0,0,0,,{\an7}The world is...
+Dialogue: 0,0:18:15.57,0:18:16.63,Around the PriPa-land (EN),,0,0,0,,so wide,
 Dialogue: 0,0:18:16.63,0:18:17.28,Around the PriPa-land (EN),,0,0,0,,so full of mysteries,
-Dialogue: 0,0:18:17.28,0:18:19.43,Around the PriPa-land (EN),,0,0,0,,doesn't that make it beautiful and fun?
-Dialogue: 0,0:18:19.43,0:18:22.79,Around the PriPa-land (EN),,0,0,0,,It's like our own theatre!
-Dialogue: 0,0:18:23.44,0:18:25.19,Around the PriPa-land (EN),,0,0,0,,Around!
-Dialogue: 0,0:18:24.05,0:18:25.19,Around the PriPa-land (EN),,0,0,0,,(Merry go!)
+Dialogue: 0,0:18:17.28,0:18:19.04,Around the PriPa-land (EN),,0,0,0,,doesn't that make it beautiful and fun?
+Dialogue: 0,0:18:19.43,0:18:23.34,Around the PriPa-land (EN),,0,0,0,,It's like our own theatre!
+Dialogue: 0,0:18:23.34,0:18:25.19,Around the PriPa-land (EN),,0,0,0,,Around!
+Dialogue: 0,0:18:24.00,0:18:25.46,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Merry go!)
 Dialogue: 0,0:18:25.19,0:18:28.13,Around the PriPa-land (EN),,0,0,0,,No matter where you go,
-Dialogue: 0,0:18:28.13,0:18:30.83,Around the PriPa-land (EN),,0,0,0,,the whole world is friends as our planet turns and turns — this really is the greatest stage!
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Around! (Merry go!) When the Bell of Beginnings rings out (ring ring a bell)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,we'll be smiling brightly in the parade!
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,(We go!)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Come with us!
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Together we'll go!
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Lalala...(Around！)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Round！ Round！ Round！ Round！ World！
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Lalala...(Around！)
-Dialogue: 0,0:00:00.00,0:00:00.02,Around the PriPa-land (EN),,0,0,0,,Pretty Paradise World!
+Dialogue: 0,0:18:27.17,0:18:28.13,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Merry go!)
+Dialogue: 0,0:18:28.13,0:18:31.39,Around the PriPa-land (EN),,0,0,0,,the whole world is friends...
+Dialogue: 0,0:18:30.55,0:18:32.73,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}Turning and turning,
+Dialogue: 0,0:18:32.73,0:18:36.03,Around the PriPa-land (EN) - extra,,0,0,0,,our earth really is the greatest stage!
+Dialogue: 0,0:18:36.03,0:18:37.57,Around the PriPa-land (EN),,0,0,0,,Around!
+Dialogue: 0,0:18:36.57,0:18:37.57,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Merry go!)
+Dialogue: 0,0:18:37.57,0:18:40.93,Around the PriPa-land (EN),,0,0,0,,When the Bell of Beginnings rings out...
+Dialogue: 0,0:18:39.73,0:18:41.64,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(ring ring a bell)
+Dialogue: 0,0:18:43.43,0:18:50.00,Around the PriPa-land (EN),,0,0,0,,we'll be smiling brightly in the parade!
+Dialogue: 0,0:18:50.00,0:18:51.45,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Around!)
+Dialogue: 0,0:18:51.45,0:18:54.70,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land!
+Dialogue: 0,0:18:54.70,0:18:57.57,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
+Dialogue: 0,0:18:57.57,0:19:01.11,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
+Dialogue: 0,0:18:59.96,0:19:01.11,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(We'll go!)
+Dialogue: 0,0:19:01.11,0:19:03.66,Around the PriPa-land (EN),,0,0,0,,Come with us!
+Dialogue: 0,0:19:03.66,0:19:06.66,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
+Dialogue: 0,0:19:07.33,0:19:09.09,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
+Dialogue: 0,0:19:10.02,0:19:13.38,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land!
+Dialogue: 0,0:19:13.38,0:19:17.06,Around the PriPa-land (EN),,0,0,0,,Let's go together!
+Dialogue: 0,0:19:16.35,0:19:19.32,Around the PriPa-land (EN),,0,0,0,,{/an7}Lalala...
+Dialogue: 0,0:19:18.15,0:19:19.32,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Around!)
+Dialogue: 0,0:19:19.32,0:19:21.97,Around the PriPa-land (EN),,0,0,0,,Round round round! round! World!
+Dialogue: 0,0:19:22.45,0:19:28.73,Around the PriPa-land (EN),,0,0,0,,Lalala...
+Dialogue: 0,0:19:26.97,0:19:29.01,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Around!)
+Dialogue: 0,0:19:38.66,0:19:41.49,Around the PriPa-land (EN),,0,0,0,,Pretty Paradise World!

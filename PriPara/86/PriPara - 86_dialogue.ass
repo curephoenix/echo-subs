@@ -10,16 +10,16 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: PriPara
 Audio File: ../BDMV/PriPara - 86.mkv
 Video File: ../BDMV/PriPara - 86.mkv
 Keyframes File: PriPara - 86_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 133
-Active Line: 140
-Video Position: 17779
+Scroll Position: 5802
+Active Line: 5809
+Video Position: 27206
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,6 +37,8 @@ Style: Episode Title - Preview,Arial Rounded MT Bold,117,&H00FFFFFF,&H000000FF,&
 Style: Preview,Arial Rounded MT Bold,69,&H00FFFFFF,&H000000FF,&H007915B2,&H96000000,-1,0,0,0,100,100,0,0,1,3,0,5,15,15,15,1
 Style: Gold Airy 1,LTFinnegan Medium,74,&H00B8F1FD,&H000000FF,&HFF161473,&H96000000,-1,0,0,0,100,100,0,0,1,0,0,2,11,11,50,1
 Style: Gold Airy 2,LTFinnegan Medium,74,&H00B8F1FD,&H000000FF,&H00345195,&H96000000,-1,0,0,0,100,100,0,0,1,8.2,0,2,11,11,50,1
+Style: Around the PriPa-land (EN),Aclonica,48,&H00FFF3F7,&H000000FF,&H003D0523,&H000B0006,0,0,0,0,100,100,0,0,1,3.75,2.45,9,40,40,40,1
+Style: Around the PriPa-land (EN) - extra,Aclonica,45,&H00FFF3F7,&H000000FF,&H003D0523,&H000B0006,0,0,0,0,100,100,0,0,1,3.75,2.45,9,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -5797,4 +5799,70 @@ Dialogue: 1,0:21:52.13,0:22:00.14,Doki ED LoveTrooper-Eng,,0,0,0,fx,{\an5\move(1
 Dialogue: 2,0:21:51.96,0:22:00.14,Doki ED LoveTrooper-Eng,,0,0,0,fx,{\an5\pos(1054.5,133.5)\1c&HFFFFFF&\3c&HE7E7E7&\bord3\blur3\alpha&HFF&\fscx5\fscy5\t(247.5,397.5,\alpha&H00&)\t(247.5,322.5,\fscx100)\t(322.5,397.5,\fscy100\blur0.75\bord0)\t(7985,8135,\alpha&HFF&)}y
 Dialogue: 1,0:21:52.13,0:22:00.14,Doki ED LoveTrooper-Eng,,0,0,0,fx,{\an5\move(1083,133.5,1087.5,138,255,405)\1c&H871010&\alpha&HFF&\t(255,255,\alpha&H40&)\blur0.75\t(7762.5,7842.5,\1c&HFFFFFF&)\t(7842.5,7992.5,\alpha&HFF&)}?
 Dialogue: 1,0:21:52.13,0:22:00.14,Doki ED LoveTrooper-Eng,,0,0,0,fx,{\an5\move(1083,133.5,1080.75,131.25,255,405)\1c&H871010&\alpha&HFF&\t(255,255,\alpha&H40&)\blur0.75\t(7762.5,7842.5,\1c&HFFFFFF&)\t(7842.5,7992.5,\alpha&HFF&)}?
+Dialogue: 0,0:10:24.63,0:10:27.69,Around the PriPa-land (EN),,0,0,0,,{\fad(200,200)}Our exciting travels begin!
+Dialogue: 0,0:10:27.69,0:10:30.65,Around the PriPa-land (EN),,0,0,0,,{\fad(200,200)}Such incredible scenery comes to life just as we take off.
+Dialogue: 0,0:10:30.65,0:10:33.76,Around the PriPa-land (EN),,0,0,0,,{\fad(200,200)}It's been a long journey,
+Dialogue: 0,0:10:33.76,0:10:37.07,Around the PriPa-land (EN),,0,0,0,,{\fad(200,200)}but we're gonna hang in there and go!
+Dialogue: 0,0:10:37.07,0:10:38.72,Around the PriPa-land (EN),,0,0,0,,Fee as a bird;
+Dialogue: 0,0:10:38.72,0:10:41.12,Around the PriPa-land (EN),,0,0,0,,people come and go as they please.
+Dialogue: 0,0:10:41.12,0:10:43.71,Around the PriPa-land (EN),,0,0,0,,Look how everyone sports the latest fashions!
+Dialogue: 0,0:10:43.71,0:10:44.67,Around the PriPa-land (EN),,0,0,0,,Let's kick it up a notch.
+Dialogue: 0,0:10:44.67,0:10:51.32,Around the PriPa-land (EN),,0,0,0,,Even goddesses want to express themselves through song!
+Dialogue: 0,0:10:49.75,0:10:52.24,Around the PriPa-land (EN),,0,0,0,,{\an7}It's so much fun, it makes you smile!
+Dialogue: 0,0:10:52.24,0:10:55.89,Around the PriPa-land (EN),,0,0,0,,We'll be traveling for a long, long time!
+Dialogue: 0,0:10:55.89,0:10:58.44,Around the PriPa-land (EN),,0,0,0,,An opera singer?
+Dialogue: 0,0:10:58.44,0:10:59.64,Around the PriPa-land (EN),,0,0,0,,Or maybe an artist?
+Dialogue: 0,0:10:59.64,0:11:03.36,Around the PriPa-land (EN),,0,0,0,,Bonjour, idols!
+Dialogue: 0,0:11:03.36,0:11:08.30,Around the PriPa-land (EN),,0,0,0,,Ours songs form an aurora in the sky
+Dialogue: 0,0:11:08.30,0:11:17.41,Around the PriPa-land (EN),,0,0,0,,And this wonderful, ever-turning world combines into one.
+Dialogue: 0,0:11:17.41,0:11:22.16,Around the PriPa-land (EN),,0,0,0,,Around! No matter where you go,
+Dialogue: 0,0:11:18.03,0:11:19.07,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Merry go!)
+Dialogue: 0,0:11:22.16,0:11:24.28,Around the PriPa-land (EN),,0,0,0,,the whole world is friends
+Dialogue: 0,0:11:24.28,0:11:26.97,Around the PriPa-land (EN),,0,0,0,,as our planet turns and turns —
+Dialogue: 0,0:11:26.97,0:11:29.92,Around the PriPa-land (EN),,0,0,0,,the earth really is the greatest stage!
+Dialogue: 0,0:11:29.92,0:11:31.49,Around the PriPa-land (EN),,0,0,0,,Around! (Merry go!)
+Dialogue: 0,0:11:31.49,0:11:36.01,Around the PriPa-land (EN),,0,0,0,,When the Bell of Beginnings rings out...
+Dialogue: 0,0:11:33.63,0:11:36.01,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(ring ring a bell)
+Dialogue: 0,0:11:37.52,0:11:44.42,Around the PriPa-land (EN),,0,0,0,,we'll be smiling brightly in the parade!
+Dialogue: 0,0:17:37.14,0:17:38.66,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Around!)
+Dialogue: 0,0:17:38.66,0:17:42.04,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land...
+Dialogue: 0,0:17:42.04,0:17:46.06,Around the PriPa-land (EN),,0,0,0,,We'll go together!
+Dialogue: 0,0:17:55.05,0:17:56.73,Around the PriPa-land (EN),,0,0,0,,I know...
+Dialogue: 0,0:17:56.73,0:18:00.16,Around the PriPa-land (EN),,0,0,0,,The dreams we want to come true...
+Dialogue: 0,0:18:00.16,0:18:03.44,Around the PriPa-land (EN),,0,0,0,,and all our ambitions...
+Dialogue: 0,0:18:03.44,0:18:08.15,Around the PriPa-land (EN),,0,0,0,,each and every one of them will form a precious light.
+Dialogue: 0,0:18:08.15,0:18:13.46,Around the PriPa-land (EN),,0,0,0,,C'mon, let's sing it one more time
+Dialogue: 0,0:18:11.70,0:18:14.82,Around the PriPa-land (EN),,0,0,0,,{\an7}The world is...
+Dialogue: 0,0:18:15.57,0:18:16.63,Around the PriPa-land (EN),,0,0,0,,so wide,
+Dialogue: 0,0:18:16.63,0:18:17.28,Around the PriPa-land (EN),,0,0,0,,so full of mysteries,
+Dialogue: 0,0:18:17.28,0:18:19.04,Around the PriPa-land (EN),,0,0,0,,doesn't that make it beautiful and fun?
+Dialogue: 0,0:18:19.43,0:18:23.34,Around the PriPa-land (EN),,0,0,0,,It's like our own theatre!
+Dialogue: 0,0:18:23.34,0:18:25.19,Around the PriPa-land (EN),,0,0,0,,Around!
+Dialogue: 0,0:18:24.00,0:18:25.46,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Merry go!)
+Dialogue: 0,0:18:25.19,0:18:28.13,Around the PriPa-land (EN),,0,0,0,,No matter where you go,
+Dialogue: 0,0:18:27.17,0:18:28.13,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Merry go!)
+Dialogue: 0,0:18:28.13,0:18:31.39,Around the PriPa-land (EN),,0,0,0,,the whole world is friends...
+Dialogue: 0,0:18:30.55,0:18:32.73,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}Turning and turning,
+Dialogue: 0,0:18:32.73,0:18:36.03,Around the PriPa-land (EN) - extra,,0,0,0,,our earth really is the greatest stage!
+Dialogue: 0,0:18:36.03,0:18:37.57,Around the PriPa-land (EN),,0,0,0,,Around!
+Dialogue: 0,0:18:36.57,0:18:37.57,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Merry go!)
+Dialogue: 0,0:18:37.57,0:18:40.93,Around the PriPa-land (EN),,0,0,0,,When the Bell of Beginnings rings out...
+Dialogue: 0,0:18:39.73,0:18:41.64,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(ring ring a bell)
+Dialogue: 0,0:18:43.43,0:18:50.00,Around the PriPa-land (EN),,0,0,0,,we'll be smiling brightly in the parade!
+Dialogue: 0,0:18:50.00,0:18:51.45,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Around!)
+Dialogue: 0,0:18:51.45,0:18:54.70,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land!
+Dialogue: 0,0:18:54.70,0:18:57.57,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
+Dialogue: 0,0:18:57.57,0:19:01.11,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
+Dialogue: 0,0:18:59.96,0:19:01.11,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(We'll go!)
+Dialogue: 0,0:19:01.11,0:19:03.66,Around the PriPa-land (EN),,0,0,0,,Come with us!
+Dialogue: 0,0:19:03.66,0:19:06.66,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
+Dialogue: 0,0:19:07.33,0:19:09.09,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land! (Around!)
+Dialogue: 0,0:19:10.02,0:19:13.38,Around the PriPa-land (EN),,0,0,0,,Around the Pripa-land!
+Dialogue: 0,0:19:13.38,0:19:17.06,Around the PriPa-land (EN),,0,0,0,,Let's go together!
+Dialogue: 0,0:19:16.35,0:19:19.32,Around the PriPa-land (EN),,0,0,0,,{/an7}Lalala...
+Dialogue: 0,0:19:18.15,0:19:19.32,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Around!)
+Dialogue: 0,0:19:19.32,0:19:21.97,Around the PriPa-land (EN),,0,0,0,,Round round round! round! World!
+Dialogue: 0,0:19:22.45,0:19:28.73,Around the PriPa-land (EN),,0,0,0,,Lalala...
+Dialogue: 0,0:19:26.97,0:19:29.01,Around the PriPa-land (EN) - extra,,0,0,0,,{\an7}(Around!)
+Dialogue: 0,0:19:38.66,0:19:41.49,Around the PriPa-land (EN),,0,0,0,,Pretty Paradise World!
 Dialogue: 2,0:21:51.96,0:22:00.14,Doki ED LoveTrooper-Eng,,0,0,0,fx,{\an5\pos(1083,133.5)\1c&HFFFFFF&\3c&HE7E7E7&\bord3\blur3\alpha&HFF&\fscx5\fscy5\t(255,405,\alpha&H00&)\t(255,330,\fscx100)\t(330,405,\fscy100\blur0.75\bord0)\t(7992.5,8142.5,\alpha&HFF&)}?
