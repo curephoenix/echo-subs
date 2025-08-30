@@ -16,10 +16,10 @@ Video File: ../BDMV/PriPara - 87.mkv
 Keyframes File: PriPara - 87_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 373
-Active Line: 396
-Video Position: 22943
+Video Zoom Percent: 0.500000
+Scroll Position: 51
+Active Line: 57
+Video Position: 7811
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,190 +43,190 @@ Style: Salami Stressing Second - Eng Cyalume,Equestria,75,&H00000000,&H000000FF,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.56,0:00:03.36,Default,,0,0,0,,Friendship doesn't exist!
+Dialogue: 0,0:00:01.48,0:00:03.36,Default,,0,0,0,,Friendship doesn't exist!
 Dialogue: 0,0:01:40.49,0:01:45.00,S2 Episode Title,,0,0,0,,{\blur6\fad(500,0)\pos(960,379.637)}The End of Verbal Affectations
-Dialogue: 0,0:02:24.65,0:02:25.27,Default,,0,0,0,,Mirei?
-Dialogue: 0,0:02:25.88,0:02:26.42,Default,,0,0,0,,Sophy?
-Dialogue: 0,0:02:26.74,0:02:27.30,Default,,0,0,0,,Anyone?
-Dialogue: 0,0:02:33.12,0:02:35.87,Default,,0,0,0,,There's no CelePara... PriPara's back to normal!
-Dialogue: 0,0:02:36.38,0:02:38.09,Default,,0,0,0,,Everything's normal again, capisce!
-Dialogue: 0,0:02:38.45,0:02:40.61,Default,,0,0,0,,I've gotta find everyone.
-Dialogue: 0,0:02:40.85,0:02:42.05,Default,,0,0,0,,I'm sure they're safe.
-Dialogue: 0,0:02:42.54,0:02:44.48,Default,,0,0,0,,I'm worried about Hibiki, too.
-Dialogue: 0,0:02:49.77,0:02:52.02,Default,,0,0,0,,I feel like I'm forgetting something.
-Dialogue: 0,0:02:52.38,0:02:53.38,Default,,0,0,0,,I wonder what it is...
-Dialogue: 0,0:02:58.34,0:02:59.36,Default,,0,0,0,,What could it be?
-Dialogue: 0,0:03:00.82,0:03:02.98,Default,,0,0,0,,On second thought, I'm not forgetting anything.
-Dialogue: 0,0:03:03.78,0:03:04.94,Default,,0,0,0,,This is fine.
-Dialogue: 0,0:03:17.79,0:03:18.92,Default,,0,0,0,,Eiko!
-Dialogue: 0,0:03:20.69,0:03:21.51,Default,,0,0,0,,Hello there.
-Dialogue: 0,0:03:21.68,0:03:24.40,Default,,0,0,0,,Eiko, I'm so happy to see you, capisce!
-Dialogue: 0,0:03:24.98,0:03:26.20,Default,,0,0,0,,Do I know you?
-Dialogue: 0,0:03:28.10,0:03:29.87,Default,,0,0,0,,You... are Eiko, right?
-Dialogue: 0,0:03:30.22,0:03:32.76,Default,,0,0,0,,You said you were my number one fan.
-Dialogue: 0,0:03:32.76,0:03:33.66,Default,,0,0,0,,Weirdo.
-Dialogue: 0,0:03:34.26,0:03:35.36,Default,,0,0,0,,Wait, Eiko!
-Dialogue: 0,0:03:36.25,0:03:37.38,Default,,0,0,0,,That's weird...
-Dialogue: 0,0:03:37.97,0:03:39.29,Default,,0,0,0,,What's going on?
-Dialogue: 0,0:03:40.25,0:03:42.53,Default,,0,0,0,,Chanko, Sadako!
-Dialogue: 0,0:03:43.52,0:03:45.48,Default,,0,0,0,,They just walked past each other\N like they're total strangers.
-Dialogue: 0,0:03:47.02,0:03:49.48,Default,,0,0,0,,Love, Nodoka, Nagisa!
-Dialogue: 0,0:03:50.03,0:03:52.33,Default,,0,0,0,,Teiko, New & Mew!
-Dialogue: 0,0:03:53.41,0:03:55.29,Default,,0,0,0,,Even the Headmistress and Rina?!
-Dialogue: 0,0:03:58.51,0:03:59.48,Default,,0,0,0,,Sorry.
-Dialogue: 0,0:04:00.22,0:04:01.18,Default,,0,0,0,,Hanana!
-Dialogue: 0,0:04:03.20,0:04:04.76,Default,,0,0,0,,Even Hanana...
-Dialogue: 0,0:04:06.83,0:04:09.10,Default,,0,0,0,,Kuma, Usagi, are you here?
-Dialogue: 0,0:04:14.05,0:04:16.81,Default,,0,0,0,,Their stuffing is gone!
-Dialogue: 0,0:04:18.09,0:04:21.40,Default,,0,0,0,,The system has begun to self-destruct!
-Dialogue: 0,0:04:23.66,0:04:25.80,Default,,0,0,0,,The system's broken...
-Dialogue: 0,0:04:26.51,0:04:28.38,Default,,0,0,0,,I don't know why,
+Dialogue: 0,0:02:24.42,0:02:25.78,Default,,0,0,0,,Mirei?
+Dialogue: 0,0:02:25.78,0:02:26.66,Default,,0,0,0,,Sophy?
+Dialogue: 0,0:02:26.66,0:02:27.62,Default,,0,0,0,,Anyone?
+Dialogue: 0,0:02:32.88,0:02:36.29,Default,,0,0,0,,There's no CelePara... PriPara's back to normal!
+Dialogue: 0,0:02:36.29,0:02:38.10,Default,,0,0,0,,Everything's normal again, capisce!
+Dialogue: 0,0:02:38.37,0:02:40.77,Default,,0,0,0,,I've gotta find everyone.
+Dialogue: 0,0:02:40.77,0:02:42.06,Default,,0,0,0,,I'm sure they're safe.
+Dialogue: 0,0:02:42.45,0:02:45.02,Default,,0,0,0,,I'm worried about Hibiki, too.
+Dialogue: 0,0:02:49.69,0:02:52.30,Default,,0,0,0,,I feel like I'm forgetting something.
+Dialogue: 0,0:02:52.30,0:02:53.70,Default,,0,0,0,,I wonder what it is...
+Dialogue: 0,0:02:58.26,0:02:59.68,Default,,0,0,0,,What could it be?
+Dialogue: 0,0:03:00.74,0:03:03.66,Default,,0,0,0,,On second thought, I'm not forgetting anything.
+Dialogue: 0,0:03:03.66,0:03:05.26,Default,,0,0,0,,This is fine.
+Dialogue: 0,0:03:17.71,0:03:19.24,Default,,0,0,0,,Eiko!
+Dialogue: 0,0:03:20.61,0:03:21.47,Default,,0,0,0,,Hello there.
+Dialogue: 0,0:03:21.47,0:03:24.88,Default,,0,0,0,,Eiko, I'm so happy to see you, capisce!
+Dialogue: 0,0:03:24.88,0:03:26.77,Default,,0,0,0,,Do I know you?
+Dialogue: 0,0:03:28.02,0:03:30.14,Default,,0,0,0,,You... are Eiko, right?
+Dialogue: 0,0:03:30.14,0:03:32.76,Default,,0,0,0,,You said you were my number one fan.
+Dialogue: 0,0:03:32.76,0:03:34.16,Default,,0,0,0,,Weirdo.
+Dialogue: 0,0:03:34.16,0:03:35.36,Default,,0,0,0,,Wait, Eiko!
+Dialogue: 0,0:03:36.17,0:03:37.57,Default,,0,0,0,,That's weird...
+Dialogue: 0,0:03:37.87,0:03:39.61,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:03:40.03,0:03:42.49,Default,,0,0,0,,Chanko, Sadako!
+Dialogue: 0,0:03:43.44,0:03:45.80,Default,,0,0,0,,They just walked past each other\N like they're total strangers.
+Dialogue: 0,0:03:46.94,0:03:49.54,Default,,0,0,0,,Love, Nodoka, Nagisa!
+Dialogue: 0,0:03:49.94,0:03:52.50,Default,,0,0,0,,Teiko, New & Mew!
+Dialogue: 0,0:03:53.33,0:03:55.47,Default,,0,0,0,,Even the Headmistress and Rina?!
+Dialogue: 0,0:03:58.43,0:04:00.11,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:04:00.11,0:04:01.18,Default,,0,0,0,,Hanana!
+Dialogue: 0,0:04:03.12,0:04:05.14,Default,,0,0,0,,Even Hanana...
+Dialogue: 0,0:04:06.75,0:04:09.10,Default,,0,0,0,,Kuma, Usagi, are you here?
+Dialogue: 0,0:04:13.97,0:04:17.45,Default,,0,0,0,,Their stuffing is gone!
+Dialogue: 0,0:04:18.01,0:04:21.72,Default,,0,0,0,,The system has begun to self-destruct!
+Dialogue: 0,0:04:23.58,0:04:26.12,Default,,0,0,0,,The system's broken...
+Dialogue: 0,0:04:26.40,0:04:28.38,Default,,0,0,0,,I don't know why,
 Dialogue: 0,0:04:28.38,0:04:30.58,Default,,0,0,0,,but something important has broken!
-Dialogue: 0,0:04:35.88,0:04:38.59,Default,,0,0,0,,Soda is refreshing — tension max!
-Dialogue: 0,0:04:39.52,0:04:41.34,Default,,0,0,0,,It's so sweet and melts in your mouth!
-Dialogue: 0,0:04:41.45,0:04:42.90,Default,,0,0,0,,Dorothy, Reona!
-Dialogue: 0,0:04:44.04,0:04:47.34,Default,,0,0,0,,Reona! Dorothy just said "tension max"!
-Dialogue: 0,0:04:47.34,0:04:49.35,Default,,0,0,0,,Why didn't you say "relax"?!
-Dialogue: 0,0:04:49.56,0:04:50.52,Default,,0,0,0,,What are you talking about?
-Dialogue: 0,0:04:51.13,0:04:53.92,Default,,0,0,0,,Reona, you've forgotten about Dorothy?
-Dialogue: 0,0:04:54.29,0:04:56.65,Default,,0,0,0,,What about me? Aren't we friends?
-Dialogue: 0,0:04:57.58,0:05:00.57,Default,,0,0,0,,Friends? What's that?
+Dialogue: 0,0:04:35.80,0:04:38.59,Default,,0,0,0,,Soda is refreshing — tension max!
+Dialogue: 0,0:04:39.44,0:04:41.37,Default,,0,0,0,,It's so sweet and melts in your mouth!
+Dialogue: 0,0:04:41.37,0:04:43.22,Default,,0,0,0,,Dorothy, Reona!
+Dialogue: 0,0:04:43.81,0:04:47.34,Default,,0,0,0,,Reona! Dorothy just said "tension max"!
+Dialogue: 0,0:04:47.34,0:04:49.48,Default,,0,0,0,,Why didn't you say "relax"?!
+Dialogue: 0,0:04:49.48,0:04:51.03,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:04:51.03,0:04:54.21,Default,,0,0,0,,Reona, you've forgotten about Dorothy?
+Dialogue: 0,0:04:54.21,0:04:56.65,Default,,0,0,0,,What about me? Aren't we friends?
+Dialogue: 0,0:04:57.50,0:05:00.57,Default,,0,0,0,,Friends? What's that?
 Dialogue: 0,0:05:00.57,0:05:02.36,Default,,0,0,0,,Friends are friends!
-Dialogue: 0,0:05:02.36,0:05:04.53,Default,,0,0,0,,Laughing together, crying together,
-Dialogue: 0,0:05:04.53,0:05:06.74,Default,,0,0,0,,singing together, dancing together.
-Dialogue: 0,0:05:06.74,0:05:09.41,Default,,0,0,0,,Fighting, making up, snapping tickets.
-Dialogue: 0,0:05:09.41,0:05:12.44,Default,,0,0,0,,Look! These are all of our snapped friend tickets.
+Dialogue: 0,0:05:02.36,0:05:04.66,Default,,0,0,0,,Laughing together, crying together,
+Dialogue: 0,0:05:04.66,0:05:06.74,Default,,0,0,0,,singing together, dancing together.
+Dialogue: 0,0:05:06.74,0:05:09.37,Default,,0,0,0,,Fighting, making up, snapping tickets.
+Dialogue: 0,0:05:09.37,0:05:12.44,Default,,0,0,0,,Look! These are all of our snapped friend tickets.
 Dialogue: 0,0:05:12.44,0:05:15.00,Default,,0,0,0,,If we snap tickets, we'll be friends, we're all friends!
-Dialogue: 0,0:05:17.12,0:05:19.39,Default,,0,0,0,,Huh? They're not here...
-Dialogue: 0,0:05:20.24,0:05:22.26,Default,,0,0,0,,No way... This can't be happening!
-Dialogue: 0,0:05:22.93,0:05:25.32,Default,,0,0,0,,If you're not gonna compliment me, I'm just gonna leave.
-Dialogue: 0,0:05:25.88,0:05:26.75,Default,,0,0,0,,See ya!
-Dialogue: 0,0:05:28.30,0:05:30.47,Default,,0,0,0,,Wait, Dorothy!
-Dialogue: 0,0:05:32.50,0:05:33.85,Default,,0,0,0,,What's her deal?
-Dialogue: 0,0:05:34.82,0:05:35.76,Default,,0,0,0,,Dorothy!
-Dialogue: 0,0:05:38.06,0:05:41.68,Default,,0,0,0,,Dero dero dero saimu!
-Dialogue: 0,0:05:40.65,0:05:42.48,Default,,0,0,0,,{\3c&H501BB2&}Meat buns are tasty!
+Dialogue: 0,0:05:16.96,0:05:19.92,Default,,0,0,0,,Huh? They're not here...
+Dialogue: 0,0:05:19.92,0:05:22.39,Default,,0,0,0,,No way... This can't be happening!
+Dialogue: 0,0:05:22.82,0:05:25.78,Default,,0,0,0,,If you're not gonna compliment me, \NI'm just gonna leave.
+Dialogue: 0,0:05:25.78,0:05:27.07,Default,,0,0,0,,See ya.
+Dialogue: 0,0:05:28.22,0:05:30.43,Default,,0,0,0,,Wait, Dorothy!
+Dialogue: 0,0:05:32.42,0:05:33.86,Default,,0,0,0,,What's her deal?
+Dialogue: 0,0:05:34.74,0:05:36.08,Default,,0,0,0,,Dorothy!
+Dialogue: 0,0:05:38.07,0:05:41.68,Default,,0,0,0,,Dero dero dero saimu!
+Dialogue: 0,0:05:40.57,0:05:42.53,Default,,0,0,0,,{\3c&H501BB2&}Meat buns are tasty!
 Dialogue: 0,0:05:41.68,0:05:45.57,Default,,0,0,0,,Bless me with the strongest cursed power-devi!
-Dialogue: 0,0:05:45.57,0:05:46.99,Default,,0,0,0,,Devi!
-Dialogue: 0,0:05:47.29,0:05:48.91,Default,,0,0,0,,Even Aroma and Mikan...
-Dialogue: 0,0:05:49.74,0:05:54.41,Default,,0,0,0,,Does friendship not exist in this PriPara?
-Dialogue: 0,0:05:55.58,0:05:58.18,Default,,0,0,0,,Everyone's forgotten their friends.
-Dialogue: 0,0:05:58.37,0:06:01.80,Default,,0,0,0,,Ow ow ow, capisce!
-Dialogue: 0,0:06:02.13,0:06:03.90,Default,,0,0,0,,It's not a dream.
-Dialogue: 0,0:06:03.90,0:06:06.78,Default,,0,0,0,,This world where friendship exists is gone...
-Dialogue: 0,0:06:07.59,0:06:09.92,Default,,0,0,0,,...along with my friends...
-Dialogue: 0,0:06:10.95,0:06:14.50,Default,,0,0,0,,It's so sad, cold and lonely.
-Dialogue: 0,0:06:14.81,0:06:19.23,Default,,0,0,0,,It's just like Hibiki's heart. \NAfter all, she said she doesn't need friends.
-Dialogue: 0,0:06:20.50,0:06:22.67,Default,,0,0,0,,What a pleasant world!
-Dialogue: 0,0:06:23.51,0:06:26.79,Default,,0,0,0,,It's so peaceful, there's no rambunctiousness...
-Dialogue: 0,0:06:28.98,0:06:32.32,Default,,0,0,0,,But, I'm certain I'm forgetting something...
-Dialogue: 0,0:06:35.55,0:06:36.28,Default,,0,0,0,,Fu...
-Dialogue: 0,0:06:37.22,0:06:37.97,Default,,0,0,0,,Fu...
-Dialogue: 0,0:06:38.96,0:06:39.93,Default,,0,0,0,,Fuwa...
-Dialogue: 0,0:06:40.32,0:06:42.20,Default,,0,0,0,,No, Fa...
-Dialogue: 0,0:06:44.55,0:06:46.04,Default,,0,0,0,,Ah, no matter.
-Dialogue: 0,0:06:58.85,0:07:00.73,Default,,0,0,0,,Mirei!
-Dialogue: 0,0:07:04.85,0:07:05.68,Default,,0,0,0,,Mirei.
-Dialogue: 0,0:07:06.05,0:07:08.13,Default,,0,0,0,,Mirei will remember me, right?
-Dialogue: 0,0:07:10.55,0:07:11.37,Default,,0,0,0,,Mire...
-Dialogue: 0,0:07:14.47,0:07:16.44,Default,,0,0,0,,Wait!
-Dialogue: 0,0:07:17.02,0:07:21.00,Default,,0,0,0,,Coming within a one meter radius of me\N without consent is a violation of the idol rules!
-Dialogue: 0,0:07:22.22,0:07:23.45,Default,,0,0,0,,{\i1}Her verbal quirk is gone...
-Dialogue: 0,0:07:23.99,0:07:26.25,Default,,0,0,0,,Mirei, it's me, Laala!
+Dialogue: 0,0:05:45.57,0:05:46.95,Default,,0,0,0,,Devi!
+Dialogue: 0,0:05:47.21,0:05:49.62,Default,,0,0,0,,Even Aroma and Mikan...
+Dialogue: 0,0:05:49.62,0:05:54.42,Default,,0,0,0,,Does friendship not exist in this PriPara?
+Dialogue: 0,0:05:55.42,0:05:58.38,Default,,0,0,0,,Everyone's forgotten their friends.
+Dialogue: 0,0:05:58.38,0:06:01.80,Default,,0,0,0,,Ow ow ow, capisce!
+Dialogue: 0,0:06:02.05,0:06:03.90,Default,,0,0,0,,It's not a dream.
+Dialogue: 0,0:06:03.90,0:06:07.47,Default,,0,0,0,,This world where friendship exists is gone...
+Dialogue: 0,0:06:07.47,0:06:10.24,Default,,0,0,0,,...along with my friends...
+Dialogue: 0,0:06:10.87,0:06:14.73,Default,,0,0,0,,It's so sad, cold and lonely.
+Dialogue: 0,0:06:14.73,0:06:19.55,Default,,0,0,0,,It's just like Hibiki's heart. \NAfter all, she said she doesn't need friends.
+Dialogue: 0,0:06:20.23,0:06:23.39,Default,,0,0,0,,What a pleasant world!
+Dialogue: 0,0:06:23.39,0:06:27.11,Default,,0,0,0,,It's so peaceful, there's no rambunctiousness...
+Dialogue: 0,0:06:28.70,0:06:32.64,Default,,0,0,0,,But, I'm certain I'm forgetting something...
+Dialogue: 0,0:06:35.47,0:06:36.60,Default,,0,0,0,,Fu...
+Dialogue: 0,0:06:37.14,0:06:38.29,Default,,0,0,0,,Fu...
+Dialogue: 0,0:06:38.88,0:06:40.24,Default,,0,0,0,,Fuwa...
+Dialogue: 0,0:06:40.24,0:06:42.52,Default,,0,0,0,,No, Fa...
+Dialogue: 0,0:06:44.47,0:06:46.36,Default,,0,0,0,,Ah, no matter.
+Dialogue: 0,0:06:58.77,0:07:01.44,Default,,0,0,0,,Mirei!
+Dialogue: 0,0:07:04.77,0:07:05.97,Default,,0,0,0,,Mirei.
+Dialogue: 0,0:07:05.97,0:07:08.45,Default,,0,0,0,,Mirei will remember me, right?
+Dialogue: 0,0:07:10.47,0:07:11.69,Default,,0,0,0,,Mire...
+Dialogue: 0,0:07:14.33,0:07:16.54,Default,,0,0,0,,Wait!
+Dialogue: 0,0:07:16.92,0:07:21.00,Default,,0,0,0,,Coming within a one meter radius of me\N without consent is a violation of the idol rules!
+Dialogue: 0,0:07:22.14,0:07:23.71,Default,,0,0,0,,{\i1}Her verbal quirk is gone...
+Dialogue: 0,0:07:23.71,0:07:26.25,Default,,0,0,0,,Mirei, it's me, Laala!
 Dialogue: 0,0:07:26.25,0:07:28.10,Default,,0,0,0,,Laala! Laala!
 Dialogue: 0,0:07:28.10,0:07:29.07,Default,,0,0,0,,Laala?
 Dialogue: 0,0:07:29.07,0:07:30.83,Default,,0,0,0,,Even you've forgotten?!
-Dialogue: 0,0:07:30.83,0:07:33.18,Default,,0,0,0,,No, please no!
-Dialogue: 0,0:07:32.47,0:07:33.84,Default,,0,0,0,,W-Wait!
+Dialogue: 0,0:07:30.83,0:07:33.50,Default,,0,0,0,,No, please no!
+Dialogue: 0,0:07:32.39,0:07:34.10,Default,,0,0,0,,W-Wait!
 Dialogue: 0,0:07:34.10,0:07:36.77,Default,,0,0,0,,Mirei! It's me Laala!
 Dialogue: 0,0:07:36.77,0:07:39.12,Default,,0,0,0,,There's no way you could've forgotten me!
-Dialogue: 0,0:07:39.12,0:07:40.96,Default,,0,0,0,,Mirei, you idiot! You're the worst!
-Dialogue: 0,0:07:42.37,0:07:44.52,Default,,0,0,0,,Please remember, Mirei!
-Dialogue: 0,0:07:46.42,0:07:47.40,Default,,0,0,0,,Scary...
-Dialogue: 0,0:07:54.52,0:07:55.72,Default,,0,0,0,,Even Mirei...
-Dialogue: 0,0:07:56.36,0:07:57.83,Default,,0,0,0,,What should I do?
-Dialogue: 0,0:07:59.10,0:08:04.16,Default,,0,0,0,,{\i1}That imbearcile over there booked me for a\N pair audition, so I can't {\i0}pri{\i1}-form on my own.
-Dialogue: 0,0:08:05.30,0:08:10.14,Default,,0,0,0,,{\i1}You're so nice. Would you pair up with me for the audition, pri-please?
-Dialogue: 0,0:08:14.12,0:08:16.30,Default,,0,0,0,,What was up with her?
-Dialogue: 0,0:08:19.70,0:08:20.60,Default,,0,0,0,,Hey!
-Dialogue: 0,0:08:22.48,0:08:29.49,Default,,0,0,0,,I've been booked for a pair audition, \Nso I can't perform on my own!
-Dialogue: 0,0:08:30.77,0:08:34.28,Default,,0,0,0,,Pair up with me for the audition, please?
-Dialogue: 0,0:08:34.58,0:08:37.52,Default,,0,0,0,,A two-person show? Do those exist?
-Dialogue: 0,0:08:37.81,0:08:39.70,Default,,0,0,0,,Performing is something you do on your own.
-Dialogue: 0,0:08:40.12,0:08:41.66,Default,,0,0,0,,Do you like PriPara-pri?
-Dialogue: 0,0:08:41.97,0:08:42.76,Default,,0,0,0,,I guess so.
-Dialogue: 0,0:08:46.60,0:08:48.53,Default,,0,0,0,,Do I like PriPara... "pri"?
-Dialogue: 0,0:08:53.16,0:08:55.25,Default,,0,0,0,,Um... would you let go of me?
-Dialogue: 0,0:08:55.54,0:08:58.37,Default,,0,0,0,,I won't until you remember me!
+Dialogue: 0,0:07:39.12,0:07:41.28,Default,,0,0,0,,Mirei, you idiot! You're the worst!
+Dialogue: 0,0:07:42.29,0:07:44.84,Default,,0,0,0,,Please remember, Mirei!
+Dialogue: 0,0:07:46.34,0:07:47.36,Default,,0,0,0,,Scary...
+Dialogue: 0,0:07:54.44,0:07:56.26,Default,,0,0,0,,Even Mirei...
+Dialogue: 0,0:07:56.26,0:07:58.50,Default,,0,0,0,,What should I do?
+Dialogue: 0,0:07:59.02,0:08:04.48,Default,,0,0,0,,{\i1}That imbearcile over there booked me for a\N pair audition, so I can't {\i0}pri{\i1}-form on my own.
+Dialogue: 0,0:08:05.22,0:08:10.14,Default,,0,0,0,,{\i1}You're so nice. Would you pair up with me for the audition, pri-please?
+Dialogue: 0,0:08:13.89,0:08:16.93,Default,,0,0,0,,What was up with her?
+Dialogue: 0,0:08:19.62,0:08:20.81,Default,,0,0,0,,Hey!
+Dialogue: 0,0:08:22.40,0:08:29.81,Default,,0,0,0,,I've been booked for a pair audition, \Nso I can't perform on my own!
+Dialogue: 0,0:08:30.69,0:08:34.24,Default,,0,0,0,,Pair up with me for the audition, please?
+Dialogue: 0,0:08:34.50,0:08:37.73,Default,,0,0,0,,A two-person show? Do those exist?
+Dialogue: 0,0:08:37.73,0:08:39.71,Default,,0,0,0,,Performing is something you do on your own.
+Dialogue: 0,0:08:40.04,0:08:41.67,Default,,0,0,0,,Do you like PriPara-pri?
+Dialogue: 0,0:08:41.67,0:08:43.08,Default,,0,0,0,,I guess so.
+Dialogue: 0,0:08:46.52,0:08:48.85,Default,,0,0,0,,Do I like PriPara... "pri"?
+Dialogue: 0,0:08:53.08,0:08:55.46,Default,,0,0,0,,Um... would you let go of me?
+Dialogue: 0,0:08:55.46,0:08:58.37,Default,,0,0,0,,I won't until you remember me!
 Dialogue: 0,0:08:58.37,0:09:00.95,Default,,0,0,0,,I won't until you say we're friends!
 Dialogue: 0,0:09:00.95,0:09:03.44,Default,,0,0,0,,Friends? What are those?
 Dialogue: 0,0:09:03.44,0:09:05.36,Default,,0,0,0,,Friends are friends!
-Dialogue: 0,0:09:05.36,0:09:07.47,Default,,0,0,0,,Calculate it! You're good at that!
-Dialogue: 0,0:09:08.28,0:09:09.35,Default,,0,0,0,,How do you...
-Dialogue: 0,0:09:09.35,0:09:10.49,Default,,0,0,0,,Calculate it!
-Dialogue: 0,0:09:14.83,0:09:17.24,Default,,0,0,0,,That's strange... I can't find an answer.
-Dialogue: 0,0:09:17.71,0:09:20.83,Default,,0,0,0,,The fact that you can't find an answer\N makes this a strange world!
-Dialogue: 0,0:09:20.83,0:09:22.75,Default,,0,0,0,,It's not the real PriPara!
-Dialogue: 0,0:09:23.07,0:09:24.71,Default,,0,0,0,,You don't even have your verbal quirk!
-Dialogue: 0,0:09:25.02,0:09:25.82,Default,,0,0,0,,"Pri"?
-Dialogue: 0,0:09:25.98,0:09:27.88,Default,,0,0,0,,Pri! Remember it!
-Dialogue: 0,0:09:30.36,0:09:32.20,Default,,0,0,0,,Not the real PriPara...
-Dialogue: 0,0:09:38.26,0:09:40.22,Default,,0,0,0,,Pshuu...
-Dialogue: 0,0:09:40.37,0:09:41.32,Default,,0,0,0,,Sophy!
-Dialogue: 0,0:09:41.32,0:09:42.22,Default,,0,0,0,,Sophy?
-Dialogue: 0,0:09:42.44,0:09:43.45,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:09:45.27,0:09:46.81,Default,,0,0,0,,Do you know her?
-Dialogue: 0,0:09:46.81,0:09:48.99,Default,,0,0,0,,That's Sophy — she's our friend!
-Dialogue: 0,0:09:48.99,0:09:51.35,Default,,0,0,0,,Sophy? Friend?
-Dialogue: 0,0:09:55.94,0:09:57.42,Default,,0,0,0,,Sophy, stay with us!
-Dialogue: 0,0:09:57.68,0:10:00.40,Default,,0,0,0,,I don't know who you are, but hang in there!
-Dialogue: 0,0:10:00.67,0:10:01.90,Default,,0,0,0,,Pshuu...
-Dialogue: 0,0:10:01.90,0:10:03.02,Default,,0,0,0,,Pshuu?
-Dialogue: 0,0:10:08.19,0:10:09.86,Default,,0,0,0,,We're all over the show!
-Dialogue: 0,0:10:10.06,0:10:11.50,Default,,0,0,0,,C-Capisce!
-Dialogue: 0,0:10:11.70,0:10:12.44,Default,,0,0,0,,Capisce?
+Dialogue: 0,0:09:05.36,0:09:08.16,Default,,0,0,0,,Calculate it! You're good at that!
+Dialogue: 0,0:09:08.16,0:09:09.35,Default,,0,0,0,,How do you...
+Dialogue: 0,0:09:09.35,0:09:10.81,Default,,0,0,0,,Calculate it!
+Dialogue: 0,0:09:14.75,0:09:17.24,Default,,0,0,0,,That's strange... I can't find an answer.
+Dialogue: 0,0:09:17.62,0:09:20.83,Default,,0,0,0,,The fact that you can't find an answer\N makes this a strange world!
+Dialogue: 0,0:09:20.83,0:09:22.71,Default,,0,0,0,,It's not the real PriPara!
+Dialogue: 0,0:09:22.99,0:09:24.67,Default,,0,0,0,,You don't even have your verbal quirk!
+Dialogue: 0,0:09:24.94,0:09:25.90,Default,,0,0,0,,"Pri"?
+Dialogue: 0,0:09:25.90,0:09:27.88,Default,,0,0,0,,Pri! Remember it!
+Dialogue: 0,0:09:30.28,0:09:32.34,Default,,0,0,0,,Not the real PriPara...
+Dialogue: 0,0:09:38.27,0:09:40.23,Default,,0,0,0,,Pshuu...
+Dialogue: 0,0:09:40.23,0:09:41.32,Default,,0,0,0,,Sophy!
+Dialogue: 0,0:09:41.32,0:09:42.19,Default,,0,0,0,,Sophy?
+Dialogue: 0,0:09:42.19,0:09:43.90,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:09:45.19,0:09:46.81,Default,,0,0,0,,Do you know her?
+Dialogue: 0,0:09:46.81,0:09:48.86,Default,,0,0,0,,That's Sophy — she's our friend!
+Dialogue: 0,0:09:48.86,0:09:51.82,Default,,0,0,0,,Sophy? Friend?
+Dialogue: 0,0:09:55.86,0:09:57.60,Default,,0,0,0,,Sophy, stay with us!
+Dialogue: 0,0:09:57.60,0:10:00.59,Default,,0,0,0,,I don't know who you are, but hang in there!
+Dialogue: 0,0:10:00.59,0:10:01.90,Default,,0,0,0,,Pshuu...
+Dialogue: 0,0:10:01.90,0:10:03.34,Default,,0,0,0,,Pshuu?
+Dialogue: 0,0:10:08.11,0:10:09.98,Default,,0,0,0,,We're all over the show!
+Dialogue: 0,0:10:09.98,0:10:11.62,Default,,0,0,0,,C-Capisce!
+Dialogue: 0,0:10:11.62,0:10:12.44,Default,,0,0,0,,Capisce?
 Dialogue: 0,0:10:12.44,0:10:14.81,Default,,0,0,0,,Sorry, Sophy! Are you okay?
-Dialogue: 0,0:10:14.81,0:10:16.08,Default,,0,0,0,,Pshuu.
-Dialogue: 0,0:10:16.80,0:10:17.86,Default,,0,0,0,,Capisce!
+Dialogue: 0,0:10:14.81,0:10:16.69,Default,,0,0,0,,Pshuu.
+Dialogue: 0,0:10:16.69,0:10:17.86,Default,,0,0,0,,Capisce!
 Dialogue: 0,0:10:17.86,0:10:18.97,Default,,0,0,0,,Capisce...
 Dialogue: 0,0:10:18.97,0:10:19.76,Default,,0,0,0,,Capisce!
 Dialogue: 0,0:10:19.76,0:10:20.85,Default,,0,0,0,,Pshuu.
 Dialogue: 0,0:10:20.85,0:10:21.68,Default,,0,0,0,,Capisce!
-Dialogue: 0,0:10:21.87,0:10:22.70,Default,,0,0,0,,{\iclip(810,0,1800,1080)\i1}Pri Pri! Capisce! Pshuuuu.
+Dialogue: 0,0:10:21.68,0:10:22.70,Default,,0,0,0,,{\iclip(810,0,1800,1080)\i1}Pri Pri! Capisce! Pshuuuu.
 Dialogue: 0,0:10:22.70,0:10:23.66,Default,,0,0,0,,{\iclip(1043,0,1800,1080)\i1}Pri Pri! Capisce! Pshuuuu.
-Dialogue: 0,0:10:23.66,0:10:25.14,Default,,0,0,0,,{\i1}Pri Pri! Capisce! Pshuuuu.
-Dialogue: 0,0:10:26.13,0:10:27.12,Default,,0,0,0,,Capisce.
-Dialogue: 0,0:10:28.26,0:10:29.17,Default,,0,0,0,,Capisce!
-Dialogue: 0,0:10:29.17,0:10:30.07,Default,,0,0,0,,{\iclip(718,0,1800,1080)\i1}Pri Pri! Capisce! Pri Pri! Capisce!
+Dialogue: 0,0:10:23.66,0:10:25.15,Default,,0,0,0,,{\i1}Pri Pri! Capisce! Pshuuuu.
+Dialogue: 0,0:10:26.05,0:10:27.44,Default,,0,0,0,,Capisce.
+Dialogue: 0,0:10:28.18,0:10:29.11,Default,,0,0,0,,Capisce!
+Dialogue: 0,0:10:29.11,0:10:30.07,Default,,0,0,0,,{\iclip(718,0,1800,1080)\i1}Pri Pri! Capisce! Pri Pri! Capisce!
 Dialogue: 0,0:10:30.07,0:10:31.01,Default,,0,0,0,,{\iclip(963,0,1800,1080)\i1}Pri Pri! Capisce! Pri Pri! Capisce!
 Dialogue: 0,0:10:31.01,0:10:31.89,Default,,0,0,0,,{\iclip(1170,564,1552,1080)\i1}Pri Pri! Capisce! Pri Pri! Capisce!
 Dialogue: 0,0:10:31.89,0:10:32.91,Default,,0,0,0,,{\i1}Pri Pri! Capisce! Pri Pri! Capisce!
-Dialogue: 0,0:10:32.91,0:10:34.52,Default,,0,0,0,,We're in sync!
+Dialogue: 0,0:10:32.91,0:10:34.86,Default,,0,0,0,,We're in sync!
 Dialogue: 0,0:10:34.86,0:10:36.05,Default,,0,0,0,,{\iclip(938,0,1800,1080)\i1}Pri Pri! Capisce!
-Dialogue: 0,0:10:36.05,0:10:37.69,Default,,0,0,0,,{\i1}Pri Pri! Capisce!
-Dialogue: 0,0:10:37.69,0:10:38.57,Default,,0,0,0,,Capisce!
-Dialogue: 0,0:10:39.70,0:10:40.73,Default,,0,0,0,,Capisce!
-Dialogue: 0,0:10:41.64,0:10:42.53,Default,,0,0,0,,Capisce!
-Dialogue: 0,0:10:42.74,0:10:43.67,Default,,0,0,0,,Pri Pri.
+Dialogue: 0,0:10:36.05,0:10:37.62,Default,,0,0,0,,{\i1}Pri Pri! Capisce!
+Dialogue: 0,0:10:37.62,0:10:38.58,Default,,0,0,0,,Capisce!
+Dialogue: 0,0:10:39.62,0:10:41.05,Default,,0,0,0,,Capisce!
+Dialogue: 0,0:10:41.56,0:10:42.54,Default,,0,0,0,,Capisce!
+Dialogue: 0,0:10:42.54,0:10:43.67,Default,,0,0,0,,Pri Pri.
 Dialogue: 0,0:10:43.67,0:10:44.72,Default,,0,0,0,,Capisce!
 Dialogue: 0,0:10:44.72,0:10:45.66,Default,,0,0,0,,Pri Pri!
 Dialogue: 0,0:10:45.66,0:10:46.65,Default,,0,0,0,,Capisce!
 Dialogue: 0,0:10:46.65,0:10:47.64,Default,,0,0,0,,Pri Pri!
 Dialogue: 0,0:10:47.64,0:10:48.50,Default,,0,0,0,,Capisce!
-Dialogue: 0,0:10:48.50,0:10:49.92,Default,,0,0,0,,Pri Pri!
-Dialogue: 0,0:10:50.75,0:10:52.67,Default,,0,0,0,,Mirei, did you remember?
-Dialogue: 0,0:10:53.35,0:10:54.32,Default,,0,0,0,,Laala!
-Dialogue: 0,0:10:54.67,0:10:56.06,Default,,0,0,0,,Mirei, welcome back!
+Dialogue: 0,0:10:48.50,0:10:50.46,Default,,0,0,0,,Pri Pri!
+Dialogue: 0,0:10:50.46,0:10:53.24,Default,,0,0,0,,Mirei, did you remember?
+Dialogue: 0,0:10:53.24,0:10:54.68,Default,,0,0,0,,Laala!
+Dialogue: 0,0:10:54.68,0:10:56.06,Default,,0,0,0,,Mirei, welcome back!
 Dialogue: 0,0:10:56.06,0:10:56.45,Default,,0,0,0,,{\iclip(778,750,1674,1080)}Mirei, Mirei, Mirei, Mirei!
 Dialogue: 0,0:10:56.45,0:10:56.80,Default,,0,0,0,,{\iclip(960,0,1800,1080)}Mirei, Mirei, Mirei, Mirei!
 Dialogue: 0,0:10:56.80,0:10:57.13,Default,,0,0,0,,{\iclip(1147,-2,1800,1080)}Mirei, Mirei, Mirei, Mirei!
-Dialogue: 0,0:10:57.13,0:10:57.88,Default,,0,0,0,,Mirei, Mirei, Mirei, Mirei!
-Dialogue: 0,0:10:58.14,0:10:58.64,Default,,0,0,0,,{\iclip(786,848,1422,1064)}Laala, Laala, Laala, Laala!
+Dialogue: 0,0:10:57.13,0:10:58.06,Default,,0,0,0,,Mirei, Mirei, Mirei, Mirei!
+Dialogue: 0,0:10:58.06,0:10:58.64,Default,,0,0,0,,{\iclip(786,848,1422,1064)}Laala, Laala, Laala, Laala!
 Dialogue: 0,0:10:58.64,0:10:59.05,Default,,0,0,0,,{\iclip(960,0,1800,1080)}Laala, Laala, Laala, Laala!
 Dialogue: 0,0:10:59.05,0:10:59.38,Default,,0,0,0,,{\iclip(1141,2,1800,1080)}Laala, Laala, Laala, Laala!
-Dialogue: 0,0:10:59.38,0:11:00.02,Default,,0,0,0,,Laala, Laala, Laala, Laala!
-Dialogue: 0,0:11:00.30,0:11:03.72,Default,,0,0,0,,I'm back, Laala! You really gave it your all!
-Dialogue: 0,0:11:04.26,0:11:05.20,Default,,0,0,0,,{\iclip(878,0,1800,1080)}Prii! Pri Pri Pri!
+Dialogue: 0,0:10:59.38,0:11:00.22,Default,,0,0,0,,Laala, Laala, Laala, Laala!
+Dialogue: 0,0:11:00.22,0:11:03.73,Default,,0,0,0,,I'm back, Laala! You really gave it your all!
+Dialogue: 0,0:11:04.17,0:11:05.20,Default,,0,0,0,,{\iclip(878,0,1800,1080)}Prii! Pri Pri Pri!
 Dialogue: 0,0:11:05.20,0:11:05.46,Default,,0,0,0,,{\iclip(975,0,1800,1080)}Prii! Pri Pri Pri!
 Dialogue: 0,0:11:05.46,0:11:05.71,Default,,0,0,0,,{\iclip(1062,780,1796,1050)}Prii! Pri Pri Pri!
 Dialogue: 0,0:11:05.71,0:11:06.24,Default,,0,0,0,,Prii! Pri Pri Pri!
@@ -235,113 +235,113 @@ Dialogue: 0,0:11:08.23,0:11:08.76,Default,,0,0,0,,{\iclip(678,912,1490,1028)}Mir
 Dialogue: 0,0:11:08.76,0:11:09.19,Default,,0,0,0,,{\iclip(878,0,1800,1080)}Mirei, Mirei, Mirei, Mirei, Mirei!
 Dialogue: 0,0:11:09.19,0:11:09.57,Default,,0,0,0,,{\iclip(1043,0,1800,1080)}Mirei, Mirei, Mirei, Mirei, Mirei!
 Dialogue: 0,0:11:09.57,0:11:09.94,Default,,0,0,0,,{\iclip(1233.6,889.6,1777.6,1080)}Mirei, Mirei, Mirei, Mirei, Mirei!
-Dialogue: 0,0:11:09.94,0:11:10.64,Default,,0,0,0,,Mirei, Mirei, Mirei, Mirei, Mirei!
-Dialogue: 0,0:11:12.27,0:11:13.89,Default,,0,0,0,,Okay, let's get it done-pri!
-Dialogue: 0,0:11:13.89,0:11:16.28,Default,,0,0,0,,Let's sing and make everyone remember-pri!
-Dialogue: 0,0:11:16.40,0:11:19.78,Default,,0,0,0,,Our friends, our pals, let's make them all remember!
-Dialogue: 0,0:11:20.75,0:11:22.11,Default,,0,0,0,,Do you like PriPara-pri?
-Dialogue: 0,0:11:23.62,0:11:24.37,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:11:24.66,0:11:27.04,Default,,0,0,0,,Then you'll be fine! I'm pri sure you can do it!
-Dialogue: 0,0:11:27.47,0:11:29.67,Default,,0,0,0,,Everyone's waiting for us idols to sing-pri!
+Dialogue: 0,0:11:09.94,0:11:10.96,Default,,0,0,0,,Mirei, Mirei, Mirei, Mirei, Mirei!
+Dialogue: 0,0:11:12.19,0:11:13.89,Default,,0,0,0,,Okay, let's get it done-pri!
+Dialogue: 0,0:11:13.89,0:11:16.32,Default,,0,0,0,,Let's sing and make everyone remember-pri!
+Dialogue: 0,0:11:16.32,0:11:19.91,Default,,0,0,0,,Our friends, our pals, let's make them all remember!
+Dialogue: 0,0:11:20.67,0:11:22.12,Default,,0,0,0,,Do you like PriPara-pri?
+Dialogue: 0,0:11:23.58,0:11:24.58,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:11:24.58,0:11:27.04,Default,,0,0,0,,Then you'll be fine! I'm pri sure you can do it!
+Dialogue: 0,0:11:27.39,0:11:30.00,Default,,0,0,0,,Everyone's waiting for us idols to sing-pri!
 Comment: 0,0:11:30.08,0:11:33.88,Default,,0,0,0,,Let's sing to the world with all our hearts-pri!
-Dialogue: 0,0:11:30.08,0:11:33.88,Default,,0,0,0,,We've gotta sing with all we've got\N to reach the whole world!
-Dialogue: 0,0:11:34.46,0:11:38.12,Default,,0,0,0,,This is the place where any girl can do that-pri!
-Dialogue: 0,0:11:39.04,0:11:41.97,Default,,0,0,0,,Allowed to... sing with all you've got.
-Dialogue: 0,0:11:42.42,0:11:43.39,Default,,0,0,0,,Capisce!
-Dialogue: 0,0:12:00.94,0:12:03.77,Default,,0,0,0,,Sophy, listen to this and remember!
-Dialogue: 0,0:12:07.78,0:12:09.54,Default,,0,0,0,,Everyone, listen!
-Dialogue: 0,0:12:10.08,0:12:13.50,Default,,0,0,0,,Remember, the real PriPara!
-Dialogue: 0,0:12:13.95,0:12:16.96,Default,,0,0,0,,We'll bring back the PriPara everyone knows and loves!
-Dialogue: 0,0:12:17.24,0:12:18.67,Default,,0,0,0,,We'll bring it back!
-Dialogue: 0,0:12:21.64,0:12:22.34,Default,,0,0,0,,Re...
-Dialogue: 0,0:12:26.40,0:12:28.21,Default,,0,0,0,,Here we go!
-Dialogue: 0,0:13:16.09,0:13:17.11,Default,,0,0,0,,Sophy!
-Dialogue: 0,0:13:17.11,0:13:18.60,Default,,0,0,0,,You remembered!
-Dialogue: 0,0:13:18.60,0:13:19.69,Default,,0,0,0,,I'm back!
-Dialogue: 0,0:13:19.69,0:13:20.88,Default,,0,0,0,,Welcome back!
-Dialogue: 0,0:13:45.95,0:13:47.51,Default,,0,0,0,,Here we go!
-Dialogue: 0,0:13:54.91,0:13:55.78,Default,,0,0,0,,Reona!
-Dialogue: 0,0:13:55.78,0:13:56.94,Default,,0,0,0,,Dorothy!
-Dialogue: 0,0:14:00.56,0:14:01.85,Default,,0,0,0,,Sion!
-Dialogue: 0,0:14:03.08,0:14:04.75,Default,,0,0,0,,Dorothy, Reona!
-Dialogue: 0,0:14:05.97,0:14:07.49,Default,,0,0,0,,Here we go!
-Dialogue: 0,0:14:59.04,0:15:00.58,Default,,0,0,0,,Here we go!
-Dialogue: 0,0:15:00.58,0:15:03.06,Default,,0,0,0,,Aroma!
-Dialogue: 0,0:15:04.24,0:15:05.00,Default,,0,0,0,,Paw!
-Dialogue: 0,0:15:05.00,0:15:07.16,Default,,0,0,0,,I love you, Aroma!
-Dialogue: 0,0:15:12.56,0:15:15.07,Default,,0,0,0,,What are you guys doing-kuma?
+Dialogue: 0,0:11:30.00,0:11:33.88,Default,,0,0,0,,We've gotta sing with all we've got\N to reach the whole world!
+Dialogue: 0,0:11:34.36,0:11:38.59,Default,,0,0,0,,This is the place where any girl can do that-pri!
+Dialogue: 0,0:11:38.96,0:11:42.10,Default,,0,0,0,,Allowed to... sing with all you've got.
+Dialogue: 0,0:11:42.10,0:11:43.56,Default,,0,0,0,,Capisce!
+Dialogue: 0,0:12:00.74,0:12:04.09,Default,,0,0,0,,Sophy, listen to this and remember!
+Dialogue: 0,0:12:07.70,0:12:09.58,Default,,0,0,0,,Everyone, listen!
+Dialogue: 0,0:12:09.99,0:12:13.55,Default,,0,0,0,,Remember, the real PriPara!
+Dialogue: 0,0:12:13.87,0:12:17.01,Default,,0,0,0,,We'll bring back the PriPara everyone knows and loves!
+Dialogue: 0,0:12:17.01,0:12:18.97,Default,,0,0,0,,We'll bring it back!
+Dialogue: 0,0:12:21.56,0:12:22.66,Default,,0,0,0,,Re...
+Dialogue: 0,0:12:26.32,0:12:28.53,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:13:15.82,0:13:17.11,Default,,0,0,0,,Sophy!
+Dialogue: 0,0:13:17.11,0:13:18.40,Default,,0,0,0,,You remembered!
+Dialogue: 0,0:13:18.40,0:13:19.69,Default,,0,0,0,,I'm back!
+Dialogue: 0,0:13:19.69,0:13:20.90,Default,,0,0,0,,Welcome back!
+Dialogue: 0,0:13:45.80,0:13:47.56,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:13:54.69,0:13:55.78,Default,,0,0,0,,Reona!
+Dialogue: 0,0:13:55.78,0:13:57.26,Default,,0,0,0,,Dorothy!
+Dialogue: 0,0:14:00.61,0:14:02.17,Default,,0,0,0,,Sion!
+Dialogue: 0,0:14:03.00,0:14:05.07,Default,,0,0,0,,Dorothy, Reona!
+Dialogue: 0,0:14:05.82,0:14:07.53,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:14:58.96,0:15:00.63,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:15:00.63,0:15:03.38,Default,,0,0,0,,Aroma!
+Dialogue: 0,0:15:04.16,0:15:05.00,Default,,0,0,0,,Paw!
+Dialogue: 0,0:15:05.00,0:15:07.64,Default,,0,0,0,,I love you, Aroma!
+Dialogue: 0,0:15:12.39,0:15:15.07,Default,,0,0,0,,What are you guys doing-kuma?
 Dialogue: 0,0:15:15.07,0:15:15.76,Default,,0,0,0,,Tori?
 Dialogue: 0,0:15:15.76,0:15:19.33,Default,,0,0,0,,I feel like I've hibernated, I'm full of vim now-usa!
-Dialogue: 0,0:15:19.33,0:15:20.60,Default,,0,0,0,,Nekon!
-Dialogue: 0,0:15:20.60,0:15:22.70,Default,,0,0,0,,Rina!
-Dialogue: 0,0:15:27.57,0:15:29.71,Default,,0,0,0,,Hibiki, where are you?
-Dialogue: 0,0:15:36.10,0:15:39.41,Default,,0,0,0,,Making Drama, switch on!
-Dialogue: 0,0:15:53.76,0:15:56.68,Default,,0,0,0,,Let's play together! PriPara Hills!
-Dialogue: 0,0:15:57.56,0:16:00.37,Default,,0,0,0,,Cyalume Change!
-Dialogue: 0,0:16:57.43,0:17:01.99,Default,,0,0,0,,Parajuku Operating System now rebooting.
-Dialogue: 0,0:17:20.80,0:17:23.96,Default,,0,0,0,,My glasses are now back!
-Dialogue: 0,0:17:23.96,0:17:26.06,Default,,0,0,0,,Mine, too!
-Dialogue: 0,0:17:26.30,0:17:29.02,Default,,0,0,0,,The system has been reset.
-Dialogue: 0,0:17:30.74,0:17:31.93,Default,,0,0,0,,Gigi.
-Dialogue: 0,0:17:38.37,0:17:39.48,Default,,0,0,0,,Fuwari.
-Dialogue: 0,0:17:41.68,0:17:42.75,Default,,0,0,0,,Fuwari...
-Dialogue: 0,0:17:43.91,0:17:44.79,Default,,0,0,0,,Fuwari!
-Dialogue: 0,0:17:45.13,0:17:46.66,Default,,0,0,0,,Fuwari!
-Dialogue: 0,0:17:47.94,0:17:49.21,Default,,0,0,0,,Hibiki!
-Dialogue: 0,0:17:52.33,0:17:53.13,Default,,0,0,0,,Fuwari!
-Dialogue: 0,0:18:05.49,0:18:07.55,Default,,0,0,0,,Fuwari... why?
-Dialogue: 0,0:18:08.25,0:18:09.96,Default,,0,0,0,,I won't let you be alone anymore!
-Dialogue: 0,0:18:11.20,0:18:13.94,Default,,0,0,0,,Fuwari, I'm so sorry for all of this!
-Dialogue: 0,0:18:15.26,0:18:17.42,Default,,0,0,0,,I understand now\N the meaning of "Immortal Friend Ticket".
-Dialogue: 0,0:18:19.56,0:18:20.67,Default,,0,0,0,,Hibiki.
-Dialogue: 0,0:18:21.66,0:18:23.62,Default,,0,0,0,,Little Curly!
-Dialogue: 0,0:18:23.88,0:18:25.15,Default,,0,0,0,,Let's be friends!
-Dialogue: 0,0:18:25.15,0:18:30.73,Default,,0,0,0,,Käthe Kollwitz-da Vinci!
-Dialogue: 0,0:18:28.58,0:18:29.55,Default,,0,0,0,,Hibiki!
-Dialogue: 0,0:18:32.49,0:18:33.38,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:18:35.21,0:18:36.93,Default,,0,0,0,,Fuwari!
-Dialogue: 0,0:18:36.62,0:18:37.61,Default,,0,0,0,,Toriko!
-Dialogue: 0,0:18:38.49,0:18:42.14,Default,,0,0,0,,Toriko is the bird of power!
-Dialogue: 0,0:18:44.89,0:18:45.98,Default,,0,0,0,,Kiki Ajimi...
-Dialogue: 0,0:18:46.60,0:18:49.05,Default,,0,0,0,,Why do you follow me so...
-Dialogue: 0,0:18:49.26,0:18:49.94,Default,,0,0,0,,Huh?
-Dialogue: 0,0:18:51.16,0:18:53.37,Default,,0,0,0,,Because I want to be your friend!
-Dialogue: 0,0:18:53.37,0:18:56.35,Default,,0,0,0,,Huh? F-Friend?
-Dialogue: 0,0:18:56.89,0:18:57.86,Default,,0,0,0,,Yes.
-Dialogue: 0,0:18:58.91,0:19:01.79,Default,,0,0,0,,You've followed me all this time to be friends?
-Dialogue: 0,0:19:02.19,0:19:02.91,Default,,0,0,0,,Yes!
-Dialogue: 0,0:19:03.08,0:19:05.28,Default,,0,0,0,,I-I see...
-Dialogue: 0,0:19:05.56,0:19:06.75,Default,,0,0,0,,That's great!
-Dialogue: 0,0:19:07.46,0:19:09.23,Default,,0,0,0,,Will you be my friend?
-Dialogue: 0,0:19:09.23,0:19:12.71,Default,,0,0,0,,I-I suppose...
-Dialogue: 0,0:19:13.51,0:19:15.47,Default,,0,0,0,,Let's start from "complete strangers".
-Dialogue: 0,0:19:16.59,0:19:18.40,Default,,0,0,0,,The hole is so small.
-Dialogue: 0,0:19:26.19,0:19:27.18,Default,,0,0,0,,Mahou-chan!
-Dialogue: 0,0:19:30.64,0:19:31.46,Default,,0,0,0,,The light!
-Dialogue: 0,0:19:31.46,0:19:33.77,Default,,0,0,0,,Everyone can make it-tori!
-Dialogue: 0,0:19:37.23,0:19:38.40,Default,,0,0,0,,Maho-chan...
+Dialogue: 0,0:15:19.33,0:15:20.65,Default,,0,0,0,,Nekon!
+Dialogue: 0,0:15:20.65,0:15:23.02,Default,,0,0,0,,Rina!
+Dialogue: 0,0:15:27.49,0:15:30.12,Default,,0,0,0,,Hibiki, where are you?
+Dialogue: 0,0:15:36.12,0:15:39.46,Default,,0,0,0,,Making Drama, switch on!
+Dialogue: 0,0:15:53.68,0:15:57.43,Default,,0,0,0,,Let's play together! PriPara Hills!
+Dialogue: 0,0:15:57.43,0:16:00.69,Default,,0,0,0,,Cyalume Change!
+Dialogue: 0,0:16:57.35,0:17:02.31,Default,,0,0,0,,Parajuku Operating System now rebooting.
+Dialogue: 0,0:17:20.72,0:17:23.65,Default,,0,0,0,,My glasses are now back!
+Dialogue: 0,0:17:23.96,0:17:26.11,Default,,0,0,0,,Mine, too!
+Dialogue: 0,0:17:26.11,0:17:29.07,Default,,0,0,0,,The system has been reset.
+Dialogue: 0,0:17:30.66,0:17:32.28,Default,,0,0,0,,Gigi.
+Dialogue: 0,0:17:38.41,0:17:39.80,Default,,0,0,0,,Fuwari.
+Dialogue: 0,0:17:41.60,0:17:43.38,Default,,0,0,0,,Fuwari...
+Dialogue: 0,0:17:43.83,0:17:44.84,Default,,0,0,0,,Fuwari!
+Dialogue: 0,0:17:44.84,0:17:46.98,Default,,0,0,0,,Fuwari!
+Dialogue: 0,0:17:47.80,0:17:49.46,Default,,0,0,0,,Hibiki!
+Dialogue: 0,0:17:52.13,0:17:53.09,Default,,0,0,0,,Fuwari!
+Dialogue: 0,0:18:05.41,0:18:07.82,Default,,0,0,0,,Fuwari... why?
+Dialogue: 0,0:18:08.14,0:18:09.99,Default,,0,0,0,,I won't let you be alone anymore!
+Dialogue: 0,0:18:11.12,0:18:14.26,Default,,0,0,0,,Fuwari, I'm so sorry for all of this!
+Dialogue: 0,0:18:15.18,0:18:17.74,Default,,0,0,0,,I understand now\N the meaning of "Immortal Friend Ticket".
+Dialogue: 0,0:18:19.48,0:18:20.99,Default,,0,0,0,,Hibiki.
+Dialogue: 0,0:18:21.58,0:18:23.67,Default,,0,0,0,,Little Curly!
+Dialogue: 0,0:18:23.67,0:18:25.13,Default,,0,0,0,,Let's be friends!
+Dialogue: 0,0:18:25.13,0:18:30.80,Default,,0,0,0,,Käthe Kollwitz-da Vinci!
+Dialogue: 0,0:18:28.50,0:18:30.05,Default,,0,0,0,,Hibiki!
+Dialogue: 0,0:18:32.41,0:18:33.70,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:18:35.26,0:18:37.18,Default,,0,0,0,,Fuwari!
+Dialogue: 0,0:18:36.54,0:18:38.36,Default,,0,0,0,,Toriko!
+Dialogue: 0,0:18:38.36,0:18:42.14,Default,,0,0,0,,Toriko is the bird of power!
+Dialogue: 0,0:18:44.81,0:18:46.50,Default,,0,0,0,,Kiki Ajimi...
+Dialogue: 0,0:18:46.50,0:18:49.18,Default,,0,0,0,,Why do you follow me so...
+Dialogue: 0,0:18:49.18,0:18:49.94,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:51.08,0:18:53.37,Default,,0,0,0,,Because I want to be your friend!
+Dialogue: 0,0:18:53.37,0:18:56.80,Default,,0,0,0,,Huh? F-Friend?
+Dialogue: 0,0:18:56.80,0:18:58.16,Default,,0,0,0,,Yes.
+Dialogue: 0,0:18:58.83,0:19:02.11,Default,,0,0,0,,You've followed me all this time to be friends?
+Dialogue: 0,0:19:02.11,0:19:03.00,Default,,0,0,0,,Yes!
+Dialogue: 0,0:19:03.00,0:19:05.48,Default,,0,0,0,,I-I see...
+Dialogue: 0,0:19:05.48,0:19:07.35,Default,,0,0,0,,That's great!
+Dialogue: 0,0:19:07.35,0:19:08.88,Default,,0,0,0,,Will you be my friend?
+Dialogue: 0,0:19:09.23,0:19:13.39,Default,,0,0,0,,I-I suppose...
+Dialogue: 0,0:19:13.39,0:19:15.59,Default,,0,0,0,,Let's start from "complete strangers".
+Dialogue: 0,0:19:16.51,0:19:18.72,Default,,0,0,0,,The hole is so small.
+Dialogue: 0,0:19:26.11,0:19:27.50,Default,,0,0,0,,Mahou-chan!
+Dialogue: 0,0:19:30.56,0:19:31.46,Default,,0,0,0,,The light!
+Dialogue: 0,0:19:31.46,0:19:33.82,Default,,0,0,0,,Everyone can make it-tori!
+Dialogue: 0,0:19:37.15,0:19:38.72,Default,,0,0,0,,Maho-chan...
 Comment: 0,0:19:42.34,0:19:44.32,Default,,0,0,0,,It's become a mussel worm.
-Dialogue: 0,0:19:42.34,0:19:44.32,Default,,0,0,0,,It's become a spiny bug.
-Dialogue: 0,0:19:44.50,0:19:46.39,Default,,0,0,0,,What's happening, Meganii-pri?
-Dialogue: 0,0:19:46.99,0:19:48.67,Default,,0,0,0,,PriPara was restarted,
-Dialogue: 0,0:19:49.15,0:19:51.81,Default,,0,0,0,,and all elements of CelePara were eliminated.
-Dialogue: 0,0:19:52.39,0:19:55.53,Default,,0,0,0,,The system was restarted from zero and so...
-Dialogue: 0,0:19:55.53,0:20:00.75,Default,,0,0,0,,...Hibiki, the anomaly belonging to CelePara, was eliminated.
-Dialogue: 0,0:20:00.75,0:20:02.01,Default,,0,0,0,,That can't be...
-Dialogue: 0,0:20:02.62,0:20:07.08,Default,,0,0,0,,At this rate they'll be eliminated along with CelePara's data.
-Dialogue: 0,0:20:08.22,0:20:09.55,Default,,0,0,0,,It's the system.
-Dialogue: 0,0:20:09.79,0:20:11.46,Default,,0,0,0,,Does that mean her retribution has come?
+Dialogue: 0,0:19:42.26,0:19:44.42,Default,,0,0,0,,It's become a spiny bug.
+Dialogue: 0,0:19:44.42,0:19:46.89,Default,,0,0,0,,What's happening, Meganii-pri?
+Dialogue: 0,0:19:46.89,0:19:49.06,Default,,0,0,0,,PriPara was restarted,
+Dialogue: 0,0:19:49.06,0:19:52.29,Default,,0,0,0,,and all traces of CelePara were eliminated.
+Dialogue: 0,0:19:52.29,0:19:55.53,Default,,0,0,0,,The system was restarted from zero and so...
+Dialogue: 0,0:19:55.53,0:20:00.75,Default,,0,0,0,,...Hibiki, the anomaly belonging\N to CelePara, was eliminated.
+Dialogue: 0,0:20:00.75,0:20:02.52,Default,,0,0,0,,That can't be...
+Dialogue: 0,0:20:02.52,0:20:07.40,Default,,0,0,0,,At this rate, she'll be eliminated along with CelePara's data.
+Dialogue: 0,0:20:08.14,0:20:09.23,Default,,0,0,0,,It's the system.
+Dialogue: 0,0:20:09.71,0:20:11.46,Default,,0,0,0,,Does that mean her retribution has come?
 Dialogue: 0,0:20:11.46,0:20:12.38,Default,,0,0,0,,Dorothy!
-Dialogue: 0,0:20:12.38,0:20:13.23,Default,,0,0,0,,It'll be fine!
-Dialogue: 0,0:20:14.15,0:20:17.63,Default,,0,0,0,,Nobody will get hurt in my beloved PriPara!
-Dialogue: 0,0:20:17.91,0:20:19.65,Default,,0,0,0,,Not Fuwari or Ms. Ajimi!
-Dialogue: 0,0:20:19.87,0:20:21.64,Default,,0,0,0,,Nor Hibiki!
-Dialogue: 0,0:20:22.08,0:20:25.32,Default,,0,0,0,,PriPara is a place that makes everyone happy!
-Dialogue: 0,0:20:25.57,0:20:27.36,Default,,0,0,0,,Well said, Laala!
-Dialogue: 0,0:20:27.66,0:20:31.21,Default,,0,0,0,,We can perform miracles if we combine our strength!
-Dialogue: 0,0:20:31.42,0:20:33.97,Default,,0,0,0,,Thanks, Sophy, Mirei!
-Dialogue: 0,0:20:35.45,0:20:38.93,Default,,0,0,0,,Hibiki, Fuwari and Ms. Ajimi.
-Dialogue: 0,0:20:39.26,0:20:43.46,Default,,0,0,0,,We'll find a way to save you all, capisce!
+Dialogue: 0,0:20:12.38,0:20:13.69,Default,,0,0,0,,It'll be fine!
+Dialogue: 0,0:20:14.07,0:20:17.83,Default,,0,0,0,,Nobody will get hurt in my beloved PriPara!
+Dialogue: 0,0:20:17.83,0:20:19.79,Default,,0,0,0,,Not Fuwari or Ms. Ajimi!
+Dialogue: 0,0:20:19.79,0:20:22.00,Default,,0,0,0,,Nor Hibiki!
+Dialogue: 0,0:20:22.00,0:20:25.49,Default,,0,0,0,,PriPara is a place that makes everyone happy!
+Dialogue: 0,0:20:25.49,0:20:27.58,Default,,0,0,0,,Well said, Laala!
+Dialogue: 0,0:20:27.58,0:20:31.34,Default,,0,0,0,,We can perform miracles if we combine our strength!
+Dialogue: 0,0:20:31.34,0:20:34.63,Default,,0,0,0,,Thanks, Sophy, Mirei!
+Dialogue: 0,0:20:35.37,0:20:39.18,Default,,0,0,0,,Hibiki, Fuwari and Ms. Ajimi.
+Dialogue: 0,0:20:39.18,0:20:43.78,Default,,0,0,0,,We'll find a way to save you all, capisce!
 Dialogue: 0,0:12:38.65,0:12:41.95,Salami Stressing Second - Roma,,0,0,0,,ikuyo tomodachi no tomodachi wa love
 Dialogue: 0,0:12:41.95,0:12:44.33,Salami Stressing Second - Roma,,0,0,0,,heart ni kuttsuku takaramono
 Dialogue: 0,0:12:47.33,0:12:51.17,Salami Stressing Second - Roma,,0,0,0,,{\fad(100,0)}change kawaru yo happy
@@ -385,32 +385,34 @@ Dialogue: 0,0:15:17.94,0:15:19.44,Salami Stressing Second - Roma,,0,0,0,,zutto z
 Dialogue: 0,0:15:19.44,0:15:21.65,Salami Stressing Second - Roma,,0,0,0,,tomodachi dayo
 Dialogue: 0,0:15:21.65,0:15:23.99,Salami Stressing Second - Roma,,0,0,0,,{\fad(0,500)}misete yo
 Dialogue: 0,0:15:24.28,0:15:27.49,Salami Stressing Second - Roma,,0,0,0,,{\fad(100,700)}daisuki da yo no smile
-Comment: 2,0:15:31.16,0:15:34.37,Salami Stressing Second - Roma,,0,0,0,,{\fad(140,0)\c&H000000&\3c&H8905E6&}i{\3c&H841AE7&}k{\3c&H7B41E8&}u{\3c&H7364E9&}y{\3c&H698CEB&}o{\3c&H61AFEC&} {\3c&H5CC5ED&}t{\3c&H54E4EE&}o{\3c&H58F0D4&}m{\3c&H62F3AA&}o{\3c&H69F68A&}d{\3c&H71F86B&}a{\3c&H77FB4E&}c{\3c&H7FFD2F&}h{\3c&H8BFA28&}i{\3c&H95F62A&} {\3c&HA3F02E&}n{\3c&HB5E933&}o{\3c&HC3E336&} {\3c&HD0DE3A&}t{\3c&HE0D83E&}o{\3c&HF3CC48&}m{\3c&HF5BA5F&}o{\3c&HF6AA73&}d{\3c&HF79A86&}a{\3c&HF88C98&}c{\3c&HFA7BAD&}h{\3c&HFA70BA&}i{\3c&HF867C2&} {\3c&HE156C4&}w{\3c&HCE47C6&}a{\3c&HC23EC7&} {\3c&HB736C8&}l{\3c&HA527CA&}o{\3c&H9117CC&}v{\3c&H7E09CE&}e
-Comment: 2,0:15:34.37,0:15:37.12,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&\3c&H8905E6&}h{\3c&H7D39E8&}e{\3c&H7266E9&}a{\3c&H6891EB&}r{\3c&H5FB7EC&}t{\3c&H56DCED&} {\3c&H55EFE2&}n{\3c&H5DF2BD&}i{\3c&H63F4A6&} {\3c&H6AF688&}k{\3c&H74FA5D&}u{\3c&H7DFD38&}t{\3c&H8AFB27&}t{\3c&H9DF32C&}s{\3c&HB2EA32&}u{\3c&HCBE038&}k{\3c&HE2D73F&}u{\3c&HF3D043&} {\3c&HF4C156&}t{\3c&HF6AE6D&}a{\3c&HF79888&}k{\3c&HF984A1&}a{\3c&HFA73B6&}r{\3c&HF061C3&}a{\3c&HCC46C6&}m{\3c&HB231C9&}o{\3c&H981DCC&}n{\3c&H7E09CE&}o
-Comment: 2,0:15:37.12,0:15:42.34,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&\3c&H8905E6&}d{\3c&H7F2FE7&}o{\3c&H7558E9&}n{\3c&H6C81EA&}n{\3c&H62AAEC&}a{\3c&H5ACDED&} {\3c&H53E9EE&}k{\3c&H5AF1CD&}o{\3c&H62F3AC&}t{\3c&H69F68D&}o{\3c&H70F86E&} {\3c&H76FA55&}d{\3c&H7EFD32&}a{\3c&H8BFA28&}t{\3c&H9CF32C&}t{\3c&HADEC31&}e{\3c&HBDE635&} {\3c&HCEDF39&}k{\3c&HE2D73E&}a{\3c&HF3CF44&}e{\3c&HF4C057&}r{\3c&HF6AF6C&}o{\3c&HF79E81&}u{\3c&HF89291&} {\3c&HF980A6&}y{\3c&HFB6EBD&}o{\3c&HF162C3&} {\3c&HDB51C5&}h{\3c&HC741C7&}a{\3c&HAF2FC9&}p{\3c&H961CCC&}p{\3c&H7E09CE&}y
-Comment: 2,0:15:42.34,0:15:45.30,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}u{\3c&H7A41EA&}n{\3c&H6A83EF&}m{\3c&H55DBF6&}e{\3c&H56F0D7&}i{\3c&H5CF2B7&} {\3c&H63F68F&}d{\3c&H6EFB57&}a{\3c&H77FF25&}t{\3c&H92FB24&}t{\3c&HAFF723&}e{\3c&HC9F322&} {\3c&HE5EF21&}o{\3c&HF4CB4A&}m{\3c&HF7A17E&}o{\3c&HF97EA9&}e{\3c&HF761CA&}r{\3c&HDB49D1&}u{\3c&HC739D6&} {\3c&HA61EDF&}y{\3c&H8905E6&}o
-Comment: 2,0:15:45.30,0:15:46.68,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}k{\3c&H7261ED&}o{\3c&H5EB6F3&}n{\3c&H55EFDB&}n{\3c&H63F68F&}a{\3c&H6FFB50&} {\3c&H7FFE25&}n{\3c&HA4F824&}i{\3c&HBEF523&} {\3c&HDEF022&}t{\3c&HF3D73C&}a{\3c&HF7A679&}n{\3c&HFA73B6&}o{\3c&HE350CF&}s{\3c&HB72BDA&}h{\3c&H9E17E1&}i{\3c&H8905E6&}i
-Comment: 2,0:15:47.01,0:15:49.18,Salami Stressing Second - Roma,,0,0,0,,{\fad(100,0)\c&H000000&}{\3c&H8905E6&}k{\3c&H7169ED&}o{\3c&H5AC5F4&}n{\3c&H59F1C7&}n{\3c&H68F874&}a{\3c&H75FE32&} {\3c&H94FB24&}n{\3c&HBCF523&}i{\3c&HD8F122&} {\3c&HF3DE33&}u{\3c&HF6B16B&}r{\3c&HF980A7&}e{\3c&HEB57CD&}s{\3c&HBB2FD9&}h{\3c&HA018E0&}i{\3c&H8905E6&}i
-Comment: 2,0:15:49.18,0:15:52.81,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}s{\3c&H7D36EA&}p{\3c&H6D76EE&}e{\3c&H60ACF2&}c{\3c&H54DDF6&}i{\3c&H53EFE5&}a{\3c&H5BF2BA&}l{\3c&H61F59E&} {\3c&H67F879&}n{\3c&H71FC46&}a{\3c&H7CFE25&} {\3c&H94FB24&}k{\3c&HB2F623&}a{\3c&HD1F222&}n{\3c&HF2ED21&}k{\3c&HF4CC4A&}e{\3c&HF6B566&}i{\3c&HF7A17E&} {\3c&HF982A4&}d{\3c&HFA63C9&}a{\3c&HE754CE&} {\3c&HC234D8&}m{\3c&HA41CDF&}o{\3c&H8905E6&}n
-Comment: 2,0:15:52.81,0:15:55.18,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}a{\3c&H52EEEB&}g{\3c&H96FA24&}e{\3c&HF5B960&}t{\3c&HCF40D4&}a{\3c&H8905E6&}i
-Comment: 2,0:15:55.18,0:15:58.69,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}d{\3c&H7948EB&}a{\3c&H6A81EF&}i{\3c&H61A8F2&}s{\3c&H53E0F6&}u{\3c&H59F1C8&}k{\3c&H63F691&}i{\3c&H69F96F&} {\3c&H71FC45&}d{\3c&H87FD24&}a{\3c&HA1F924&} {\3c&HC0F423&}y{\3c&HE4EF21&}o{\3c&HF3E031&} {\3c&HF5BE5A&}n{\3c&HF8988A&}o{\3c&HF97DAA&} {\3c&HF760CA&}s{\3c&HCB3CD5&}m{\3c&HB62BDB&}i{\3c&HA51DDF&}l{\3c&H8905E6&}e
-Comment: 2,0:15:56.89,0:16:01.65,Salami Stressing Second - Roma,,0,0,0,,{\fad(300,300)\an7\c&H000000&}{\3c&H8905E6&}w{\3c&H7B3EEA&}a{\3c&H7168ED&}t{\3c&H688DF0&}a{\3c&H5DB6F3&}s{\3c&H54DFF6&}h{\3c&H55EFDC&}i{\3c&H5AF1C3&}t{\3c&H60F4A0&}a{\3c&H67F87A&}c{\3c&H6FFB53&}h{\3c&H75FE2E&}i{\3c&H80FE25&} {\3c&H92FB24&}g{\3c&HABF723&}a{\3c&HBDF523&} {\3c&HD2F222&}b{\3c&HE9EE21&}e{\3c&HF3DF32&}s{\3c&HF4C94E&}t{\3c&HF6B763&} {\3c&HF8978B&}m{\3c&HFA77B2&}y{\3c&HFB64C9&} {\3c&HE854CE&}f{\3c&HD645D2&}r{\3c&HC93AD6&}i{\3c&HB52ADB&}e{\3c&H9E17E1&}n{\3c&H8905E6&}d
-Comment: 2,0:16:00.86,0:16:04.11,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}o{\3c&H7945EB&}d{\3c&H6986EF&}o{\3c&H5AC4F4&}r{\3c&H51EDF2&}i{\3c&H58F1CC&}d{\3c&H63F693&}a{\3c&H6CFA5F&}s{\3c&H76FE2C&}u{\3c&H8EFC24&} {\3c&HA7F823&}f{\3c&HC5F422&}r{\3c&HDBF022&}i{\3c&HF2E925&}e{\3c&HF5C453&}n{\3c&HF79E82&}d{\3c&HF984A2&} {\3c&HF25CCB&}w{\3c&HD141D4&}o{\3c&HB82CDA&}r{\3c&HA71EDE&}l{\3c&H8905E6&}d
-Comment: 2,0:16:02.19,0:16:07.40,Salami Stressing Second - Roma,,0,0,0,,{\fad(300,300)\an7\c&H000000&}{\3c&H8905E6&}i{\3c&H7D35EA&}r{\3c&H6C7BEF&}u{\3c&H59C9F4&} {\3c&H54EFE3&}k{\3c&H63F691&}a{\3c&H70FC4C&}r{\3c&H87FD24&}a{\3c&HAAF723&} {\3c&HD1F222&}d{\3c&HF3E031&}a{\3c&HF5BE5B&}i{\3c&HF7A07F&}j{\3c&HFA72B8&}o{\3c&HDD4BD1&}u{\3c&HB126DC&}b{\3c&H8905E6&}u
-Comment: 2,0:16:07.40,0:16:15.54,Salami Stressing Second - Roma,,0,0,0,,{\fad(200,1000)\c&H000000&}{\3c&H8905E6&}t{\3c&H7F2FE9&}o{\3c&H7264ED&}m{\3c&H60ABF2&}o{\3c&H54DFF6&}d{\3c&H56F0D6&}a{\3c&H5EF3AC&}c{\3c&H66F77F&}h{\3c&H6EFB55&}i{\3c&H73FD3B&} {\3c&H7FFE25&}g{\3c&H9AFA24&}a{\3c&HAFF723&} {\3c&HC5F422&}z{\3c&HE0F022&}u{\3c&HF2E728&}t{\3c&HF4CF46&}t{\3c&HF6B269&}o{\3c&HF79D83&} {\3c&HF88C98&}i{\3c&HFA76B2&}r{\3c&HF35ECB&}u{\3c&HE350CF&} {\3c&HCA3BD6&}k{\3c&HB227DB&}a{\3c&H9E17E1&}r{\3c&H8905E6&}a
-Comment: 0,0:15:31.16,0:15:34.37,Salami Stressing Second - Roma,,0,0,0,,{\fad(140,0)\bord7.5\blur12\c&H000000&\3c&H8905E6&}i{\3c&H841AE7&}k{\3c&H7B41E8&}u{\3c&H7364E9&}y{\3c&H698CEB&}o{\3c&H61AFEC&} {\3c&H5CC5ED&}t{\3c&H54E4EE&}o{\3c&H58F0D4&}m{\3c&H62F3AA&}o{\3c&H69F68A&}d{\3c&H71F86B&}a{\3c&H77FB4E&}c{\3c&H7FFD2F&}h{\3c&H8BFA28&}i{\3c&H95F62A&} {\3c&HA3F02E&}n{\3c&HB5E933&}o{\3c&HC3E336&} {\3c&HD0DE3A&}t{\3c&HE0D83E&}o{\3c&HF3CC48&}m{\3c&HF5BA5F&}o{\3c&HF6AA73&}d{\3c&HF79A86&}a{\3c&HF88C98&}c{\3c&HFA7BAD&}h{\3c&HFA70BA&}i{\3c&HF867C2&} {\3c&HE156C4&}w{\3c&HCE47C6&}a{\3c&HC23EC7&} {\3c&HB736C8&}l{\3c&HA527CA&}o{\3c&H9117CC&}v{\3c&H7E09CE&}e
-Comment: 0,0:15:34.37,0:15:37.12,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&\3c&H8905E6&}h{\3c&H7D39E8&}e{\3c&H7266E9&}a{\3c&H6891EB&}r{\3c&H5FB7EC&}t{\3c&H56DCED&} {\3c&H55EFE2&}n{\3c&H5DF2BD&}i{\3c&H63F4A6&} {\3c&H6AF688&}k{\3c&H74FA5D&}u{\3c&H7DFD38&}t{\3c&H8AFB27&}t{\3c&H9DF32C&}s{\3c&HB2EA32&}u{\3c&HCBE038&}k{\3c&HE2D73F&}u{\3c&HF3D043&} {\3c&HF4C156&}t{\3c&HF6AE6D&}a{\3c&HF79888&}k{\3c&HF984A1&}a{\3c&HFA73B6&}r{\3c&HF061C3&}a{\3c&HCC46C6&}m{\3c&HB231C9&}o{\3c&H981DCC&}n{\3c&H7E09CE&}o
-Comment: 0,0:15:37.12,0:15:42.34,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&\3c&H8905E6&}d{\3c&H7F2FE7&}o{\3c&H7558E9&}n{\3c&H6C81EA&}n{\3c&H62AAEC&}a{\3c&H5ACDED&} {\3c&H53E9EE&}k{\3c&H5AF1CD&}o{\3c&H62F3AC&}t{\3c&H69F68D&}o{\3c&H70F86E&} {\3c&H76FA55&}d{\3c&H7EFD32&}a{\3c&H8BFA28&}t{\3c&H9CF32C&}t{\3c&HADEC31&}e{\3c&HBDE635&} {\3c&HCEDF39&}k{\3c&HE2D73E&}a{\3c&HF3CF44&}e{\3c&HF4C057&}r{\3c&HF6AF6C&}o{\3c&HF79E81&}u{\3c&HF89291&} {\3c&HF980A6&}y{\3c&HFB6EBD&}o{\3c&HF162C3&} {\3c&HDB51C5&}h{\3c&HC741C7&}a{\3c&HAF2FC9&}p{\3c&H961CCC&}p{\3c&H7E09CE&}y
-Comment: 0,0:15:42.34,0:15:45.30,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}u{\3c&H7A41EA&}n{\3c&H6A83EF&}m{\3c&H55DBF6&}e{\3c&H56F0D7&}i{\3c&H5CF2B7&} {\3c&H63F68F&}d{\3c&H6EFB57&}a{\3c&H77FF25&}t{\3c&H92FB24&}t{\3c&HAFF723&}e{\3c&HC9F322&} {\3c&HE5EF21&}o{\3c&HF4CB4A&}m{\3c&HF7A17E&}o{\3c&HF97EA9&}e{\3c&HF761CA&}r{\3c&HDB49D1&}u{\3c&HC739D6&} {\3c&HA61EDF&}y{\3c&H8905E6&}o
-Comment: 0,0:15:45.30,0:15:46.68,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}k{\3c&H7261ED&}o{\3c&H5EB6F3&}n{\3c&H55EFDB&}n{\3c&H63F68F&}a{\3c&H6FFB50&} {\3c&H7FFE25&}n{\3c&HA4F824&}i{\3c&HBEF523&} {\3c&HDEF022&}t{\3c&HF3D73C&}a{\3c&HF7A679&}n{\3c&HFA73B6&}o{\3c&HE350CF&}s{\3c&HB72BDA&}h{\3c&H9E17E1&}i{\3c&H8905E6&}i
-Comment: 0,0:15:47.01,0:15:49.18,Salami Stressing Second - Roma,,0,0,0,,{\fad(100,0)\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}k{\3c&H7169ED&}o{\3c&H5AC5F4&}n{\3c&H59F1C7&}n{\3c&H68F874&}a{\3c&H75FE32&} {\3c&H94FB24&}n{\3c&HBCF523&}i{\3c&HD8F122&} {\3c&HF3DE33&}u{\3c&HF6B16B&}r{\3c&HF980A7&}e{\3c&HEB57CD&}s{\3c&HBB2FD9&}h{\3c&HA018E0&}i{\3c&H8905E6&}i
-Comment: 0,0:15:49.18,0:15:52.81,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}s{\3c&H7D36EA&}p{\3c&H6D76EE&}e{\3c&H60ACF2&}c{\3c&H54DDF6&}i{\3c&H53EFE5&}a{\3c&H5BF2BA&}l{\3c&H61F59E&} {\3c&H67F879&}n{\3c&H71FC46&}a{\3c&H7CFE25&} {\3c&H94FB24&}k{\3c&HB2F623&}a{\3c&HD1F222&}n{\3c&HF2ED21&}k{\3c&HF4CC4A&}e{\3c&HF6B566&}i{\3c&HF7A17E&} {\3c&HF982A4&}d{\3c&HFA63C9&}a{\3c&HE754CE&} {\3c&HC234D8&}m{\3c&HA41CDF&}o{\3c&H8905E6&}n
-Comment: 0,0:15:52.81,0:15:55.18,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}a{\3c&H52EEEB&}g{\3c&H96FA24&}e{\3c&HF5B960&}t{\3c&HCF40D4&}a{\3c&H8905E6&}i
-Comment: 0,0:15:55.18,0:15:58.69,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}d{\3c&H7948EB&}a{\3c&H6A81EF&}i{\3c&H61A8F2&}s{\3c&H53E0F6&}u{\3c&H59F1C8&}k{\3c&H63F691&}i{\3c&H69F96F&} {\3c&H71FC45&}d{\3c&H87FD24&}a{\3c&HA1F924&} {\3c&HC0F423&}y{\3c&HE4EF21&}o{\3c&HF3E031&} {\3c&HF5BE5A&}n{\3c&HF8988A&}o{\3c&HF97DAA&} {\3c&HF760CA&}s{\3c&HCB3CD5&}m{\3c&HB62BDB&}i{\3c&HA51DDF&}l{\3c&H8905E6&}e
-Comment: 0,0:15:56.89,0:16:01.65,Salami Stressing Second - Roma,,0,0,0,,{\fad(300,300)\an7\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}w{\3c&H7B3EEA&}a{\3c&H7168ED&}t{\3c&H688DF0&}a{\3c&H5DB6F3&}s{\3c&H54DFF6&}h{\3c&H55EFDC&}i{\3c&H5AF1C3&}t{\3c&H60F4A0&}a{\3c&H67F87A&}c{\3c&H6FFB53&}h{\3c&H75FE2E&}i{\3c&H80FE25&} {\3c&H92FB24&}g{\3c&HABF723&}a{\3c&HBDF523&} {\3c&HD2F222&}b{\3c&HE9EE21&}e{\3c&HF3DF32&}s{\3c&HF4C94E&}t{\3c&HF6B763&} {\3c&HF8978B&}m{\3c&HFA77B2&}y{\3c&HFB64C9&} {\3c&HE854CE&}f{\3c&HD645D2&}r{\3c&HC93AD6&}i{\3c&HB52ADB&}e{\3c&H9E17E1&}n{\3c&H8905E6&}d
-Comment: 0,0:16:00.86,0:16:04.11,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}o{\3c&H7945EB&}d{\3c&H6986EF&}o{\3c&H5AC4F4&}r{\3c&H51EDF2&}i{\3c&H58F1CC&}d{\3c&H63F693&}a{\3c&H6CFA5F&}s{\3c&H76FE2C&}u{\3c&H8EFC24&} {\3c&HA7F823&}f{\3c&HC5F422&}r{\3c&HDBF022&}i{\3c&HF2E925&}e{\3c&HF5C453&}n{\3c&HF79E82&}d{\3c&HF984A2&} {\3c&HF25CCB&}w{\3c&HD141D4&}o{\3c&HB82CDA&}r{\3c&HA71EDE&}l{\3c&H8905E6&}d
-Comment: 0,0:16:02.19,0:16:07.40,Salami Stressing Second - Roma,,0,0,0,,{\fad(300,300)\an7\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}i{\3c&H7D35EA&}r{\3c&H6C7BEF&}u{\3c&H59C9F4&} {\3c&H54EFE3&}k{\3c&H63F691&}a{\3c&H70FC4C&}r{\3c&H87FD24&}a{\3c&HAAF723&} {\3c&HD1F222&}d{\3c&HF3E031&}a{\3c&HF5BE5B&}i{\3c&HF7A07F&}j{\3c&HFA72B8&}o{\3c&HDD4BD1&}u{\3c&HB126DC&}b{\3c&H8905E6&}u
-Comment: 0,0:16:07.40,0:16:15.54,Salami Stressing Second - Roma,,0,0,0,,{\fad(200,1000)\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}t{\3c&H7F2FE9&}o{\3c&H7264ED&}m{\3c&H60ABF2&}o{\3c&H54DFF6&}d{\3c&H56F0D6&}a{\3c&H5EF3AC&}c{\3c&H66F77F&}h{\3c&H6EFB55&}i{\3c&H73FD3B&} {\3c&H7FFE25&}g{\3c&H9AFA24&}a{\3c&HAFF723&} {\3c&HC5F422&}z{\3c&HE0F022&}u{\3c&HF2E728&}t{\3c&HF4CF46&}t{\3c&HF6B269&}o{\3c&HF79D83&} {\3c&HF88C98&}i{\3c&HFA76B2&}r{\3c&HF35ECB&}u{\3c&HE350CF&} {\3c&HCA3BD6&}k{\3c&HB227DB&}a{\3c&H9E17E1&}r{\3c&H8905E6&}a
+Dialogue: 3,0:15:31.16,0:15:35.00,Salami Stressing Second - Eng,,0,0,0,,{\fad(200,500)}kowaganaide ii
+Dialogue: 2,0:15:56.02,0:15:56.73,Salami Stressing Second - Roma,,0,0,0,,ikuyo tomodachi no tomodachi wa LOVE
+Dialogue: 3,0:15:56.73,0:15:59.23,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&\3c&H8905E6&}i{\3c&H841AE7&}k{\3c&H7B41E8&}u{\3c&H7364E9&}y{\3c&H698CEB&}o{\3c&H61AFEC&} {\3c&H5CC5ED&}t{\3c&H54E4EE&}o{\3c&H58F0D4&}m{\3c&H62F3AA&}o{\3c&H69F68A&}d{\3c&H71F86B&}a{\3c&H77FB4E&}c{\3c&H7FFD2F&}h{\3c&H8BFA28&}i{\3c&H95F62A&} {\3c&HA3F02E&}n{\3c&HB5E933&}o{\3c&HC3E336&} {\3c&HD0DE3A&}t{\3c&HE0D83E&}o{\3c&HF3CC48&}m{\3c&HF5BA5F&}o{\3c&HF6AA73&}d{\3c&HF79A86&}a{\3c&HF88C98&}c{\3c&HFA7BAD&}h{\3c&HFA70BA&}i{\3c&HF867C2&} {\3c&HE156C4&}w{\3c&HCE47C6&}a{\3c&HC23EC7&} {\3c&HB736C8&}l{\3c&HA527CA&}o{\3c&H9117CC&}v{\3c&H7E09CE&}e
+Dialogue: 2,0:15:59.23,0:16:01.98,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&\3c&H8905E6&}h{\3c&H7D39E8&}e{\3c&H7266E9&}a{\3c&H6891EB&}r{\3c&H5FB7EC&}t{\3c&H56DCED&} {\3c&H55EFE2&}n{\3c&H5DF2BD&}i{\3c&H63F4A6&} {\3c&H6AF688&}k{\3c&H74FA5D&}u{\3c&H7DFD38&}t{\3c&H8AFB27&}t{\3c&H9DF32C&}s{\3c&HB2EA32&}u{\3c&HCBE038&}k{\3c&HE2D73F&}u{\3c&HF3D043&} {\3c&HF4C156&}t{\3c&HF6AE6D&}a{\3c&HF79888&}k{\3c&HF984A1&}a{\3c&HFA73B6&}r{\3c&HF061C3&}a{\3c&HCC46C6&}m{\3c&HB231C9&}o{\3c&H981DCC&}n{\3c&H7E09CE&}o
+Dialogue: 2,0:16:01.98,0:16:07.20,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&\3c&H8905E6&}d{\3c&H7F2FE7&}o{\3c&H7558E9&}n{\3c&H6C81EA&}n{\3c&H62AAEC&}a{\3c&H5ACDED&} {\3c&H53E9EE&}k{\3c&H5AF1CD&}o{\3c&H62F3AC&}t{\3c&H69F68D&}o{\3c&H70F86E&} {\3c&H76FA55&}d{\3c&H7EFD32&}a{\3c&H8BFA28&}t{\3c&H9CF32C&}t{\3c&HADEC31&}e{\3c&HBDE635&} {\3c&HCEDF39&}k{\3c&HE2D73E&}a{\3c&HF3CF44&}e{\3c&HF4C057&}r{\3c&HF6AF6C&}o{\3c&HF79E81&}u{\3c&HF89291&} {\3c&HF980A6&}y{\3c&HFB6EBD&}o{\3c&HF162C3&} {\3c&HDB51C5&}h{\3c&HC741C7&}a{\3c&HAF2FC9&}p{\3c&H961CCC&}p{\3c&H7E09CE&}y
+Dialogue: 2,0:16:07.20,0:16:10.16,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}u{\3c&H7A41EA&}n{\3c&H6A83EF&}m{\3c&H55DBF6&}e{\3c&H56F0D7&}i{\3c&H5CF2B7&} {\3c&H63F68F&}d{\3c&H6EFB57&}a{\3c&H77FF25&}t{\3c&H92FB24&}t{\3c&HAFF723&}e{\3c&HC9F322&} {\3c&HE5EF21&}o{\3c&HF4CB4A&}m{\3c&HF7A17E&}o{\3c&HF97EA9&}e{\3c&HF761CA&}r{\3c&HDB49D1&}u{\3c&HC739D6&} {\3c&HA61EDF&}y{\3c&H8905E6&}o
+Dialogue: 2,0:16:10.16,0:16:11.53,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}k{\3c&H7261ED&}o{\3c&H5EB6F3&}n{\3c&H55EFDB&}n{\3c&H63F68F&}a{\3c&H6FFB50&} {\3c&H7FFE25&}n{\3c&HA4F824&}i{\3c&HBEF523&} {\3c&HDEF022&}t{\3c&HF3D73C&}a{\3c&HF7A679&}n{\3c&HFA73B6&}o{\3c&HE350CF&}s{\3c&HB72BDA&}h{\3c&H9E17E1&}i{\3c&H8905E6&}i
+Dialogue: 2,0:16:11.87,0:16:14.04,Salami Stressing Second - Roma,,0,0,0,,{\fad(100,0)\c&H000000&}{\3c&H8905E6&}k{\3c&H7169ED&}o{\3c&H5AC5F4&}n{\3c&H59F1C7&}n{\3c&H68F874&}a{\3c&H75FE32&} {\3c&H94FB24&}n{\3c&HBCF523&}i{\3c&HD8F122&} {\3c&HF3DE33&}u{\3c&HF6B16B&}r{\3c&HF980A7&}e{\3c&HEB57CD&}s{\3c&HBB2FD9&}h{\3c&HA018E0&}i{\3c&H8905E6&}i
+Dialogue: 2,0:16:14.04,0:16:17.66,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}s{\3c&H7D36EA&}p{\3c&H6D76EE&}e{\3c&H60ACF2&}c{\3c&H54DDF6&}i{\3c&H53EFE5&}a{\3c&H5BF2BA&}l{\3c&H61F59E&} {\3c&H67F879&}n{\3c&H71FC46&}a{\3c&H7CFE25&} {\3c&H94FB24&}k{\3c&HB2F623&}a{\3c&HD1F222&}n{\3c&HF2ED21&}k{\3c&HF4CC4A&}e{\3c&HF6B566&}i{\3c&HF7A17E&} {\3c&HF982A4&}d{\3c&HFA63C9&}a{\3c&HE754CE&} {\3c&HC234D8&}m{\3c&HA41CDF&}o{\3c&H8905E6&}n
+Dialogue: 2,0:16:17.66,0:16:20.04,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}a{\3c&H52EEEB&}g{\3c&H96FA24&}e{\3c&HF5B960&}t{\3c&HCF40D4&}a{\3c&H8905E6&}i
+Dialogue: 2,0:16:20.04,0:16:23.55,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}d{\3c&H7948EB&}a{\3c&H6A81EF&}i{\3c&H61A8F2&}s{\3c&H53E0F6&}u{\3c&H59F1C8&}k{\3c&H63F691&}i{\3c&H69F96F&} {\3c&H71FC45&}d{\3c&H87FD24&}a{\3c&HA1F924&} {\3c&HC0F423&}y{\3c&HE4EF21&}o{\3c&HF3E031&} {\3c&HF5BE5A&}n{\3c&HF8988A&}o{\3c&HF97DAA&} {\3c&HF760CA&}s{\3c&HCB3CD5&}m{\3c&HB62BDB&}i{\3c&HA51DDF&}l{\3c&H8905E6&}e
+Dialogue: 2,0:16:21.75,0:16:26.51,Salami Stressing Second - Roma,,0,0,0,,{\fad(300,300)\an7\c&H000000&}{\3c&H8905E6&}w{\3c&H7B3EEA&}a{\3c&H7168ED&}t{\3c&H688DF0&}a{\3c&H5DB6F3&}s{\3c&H54DFF6&}h{\3c&H55EFDC&}i{\3c&H5AF1C3&}t{\3c&H60F4A0&}a{\3c&H67F87A&}c{\3c&H6FFB53&}h{\3c&H75FE2E&}i{\3c&H80FE25&} {\3c&H92FB24&}g{\3c&HABF723&}a{\3c&HBDF523&} {\3c&HD2F222&}b{\3c&HE9EE21&}e{\3c&HF3DF32&}s{\3c&HF4C94E&}t{\3c&HF6B763&} {\3c&HF8978B&}m{\3c&HFA77B2&}y{\3c&HFB64C9&} {\3c&HE854CE&}f{\3c&HD645D2&}r{\3c&HC93AD6&}i{\3c&HB52ADB&}e{\3c&H9E17E1&}n{\3c&H8905E6&}d
+Dialogue: 2,0:16:25.71,0:16:28.97,Salami Stressing Second - Roma,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}o{\3c&H7945EB&}d{\3c&H6986EF&}o{\3c&H5AC4F4&}r{\3c&H51EDF2&}i{\3c&H58F1CC&}d{\3c&H63F693&}a{\3c&H6CFA5F&}s{\3c&H76FE2C&}u{\3c&H8EFC24&} {\3c&HA7F823&}f{\3c&HC5F422&}r{\3c&HDBF022&}i{\3c&HF2E925&}e{\3c&HF5C453&}n{\3c&HF79E82&}d{\3c&HF984A2&} {\3c&HF25CCB&}w{\3c&HD141D4&}o{\3c&HB82CDA&}r{\3c&HA71EDE&}l{\3c&H8905E6&}d
+Dialogue: 2,0:16:27.05,0:16:32.26,Salami Stressing Second - Roma,,0,0,0,,{\fad(300,300)\an7\c&H000000&}{\3c&H8905E6&}i{\3c&H7D35EA&}r{\3c&H6C7BEF&}u{\3c&H59C9F4&} {\3c&H54EFE3&}k{\3c&H63F691&}a{\3c&H70FC4C&}r{\3c&H87FD24&}a{\3c&HAAF723&} {\3c&HD1F222&}d{\3c&HF3E031&}a{\3c&HF5BE5B&}i{\3c&HF7A07F&}j{\3c&HFA72B8&}o{\3c&HDD4BD1&}u{\3c&HB126DC&}b{\3c&H8905E6&}u
+Dialogue: 2,0:16:32.26,0:16:40.40,Salami Stressing Second - Roma,,0,0,0,,{\fad(200,1000)\c&H000000&}{\3c&H8905E6&}t{\3c&H7F2FE9&}o{\3c&H7264ED&}m{\3c&H60ABF2&}o{\3c&H54DFF6&}d{\3c&H56F0D6&}a{\3c&H5EF3AC&}c{\3c&H66F77F&}h{\3c&H6EFB55&}i{\3c&H73FD3B&} {\3c&H7FFE25&}g{\3c&H9AFA24&}a{\3c&HAFF723&} {\3c&HC5F422&}z{\3c&HE0F022&}u{\3c&HF2E728&}t{\3c&HF4CF46&}t{\3c&HF6B269&}o{\3c&HF79D83&} {\3c&HF88C98&}i{\3c&HFA76B2&}r{\3c&HF35ECB&}u{\3c&HE350CF&} {\3c&HCA3BD6&}k{\3c&HB227DB&}a{\3c&H9E17E1&}r{\3c&H8905E6&}a
+Dialogue: 4,0:15:56.73,0:15:59.23,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&\3c&H8905E6&}i{\3c&H841AE7&}k{\3c&H7B41E8&}u{\3c&H7364E9&}y{\3c&H698CEB&}o{\3c&H61AFEC&} {\3c&H5CC5ED&}t{\3c&H54E4EE&}o{\3c&H58F0D4&}m{\3c&H62F3AA&}o{\3c&H69F68A&}d{\3c&H71F86B&}a{\3c&H77FB4E&}c{\3c&H7FFD2F&}h{\3c&H8BFA28&}i{\3c&H95F62A&} {\3c&HA3F02E&}n{\3c&HB5E933&}o{\3c&HC3E336&} {\3c&HD0DE3A&}t{\3c&HE0D83E&}o{\3c&HF3CC48&}m{\3c&HF5BA5F&}o{\3c&HF6AA73&}d{\3c&HF79A86&}a{\3c&HF88C98&}c{\3c&HFA7BAD&}h{\3c&HFA70BA&}i{\3c&HF867C2&} {\3c&HE156C4&}w{\3c&HCE47C6&}a{\3c&HC23EC7&} {\3c&HB736C8&}l{\3c&HA527CA&}o{\3c&H9117CC&}v{\3c&H7E09CE&}e
+Dialogue: 0,0:15:59.23,0:16:01.98,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&\3c&H8905E6&}h{\3c&H7D39E8&}e{\3c&H7266E9&}a{\3c&H6891EB&}r{\3c&H5FB7EC&}t{\3c&H56DCED&} {\3c&H55EFE2&}n{\3c&H5DF2BD&}i{\3c&H63F4A6&} {\3c&H6AF688&}k{\3c&H74FA5D&}u{\3c&H7DFD38&}t{\3c&H8AFB27&}t{\3c&H9DF32C&}s{\3c&HB2EA32&}u{\3c&HCBE038&}k{\3c&HE2D73F&}u{\3c&HF3D043&} {\3c&HF4C156&}t{\3c&HF6AE6D&}a{\3c&HF79888&}k{\3c&HF984A1&}a{\3c&HFA73B6&}r{\3c&HF061C3&}a{\3c&HCC46C6&}m{\3c&HB231C9&}o{\3c&H981DCC&}n{\3c&H7E09CE&}o
+Dialogue: 0,0:16:01.98,0:16:07.20,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&\3c&H8905E6&}d{\3c&H7F2FE7&}o{\3c&H7558E9&}n{\3c&H6C81EA&}n{\3c&H62AAEC&}a{\3c&H5ACDED&} {\3c&H53E9EE&}k{\3c&H5AF1CD&}o{\3c&H62F3AC&}t{\3c&H69F68D&}o{\3c&H70F86E&} {\3c&H76FA55&}d{\3c&H7EFD32&}a{\3c&H8BFA28&}t{\3c&H9CF32C&}t{\3c&HADEC31&}e{\3c&HBDE635&} {\3c&HCEDF39&}k{\3c&HE2D73E&}a{\3c&HF3CF44&}e{\3c&HF4C057&}r{\3c&HF6AF6C&}o{\3c&HF79E81&}u{\3c&HF89291&} {\3c&HF980A6&}y{\3c&HFB6EBD&}o{\3c&HF162C3&} {\3c&HDB51C5&}h{\3c&HC741C7&}a{\3c&HAF2FC9&}p{\3c&H961CCC&}p{\3c&H7E09CE&}y
+Dialogue: 0,0:16:07.20,0:16:10.16,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}u{\3c&H7A41EA&}n{\3c&H6A83EF&}m{\3c&H55DBF6&}e{\3c&H56F0D7&}i{\3c&H5CF2B7&} {\3c&H63F68F&}d{\3c&H6EFB57&}a{\3c&H77FF25&}t{\3c&H92FB24&}t{\3c&HAFF723&}e{\3c&HC9F322&} {\3c&HE5EF21&}o{\3c&HF4CB4A&}m{\3c&HF7A17E&}o{\3c&HF97EA9&}e{\3c&HF761CA&}r{\3c&HDB49D1&}u{\3c&HC739D6&} {\3c&HA61EDF&}y{\3c&H8905E6&}o
+Dialogue: 0,0:16:10.16,0:16:11.53,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}k{\3c&H7261ED&}o{\3c&H5EB6F3&}n{\3c&H55EFDB&}n{\3c&H63F68F&}a{\3c&H6FFB50&} {\3c&H7FFE25&}n{\3c&HA4F824&}i{\3c&HBEF523&} {\3c&HDEF022&}t{\3c&HF3D73C&}a{\3c&HF7A679&}n{\3c&HFA73B6&}o{\3c&HE350CF&}s{\3c&HB72BDA&}h{\3c&H9E17E1&}i{\3c&H8905E6&}i
+Dialogue: 0,0:16:11.87,0:16:14.04,Salami Stressing Second - Roma,,0,0,0,,{\fad(100,0)\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}k{\3c&H7169ED&}o{\3c&H5AC5F4&}n{\3c&H59F1C7&}n{\3c&H68F874&}a{\3c&H75FE32&} {\3c&H94FB24&}n{\3c&HBCF523&}i{\3c&HD8F122&} {\3c&HF3DE33&}u{\3c&HF6B16B&}r{\3c&HF980A7&}e{\3c&HEB57CD&}s{\3c&HBB2FD9&}h{\3c&HA018E0&}i{\3c&H8905E6&}i
+Dialogue: 0,0:16:14.04,0:16:17.66,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}s{\3c&H7D36EA&}p{\3c&H6D76EE&}e{\3c&H60ACF2&}c{\3c&H54DDF6&}i{\3c&H53EFE5&}a{\3c&H5BF2BA&}l{\3c&H61F59E&} {\3c&H67F879&}n{\3c&H71FC46&}a{\3c&H7CFE25&} {\3c&H94FB24&}k{\3c&HB2F623&}a{\3c&HD1F222&}n{\3c&HF2ED21&}k{\3c&HF4CC4A&}e{\3c&HF6B566&}i{\3c&HF7A17E&} {\3c&HF982A4&}d{\3c&HFA63C9&}a{\3c&HE754CE&} {\3c&HC234D8&}m{\3c&HA41CDF&}o{\3c&H8905E6&}n
+Dialogue: 0,0:16:17.66,0:16:20.04,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}a{\3c&H52EEEB&}g{\3c&H96FA24&}e{\3c&HF5B960&}t{\3c&HCF40D4&}a{\3c&H8905E6&}i
+Dialogue: 0,0:16:20.04,0:16:23.55,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}d{\3c&H7948EB&}a{\3c&H6A81EF&}i{\3c&H61A8F2&}s{\3c&H53E0F6&}u{\3c&H59F1C8&}k{\3c&H63F691&}i{\3c&H69F96F&} {\3c&H71FC45&}d{\3c&H87FD24&}a{\3c&HA1F924&} {\3c&HC0F423&}y{\3c&HE4EF21&}o{\3c&HF3E031&} {\3c&HF5BE5A&}n{\3c&HF8988A&}o{\3c&HF97DAA&} {\3c&HF760CA&}s{\3c&HCB3CD5&}m{\3c&HB62BDB&}i{\3c&HA51DDF&}l{\3c&H8905E6&}e
+Dialogue: 0,0:16:21.75,0:16:26.51,Salami Stressing Second - Roma,,0,0,0,,{\fad(300,300)\an7\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}w{\3c&H7B3EEA&}a{\3c&H7168ED&}t{\3c&H688DF0&}a{\3c&H5DB6F3&}s{\3c&H54DFF6&}h{\3c&H55EFDC&}i{\3c&H5AF1C3&}t{\3c&H60F4A0&}a{\3c&H67F87A&}c{\3c&H6FFB53&}h{\3c&H75FE2E&}i{\3c&H80FE25&} {\3c&H92FB24&}g{\3c&HABF723&}a{\3c&HBDF523&} {\3c&HD2F222&}b{\3c&HE9EE21&}e{\3c&HF3DF32&}s{\3c&HF4C94E&}t{\3c&HF6B763&} {\3c&HF8978B&}m{\3c&HFA77B2&}y{\3c&HFB64C9&} {\3c&HE854CE&}f{\3c&HD645D2&}r{\3c&HC93AD6&}i{\3c&HB52ADB&}e{\3c&H9E17E1&}n{\3c&H8905E6&}d
+Dialogue: 0,0:16:25.71,0:16:28.97,Salami Stressing Second - Roma,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}o{\3c&H7945EB&}d{\3c&H6986EF&}o{\3c&H5AC4F4&}r{\3c&H51EDF2&}i{\3c&H58F1CC&}d{\3c&H63F693&}a{\3c&H6CFA5F&}s{\3c&H76FE2C&}u{\3c&H8EFC24&} {\3c&HA7F823&}f{\3c&HC5F422&}r{\3c&HDBF022&}i{\3c&HF2E925&}e{\3c&HF5C453&}n{\3c&HF79E82&}d{\3c&HF984A2&} {\3c&HF25CCB&}w{\3c&HD141D4&}o{\3c&HB82CDA&}r{\3c&HA71EDE&}l{\3c&H8905E6&}d
+Dialogue: 0,0:16:27.05,0:16:32.26,Salami Stressing Second - Roma,,0,0,0,,{\fad(300,300)\an7\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}i{\3c&H7D35EA&}r{\3c&H6C7BEF&}u{\3c&H59C9F4&} {\3c&H54EFE3&}k{\3c&H63F691&}a{\3c&H70FC4C&}r{\3c&H87FD24&}a{\3c&HAAF723&} {\3c&HD1F222&}d{\3c&HF3E031&}a{\3c&HF5BE5B&}i{\3c&HF7A07F&}j{\3c&HFA72B8&}o{\3c&HDD4BD1&}u{\3c&HB126DC&}b{\3c&H8905E6&}u
+Dialogue: 0,0:16:32.26,0:16:40.40,Salami Stressing Second - Roma,,0,0,0,,{\fad(200,1000)\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}t{\3c&H7F2FE9&}o{\3c&H7264ED&}m{\3c&H60ABF2&}o{\3c&H54DFF6&}d{\3c&H56F0D6&}a{\3c&H5EF3AC&}c{\3c&H66F77F&}h{\3c&H6EFB55&}i{\3c&H73FD3B&} {\3c&H7FFE25&}g{\3c&H9AFA24&}a{\3c&HAFF723&} {\3c&HC5F422&}z{\3c&HE0F022&}u{\3c&HF2E728&}t{\3c&HF4CF46&}t{\3c&HF6B269&}o{\3c&HF79D83&} {\3c&HF88C98&}i{\3c&HFA76B2&}r{\3c&HF35ECB&}u{\3c&HE350CF&} {\3c&HCA3BD6&}k{\3c&HB227DB&}a{\3c&H9E17E1&}r{\3c&H8905E6&}a
 Dialogue: 1,0:14:18.55,0:14:23.13,Salami Stressing Second - Eng,,0,0,0,,{\fad(100,0)}Spending time together is so fun
 Dialogue: 1,0:14:23.13,0:14:28.89,Salami Stressing Second - Eng,,0,0,0,,You're like a fluffy futon for the soul
 Dialogue: 1,0:14:29.52,0:14:33.98,Salami Stressing Second - Eng,,0,0,0,,{\fad(100,0)}You tell me how great you think I am
@@ -439,20 +441,32 @@ Dialogue: 3,0:15:43.86,0:15:46.54,Salami Stressing Second - Eng,,0,0,0,,{\fad(20
 Dialogue: 3,0:15:46.54,0:15:49.18,Salami Stressing Second - Eng,,0,0,0,,{\fad(100,0)}And these sweet promises intertwine,
 Dialogue: 3,0:15:49.18,0:15:55.18,Salami Stressing Second - Eng,,0,0,0,,forming our future; let's jump straight there!
 Dialogue: 3,0:15:56.00,0:15:56.73,Salami Stressing Second - Eng,,0,0,0,,Let's go! Friends of friends are love
-Dialogue: 3,0:15:56.73,0:15:58.86,Salami Stressing Second - Eng Cyalume,,0,0,0,,{\c&H000000&}Let's go! Friends of friends are love
-Dialogue: 3,0:15:56.73,0:15:58.86,Salami Stressing Second - Eng Cyalume,,0,0,0,,Let's go! Friends of friends are love
-Dialogue: 3,0:15:56.73,0:15:58.86,Salami Stressing Second - Eng Cyalume,,0,0,0,,Let's go! Friends of friends are love
-Dialogue: 3,0:15:56.89,0:16:01.65,Salami Stressing Second - Eng,,0,0,0,,{\fad(300,300)\an7\c&H000000&}{\3c&H8905E6&}W{\3c&H7946EB&}e{\3c&H6F6DEE&} {\3c&H6987F0&}r{\3c&H60AAF2&}e{\3c&H57D2F5&}a{\3c&H52EEEF&}l{\3c&H55EFDA&}l{\3c&H5AF2C0&}y{\3c&H61F59B&} {\3c&H66F780&}a{\3c&H6CFA5E&}r{\3c&H72FD3E&}e{\3c&H7BFE25&} {\3c&H8AFC24&}t{\3c&HA0F924&}h{\3c&HB8F623&}e{\3c&HC9F322&} {\3c&HDCF022&}b{\3c&HF2EC22&}e{\3c&HF4D63D&}s{\3c&HF5C157&}t{\3c&HF6B06B&} {\3c&HF79A87&}o{\3c&HF982A4&}f{\3c&HFA72B8&} {\3c&HF55FCB&}f{\3c&HE450CF&}r{\3c&HD746D2&}i{\3c&HC436D7&}e{\3c&HAF25DC&}n{\3c&H9A13E2&}d{\3c&H8905E6&}s
-Dialogue: 3,0:16:00.86,0:16:04.11,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}D{\3c&H7947EB&}a{\3c&H6D77EE&}n{\3c&H60ABF2&}c{\3c&H55D7F5&}i{\3c&H52EEED&}n{\3c&H5BF2BC&}g{\3c&H63F690&} {\3c&H68F875&}i{\3c&H6EFB54&}n{\3c&H76FE2B&} {\3c&H88FD24&}o{\3c&HA3F924&}u{\3c&HBCF523&}r{\3c&HCEF222&} {\3c&HE3EF21&}f{\3c&HF3E42D&}r{\3c&HF4D044&}i{\3c&HF6B763&}e{\3c&HF89988&}n{\3c&HFA79AF&}d{\3c&HFB65C8&} {\3c&HDE4CD0&}w{\3c&HC436D7&}o{\3c&HAF25DC&}r{\3c&HA119E0&}l{\3c&H8905E6&}d
-Dialogue: 3,0:16:02.19,0:16:07.40,Salami Stressing Second - Eng,,0,0,0,,{\fad(300,300)\an7\c&H000000&}{\3c&H8905E6&}W{\3c&H706CEE&}i{\3c&H6694F0&}t{\3c&H57CFF5&}h{\3c&H57F0D4&} {\3c&H5FF4A8&}y{\3c&H6BFA64&}o{\3c&H77FF26&}u{\3c&H93FB24&},{\3c&HA7F823&} {\3c&HC1F423&}I{\3c&HD7F122&}'{\3c&HE9EE21&}l{\3c&HF3E22F&}l{\3c&HF4CB4B&} {\3c&HF7A579&}b{\3c&HF97EAA&}e{\3c&HFA63C9&} {\3c&HDD4BD1&}f{\3c&HC93AD6&}i{\3c&HA81FDE&}n{\3c&H8905E6&}e
-Dialogue: 3,0:16:07.40,0:16:15.54,Salami Stressing Second - Eng,,0,0,0,,{\fad(200,1000)\c&H000000&}{\3c&H8905E6&}W{\3c&H7849EB&}e{\3c&H6E71EE&}'{\3c&H6986EF&}l{\3c&H649DF1&}l{\3c&H5EB5F3&} {\3c&H57D1F5&}a{\3c&H52EEEE&}l{\3c&H57F0D2&}w{\3c&H60F4A2&}a{\3c&H67F87B&}y{\3c&H6FFB51&}s{\3c&H74FE33&} {\3c&H81FE25&}b{\3c&H99FA24&}e{\3c&HABF723&} {\3c&HBDF523&}f{\3c&HD1F222&}r{\3c&HE1F022&}i{\3c&HF2EB23&}e{\3c&HF4D143&}n{\3c&HF6B664&}d{\3c&HF79F81&}s{\3c&HF88F94&},{\3c&HF980A7&} {\3c&HFB6AC2&}f{\3c&HEA56CD&}o{\3c&HD847D2&}r{\3c&HC436D7&}e{\3c&HAE24DD&}v{\3c&H9912E2&}e{\3c&H8905E6&}r
-Dialogue: 1,0:15:34.00,0:15:35.70,Salami Stressing Second - Eng,,0,0,0,,{\fad(200,200)\an7}Come here
-Dialogue: 1,0:15:55.18,0:15:58.69,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}T{\3c&H774DEB&}h{\3c&H6693F0&}e{\3c&H58CCF5&} {\3c&H51EEF0&}"{\3c&H5BF2BD&}I{\3c&H63F692&} {\3c&H69F871&}l{\3c&H70FC4A&}o{\3c&H84FD25&}v{\3c&HA6F823&}e{\3c&HC1F423&} {\3c&HDFF022&}y{\3c&HF3DB37&}o{\3c&HF6B664&}u{\3c&HF8938F&}"{\3c&HFA7AAE&} {\3c&HF55FCB&}s{\3c&HC93BD6&}m{\3c&HB52ADB&}i{\3c&HA51CDF&}l{\3c&H8905E6&}e
-Dialogue: 1,0:15:56.89,0:16:01.65,Salami Stressing Second - Eng,,0,0,0,,{\fad(300,300)\an7\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}W{\3c&H7946EB&}e{\3c&H6F6DEE&} {\3c&H6987F0&}r{\3c&H60AAF2&}e{\3c&H57D2F5&}a{\3c&H52EEEF&}l{\3c&H55EFDA&}l{\3c&H5AF2C0&}y{\3c&H61F59B&} {\3c&H66F780&}a{\3c&H6CFA5E&}r{\3c&H72FD3E&}e{\3c&H7BFE25&} {\3c&H8AFC24&}t{\3c&HA0F924&}h{\3c&HB8F623&}e{\3c&HC9F322&} {\3c&HDCF022&}b{\3c&HF2EC22&}e{\3c&HF4D63D&}s{\3c&HF5C157&}t{\3c&HF6B06B&} {\3c&HF79A87&}o{\3c&HF982A4&}f{\3c&HFA72B8&} {\3c&HF55FCB&}f{\3c&HE450CF&}r{\3c&HD746D2&}i{\3c&HC436D7&}e{\3c&HAF25DC&}n{\3c&H9A13E2&}d{\3c&H8905E6&}s
-Dialogue: 1,0:16:00.86,0:16:04.11,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}D{\3c&H7947EB&}a{\3c&H6D77EE&}n{\3c&H60ABF2&}c{\3c&H55D7F5&}i{\3c&H52EEED&}n{\3c&H5BF2BC&}g{\3c&H63F690&} {\3c&H68F875&}i{\3c&H6EFB54&}n{\3c&H76FE2B&} {\3c&H88FD24&}o{\3c&HA3F924&}u{\3c&HBCF523&}r{\3c&HCEF222&} {\3c&HE3EF21&}f{\3c&HF3E42D&}r{\3c&HF4D044&}i{\3c&HF6B763&}e{\3c&HF89988&}n{\3c&HFA79AF&}d{\3c&HFB65C8&} {\3c&HDE4CD0&}w{\3c&HC436D7&}o{\3c&HAF25DC&}r{\3c&HA119E0&}l{\3c&H8905E6&}d
-Dialogue: 1,0:16:02.19,0:16:07.40,Salami Stressing Second - Eng,,0,0,0,,{\fad(300,300)\an7\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}W{\3c&H706CEE&}i{\3c&H6694F0&}t{\3c&H57CFF5&}h{\3c&H57F0D4&} {\3c&H5FF4A8&}y{\3c&H6BFA64&}o{\3c&H77FF26&}u{\3c&H93FB24&},{\3c&HA7F823&} {\3c&HC1F423&}I{\3c&HD7F122&}'{\3c&HE9EE21&}l{\3c&HF3E22F&}l{\3c&HF4CB4B&} {\3c&HF7A579&}b{\3c&HF97EAA&}e{\3c&HFA63C9&} {\3c&HDD4BD1&}f{\3c&HC93AD6&}i{\3c&HA81FDE&}n{\3c&H8905E6&}e
-Dialogue: 1,0:16:07.40,0:16:15.54,Salami Stressing Second - Eng,,0,0,0,,{\fad(200,1000)\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}W{\3c&H7849EB&}e{\3c&H6E71EE&}'{\3c&H6986EF&}l{\3c&H649DF1&}l{\3c&H5EB5F3&} {\3c&H57D1F5&}a{\3c&H52EEEE&}l{\3c&H57F0D2&}w{\3c&H60F4A2&}a{\3c&H67F87B&}y{\3c&H6FFB51&}s{\3c&H74FE33&} {\3c&H81FE25&}b{\3c&H99FA24&}e{\3c&HABF723&} {\3c&HBDF523&}f{\3c&HD1F222&}r{\3c&HE1F022&}i{\3c&HF2EB23&}e{\3c&HF4D143&}n{\3c&HF6B664&}d{\3c&HF79F81&}s{\3c&HF88F94&},{\3c&HF980A7&} {\3c&HFB6AC2&}f{\3c&HEA56CD&}o{\3c&HD847D2&}r{\3c&HC436D7&}e{\3c&HAE24DD&}v{\3c&H9912E2&}e{\3c&H8905E6&}r
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 6,0:15:56.73,0:15:59.23,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&\3c&H8905E6&}L{\3c&H8129E7&}e{\3c&H784EE9&}t{\3c&H706DEA&}'{\3c&H6C81EA&}s{\3c&H64A1EB&} {\3c&H5EBBEC&}g{\3c&H54E5EE&}o{\3c&H57F0D7&},{\3c&H5CF1C5&} {\3c&H61F3AE&}f{\3c&H68F590&}r{\3c&H6EF778&}i{\3c&H73F961&}e{\3c&H7BFC40&}n{\3c&H85FC26&}d{\3c&H98F52B&}s{\3c&HA6EF2F&} {\3c&HB5E933&}o{\3c&HC8E138&}f{\3c&HD6DC3B&} {\3c&HE5D63F&}f{\3c&HF3CE46&}r{\3c&HF4C353&}i{\3c&HF5B565&}e{\3c&HF6A47A&}n{\3c&HF89290&}d{\3c&HF983A3&}s{\3c&HFA77B1&} {\3c&HFA69C2&}a{\3c&HE85CC4&}r{\3c&HD54CC6&}e{\3c&HC742C7&} {\3c&HBC39C8&}l{\3c&HA82ACA&}o{\3c&H9219CC&}v{\3c&H7E09CE&}e
+Dialogue: 3,0:15:59.23,0:16:01.98,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&\3c&H8905E6&}A{\3c&H794BE8&} {\3c&H706FEA&}t{\3c&H659FEB&}r{\3c&H59CFED&}e{\3c&H57F0D9&}a{\3c&H62F3AB&}s{\3c&H6CF77E&}u{\3c&H77FB50&}r{\3c&H81FE25&}e{\3c&H98F52B&} {\3c&HA9EE2F&}i{\3c&HC0E536&}n{\3c&HD6DC3B&} {\3c&HF0D142&}y{\3c&HF5B762&}o{\3c&HF79E81&}u{\3c&HF9899C&}r{\3c&HFA78B0&} {\3c&HED5FC3&}h{\3c&HCE47C6&}e{\3c&HB131C9&}a{\3c&H981DCC&}r{\3c&H7E09CE&}t
+Dialogue: 3,0:16:01.98,0:16:07.20,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&\3c&H8905E6&}W{\3c&H7F31E8&}h{\3c&H7750E9&}a{\3c&H716AE9&}t{\3c&H6C82EA&}e{\3c&H659DEB&}v{\3c&H5EBAEC&}e{\3c&H58D5ED&}r{\3c&H53EAEE&} {\3c&H55EFE0&}h{\3c&H5BF1C6&}a{\3c&H61F3AE&}p{\3c&H67F593&}p{\3c&H6DF779&}e{\3c&H73F961&}n{\3c&H79FB49&}s{\3c&H7DFD36&} {\3c&H83FD26&}w{\3c&H93F72A&}e{\3c&H9DF32C&}'{\3c&HA4F02E&}l{\3c&HACED30&}l{\3c&HB3EA32&} {\3c&HBEE535&}c{\3c&HCCE039&}h{\3c&HDADA3C&}a{\3c&HE8D440&}n{\3c&HF3CD47&}g{\3c&HF4C057&}e{\3c&HF5B762&} {\3c&HF5B06B&}i{\3c&HF6A776&}t{\3c&HF79F80&} {\3c&HF79889&}i{\3c&HF88C97&}n{\3c&HF981A5&}t{\3c&HFA75B4&}o{\3c&HFB6DBE&} {\3c&HEF61C3&}h{\3c&HE156C5&}a{\3c&HD049C6&}p{\3c&HBF3CC8&}p{\3c&HB634C9&}i{\3c&HA729CA&}n{\3c&H981DCB&}e{\3c&H8B13CD&}s{\3c&H7E09CE&}s
+Dialogue: 3,0:16:07.20,0:16:10.16,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&}{\3c&H8905E6&\c&H000000&}C{\3c&H7946EB&}a{\3c&H6D79EE&}l{\3c&H6598F1&}l{\3c&H5DB7F3&} {\3c&H55D8F5&}i{\3c&H52EEEA&}t{\3c&H5AF2C2&} {\3c&H61F59D&}d{\3c&H6AF969&}e{\3c&H73FD39&}s{\3c&H85FD25&}t{\3c&H9BFA24&}i{\3c&HB2F623&}n{\3c&HD5F122&}y{\3c&HECEE21&},{\3c&HF3E130&} {\3c&HF5BD5C&}w{\3c&HF8958C&}h{\3c&HFA75B5&}a{\3c&HF15CCC&}t{\3c&HD646D2&}e{\3c&HB92DDA&}v{\3c&H9E17E1&}e{\3c&H8905E6&}r
+Dialogue: 3,0:16:10.16,0:16:11.53,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}I{\3c&H7A42EA&}t{\3c&H6B7EEF&}'{\3c&H62A4F2&}s{\3c&H53E2F6&} {\3c&H56F0D4&}f{\3c&H62F694&}u{\3c&H6FFB50&}n{\3c&H81FE25&} {\3c&H9EF924&}e{\3c&HBEF523&}i{\3c&HDBF022&}t{\3c&HF3DA38&}h{\3c&HF6AD6F&}e{\3c&HF9889D&}r{\3c&HFB6BC0&} {\3c&HD545D3&}w{\3c&HB127DC&}a{\3c&H8905E6&}y
+Dialogue: 3,0:16:11.87,0:16:14.04,Salami Stressing Second - Eng,,0,0,0,,{\fad(100,0)\c&H000000&}{\3c&H8905E6&}I{\3c&H735DEC&}'{\3c&H649CF1&}m{\3c&H5BF2BA&} {\3c&H68F877&}s{\3c&H7DFE25&}o{\3c&HAFF723&} {\3c&HE6EF21&}h{\3c&HF5B862&}a{\3c&HFA70BA&}p{\3c&HC738D6&}p{\3c&H8905E6&}y
+Dialogue: 3,0:16:14.04,0:16:17.66,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}O{\3c&H7A43EB&}u{\3c&H6E71EE&}r{\3c&H6596F1&} {\3c&H5EB4F3&}r{\3c&H54DCF6&}e{\3c&H54EFE0&}l{\3c&H59F1C5&}a{\3c&H61F59D&}t{\3c&H67F77D&}i{\3c&H6CFA5E&}o{\3c&H75FE31&}n{\3c&H88FC24&}s{\3c&HA1F924&}h{\3c&HB7F623&}i{\3c&HCEF222&}p{\3c&HE2EF22&} {\3c&HF1ED21&}i{\3c&HF3D93A&}s{\3c&HF5C552&} {\3c&HF6AF6D&}s{\3c&HF8938F&}o{\3c&HF980A7&} {\3c&HFB69C3&}s{\3c&HE552CF&}p{\3c&HCE3FD4&}e{\3c&HB82CDA&}c{\3c&HAA21DE&}i{\3c&H940FE3&}a{\3c&H8905E6&}l
+Dialogue: 3,0:16:17.66,0:16:20.04,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}H{\3c&H6986EF&}e{\3c&H51E9F7&}r{\3c&H5EF4AA&}e{\3c&H6EFB58&} {\3c&H7AFF25&}i{\3c&H9FF924&}t{\3c&HCAF322&} {\3c&HF2E827&}c{\3c&HF6AA74&}o{\3c&HEB57CD&}m{\3c&HB52ADB&}e{\3c&H8905E6&}s
+Dialogue: 3,0:16:20.04,0:16:23.55,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}T{\3c&H774DEB&}h{\3c&H6693F0&}e{\3c&H58CCF5&} {\3c&H51EEF0&}"{\3c&H5BF2BD&}I{\3c&H63F692&} {\3c&H69F871&}l{\3c&H70FC4A&}o{\3c&H84FD25&}v{\3c&HA6F823&}e{\3c&HC1F423&} {\3c&HDFF022&}y{\3c&HF3DB37&}o{\3c&HF6B664&}u{\3c&HF8938F&}"{\3c&HFA7AAE&} {\3c&HF55FCB&}s{\3c&HC93BD6&}m{\3c&HB52ADB&}i{\3c&HA51CDF&}l{\3c&H8905E6&}e
+Dialogue: 3,0:16:21.75,0:16:26.51,Salami Stressing Second - Eng,,0,0,0,,{\fad(300,300)\an7\c&H000000&}{\3c&H8905E6&}W{\3c&H7946EB&}e{\3c&H6F6DEE&} {\3c&H6987F0&}r{\3c&H60AAF2&}e{\3c&H57D2F5&}a{\3c&H52EEEF&}l{\3c&H55EFDA&}l{\3c&H5AF2C0&}y{\3c&H61F59B&} {\3c&H66F780&}a{\3c&H6CFA5E&}r{\3c&H72FD3E&}e{\3c&H7BFE25&} {\3c&H8AFC24&}t{\3c&HA0F924&}h{\3c&HB8F623&}e{\3c&HC9F322&} {\3c&HDCF022&}b{\3c&HF2EC22&}e{\3c&HF4D63D&}s{\3c&HF5C157&}t{\3c&HF6B06B&} {\3c&HF79A87&}o{\3c&HF982A4&}f{\3c&HFA72B8&} {\3c&HF55FCB&}f{\3c&HE450CF&}r{\3c&HD746D2&}i{\3c&HC436D7&}e{\3c&HAF25DC&}n{\3c&H9A13E2&}d{\3c&H8905E6&}s
+Dialogue: 3,0:16:25.71,0:16:28.97,Salami Stressing Second - Eng,,0,0,0,,{\c&H000000&}{\3c&H8905E6&}D{\3c&H7947EB&}a{\3c&H6D77EE&}n{\3c&H60ABF2&}c{\3c&H55D7F5&}i{\3c&H52EEED&}n{\3c&H5BF2BC&}g{\3c&H63F690&} {\3c&H68F875&}i{\3c&H6EFB54&}n{\3c&H76FE2B&} {\3c&H88FD24&}o{\3c&HA3F924&}u{\3c&HBCF523&}r{\3c&HCEF222&} {\3c&HE3EF21&}f{\3c&HF3E42D&}r{\3c&HF4D044&}i{\3c&HF6B763&}e{\3c&HF89988&}n{\3c&HFA79AF&}d{\3c&HFB65C8&} {\3c&HDE4CD0&}w{\3c&HC436D7&}o{\3c&HAF25DC&}r{\3c&HA119E0&}l{\3c&H8905E6&}d
+Dialogue: 3,0:16:27.05,0:16:32.26,Salami Stressing Second - Eng,,0,0,0,,{\fad(300,300)\an7\c&H000000&}{\3c&H8905E6&}W{\3c&H706CEE&}i{\3c&H6694F0&}t{\3c&H57CFF5&}h{\3c&H57F0D4&} {\3c&H5FF4A8&}y{\3c&H6BFA64&}o{\3c&H77FF26&}u{\3c&H93FB24&},{\3c&HA7F823&} {\3c&HC1F423&}I{\3c&HD7F122&}'{\3c&HE9EE21&}l{\3c&HF3E22F&}l{\3c&HF4CB4B&} {\3c&HF7A579&}b{\3c&HF97EAA&}e{\3c&HFA63C9&} {\3c&HDD4BD1&}f{\3c&HC93AD6&}i{\3c&HA81FDE&}n{\3c&H8905E6&}e
+Dialogue: 3,0:16:32.26,0:16:40.40,Salami Stressing Second - Eng,,0,0,0,,{\fad(200,1000)\c&H000000&}{\3c&H8905E6&}W{\3c&H7849EB&}e{\3c&H6E71EE&}'{\3c&H6986EF&}l{\3c&H649DF1&}l{\3c&H5EB5F3&} {\3c&H57D1F5&}a{\3c&H52EEEE&}l{\3c&H57F0D2&}w{\3c&H60F4A2&}a{\3c&H67F87B&}y{\3c&H6FFB51&}s{\3c&H74FE33&} {\3c&H81FE25&}b{\3c&H99FA24&}e{\3c&HABF723&} {\3c&HBDF523&}f{\3c&HD1F222&}r{\3c&HE1F022&}i{\3c&HF2EB23&}e{\3c&HF4D143&}n{\3c&HF6B664&}d{\3c&HF79F81&}s{\3c&HF88F94&},{\3c&HF980A7&} {\3c&HFB6AC2&}f{\3c&HEA56CD&}o{\3c&HD847D2&}r{\3c&HC436D7&}e{\3c&HAE24DD&}v{\3c&H9912E2&}e{\3c&H8905E6&}r
+Dialogue: 5,0:15:56.02,0:15:59.23,Salami Stressing Second - Eng,,0,0,0,,{\fad(140,0)\bord7.5\blur12\c&H000000&\3c&H8905E6&}L{\3c&H8129E7&}e{\3c&H784EE9&}t{\3c&H706DEA&}'{\3c&H6C81EA&}s{\3c&H64A1EB&} {\3c&H5EBBEC&}g{\3c&H54E5EE&}o{\3c&H57F0D7&},{\3c&H5CF1C5&} {\3c&H61F3AE&}f{\3c&H68F590&}r{\3c&H6EF778&}i{\3c&H73F961&}e{\3c&H7BFC40&}n{\3c&H85FC26&}d{\3c&H98F52B&}s{\3c&HA6EF2F&} {\3c&HB5E933&}o{\3c&HC8E138&}f{\3c&HD6DC3B&} {\3c&HE5D63F&}f{\3c&HF3CE46&}r{\3c&HF4C353&}i{\3c&HF5B565&}e{\3c&HF6A47A&}n{\3c&HF89290&}d{\3c&HF983A3&}s{\3c&HFA77B1&} {\3c&HFA69C2&}a{\3c&HE85CC4&}r{\3c&HD54CC6&}e{\3c&HC742C7&} {\3c&HBC39C8&}l{\3c&HA82ACA&}o{\3c&H9219CC&}v{\3c&H7E09CE&}e
+Dialogue: 1,0:15:59.23,0:16:01.98,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&\3c&H8905E6&}A{\3c&H794BE8&} {\3c&H706FEA&}t{\3c&H659FEB&}r{\3c&H59CFED&}e{\3c&H57F0D9&}a{\3c&H62F3AB&}s{\3c&H6CF77E&}u{\3c&H77FB50&}r{\3c&H81FE25&}e{\3c&H98F52B&} {\3c&HA9EE2F&}i{\3c&HC0E536&}n{\3c&HD6DC3B&} {\3c&HF0D142&}y{\3c&HF5B762&}o{\3c&HF79E81&}u{\3c&HF9899C&}r{\3c&HFA78B0&} {\3c&HED5FC3&}h{\3c&HCE47C6&}e{\3c&HB131C9&}a{\3c&H981DCC&}r{\3c&H7E09CE&}t
+Dialogue: 1,0:16:01.98,0:16:07.20,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&\3c&H8905E6&}W{\3c&H7F31E8&}h{\3c&H7750E9&}a{\3c&H716AE9&}t{\3c&H6C82EA&}e{\3c&H659DEB&}v{\3c&H5EBAEC&}e{\3c&H58D5ED&}r{\3c&H53EAEE&} {\3c&H55EFE0&}h{\3c&H5BF1C6&}a{\3c&H61F3AE&}p{\3c&H67F593&}p{\3c&H6DF779&}e{\3c&H73F961&}n{\3c&H79FB49&}s{\3c&H7DFD36&} {\3c&H83FD26&}w{\3c&H93F72A&}e{\3c&H9DF32C&}'{\3c&HA4F02E&}l{\3c&HACED30&}l{\3c&HB3EA32&} {\3c&HBEE535&}c{\3c&HCCE039&}h{\3c&HDADA3C&}a{\3c&HE8D440&}n{\3c&HF3CD47&}g{\3c&HF4C057&}e{\3c&HF5B762&} {\3c&HF5B06B&}i{\3c&HF6A776&}t{\3c&HF79F80&} {\3c&HF79889&}i{\3c&HF88C97&}n{\3c&HF981A5&}t{\3c&HFA75B4&}o{\3c&HFB6DBE&} {\3c&HEF61C3&}h{\3c&HE156C5&}a{\3c&HD049C6&}p{\3c&HBF3CC8&}p{\3c&HB634C9&}i{\3c&HA729CA&}n{\3c&H981DCB&}e{\3c&H8B13CD&}s{\3c&H7E09CE&}s
+Dialogue: 1,0:16:07.20,0:16:10.16,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&\bord7.5\blur12\c&H000000&}C{\3c&H7946EB&}a{\3c&H6D79EE&}l{\3c&H6598F1&}l{\3c&H5DB7F3&} {\3c&H55D8F5&}i{\3c&H52EEEA&}t{\3c&H5AF2C2&} {\3c&H61F59D&}d{\3c&H6AF969&}e{\3c&H73FD39&}s{\3c&H85FD25&}t{\3c&H9BFA24&}i{\3c&HB2F623&}n{\3c&HD5F122&}y{\3c&HECEE21&},{\3c&HF3E130&} {\3c&HF5BD5C&}w{\3c&HF8958C&}h{\3c&HFA75B5&}a{\3c&HF15CCC&}t{\3c&HD646D2&}e{\3c&HB92DDA&}v{\3c&H9E17E1&}e{\3c&H8905E6&}r
+Dialogue: 1,0:16:10.16,0:16:11.53,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}I{\3c&H7A42EA&}t{\3c&H6B7EEF&}'{\3c&H62A4F2&}s{\3c&H53E2F6&} {\3c&H56F0D4&}f{\3c&H62F694&}u{\3c&H6FFB50&}n{\3c&H81FE25&} {\3c&H9EF924&}e{\3c&HBEF523&}i{\3c&HDBF022&}t{\3c&HF3DA38&}h{\3c&HF6AD6F&}e{\3c&HF9889D&}r{\3c&HFB6BC0&} {\3c&HD545D3&}w{\3c&HB127DC&}a{\3c&H8905E6&}y
+Dialogue: 1,0:16:11.87,0:16:14.04,Salami Stressing Second - Eng,,0,0,0,,{\fad(100,0)\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}I{\3c&H735DEC&}'{\3c&H649CF1&}m{\3c&H5BF2BA&} {\3c&H68F877&}s{\3c&H7DFE25&}o{\3c&HAFF723&} {\3c&HE6EF21&}h{\3c&HF5B862&}a{\3c&HFA70BA&}p{\3c&HC738D6&}p{\3c&H8905E6&}y
+Dialogue: 1,0:16:14.04,0:16:17.66,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}O{\3c&H7A43EB&}u{\3c&H6E71EE&}r{\3c&H6596F1&} {\3c&H5EB4F3&}r{\3c&H54DCF6&}e{\3c&H54EFE0&}l{\3c&H59F1C5&}a{\3c&H61F59D&}t{\3c&H67F77D&}i{\3c&H6CFA5E&}o{\3c&H75FE31&}n{\3c&H88FC24&}s{\3c&HA1F924&}h{\3c&HB7F623&}i{\3c&HCEF222&}p{\3c&HE2EF22&} {\3c&HF1ED21&}i{\3c&HF3D93A&}s{\3c&HF5C552&} {\3c&HF6AF6D&}s{\3c&HF8938F&}o{\3c&HF980A7&} {\3c&HFB69C3&}s{\3c&HE552CF&}p{\3c&HCE3FD4&}e{\3c&HB82CDA&}c{\3c&HAA21DE&}i{\3c&H940FE3&}a{\3c&H8905E6&}l
+Dialogue: 1,0:16:17.66,0:16:20.04,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}H{\3c&H6986EF&}e{\3c&H51E9F7&}r{\3c&H5EF4AA&}e{\3c&H6EFB58&} {\3c&H7AFF25&}i{\3c&H9FF924&}t{\3c&HCAF322&} {\3c&HF2E827&}c{\3c&HF6AA74&}o{\3c&HEB57CD&}m{\3c&HB52ADB&}e{\3c&H8905E6&}s
+Dialogue: 1,0:16:20.04,0:16:23.55,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}T{\3c&H774DEB&}h{\3c&H6693F0&}e{\3c&H58CCF5&} {\3c&H51EEF0&}"{\3c&H5BF2BD&}I{\3c&H63F692&} {\3c&H69F871&}l{\3c&H70FC4A&}o{\3c&H84FD25&}v{\3c&HA6F823&}e{\3c&HC1F423&} {\3c&HDFF022&}y{\3c&HF3DB37&}o{\3c&HF6B664&}u{\3c&HF8938F&}"{\3c&HFA7AAE&} {\3c&HF55FCB&}s{\3c&HC93BD6&}m{\3c&HB52ADB&}i{\3c&HA51CDF&}l{\3c&H8905E6&}e
+Dialogue: 1,0:16:21.75,0:16:26.51,Salami Stressing Second - Eng,,0,0,0,,{\fad(300,300)\an7\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}W{\3c&H7946EB&}e{\3c&H6F6DEE&} {\3c&H6987F0&}r{\3c&H60AAF2&}e{\3c&H57D2F5&}a{\3c&H52EEEF&}l{\3c&H55EFDA&}l{\3c&H5AF2C0&}y{\3c&H61F59B&} {\3c&H66F780&}a{\3c&H6CFA5E&}r{\3c&H72FD3E&}e{\3c&H7BFE25&} {\3c&H8AFC24&}t{\3c&HA0F924&}h{\3c&HB8F623&}e{\3c&HC9F322&} {\3c&HDCF022&}b{\3c&HF2EC22&}e{\3c&HF4D63D&}s{\3c&HF5C157&}t{\3c&HF6B06B&} {\3c&HF79A87&}o{\3c&HF982A4&}f{\3c&HFA72B8&} {\3c&HF55FCB&}f{\3c&HE450CF&}r{\3c&HD746D2&}i{\3c&HC436D7&}e{\3c&HAF25DC&}n{\3c&H9A13E2&}d{\3c&H8905E6&}s
+Dialogue: 1,0:16:25.71,0:16:28.97,Salami Stressing Second - Eng,,0,0,0,,{\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}D{\3c&H7947EB&}a{\3c&H6D77EE&}n{\3c&H60ABF2&}c{\3c&H55D7F5&}i{\3c&H52EEED&}n{\3c&H5BF2BC&}g{\3c&H63F690&} {\3c&H68F875&}i{\3c&H6EFB54&}n{\3c&H76FE2B&} {\3c&H88FD24&}o{\3c&HA3F924&}u{\3c&HBCF523&}r{\3c&HCEF222&} {\3c&HE3EF21&}f{\3c&HF3E42D&}r{\3c&HF4D044&}i{\3c&HF6B763&}e{\3c&HF89988&}n{\3c&HFA79AF&}d{\3c&HFB65C8&} {\3c&HDE4CD0&}w{\3c&HC436D7&}o{\3c&HAF25DC&}r{\3c&HA119E0&}l{\3c&H8905E6&}d
+Dialogue: 1,0:16:27.05,0:16:32.26,Salami Stressing Second - Eng,,0,0,0,,{\fad(300,300)\an7\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}W{\3c&H706CEE&}i{\3c&H6694F0&}t{\3c&H57CFF5&}h{\3c&H57F0D4&} {\3c&H5FF4A8&}y{\3c&H6BFA64&}o{\3c&H77FF26&}u{\3c&H93FB24&},{\3c&HA7F823&} {\3c&HC1F423&}I{\3c&HD7F122&}'{\3c&HE9EE21&}l{\3c&HF3E22F&}l{\3c&HF4CB4B&} {\3c&HF7A579&}b{\3c&HF97EAA&}e{\3c&HFA63C9&} {\3c&HDD4BD1&}f{\3c&HC93AD6&}i{\3c&HA81FDE&}n{\3c&H8905E6&}e
+Dialogue: 1,0:16:32.26,0:16:40.40,Salami Stressing Second - Eng,,0,0,0,,{\fad(200,1000)\bord7.5\blur12\c&H000000&}{\3c&H8905E6&}W{\3c&H7849EB&}e{\3c&H6E71EE&}'{\3c&H6986EF&}l{\3c&H649DF1&}l{\3c&H5EB5F3&} {\3c&H57D1F5&}a{\3c&H52EEEE&}l{\3c&H57F0D2&}w{\3c&H60F4A2&}a{\3c&H67F87B&}y{\3c&H6FFB51&}s{\3c&H74FE33&} {\3c&H81FE25&}b{\3c&H99FA24&}e{\3c&HABF723&} {\3c&HBDF523&}f{\3c&HD1F222&}r{\3c&HE1F022&}i{\3c&HF2EB23&}e{\3c&HF4D143&}n{\3c&HF6B664&}d{\3c&HF79F81&}s{\3c&HF88F94&},{\3c&HF980A7&} {\3c&HFB6AC2&}f{\3c&HEA56CD&}o{\3c&HD847D2&}r{\3c&HC436D7&}e{\3c&HAE24DD&}v{\3c&H9912E2&}e{\3c&H8905E6&}r
 Dialogue: 4,0:00:11.21,0:00:14.78,OP Romaji-Alt,,0,0,0,fx,{\an5\pos(441,123)\1c&HE5A4D2&\3c&H760C95&\4c&H760C95&\blur0.75\org(-1919,123)\frz3\t(0,150,0.5,\frz-0.3)\t(150,300,1.5,\frz0.4)\t(300,450,0.5,\frz0)\t(450,600,\1c&HFEE1F6&\3c&HEB42E5&\4c&HEB42E5&\blur2.25)\t(600,900,\3c&H760C95&\4c&HEB42E5&\blur0.75)\t(3050,3200,\fscx2\alpha&HFF&)}P
 Dialogue: 4,0:00:11.21,0:00:14.78,OP English,,0,0,0,fx,{\an5\pos(469.5,123)\1c&HE5A4D2&\3c&H760C95&\4c&H760C95&\blur0.75\org(-1919,123)\frz3\t(10,160,0.5,\frz-0.3)\t(160,310,1.5,\frz0.4)\t(310,460,0.5,\frz0)\t(460,610,\1c&HFEE1F6&\3c&HEB42E5&\4c&HEB42E5&\blur2.25)\t(610,910,\3c&H760C95&\4c&HEB42E5&\blur0.75)\t(3060,3210,\fscx2\alpha&HFF&)}u
 Dialogue: 4,0:00:11.21,0:00:14.78,OP English,,0,0,0,fx,{\an5\pos(495,123)\1c&HE5A4D2&\3c&H760C95&\4c&H760C95&\blur0.75\org(-1919,123)\frz3\t(20,170,0.5,\frz-0.3)\t(170,320,1.5,\frz0.4)\t(320,470,0.5,\frz0)\t(470,620,\1c&HFEE1F6&\3c&HEB42E5&\4c&HEB42E5&\blur2.25)\t(620,920,\3c&H760C95&\4c&HEB42E5&\blur0.75)\t(3070,3220,\fscx2\alpha&HFF&)}t
