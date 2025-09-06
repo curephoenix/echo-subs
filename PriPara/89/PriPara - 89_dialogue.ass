@@ -17,9 +17,9 @@ Keyframes File: PriPara - 89_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 192
-Active Line: 203
-Video Position: 20854
+Scroll Position: 235
+Active Line: 246
+Video Position: 29383
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -186,32 +186,32 @@ Dialogue: 0,0:10:00.27,0:10:02.16,Default,,0,0,0,,W-Why those...
 Dialogue: 0,0:10:09.98,0:10:11.30,Default,,0,0,0,,Time for the farewell address-pri!
 Dialogue: 0,0:10:11.75,0:10:15.30,Default,,0,0,0,,Our good friends, Hibiki...
 Dialogue: 0,0:10:16.27,0:10:18.34,Default,,0,0,0,,Falulu, Fuwari!
-Dialogue: 0,0:10:19.80,0:10:21.68,Default,,0,0,0,,I want to see you again!
+Dialogue: 0,0:10:19.80,0:10:21.68,Default,,0,0,0,,Let's meet again!
 Dialogue: 0,0:10:22.71,0:10:25.06,Default,,0,0,0,,We've been through a lot.
 Dialogue: 0,0:10:26.12,0:10:28.00,Default,,0,0,0,,But we'll...
-Dialogue: 0,0:10:28.88,0:10:30.96,Default,,0,0,0,,...always be together!
-Dialogue: 0,0:10:43.26,0:10:48.67,Default,,0,0,0,,It's the birthday and farewell party for Shikyouin Hibiki!
+Dialogue: 0,0:10:28.96,0:10:30.96,Default,,0,0,0,,always be together!
+Dialogue: 0,0:10:43.26,0:10:48.67,Default,,0,0,0,,It's Shikyouin Hibiki's birthday and farewell party!
 Dialogue: 0,0:10:48.67,0:10:53.09,Default,,0,0,0,,Are you all having fun?!
 Dialogue: 0,0:10:54.58,0:10:56.51,Default,,0,0,0,,What about you, Hibiki?
 Dialogue: 0,0:10:58.22,0:11:01.18,Default,,0,0,0,,She's so happy she can't even speak!
-Dialogue: 0,0:11:01.50,0:11:08.15,Default,,0,0,0,,And now, it's time for the unhappy bird who became happy, Toriko!
+Dialogue: 0,0:11:01.50,0:11:07.65,Default,,0,0,0,,And now, it's time for the unhappy bird\N who found happiness, Toriko!
 Dialogue: 0,0:11:08.15,0:11:12.11,Default,,0,0,0,,The path for Toriko is bright!
 Dialogue: 0,0:11:12.11,0:11:16.36,Default,,0,0,0,,Toriko is getting smarter!
 Dialogue: 0,0:11:16.36,0:11:18.89,Default,,0,0,0,,Toriko is optimistic-kuma!
 Dialogue: 0,0:11:18.89,0:11:21.92,Default,,0,0,0,,It's because she's going to PriParis with Fuwari-usa.
 Dialogue: 0,0:11:21.92,0:11:25.85,Default,,0,0,0,,It's obvious she's happy, \Nthis is a huge step for her-nekon.
 Comment: 0,0:11:25.85,0:11:30.58,Default_2,,0,0,0,,TL Note: Toriko can't remember her line for "Ko", as oppsed to "To" and "Ri"
-Dialogue: 0,0:11:25.85,0:11:30.59,Default,,0,0,0,,Ko is for...
-Dialogue: 0,0:11:30.59,0:11:34.05,Default,,0,0,0,,L-Loneliness? Trouble?
+Dialogue: 0,0:11:25.85,0:11:30.59,Default,,0,0,0,,{Ko is for... - OG}Toriko is...
+Dialogue: 0,0:11:30.59,0:11:34.05,Default,,0,0,0,,{Ko-mpletely alone? Ko-mplete trouble? - OG}Ko-mpletely alone? Ko-mplete trouble?
 Dialogue: 0,0:11:34.05,0:11:35.06,Default,,0,0,0,,No!
-Dialogue: 0,0:11:35.06,0:11:38.59,Default,,0,0,0,,Um, Ko is for, Ko is for...
-Comment: 0,0:11:38.27,0:11:41.22,Doki Default-Alt,,0,0,0,,(Unknown reference)
-Dialogue: 0,0:11:44.21,0:11:46.65,Default,,0,0,0,,Never thought that would happen-kuma...
-Dialogue: 0,0:11:46.65,0:11:49.69,Default,,0,0,0,,I guess she isn't used to being optimistic after all-usa...
-Dialogue: 0,0:11:50.72,0:11:54.40,Default,,0,0,0,,As I thought, I'm doomed to eternal unhappiness-tori!
+Dialogue: 0,0:11:35.06,0:11:38.59,Default,,0,0,0,,{Um, Ko is for, Ko is for... - OG}Um, Toriko is... Toriko is...
+Dialogue: 0,0:11:38.59,0:11:40.01,Default,,0,0,0,,{Comaneci style leotard! - OG}A Comaneci style leotard!
+Dialogue: 0,0:11:44.45,0:11:46.65,Default,,0,0,0,,Never thought that would happen-kuma...
+Dialogue: 0,0:11:46.65,0:11:49.69,Default,,0,0,0,,I guess she isn't used to being\Noptimistic after all-usa...
+Dialogue: 0,0:11:50.72,0:11:54.40,Default,,0,0,0,,I knew it! I really am doomed to\Neternal unhappiness-tori!
 Dialogue: 0,0:11:56.37,0:11:59.87,Default,,0,0,0,,Curses! Wherever did you go, Andou?
 Dialogue: 0,0:11:59.87,0:12:02.58,Default,,0,0,0,,Hibiki, what's wrong?
-Dialogue: 0,0:12:11.15,0:12:15.32,Default,,0,0,0,,When I look at you, I remember my old self.
+Dialogue: 0,0:12:11.15,0:12:15.32,Default,,0,0,0,,When I look at you, I'm reminded of my old self.
 Dialogue: 0,0:12:15.32,0:12:16.72,Default,,0,0,0,,Your old self?
 Dialogue: 0,0:12:17.38,0:12:20.24,Default,,0,0,0,,Laughing loudly while playing...
 Dialogue: 0,0:12:20.24,0:12:23.93,Default,,0,0,0,,Playing tag innocently with my old friends...
@@ -224,7 +224,7 @@ Dialogue: 0,0:12:43.27,0:12:46.95,Default,,0,0,0,,So that's why Maxi led you to 
 Dialogue: 0,0:12:47.97,0:12:50.42,Default,,0,0,0,,You might be right.
 Dialogue: 0,0:12:53.15,0:12:56.39,Default,,0,0,0,,I wonder where Andou went...
 Dialogue: 0,0:12:56.39,0:12:59.17,Default,,0,0,0,,Ah, now that you mention it, Andou had said...
-Dialogue: 0,0:12:59.17,0:13:02.35,Default,,0,0,0,,..."Even if it's only once, I want to see you in feminine clothing."
+Dialogue: 0,0:12:59.17,0:13:02.35,Default,,0,0,0,,Even if it's just once, he'd like\N to see how I'd look in feminine attire.
 Dialogue: 0,0:13:02.35,0:13:04.85,Default,,0,0,0,,That's it, Hibiki!
 Dialogue: 0,0:13:06.93,0:13:08.77,Default,,0,0,0,,Wearing feminine clothes?
 Dialogue: 0,0:13:08.77,0:13:09.97,Default,,0,0,0,,Prince Hibiki is?
@@ -234,27 +234,30 @@ Dialogue: 0,0:13:13.43,0:13:15.84,Default,,0,0,0,,Hibiki's gonna try wearing fem
 Dialogue: 0,0:13:17.03,0:13:20.36,Default,,0,0,0,,But Hibiki's a girl,
 Dialogue: 0,0:13:20.36,0:13:23.74,Default,,0,0,0,,so it's not exactly... unusual-pri?
 Dialogue: 0,0:13:37.21,0:13:39.18,Default,,0,0,0,,Is that Prince Hibiki?
+Dialogue: 0,0:13:38.66,0:13:39.98,Default,,0,0,0,,{\an8\3c&HA76053&}She's fabulous!
+Dialogue: 0,0:13:40.42,0:13:43.42,Default,,0,0,0,,{\an8\3c&HA76053&}She's so pretty!
 Dialogue: 0,0:13:40.21,0:13:42.14,Default,,0,0,0,,I wanna see more!
 Dialogue: 0,0:13:42.14,0:13:45.58,Default,,0,0,0,,Master Hibiki looks stunning in feminine attire,
 Dialogue: 0,0:13:45.58,0:13:48.16,Default,,0,0,0,,but her masculine appearance is brilliant, too.
 Dialogue: 0,0:13:48.16,0:13:49.64,Default,,0,0,0,,I'm divided.
-Dialogue: 0,0:13:50.85,0:13:53.88,Default,,0,0,0,,Get him!
-Dialogue: 0,0:13:55.18,0:13:57.52,Default,,0,0,0,,Pshuuuu.
-Dialogue: 0,0:13:57.93,0:13:59.74,Default,,0,0,0,,Got you.
-Dialogue: 0,0:14:00.58,0:14:02.40,Default,,0,0,0,,Master Hibiki...
-Dialogue: 0,0:14:02.40,0:14:05.13,Default,,0,0,0,,Andou, I'm sorry.
-Dialogue: 0,0:14:05.13,0:14:07.20,Default,,0,0,0,,Please come back.
+Dialogue: 0,0:13:50.85,0:13:53.00,Default,,0,0,0,,Get him!
+Dialogue: 0,0:13:55.18,0:13:57.52,Default,,0,0,0,,Pshuuuu...
+Dialogue: 0,0:13:58.19,0:13:59.74,Default,,0,0,0,,Got you.
+Dialogue: 0,0:14:00.88,0:14:02.12,Default,,0,0,0,,Master Hibiki...
+Dialogue: 0,0:14:02.40,0:14:05.34,Default,,0,0,0,,Andou, I'm sorry.
+Dialogue: 0,0:14:05.34,0:14:07.20,Default,,0,0,0,,Please come back.
 Dialogue: 0,0:14:07.53,0:14:09.17,Default,,0,0,0,,Master Hibiki,
 Dialogue: 0,0:14:09.77,0:14:11.29,Default,,0,0,0,,I appreciate those words.
 Dialogue: 0,0:14:12.60,0:14:14.45,Default,,0,0,0,,I'm so sorry.
 Dialogue: 0,0:14:19.48,0:14:21.17,Default,,0,0,0,,Thank you so much!
 Dialogue: 0,0:14:21.56,0:14:24.79,Default,,0,0,0,,Celebrate for me, and thanks!
-Dialogue: 0,0:14:24.79,0:14:26.39,Default,,0,0,0,,This is my gift!
-Dialogue: 0,0:14:29.78,0:14:31.70,Default,,0,0,0,,That should be everyone...
+Dialogue: 0,0:14:24.79,0:14:26.39,Default,,0,0,0,,This is my gift to you!
+Dialogue: 0,0:14:29.98,0:14:31.49,Default,,0,0,0,,That should be everyone...
 Dialogue: 0,0:14:32.55,0:14:33.64,Default,,0,0,0,,Hibiki.
 Dialogue: 0,0:14:33.64,0:14:37.31,Default,,0,0,0,,After this, I'll be cashing in that promise, okay?
-Dialogue: 0,0:14:38.61,0:14:40.77,Default,,0,0,0,,You're really going to do it?
+Dialogue: 0,0:14:38.61,0:14:40.77,Default,,0,0,0,,You really intend to do it?
 Dialogue: 0,0:14:44.39,0:14:47.12,Default,,0,0,0,,Prince Hibiki, you're amazing!
+Dialogue: 0,0:14:46.58,0:14:48.41,Default,,0,0,0,,{\an8\3c&H4848E1&}Fuwari! Natu!
 Dialogue: 0,0:15:48.93,0:15:49.85,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:15:54.61,0:15:58.07,Default,,0,0,0,,Did you drop the gold Hibiki statue,
 Dialogue: 0,0:15:58.07,0:15:59.81,Default,,0,0,0,,or the silver Hibiki statue?
@@ -266,8 +269,8 @@ Dialogue: 0,0:16:52.18,0:16:54.85,Default,,0,0,0,,Let's take this party to the n
 Dialogue: 0,0:16:54.85,0:16:57.74,Default,,0,0,0,,Lots of lively coords!
 Dialogue: 0,0:16:57.74,0:17:00.71,Default,,0,0,0,,Smile! The Sky! The Sun!
 Dialogue: 0,0:17:00.71,0:17:02.79,Default,,0,0,0,,March Coord!
-Dialogue: 0,0:19:06.37,0:19:08.64,Default,,0,0,0,,Bye-bye, everyone!
-Dialogue: 0,0:19:08.64,0:19:10.97,Default,,0,0,0,,We'll meet again-pri!
+Dialogue: 0,0:19:06.37,0:19:08.64,Default,,0,0,0,,See you later, everyone!
+Dialogue: 0,0:19:08.64,0:19:10.97,Default,,0,0,0,,Come back soon-pri!
 Dialogue: 0,0:19:10.97,0:19:13.60,Default,,0,0,0,,Bye-bye, Li'l Curly!
 Dialogue: 0,0:19:13.60,0:19:17.39,Default,,0,0,0,,We're friends forever-daVinci!
 Dialogue: 0,0:19:17.75,0:19:20.85,Default,,0,0,0,,Bye-bye! See you later!
@@ -276,7 +279,7 @@ Dialogue: 0,0:19:24.27,0:19:25.11,Default,,0,0,0,,Gaaruru?
 Dialogue: 0,0:19:25.11,0:19:26.81,Default,,0,0,0,,Why are you here?
 Dialogue: 0,0:19:27.19,0:19:30.82,Default,,0,0,0,,Let's give it our all in PriParis!
 Dialogue: 0,0:19:30.82,0:19:32.54,Default,,0,0,0,,Right, Gaaruru?
-Dialogue: 0,0:19:32.54,0:19:34.03,Default,,0,0,0,,WAIT SHE'S NOT HERE!
+Dialogue: 0,0:19:32.54,0:19:34.03,Default,,0,0,0,,Wait, she'ch not here?!
 Dialogue: 0,0:19:34.30,0:19:36.99,Default,,0,0,0,,Capisce you later!
 Dialogue: 0,0:19:43.18,0:19:45.71,Default,,0,0,0,,We'll see you again next week.
 Dialogue: 0,0:19:46.25,0:19:48.90,Default,,0,0,0,,Let me fill you up-nekon.
@@ -288,21 +291,9 @@ Dialogue: 0,0:20:12.52,0:20:14.32,Default,,0,0,0,,STYLISH
 Dialogue: 0,0:20:14.32,0:20:15.32,Default,,0,0,0,,TOUGH
 Dialogue: 0,0:20:15.32,0:20:16.53,Default,,0,0,0,,GUY!
 Dialogue: 0,0:20:16.87,0:20:19.76,Default,,0,0,0,,Here is today's topic:
-Dialogue: 0,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128294\frz3.6625\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\\c&H93FAFB&}Divine Idol Grand Prix
-Dialogue: 2,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H93FAFB&\clip(m 311 559.083 l 856 523.759 856 518.676 311 554)}Divine Idol Grand Prix
-Dialogue: 2,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&HA1FBFC&\clip(m 311 554.75 l 856 519.426 856 514.343 311 549.667)}Divine Idol Grand Prix
-Dialogue: 2,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&HAFFDFD&\clip(m 311 550.417 l 856 515.093 856 510.009 311 545.333)}Divine Idol Grand Prix
-Dialogue: 2,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&HBDFFFE&\clip(m 311 546.083 l 856 510.759 856 505.676 311 541)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H93FAFB&\clip(m 311 506.587 l 856 462.462 856 468.046 311 512.171)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H8DF4F7&\clip(m 311 511.421 l 856 467.296 856 472.88 311 517.004)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H88EEF3&\clip(m 311 516.254 l 856 472.13 856 477.713 311 521.838)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H83E9EF&\clip(m 311 521.088 l 856 476.963 856 482.547 311 526.672)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H7EE3EB&\clip(m 311 525.922 l 856 481.797 856 487.381 311 531.505)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H79DDE8&\clip(m 311 530.755 l 856 486.631 856 492.214 311 536.339)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H74D8E4&\clip(m 311 535.589 l 856 491.464 856 497.048 311 541.173)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H6FD2E0&\clip(m 311 540.423 l 856 496.298 856 501.882 311 546.007)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H6ACCDC&\clip(m 311 545.257 l 856 501.132 856 506.716 311 550.84)}Divine Idol Grand Prix
-Dialogue: 1,0:20:20.94,0:20:24.16,Signs,,0,0,0,,{\fax0.128\frz3.663\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\c&H65C7D9&\clip(m 311 550.09 l 856 505.966 856 511.549 311 555.674)}Divine Idol Grand Prix
+Comment: 0,0:20:19.53,0:20:20.99,Signs,,0,0,0,,{\fax0.128294\frz3.6625\xshad5.24\yshad5.32\org(530.49,523.04)\pos(545.4,569.11)\frx357.5\fry352.1\fscx107\fscy148\\c&H93FAFB&\fnFOT-Chiaro Std B Custom\b1\blur0.75}Divine Idol Grand Prix
+Comment: 0,0:20:20.99,0:20:24.20,Signs,,0,0,0,,{\fnFOT-Chiaro Std B Custom\b1\fs140\4c&H181545&\\fax0.007459\fscx106.46\fscy117.49\frz0.5124\frx4.9177\fry-1.2901\xshad7.45\yshad8.22\org(915.01,642.45)\pos(914.45,724.69)\blur1.25}Divine Idol Grand Prix
+Dialogue: 0,0:20:20.99,0:20:24.20,Default,,0,0,0,,{\an8}Divine Idol Grand Prix
 Dialogue: 0,0:20:24.68,0:20:28.67,Default,,0,0,0,,The Divine Idol Grand Prix will be held.
 Dialogue: 0,0:20:28.98,0:20:34.63,Default,,0,0,0,,And so, Meganiis from around the world, \Nyou and your PriParas will...
 Dialogue: 3,0:15:06.47,0:15:09.89,Nobrakesonthereihinglish,,0,0,0,,A new day has dawned
