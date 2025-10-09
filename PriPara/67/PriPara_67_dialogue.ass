@@ -18,9 +18,9 @@ Video File: ../BDMV/PriPara - 67.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 162
-Active Line: 172
-Video Position: 11818
+Scroll Position: 583
+Active Line: 596
+Video Position: 22747
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -636,7 +636,7 @@ Dialogue: 0,0:15:28.69,0:15:30.05,Default,,0,0,0,,in the sky are spread...
 Dialogue: 0,0:15:36.25,0:15:40.12,Default,,0,0,0,,A sole lilium casa blanca shall bloom in the darkness!
 Dialogue: 0,0:15:42.61,0:15:44.79,Default,,0,0,0,,My name is Phantom Thief Genius!
 Dialogue: 0,0:15:47.25,0:15:48.71,Default,,0,0,0,,Phantom Thief Genius!
-Dialogue: 0,0:15:48.71,0:15:52.68,Default,,0,0,0,,I believe I sent an advance notice:\NI will take the coords at the celebration concert.
+Dialogue: 0,0:15:48.71,0:15:52.68,Default,,0,0,0,,I believe I sent an advance notice:\NI shall take the coords at the celebration concert.
 Dialogue: 0,0:15:52.68,0:15:54.89,Default,,0,0,0,,Indeed, and so we waited for you!
 Dialogue: 0,0:15:56.04,0:15:57.93,Default,,0,0,0,,We won't let you get away!
 Dialogue: 0,0:15:59.80,0:16:03.04,Default,,0,0,0,,And you think you can do that by aping my methods?
