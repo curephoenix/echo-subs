@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionUID>2916622092</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>3143068100</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:00:10.833000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>"Do you like PriPara?"</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3143068099</ChapterUID>
+      <ChapterTimeStart>00:01:16.791000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:13:45.750000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3143068098</ChapterUID>
+      <ChapterTimeStart>00:13:45.750000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:36.875000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3143068097</ChapterUID>
+      <ChapterTimeStart>00:23:36.875000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:07.583000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Ending</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionUID>2916622091</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>3143068001</ChapterUID>
+      <ChapterTimeStart>00:00:10.833000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:16.791000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Audio Commentary Intro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3143068002</ChapterUID>
+      <ChapterTimeStart>00:01:16.791000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:17.458000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Audio Commentary</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3143068003</ChapterUID>
+      <ChapterTimeStart>00:25:17.458000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:27:11.666000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Audio Commentary - Creditless Opening</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

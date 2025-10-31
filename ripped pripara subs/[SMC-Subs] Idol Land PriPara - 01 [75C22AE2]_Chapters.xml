@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionUID>2906622092</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>3143058100</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:00:10.833000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>"Do you like PriPara?"</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3143058099</ChapterUID>
+      <ChapterTimeStart>00:01:24.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:11:54.042000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2143058098</ChapterUID>
+      <ChapterTimeStart>00:11:54.042000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:44.000000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3143058097</ChapterUID>
+      <ChapterTimeStart>00:23:44.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:16.000000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Ending</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:25:55.500000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:26:10.458000000</ChapterTimeEnd>
+      <ChapterUID>3143058096</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Preview</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+  <EditionEntry>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionUID>2906622091</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>3143058000</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:00:10.833000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>"Do you like PriPara?"</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3143058001</ChapterUID>
+      <ChapterTimeStart>00:00:10.833000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:24.000000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Audio Commentary Intro</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3143058002</ChapterUID>
+      <ChapterTimeStart>00:01:24.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:25:55.458000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Audio Commentary</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
