@@ -13,17 +13,20 @@ PlayResY: 1080
 Last Style Storage: Default
 Audio File: ../raws/05.mkv
 Video File: ../raws/05.mkv
+Keyframes File: 05_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 15
-Active Line: 31
-Video Position: 2217
+Scroll Position: 154
+Active Line: 171
+Video Position: 21683
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,3.6,1.2,2,120,120,53,1
+Style: Default - Copy,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,3.6,1.2,2,120,120,53,1
 Style: Dialogue - ILPP,LTFinnegan Medium,81,&H00FFFFFF,&H00CE6AB4,&H006B3566,&H96331527,-1,0,0,0,100,100,0,0,1,5.625,1.8,2,180,180,53,1
-Style: Title - ILPP,[z] Arista,96,&H00FFFFFF,&H000000FF,&H00B705E3,&H96633350,-1,0,0,0,100,100,6,0,1,6,2.25,2,180,180,80,1
+Style: Title - ILPP,Arial Rounded MT Bold,96,&H00FFFFFF,&H000000FF,&H00B705E3,&H96633350,-1,0,0,0,100,100,6,0,1,6,2.25,2,180,180,80,1
 Style: ILOP(ODL)-Eng,Monday Feelings,78,&H00FFECFC,&H000000FF,&H008F6D8A,&H96000000,0,0,0,0,104,100,0.3,0,1,4.5,0,8,0,0,57,1
 Style: ILOP(ODL)-Roma,Monday Feelings,36,&H00FFECFC,&H000000FF,&H008F6D8A,&H96000000,0,0,0,0,105,100,0.3,0,1,4.05,0,8,0,0,173,1
 Style: It's-a Me Mario!,NewRocker,90,&H00DCDBE7,&H000000FF,&H001D2089,&H00000000,-1,0,0,0,90,90,0,0,1,4.995,0,9,11,11,11,1
@@ -10678,690 +10681,334 @@ XZ:7@!!!!!$@FG'$
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:03:17.31,0:03:20.31,Dialogue - ILPP,,0,0,0,,Credits
-Comment: 0,0:00:00.00,0:01:46.98,Dialogue - ILPP,chptr,0,0,0,,Prologue
-Comment: 0,0:03:16.98,0:11:25.02,Dialogue - ILPP,chptr,0,0,0,,Part A
-Comment: 0,0:11:30.04,0:24:00.02,Dialogue - ILPP,chptr,0,0,0,,Part B
-Comment: 0,0:01:46.98,0:03:16.98,Dialogue - ILPP,chptr,0,0,0,,OP
-Comment: 0,0:22:35.60,0:24:00.00,Liar - ED Ver,chptr,0,0,0,,ED
-Comment: 0,0:11:25.02,0:11:30.02,Dialogue - ILPP,chptr,0,0,0,,Eyecatch
-Comment: 0,0:14:00.44,0:16:27.85,Dialogue - ILPP,,0,0,0,,She who lies will forge her own tomorrow
-Comment: 0,0:17:12.58,0:17:15.58,Dialogue - ILPP,,0,0,0,,Chocolate Ice Cream Tornado
-Dialogue: 0,0:03:16.98,0:03:26.98,Dialogue - ILPP,,0,0,0,,{\fs63\an7\pos(43.995,187.5)}Typesetting, TL, \Ntiming, styling: Cynthia
-Dialogue: 0,0:03:16.98,0:03:26.98,Dialogue - ILPP,,0,0,0,,{\fs63\an7\pos(42,17.505)}Opening TL & styling: SMC-subs, \Nedited by Cynthia
-Dialogue: 0,0:00:01.66,0:00:08.68,Dialogue - ILPP,Amari,0,0,0,,{\fscx100\fscy100\t(2620,6220,1,\fscx80\fscy80)\t(6220,6420,1,\fscx100\fscy100)}Here we go!
-Dialogue: 0,0:00:11.67,0:00:12.41,Dialogue - ILPP,Amari,0,0,0,,Nailed it!
-Dialogue: 0,0:00:12.41,0:00:13.67,Dialogue - ILPP,Laala,0,0,0,,Ten out of ten!
-Dialogue: 0,0:00:14.65,0:00:15.98,Dialogue - ILPP,Amari,0,0,0,,Let's go!
-Dialogue: 0,0:00:15.98,0:00:18.23,Dialogue - ILPP,Amari,0,0,0,,That's a new record! Heck yeah!
-Dialogue: 0,0:00:18.23,0:00:19.97,Dialogue - ILPP,Laala,0,0,0,,Way to go!
-Dialogue: 0,0:00:21.00,0:00:23.81,Dialogue - ILPP,Laala,0,0,0,,Tricolore's gonna be doing a Promise today!
-Dialogue: 0,0:00:28.27,0:00:31.79,Dialogue - ILPP,Laala,0,0,0,QC,Looks like we're so important,\N they sat us with the goats!{大人気でヤギすきしかえてなかった}{they got put in the goat seats?????}
-Dialogue: 0,0:00:34.70,0:00:37.19,Dialogue - ILPP,Andou,0,0,0,,Thank you very much for waiting.
-Dialogue: 0,0:00:37.49,0:00:42.30,Dialogue - ILPP,Andou,0,0,0,QC,Master Hibiki's welcoming{iffy on the wording, but hibiki's promise is the one doing the welcoming here} Promise will soon begin.
-Dialogue: 0,0:00:50.91,0:00:52.57,Dialogue - ILPP,Hibiki,0,0,0,,Kept you waiting, haven't we? {I misheard the line as まかせて at first, but she's actually saying saying まかせだね.}{I'm not sure about the wording. I want it to sound grandiose-ish but I feel like maybe the current wording reads awkwardly.}
-Dialogue: 0,0:00:52.57,0:00:54.65,Dialogue - ILPP,Hibiki,0,0,0,,Bienvenue, mes chéries. {I think she's saying Hibiki jien-tachi, but I can't hear her very well over her fans.}
-Dialogue: 0,0:00:54.65,0:00:56.44,Dialogue - ILPP,Fans,0,0,0,,{\an8}Eek! Prince Hibiki!
-Dialogue: 0,0:00:56.93,0:00:59.53,Dialogue - ILPP,Fans,0,0,0,,{\an8}Prince Hibiki! We can't wait!
-Dialogue: 0,0:00:58.65,0:00:59.94,Dialogue - ILPP,Amari,0,0,0,,Amazing...
-Dialogue: 0,0:01:02.56,0:01:06.30,Dialogue - ILPP,Andou,0,0,0,note,The other members are en route,\Nand will arrive momentarily.{From what I can hear, the original line is "パリじぇんのみんなさんも一生に途上です！", but I'm not sure how to TL.}{can sorta hear a similar term to the hibiki-somethings line}
-Dialogue: 0,0:01:07.52,0:01:09.75,Dialogue - ILPP,Toriko,0,0,0,,Don't forget about Toriko-tori!
-Dialogue: 0,0:01:09.75,0:01:10.85,Dialogue - ILPP,Toriko,0,0,0,,They forgot about me!
-Dialogue: 0,0:01:10.85,0:01:11.79,Dialogue - ILPP,Toriko,0,0,0,,I just knew they would-tori!
-Dialogue: 0,0:01:11.79,0:01:14.02,Dialogue - ILPP,Toriko,0,0,0,,Toriko's just so forgettable-tori!
-Dialogue: 0,0:01:14.02,0:01:17.63,Dialogue - ILPP,Falulu,0,0,0,,{Not 100% sure on what Falulu's saying.  I'm hearing "mottopara idol ippai sagashitekita da ne".}You've found so many of the old PriPara idols!
-Dialogue: 0,0:01:17.63,0:01:19.44,Dialogue - ILPP,Fuwari,0,0,0,,These are the ExtraPara goats!
-Dialogue: 0,0:01:19.44,0:01:21.92,Dialogue - ILPP,Toriko,0,0,0,,It's been so long since the last time\N everyone was together!
-Dialogue: 0,0:01:21.92,0:01:23.17,Dialogue - ILPP,Toriko,0,0,0,,This must be a dream!
-Dialogue: 0,0:01:23.17,0:01:24.35,Dialogue - ILPP,Toriko,0,0,0,,But it's not a dream!
-Dialogue: 0,0:01:26.56,0:01:30.85,Dialogue - ILPP,Amari,0,0,0,,Whoa! I've never seen Tricolore before...
-Dialogue: 0,0:01:30.85,0:01:33.42,Dialogue - ILPP,Amari,0,0,0,QC,They really take the cake!{she's noting how much more impressive they are compared to others}
-Dialogue: 0,0:01:33.42,0:01:35.23,Dialogue - ILPP,Laala,0,0,0,,Want me to introduce you after this?
-Dialogue: 0,0:01:36.93,0:01:38.40,Dialogue - ILPP,Hibiki,0,0,0,,Hey. {It took every bone in my body to not throw in "salut" or something. Everyone is lucky that "salut" isn't said to non-friends or else Hibiki would be mega-French.}
-Dialogue: 0,0:01:38.40,0:01:39.85,Dialogue - ILPP,Amari,0,0,0,,Thump!
-Dialogue: 0,0:01:39.85,0:01:42.06,Dialogue - ILPP,Amari,0,0,0,,Eep! She looked at me!
-Dialogue: 0,0:01:43.65,0:01:44.99,Dialogue - ILPP,Laala,0,0,0,,Amari?!
-Dialogue: 0,0:03:26.98,0:03:32.02,Title - ILPP,,0,0,0,,{\be26}Hibiki vs. Mario!\NThe BoyPara Beautification Plan!
-Dialogue: 0,0:03:33.98,0:03:35.20,Dialogue - ILPP,Laala,0,0,0,,Hibiki!
-Dialogue: 0,0:03:35.20,0:03:37.72,Dialogue - ILPP,Laala,0,0,0,,Let me introduce you to my friend!
-Dialogue: 0,0:03:38.69,0:03:42.28,Dialogue - ILPP,Amari,0,0,0,,Okay! I've gotta introduce myself properly...
-Dialogue: 0,0:03:42.28,0:03:46.06,Dialogue - ILPP,Amari,0,0,0,,N-Nice to meet you! I'm Amari... I think.
-Dialogue: 0,0:03:48.48,0:03:52.13,Dialogue - ILPP,Amari,0,0,0,,It's rice to meet you! \NI'm salami and seaweed! {She's saying "Asami Mozuku", but "salami and seaweed" sounds funnier.}
-Dialogue: 0,0:03:52.13,0:03:56.02,Dialogue - ILPP,Amari,0,0,0,,Agh... I totally messed that up!
-Dialogue: 0,0:04:04.42,0:04:09.68,Dialogue - ILPP,Hibiki,0,0,0,QC,You've the aura of someone\N with not a shred of confidence.{じぶん　に　じしん　のない　にんげん　とく　ゆう　の　ふ　の　オーラ　ただ　を　ていゆな}
-Dialogue: 0,0:04:09.68,0:04:12.32,Dialogue - ILPP,Hibiki,0,0,0,,Furthermore, everything you do is \Ncompletely half-baked.{Hibiki, you're not helping.}{何をやっても中途半端。。。}
-Dialogue: 0,0:04:12.32,0:04:13.98,Dialogue - ILPP,Hibiki,0,0,0,QC,Your ribbon is crooked, {「リボンあがっている」}{crooked, the tops are higher than the bottom}
-Dialogue: 0,0:04:13.98,0:04:16.98,Dialogue - ILPP,Hibiki,0,0,0,,and you reek of wasabi and mayonnaise.
-Dialogue: 0,0:04:16.98,0:04:19.00,Dialogue - ILPP,Hibiki,0,0,0,QC,I'd be willing to bet you don't\N have many friends, if any at all.{What is she even saying?? I'm hearing 「友人ぽいなさそう」}{she's saying that amari doesn't have any friends (or doesn't seem like it)}
-Dialogue: 0,0:04:19.81,0:04:22.30,Dialogue - ILPP,Fuwari,0,0,0,,{\i1}That's{\i0} what Hibiki has to say?{yeah no shit?????}
-Dialogue: 0,0:04:23.02,0:04:26.40,Dialogue - ILPP,Hibiki,0,0,0,,However, you don't use a sentence-ender,\N so I suppose you can't be too terrible.
-Dialogue: 0,0:04:29.19,0:04:31.88,Dialogue - ILPP,Amari,0,0,0,,A-A compliment?!{ほめられた}
-Dialogue: 0,0:04:31.88,0:04:35.90,Dialogue - ILPP,Amari,0,0,0,QC,Praise be to Hibiki!\N I thought for sure she'd judge me! {ひびきさんはかみ！ひびきさんはしかっかんたぁぁ！is what I'm hearing.}{no clue on the second half, but consider "Praise be to Hibiki" depending on what it is}{Still not 100% sure, but Amari thinking Hibiki was going to be judgmental checks out and fits the scene/character... even if Hibiki was just being a prick. }
-Dialogue: 0,0:04:37.18,0:04:39.82,Dialogue - ILPP,Toriko,0,0,0,,Congratulations-tori!\N It's an auspicious day-tori!
-Dialogue: 0,0:04:39.03,0:04:41.73,Dialogue - ILPP,,0,0,0,,{\an8}I... don't really think that was a compliment...
-Dialogue: 0,0:04:39.82,0:04:42.73,Dialogue - ILPP,Toriko,0,0,0,,You must be tori-bbly happy! I understand-tori!
-Dialogue: 0,0:04:41.73,0:04:42.73,Dialogue - ILPP,Yui,0,0,0,,{\an8}Dreamy!
-Dialogue: 0,0:04:42.73,0:04:44.62,Dialogue - ILPP,Yui,0,0,0,QC,Hey, hey! Listen to this for a dreaminute!{surely there's a better way to handle the vocal tic}{is this better?}
-Dialogue: 0,0:04:44.62,0:04:46.28,Dialogue - ILPP,Yui,0,0,0,,You can't dream this up! Dream it or not,
-Dialogue: 0,0:04:46.28,0:04:49.17,Dialogue - ILPP,Yui,0,0,0,,Amari's got a dreamy new manager,\N and it's yours, dreamily! {Cease your "dream dream' nonsense at once. Don't you know this makes my job more difficult?}{"Yours, dreamily" like "yours, truly"}
-Dialogue: 0,0:04:49.17,0:04:50.30,Dialogue - ILPP,Hibiki,0,0,0,,Be quiet!
-Dialogue: 0,0:04:50.94,0:04:53.81,Dialogue - ILPP,Cooky,0,0,0,,Hey now! Girls should be nice to each other!{乙女と乙女はたいせつに！}
-Dialogue: 0,0:04:53.81,0:04:57.15,Dialogue - ILPP,Hibiki,0,0,0,,I don't have time for your tomfoolery.
-Dialogue: 0,0:04:57.15,0:05:00.40,Dialogue - ILPP,Fuwari,0,0,0,,Hibiki, have you found any clues about PriParis?{プリパリス手がかりを見つかった}
-Dialogue: 0,0:05:00.40,0:05:01.40,Dialogue - ILPP,Hibiki,0,0,0,,No.
-Dialogue: 0,0:05:01.40,0:05:05.98,Dialogue - ILPP,Hibiki,0,0,0,,Naturally, I've searched wherever I could\N for clues of its whereabouts...{いいや。プリパリスはもちろん拡張のプリパラ行方探ていたのだな。}
-Dialogue: 0,0:05:05.98,0:05:08.85,Dialogue - ILPP,Hibiki,0,0,0,,...but I've yet to find anything of use.{有力なん手がかりをつかめていないよ。}
-Dialogue: 0,0:05:08.85,0:05:11.85,Dialogue - ILPP,Parisnii,0,0,0,,{\i1}Bon poyage, mademoiselle!{\i0} {Rip Parisnii you were a real one.}{I rewatched the episode the flashback is from.  He's saying "poyage" there, but "voyage" here. I changed it to "poyage" for consistency.}
-Dialogue: 0,0:05:11.85,0:05:14.35,Dialogue - ILPP,Hibiki,0,0,0,,To where could it have possibly disappeared? {San Diego}{Keeping the "disappeared" word choice since PriParis, along with every PriPara but the Parajuku location, straight up disappeared from reality.}
-Dialogue: 0,0:05:14.35,0:05:15.94,Dialogue - ILPP,Meganii,0,0,0,,Long time, no see-mega!
-Dialogue: 0,0:05:16.34,0:05:19.15,Dialogue - ILPP,Meganii,0,0,0,,I've got something we need to discuss-mega.{ちょうどをつたいしたいことはあって。}
-Dialogue: 0,0:05:20.79,0:05:24.40,Dialogue - ILPP,Meganii,0,0,0,QC,I'm sorry! I was just having a laugh—\NI swear this is important!{すみませんすぱいびしじょうぶです。かみかみし}{linebreak before or after em dash?}{Not 100% sure this is what he said, but it's the best thing I've got since he's borderline impossible to understand here.}
-Dialogue: 0,0:05:24.86,0:05:29.52,Dialogue - ILPP,Meganii,0,0,0,,The reason I'm here is because\N I found the cause of our problem.{what the fuck is he even saying.  Something Jitsu wa, TROUBLE GANG??? Waka dekimashite???実はトラブルのげんがわかてきまして。}
-Dialogue: 0,0:05:30.04,0:05:30.98,Dialogue - ILPP,Hibiki,0,0,0,,What?
-Dialogue: 0,0:05:30.98,0:05:34.94,Dialogue - ILPP,Meganii,0,0,0,,Although we have a steady flow\N of sparkling power here,{こちらには、順調にキラキラ吹いているのに、}
-Dialogue: 0,0:05:34.94,0:05:39.02,Dialogue - ILPP,Meganii,0,0,0,,BoyPara has sent word that, for some reason,\N spiny bugs have been appearing there. {なぜかダンプリいがいが無視ぞしょくしているです。}
-Dialogue: 0,0:05:39.02,0:05:44.32,Dialogue - ILPP,Meganii,0,0,0,QC,That is to say, Idol Land's sparkling power\N has no effect in BoyPara.{それが、アイドルランドのキラキラにえいきょはたいてるではないこと。}{no effect on what}{Not entirely sure if he's referring to BoyPara or the bugs as either seem likely. Previous episodes don't seem to provide anything useful in figuring this out.}
-Dialogue: 0,0:05:46.66,0:05:52.25,Dialogue - ILPP,Hibiki,0,0,0,,This must mean the appearance of these\N spiny bugs caused the update to malfunction. {詰まり、アップデートのさいのぼうそうはいがいが無視の影響かんがえあれるっと。}
-Dialogue: 0,0:05:52.25,0:05:52.94,Dialogue - ILPP,Meganii,0,0,0,,I agree.
-Dialogue: 0,0:05:53.90,0:05:58.15,Dialogue - ILPP,Hibiki,0,0,0,,I suppose we ought to further\N investigate BoyPara's involvement. {どうやらその謎特にはダンプリにたほおなさそうだな。}
-Dialogue: 0,0:05:58.93,0:06:00.60,Dialogue - ILPP,Hibiki,0,0,0,,Very well. Let's get moving.
-Dialogue: 0,0:06:00.92,0:06:01.86,Dialogue - ILPP,Meganii,0,0,0,,I'll join you.{もっともいたします。}
-Dialogue: 0,0:06:01.86,0:06:03.42,Dialogue - ILPP,Falulu,0,0,0,,Falulu will come, too!
-Dialogue: 0,0:06:03.42,0:06:04.81,Dialogue - ILPP,Laala,0,0,0,,So will Amari and I!
-Dialogue: 0,0:06:04.81,0:06:05.45,Dialogue - ILPP,Amari,0,0,0,,What?!
-Dialogue: 0,0:06:05.45,0:06:06.94,Dialogue - ILPP,Hibiki,0,0,0,,I do not require your assistance.
-Dialogue: 0,0:06:07.80,0:06:11.33,Dialogue - ILPP,Hibiki,0,0,0,,Don't you have a Promise to do with the goats?
-Dialogue: 0,0:06:24.98,0:06:26.92,Dialogue - ILPP,Mega-boy,0,0,0,,Please put on a sheep suit if you'd like to enter!
-Dialogue: 0,0:06:26.92,0:06:28.69,Dialogue - ILPP,Hibiki,0,0,0,,I shall wear no such rags.
-Dialogue: 0,0:06:29.52,0:06:31.44,Dialogue - ILPP,Hibiki,0,0,0,,I am Shikyouin Hibiki!
-Dialogue: 0,0:06:31.44,0:06:33.15,Dialogue - ILPP,Hibiki,0,0,0,,{\i1}Shikyouin Hibiki!{\i0}{Italicized because I figure she's not speaking this aloud so.}
-Dialogue: 0,0:06:33.15,0:06:34.85,Dialogue - ILPP,Hibiki,0,0,0,,{\i1}Shikyouin Hibiki!{\i0}
-Dialogue: 0,0:06:52.81,0:06:54.74,Dialogue - ILPP,Mega-boy,0,0,0,,Welcome to BoyPara!
-Dialogue: 0,0:06:57.65,0:06:59.94,Dialogue - ILPP,Meganii,0,0,0,,Placing yourself above the rules as always, I see.
-Dialogue: 0,0:07:00.60,0:07:02.31,Dialogue - ILPP,Shougo,0,0,0,,Nice to see you, Hibiki!
-Dialogue: 0,0:07:02.31,0:07:04.06,Dialogue - ILPP,Blue guy I forgot his name rip bozo,0,0,0,,Enjoy your time in BoyPara.{ゆっくりしていてください・}
-Dialogue: 0,0:07:04.06,0:07:05.20,Dialogue - ILPP,Hibiki,0,0,0,,Thank you.
-Dialogue: 0,0:07:05.20,0:07:06.72,Dialogue - ILPP,Asahi,0,0,0,,Whoa! Freakin' rad!
-Dialogue: 0,0:07:06.72,0:07:08.44,Dialogue - ILPP,Asahi,0,0,0,,I can't believe we're this close to Hibiki!
-Dialogue: 0,0:07:08.44,0:07:09.75,Dialogue - ILPP,Asahi,0,0,0,,I'm totally freakin' out, dude!{ひびきさんは近けるぞ！バジ（マジ？)... can't hear the last bit very well, so hopefully this suffices.}
-Dialogue: 0,0:07:07.90,0:07:09.75,Dialogue - ILPP,Shougo,0,0,0,,{\an8}Asahi! Chill out, man!
-Dialogue: 0,0:07:09.75,0:07:11.32,Dialogue - ILPP,Reona,0,0,0,,Hibiki!
-Dialogue: 0,0:07:13.22,0:07:15.09,Dialogue - ILPP,Reona,0,0,0,,I came, too!
-Dialogue: 0,0:07:21.43,0:07:24.42,Dialogue - ILPP,Shougo,0,0,0,,{\i1}Reona's charm is gonna give me\N a serious run for my money!{\i0}{さすがあおれもかわいいさまけるかも}{Shougo, buddy, I regret to inform you were never cute or charming.}
-Dialogue: 0,0:07:24.42,0:07:26.10,Dialogue - ILPP,Reona,0,0,0,,Something wrong?
-Dialogue: 0,0:07:27.48,0:07:29.71,Dialogue - ILPP,Shougo,0,0,0,,Oh, uh... N-Nothing! Nothing at all!
-Dialogue: 0,0:07:29.71,0:07:30.81,Dialogue - ILPP,Shougo,0,0,0,,{Er...} Enjoy yourself out there!
-Dialogue: 0,0:07:37.19,0:07:39.76,Dialogue - ILPP,Mega-boy,0,0,0,,What's this? There's an empty bottle\N in the burnable trash bin...
-Dialogue: 0,0:07:39.76,0:07:44.19,Dialogue - ILPP,Mega-boy,0,0,0,QC,I keep telling them to dispose of their trash in the correct bin... {I wanted to make him sound done, but his speaking is too polite for that}{sounds more like he's lamenting that he had already told others to put trash in the right bins}
-Dialogue: 0,0:07:45.90,0:07:48.65,Dialogue - ILPP,Hibiki,0,0,0,,Just as I suspected. \NThis place entirely lacks decorum.{思ったとり無策らしいところだ。}
-Dialogue: 0,0:07:51.90,0:07:53.20,Dialogue - ILPP,Mario,0,0,0,,Hey, hey, hey!
-Dialogue: 0,0:07:53.20,0:07:55.90,Dialogue - ILPP,Mario,0,0,0,,You lame-o's better look sharp,\N 'cuz you're all about to be my flunkeys!  {The best I've got is ただただ悪いだっと ぶばらす. Iffy about the last part, but given later episodes, it's not unlikely he's talking about making the place more "soldierly" in the sense of making everyone into his minions. Good thing I waited until after all of the episodes released before I tried to TL. I'm not certain this is what he's saying, but it}
-Dialogue: 0,0:07:55.90,0:07:57.39,Dialogue - ILPP,Mario,0,0,0,note,{LET'S} LOCK'EM AWAY!{Cursed(?) knowledge: upon watching later episodes, I discovered he's combining "lock" and onomatopeia for "bang". So ロッキュン or something. This a pun more terrible than any I could ever make or have made.}
-Dialogue: 0,0:08:09.90,0:08:13.35,Dialogue - ILPP,Extras,0,0,0,,{\an8}Whatever...
-Dialogue: 2,0:08:15.60,0:08:19.27,Signs,,0,0,0,,{\fnCloser\fs78\be0\fad(300,0)\fsp7.5\blur1.125}Whatever...
-Dialogue: 0,0:08:15.60,0:08:19.27,Signs,,0,0,0,,{\bord7.5\fnCloser\fs78\be30\blur1.125\fe3\fad(300,0)\c&HFFFFFF&\1a&HFF&\fsp7.5}Whatever...
-Dialogue: 0,0:08:34.03,0:08:35.73,Dialogue - ILPP,Shinya,0,0,0,,Not too shabby there, pal.
-Dialogue: 0,0:08:36.03,0:08:38.09,Dialogue - ILPP,Shinya,0,0,0,,Heard your name's Mario?
-Dialogue: 0,0:08:38.09,0:08:40.19,Dialogue - ILPP,Shinya,0,0,0,,I think the three of us are gonna get along great. {おまえとうまがあいそうだ}
-Dialogue: 0,0:08:40.95,0:08:41.98,Dialogue - ILPP,Shinya,0,0,0,,Oh yeah?
-Dialogue: 0,0:08:43.40,0:08:45.98,Dialogue - ILPP,Shinya,0,0,0,,How about you join up with us?
-Dialogue: 0,0:08:45.98,0:08:49.89,Dialogue - ILPP,Shinya,0,0,0,,We'll take down WITH and become\N the top team in BoyPara.
-Dialogue: 0,0:08:49.89,0:08:52.85,Dialogue - ILPP,Shinya,0,0,0,,You'd fit right in with us.{あんたがはいったろ悪いよんやしねえ}
-Dialogue: 0,0:08:52.85,0:08:54.34,Dialogue - ILPP,Shinya,0,0,0,,Name's Shinya.
-Dialogue: 0,0:08:54.34,0:08:55.63,Dialogue - ILPP,Shinya,0,0,0,,And this guy's Ushimitsu.
-Dialogue: 0,0:08:55.63,0:08:57.98,Dialogue - ILPP,Shinya,0,0,0,,C'mon! Bring it out!{おい！あれおわたせ。}
-Dialogue: 0,0:08:57.98,0:08:59.41,Dialogue - ILPP,Ushimitsu,0,0,0,,Yes!
-Dialogue: 0,0:08:59.41,0:09:01.06,Dialogue - ILPP,Ushimitsu,0,0,0,,Understood!
-Dialogue: 0,0:09:02.60,0:09:04.56,Dialogue - ILPP,Ushimitsu,0,0,0,,This is our blood pact.{けっぱんじょうでござる}
-Dialogue: 0,0:09:04.56,0:09:06.48,Dialogue - ILPP,Shinya,0,0,0,QC,Just stamp your finger there,\N and it's a done deal.{おまえにおさすてあゆ}{feels more like he's telling mario to put his fingerprint there as well, not that he already put it there}
-Dialogue: 0,0:09:07.83,0:09:09.74,Dialogue - ILPP,Mario,0,0,0,,Whatever...{If this weren't a kids' show, "dou demo ii ze" would be TL'd as "who gives a shit/who gaf".}
-Dialogue: 0,0:09:15.50,0:09:17.48,Dialogue - ILPP,Ushimitsu,0,0,0,,I must resort to harakiri!{ごうつはらきり}{Holy shit bro I get you're embarrassed but you did not need to go "yeah I need to kms"}{I'm 90% sure SMC may have TL'd this line so I need to go back through his subs of 0-2 and check.}{almost sounds like he's saying "go to" in english; "I must resort to harakiri" is fine}
-Dialogue: 0,0:09:20.01,0:09:21.49,Dialogue - ILPP,Ushimitsu,0,0,0,,Such disgrace.
-Dialogue: 0,0:09:21.49,0:09:24.77,Dialogue - ILPP,Ushimitsu,0,0,0,,Milord, 'tis all your lowly servant's fault.
-Dialogue: 0,0:09:24.77,0:09:26.32,Dialogue - ILPP,Ushimitsu,0,0,0,,It's come to this at last...{ かくなる上は }
-Dialogue: 0,0:09:26.93,0:09:28.46,Dialogue - ILPP,Ushimitsu,0,0,0,,{\an8}Unhand me!
-Dialogue: 0,0:09:27.32,0:09:28.95,Dialogue - ILPP,Shinya,0,0,0,,Ushimitsu! Pull yourself together, man!
-Dialogue: 0,0:09:28.50,0:09:29.75,Dialogue - ILPP,Ushimitsu,0,0,0,,{\an8}I said "unhand me"!
-Dialogue: 0,0:09:28.95,0:09:31.24,Dialogue - ILPP,Shinya,0,0,0,,C'mon! It's not your dang fault! \NI swear you're gonna be fine!
-Dialogue: 0,0:09:31.50,0:09:35.88,Dialogue - ILPP,Ushimitsu,0,0,0,,To meet a glorious end,\N for the sake of milord. Oh my god!{I don't know what these kanji say even though I recognize the radicals in the first two.  "Oh my god", indeed.}{Ok never mind.  It's 散れば散れ殿のためならオーマイゴッド}
-Dialogue: 0,0:09:36.75,0:09:38.60,Dialogue - ILPP,Shinya,0,0,0,,{\an8}Now's not the time to be reciting poetry!
-Dialogue: 0,0:09:38.60,0:09:40.77,Dialogue - ILPP,Mario,0,0,0,QC,Well, wasn't that exciting.{いいかんとうみせるならったぜ}{more commenting how it was nice to see the fight}{Does this convey the feeling correctly? I wanted to avoid rendering it directly.}
-Dialogue: 0,0:09:40.77,0:09:41.90,Dialogue - ILPP,Shinya,0,0,0,,{\an8}HOLD STILL!
-Dialogue: 0,0:09:46.32,0:09:50.60,Dialogue - ILPP,Reona,0,0,0,,Your laundry won't clean itself. \NMake sure to do it before it piles up!{ためこめは大変だから、毎日ちょっとずつやりたい。}{I'm sorry for butchering your dialogue, Reona.}
-Dialogue: 0,0:09:57.92,0:09:59.69,Dialogue - ILPP,Reona,0,0,0,QC,It smells like it was washed by the sun!{specifically mentions how it smells of the sun; make of that what you will}
-Dialogue: 0,0:09:59.69,0:10:02.44,Dialogue - ILPP,Reona,0,0,0,,Looks like your boxers have a hole in them...
-Dialogue: 0,0:10:02.44,0:10:04.30,Dialogue - ILPP,Reona,0,0,0,,I'll fix that up for you!
-Dialogue: 0,0:10:13.69,0:10:16.40,Dialogue - ILPP,Mega-boy,0,0,0,,Reona's amazing...
-Dialogue: 0,0:10:21.90,0:10:23.78,Dialogue - ILPP,Hibiki,0,0,0,,Spiny bugs?
-Dialogue: 0,0:10:31.52,0:10:34.84,Dialogue - ILPP,Hibiki,0,0,0,,Leaving Falulu and Fuwari\Nbehind was the right choice...
-Dialogue: 0,0:10:45.34,0:10:49.00,Dialogue - ILPP,Extras,0,0,0,,Somethin' tells me there's\N a girl hangin' around here...
-Dialogue: 0,0:10:49.00,0:10:51.72,Dialogue - ILPP,Extras,0,0,0,,Ah c'mon... Get over yourselves...{やろうどもがうかれあがってよ}
-Dialogue: 0,0:10:51.72,0:10:53.70,Dialogue - ILPP,Extras,0,0,0,,Meh... who cares...
-Dialogue: 0,0:10:53.70,0:10:56.28,Dialogue - ILPP,Mario,0,0,0,,A girl? No way... {A girl? In my BoyPara? More like than you think. Except not really because Hibiki's not a girl, either. She's enby who sits back a laughs at how she's "deceiving" others. Iconic tbh.}
-Dialogue: 0,0:10:56.28,0:10:57.81,Dialogue - ILPP,Mario,0,0,0,,Is she coming over here?
-Dialogue: 0,0:11:17.24,0:11:19.02,Dialogue - ILPP,Mario,0,0,0,,{\i1}This one's...{\i0}
-Dialogue: 0,0:11:19.52,0:11:22.20,Dialogue - ILPP,Hibiki,0,0,0,,{\i1}...no ordinary person.{\i0}
-Dialogue: 0,0:11:22.20,0:11:25.02,Dialogue - ILPP,Mario,0,0,0,,{\i1}I can feel the darkness...{\i0}
-Dialogue: 0,0:11:34.40,0:11:36.19,Dialogue - ILPP,Mario,0,0,0,,Ain't never seen a mug like yours before.
-Dialogue: 0,0:11:36.19,0:11:40.60,Dialogue - ILPP,Hibiki,0,0,0,,Oh? So there remain people\N who've yet to hear of {\i1}the{\i0} Shikyouin Hibiki...
-Dialogue: 0,0:11:41.15,0:11:43.02,Dialogue - ILPP,Hibiki,0,0,0,,PriPara's an expansive world...
-Dialogue: 0,0:11:43.69,0:11:47.17,Dialogue - ILPP,Mario,0,0,0,,{\i1}So{\i0} sorry you got all gussied up for nothing..
-Dialogue: 0,0:11:47.90,0:11:51.31,Dialogue - ILPP,Mario,0,0,0,,Hey there, little princess.\N My name's Mario.
-Dialogue: 0,0:11:54.52,0:11:57.44,Dialogue - ILPP,Mario,0,0,0,note,I see how it is... \N I'll let you in on a little something...{QC, is this better?}
-Dialogue: 0,0:11:59.90,0:12:05.40,Dialogue - ILPP,Mario,0,0,0,,Soon, I'm gonna take over this {\i1}whole{\i0} joint,\N and make this world all mine.
-Dialogue: 0,0:12:05.90,0:12:08.35,Dialogue - ILPP,Hibiki,0,0,0,,Isn't that a rather amusing joke...
-Dialogue: 0,0:12:09.09,0:12:11.13,Dialogue - ILPP,Mario,0,0,0,,So you think I'm joking, huh?{ほんきにしてないなら}
-Dialogue: 0,0:12:11.13,0:12:13.19,Dialogue - ILPP,Hibiki,0,0,0,,I can respect your ambition.
-Dialogue: 0,0:12:13.60,0:12:18.79,Dialogue - ILPP,Hibiki,0,0,0,,However, such ambitions require\N you to actually possess such talent.{君にそれだけの才能があればの話しだな。}
-Dialogue: 0,0:12:20.53,0:12:23.65,Dialogue - ILPP,Mario,0,0,0,,How's about I prove it to you...
-Dialogue: 0,0:12:23.65,0:12:24.60,Dialogue - ILPP,Mario,0,0,0,,...with a performance!
-Dialogue: 0,0:12:25.81,0:12:28.02,Dialogue - ILPP,Shougo,0,0,0,,A performance showdown?!
-Dialogue: 0,0:12:28.88,0:12:30.48,Dialogue - ILPP,Hibiki,0,0,0,,Make my day.
-Dialogue: 0,0:12:30.79,0:12:34.48,Dialogue - ILPP,Laala and Amari,0,0,0,note,A winning goat is a happy goat, baa baa baa! {I thought maybe the old TL was a stretch, so I changed it.  If the old one (This happy little goat's gonna win, baah baah baah!) sounds better, i can change it back.}
-Dialogue: 0,0:12:34.48,0:12:38.43,Dialogue - ILPP,Andou,0,0,0,note,This tired goat's about to throw in the towel, baa baa baa...{まけた　くるしい　ヤギち　メメメ}{I hate that this doesn't match with the previous line now, but "throw in the towel" sounds much better than "losing".}
-Dialogue: 0,0:12:39.48,0:12:41.93,Dialogue - ILPP,Amari,0,0,0,,So even goats hold Promises, huh?
-Dialogue: 0,0:12:44.40,0:12:46.85,Dialogue - ILPP,Amari,0,0,0,,Baah! No baah-ther at all!
-Dialogue: 0,0:12:46.85,0:12:49.56,Dialogue - ILPP,Laala,0,0,0,,How are we supposed\N to introduce ourselves to goats?! {Alt: I said we're not here to meet with goats, but like??? Then why are you here???}{?????????}{ヤギ見知りしだめだって}
-Dialogue: 0,0:12:50.05,0:12:52.31,Dialogue - ILPP,Falulu,0,0,0,,I wonder what Mahou-chan's up to...
-Dialogue: 0,0:12:55.30,0:12:58.18,Dialogue - ILPP,Fuwari,0,0,0,,You're letting us borrow the new GoatPad model? {I'm proud of "GoatPad".  Why say "tablet for goats" when you could call it something fun? Guess you could say it's GOAT-ed...}
-Dialogue: 0,0:13:01.81,0:13:03.99,Dialogue - ILPP,Announcer,0,0,0,,We're live from BoyPara!
-Dialogue: 0,0:13:05.50,0:13:06.91,Dialogue - ILPP,Falulu,0,0,0,,Oh, it's BoyPara!
-Dialogue: 0,0:13:06.91,0:13:08.64,Dialogue - ILPP,Fuwari,0,0,0,note,Thanks for letting us borrow this, Ms. Goat! {Normally, I wouldn't TL honorifics 1:1 with English, but Fuwari is totally the kinda gal to refer to her goat friend as "Ms. Goat".}
-Dialogue: 0,0:13:10.00,0:13:11.48,Dialogue - ILPP,Meganii,0,0,0,,This just in!
-Dialogue: 0,0:13:11.89,0:13:17.35,Dialogue - ILPP,Meganii,0,0,0,,A heated performance showdown is underway in BoyPara!
-Dialogue: 0,0:13:17.35,0:13:19.81,Dialogue - ILPP,Fuwari,0,0,0,,A performance showdown?
-Dialogue: 0,0:13:19.81,0:13:22.13,Dialogue - ILPP,Meganii,0,0,0,,I'm your host, Meganii, assisted by...
-Dialogue: 0,0:13:22.13,0:13:24.81,Dialogue - ILPP,Reona,0,0,0,QC,Reona here, signing on!{people say "signing off" at the end of a program}
-Dialogue: 0,0:13:24.81,0:13:27.26,Dialogue - ILPP,Meganii,0,0,0,,First off, for the first time in BoyPara's history,{ダンプリしじょはつじょうしのプリパラ女子プリお逆様のスペシャルステージフェス！}
-Dialogue: 0,0:13:27.26,0:13:32.30,Dialogue - ILPP,Meganii,0,0,0,,a special girls' PriPara performance-fest,\N featuring a guest from GirlPara!
-Dialogue: 0,0:13:37.33,0:13:40.56,Dialogue - ILPP,Hibiki,0,0,0,,A show of brilliant elegance and talent!{めくるめくびのうかげいざなを}{I opted for "brilliant" over "dazzling" because "brilliant" is more associated with Hibiki---it's literally in the name of her brand (Brilliant Prince).}
-Dialogue: 0,0:13:42.03,0:13:43.33,Dialogue - ILPP,Hibiki,0,0,0,,Idol Key:
-Dialogue: 0,0:13:44.13,0:13:46.23,Dialogue - ILPP,Hibiki,0,0,0,,Open the stage!
-Dialogue: 0,0:13:49.21,0:13:52.89,Dialogue - ILPP,Meganii,0,0,0,,This gallant style gives the impression of a knight,
-Dialogue: 0,0:13:52.89,0:13:55.82,Dialogue - ILPP,Meganii,0,0,0,,and the large violet roses give off a lovely aroma.
-Dialogue: 0,0:13:55.82,0:13:58.48,Dialogue - ILPP,Hibiki,0,0,0,,Violet Rose Duelist Coord!
-Dialogue: 0,0:13:58.48,0:14:00.44,Dialogue - ILPP,Hibiki,0,0,0,,Start!
-Dialogue: 0,0:15:32.17,0:15:34.69,Dialogue - ILPP,Hibiki,0,0,0,,Cyalume change!{:(}
-Dialogue: 0,0:16:32.52,0:16:33.98,Dialogue - ILPP,Crowd,0,0,0,,{\an8}Nice!
-Dialogue: 0,0:16:33.98,0:16:35.44,Dialogue - ILPP,Crowd,0,0,0,,{\an8}Nice!
-Dialogue: 0,0:16:35.44,0:16:39.85,Dialogue - ILPP,Crowd,0,0,0,,{\an8}Nice! Nice! Nice! Nice! Nice!
-Dialogue: 0,0:16:42.19,0:16:45.06,Dialogue - ILPP,Mario,0,0,0,,Not using your Making Drama\N during your performance, huh?
-Dialogue: 0,0:16:45.06,0:16:48.52,Dialogue - ILPP,Mario,0,0,0,,Guess you were too busy shakin' in your boots to do one.
-Dialogue: 0,0:16:49.41,0:16:51.44,Dialogue - ILPP,Hibiki,0,0,0,,You're free to think that.{ごじゆうとらえたくる}
-Dialogue: 0,0:16:51.84,0:16:53.90,Dialogue - ILPP,Meganii,0,0,0,,Up next is uh...
-Dialogue: 0,0:16:53.90,0:16:58.47,Dialogue - ILPP,Meganii,0,0,0,,Well... He's, uh... \NNot really in our system just yet, but...
-Dialogue: 0,0:16:58.47,0:16:59.35,Dialogue - ILPP,Reona,0,0,0,,Relax!
-Dialogue: 0,0:16:59.35,0:17:01.43,Dialogue - ILPP,Mario,0,0,0,,Whatever. Who cares!{I hate working on a kids' show because then I can't TL the line as "who gives a flying fuck". I mean, technically one of the lines in his song CAN be TL'd that way, but it'd be too jarring.  Let's be real.}
-Dialogue: 0,0:17:01.43,0:17:03.33,Dialogue - ILPP,Mario,0,0,0,,Lemme show ya how it's done!{そがな}
-Dialogue: 0,0:17:06.02,0:17:09.65,Dialogue - ILPP,Mario,0,0,0,QC,I don't give a damn about your prodigy crap!{quotations require that she either said it earlier (she didn't) or mario knows hibiki's whole schtick (unlikely)}
-Dialogue: 0,0:17:09.65,0:17:12.52,Dialogue - ILPP,Mario,0,0,0,,Fall into despair before the great Mario!{I can't fucking take him seriously when he shares his name with Nintendo Mario.}
-Dialogue: 0,0:18:20.42,0:18:21.98,Dialogue - ILPP,Mario,0,0,0,,Making Dra—
-Dialogue: 0,0:18:21.35,0:18:25.98,Dialogue - ILPP,Hibiki,0,0,0,,{\an8}Making Drama, switch on!
-Dialogue: 0,0:18:28.56,0:18:31.69,Dialogue - ILPP,Mario,0,0,0,,So you think you can just\N cut into my Making Drama like that, huh?{メーキングドラマになにゆえとやるじゃねえか}
-Dialogue: 0,0:18:31.69,0:18:32.90,Dialogue - ILPP,Hibiki,0,0,0,,Sapphire revolution!
-Dialogue: 0,0:18:32.90,0:18:34.44,Dialogue - ILPP,Hibiki,0,0,0,,Machine gun rhapsody!{I really don't want to TL this as "wild machine gun dance" because that sounds stupid, but I guess that's technically correct. I'm sticking with SMC's for now even if "rhapsody" isn't the meaning. SMC generally has solid TLs so I trust it.}
-Dialogue: 0,0:18:35.90,0:18:37.19,Dialogue - ILPP,Mario,0,0,0,,Lockdown pandemic!
-Dialogue: 0,0:18:37.50,0:18:38.16,Dialogue - ILPP,Meganii,0,0,0,,Stop this, you two!
-Dialogue: 0,0:18:38.16,0:18:39.72,Dialogue - ILPP,Meganii,0,0,0,,You're going to hit the audience—
-Dialogue: 0,0:18:45.94,0:18:47.98,Dialogue - ILPP,Hibiki,0,0,0,,Listen well.
-Dialogue: 0,0:18:47.98,0:18:50.56,Dialogue - ILPP,Hibiki,0,0,0,,My heart...
-Dialogue: 0,0:18:51.73,0:18:53.98,Dialogue - ILPP,Mario,0,0,0,,{\i1}Her heart is locked?!{\i0}
-Dialogue: 0,0:18:53.98,0:18:55.98,Dialogue - ILPP,Mario,0,0,0,,{\i1}I can't lock something that's already been locked away!{\i0}{最初から閉じてるとびらはしみられね。}
-Dialogue: 0,0:18:56.31,0:19:01.98,Dialogue - ILPP,Hibiki,0,0,0,,My heart opens for none but Fuwari and Falulu!
-Dialogue: 0,0:19:01.98,0:19:02.88,Dialogue - ILPP,Mario,0,0,0,,Damn it!
-Dialogue: 0,0:19:05.23,0:19:08.30,Dialogue - ILPP,Mario,0,0,0,,Cyalume Tornado!
-Dialogue: 0,0:19:12.10,0:19:14.56,Dialogue - ILPP,Mario,0,0,0,,Screw it! You've left me no choice!
-Dialogue: 0,0:19:54.60,0:19:59.98,Dialogue - ILPP,Hibiki,0,0,0,,My heart opens for none but Fuwari and Falulu!
-Dialogue: 0,0:19:59.98,0:20:01.50,Dialogue - ILPP,Falulu,0,0,0,,Mahou-chan...
-Dialogue: 0,0:20:01.50,0:20:03.16,Dialogue - ILPP,Fuwari,0,0,0,,We'll have a word with her about this later.
-Dialogue: 0,0:20:04.40,0:20:07.57,Dialogue - ILPP,Meganii,0,0,0,,{\i1}Mario's performance didn't\N bring forth any sparkling power...{\i0}
-Dialogue: 0,0:20:07.57,0:20:12.59,Dialogue - ILPP,Meganii,0,0,0,,{\i1}Meanwhile, Hibiki was able to\N produce an Idol Key on her own...{\i0}
-Dialogue: 0,0:20:12.59,0:20:14.10,Dialogue - ILPP,Meganii,0,0,0,,{\i1}I expected no less of her.{\i0}
-Dialogue: 0,0:20:18.06,0:20:20.55,Dialogue - ILPP,Blue guy I forgot his name rip bozo,0,0,0,,Another tornado, huh?
-Dialogue: 0,0:20:20.55,0:20:22.29,Dialogue - ILPP,Asahi,0,0,0,,That's some crazy awesome power!
-Dialogue: 0,0:20:22.29,0:20:24.02,Dialogue - ILPP,Shougo,0,0,0,,Both of them were astounding.
-Dialogue: 0,0:20:28.53,0:20:29.77,Dialogue - ILPP,Hibiki,0,0,0,note,He's gone!{I don't think this is internal dialogue. It seems more like when you utter something in surprise,.}
-Dialogue: 0,0:20:30.94,0:20:33.44,Dialogue - ILPP,Meganii,0,0,0,,More spiny bugs?!
-Dialogue: 0,0:20:33.17,0:20:36.90,Dialogue - ILPP,Extras,0,0,0,,{\an8}Whatever...
-Dialogue: 0,0:20:36.90,0:20:42.40,Dialogue - ILPP,Laala,0,0,0,,So even my power wasn't enough\N to return them to their senses...
-Dialogue: 0,0:20:42.93,0:20:46.65,Dialogue - ILPP,Hibiki,0,0,0,,Just {\i1}what{\i0} is that fellow?
-Dialogue: 0,0:20:57.44,0:20:59.66,Dialogue - ILPP,Mario,0,0,0,,GirlPara, huh...
-Dialogue: 0,0:20:59.66,0:21:03.33,Dialogue - ILPP,Mario,0,0,0,,So that's where her little friends are...{あいつはバンのやつらあいてにしてんのか... something}
-Dialogue: 0,0:21:10.48,0:21:13.60,Dialogue - ILPP,Mario,0,0,0,,Guess I oughta pay them a little visit.{そろそろあいにってやろうか}
-Dialogue: 0,0:21:17.46,0:21:19.98,Dialogue - ILPP,Amari,0,0,0,,Wahooooo!
-Dialogue: 0,0:21:19.98,0:21:22.45,Dialogue - ILPP,Amari,0,0,0,QC,How shall I land today?{your job, cynthiatheTL}{vibe i'm getting is that she's nonchalantly deciding how to land}
-Dialogue: 0,0:21:22.45,0:21:25.13,Dialogue - ILPP,Amari,0,0,0,,Hm... I could do this... {\i1}or{\i0} I could do that! {Probably a less direct way to handle this, but I'll keep it for now.}
-Dialogue: 0,0:21:25.13,0:21:28.36,Dialogue - ILPP,Amari,0,0,0,,The possibilities are endless!
-Dialogue: 0,0:21:28.36,0:21:30.65,Dialogue - ILPP,Amari,0,0,0,,Gah! Ow, ow, ow! My foot!
-Dialogue: 0,0:21:30.65,0:21:33.52,Dialogue - ILPP,Amari,0,0,0,,AAAAGGGHHHH!
-Dialogue: 0,0:21:38.94,0:21:42.30,Dialogue - ILPP,Mario,0,0,0,QC,What is {\i1}with{\i0} that annoying power?{context makes me think he's complaining about hibiki being able to manifest the key earlier, with the power of what i can only assume to be friendship}{何だ　あの　うっとうしい　パワーは}
-Dialogue: 0,0:21:43.46,0:21:46.83,Dialogue - ILPP,Mario,0,0,0,,It's all because of their sparkling power crap!
-Dialogue: 0,0:21:46.83,0:21:49.34,Dialogue - ILPP,Amari,0,0,0,,Safe! Perfect ten!
-Dialogue: 0,0:21:50.25,0:21:52.31,Dialogue - ILPP,Amari,0,0,0,,O-Oh my gosh! I am so, so sorry!
-Dialogue: 0,0:21:52.31,0:21:54.85,Dialogue - ILPP,Amari,0,0,0,,I-I didn't mean to kill you!\N It was an accident, I swear!
-Dialogue: 0,0:21:55.84,0:21:59.38,Dialogue - ILPP,Mario,0,0,0,,You tellin' me that headshot {\i1}wasn't{\i0} on purpose?
-Dialogue: 0,0:22:00.06,0:22:02.02,Dialogue - ILPP,Amari,0,0,0,,Eeyikes! What's wrong with your {\i1}face?{\i0}
-Dialogue: 0,0:22:02.93,0:22:03.98,Dialogue - ILPP,Mario,0,0,0,,Oh?!
-Dialogue: 0,0:22:05.35,0:22:06.96,Dialogue - ILPP,Mario,0,0,0,,Yo, Amari!
-Dialogue: 0,0:22:06.96,0:22:09.06,Dialogue - ILPP,Mario,0,0,0,note,That's a good look for you!{なんかにおじゃんそのすがったも}{he's saying that amari's current look/form kinda suits her}{Is it clear enough that he's referring to Amari's current form and not being like hehe evil bad guy who's like "that fear on your face suits you well muahaha"? }
-Dialogue: 0,0:22:09.06,0:22:10.52,Dialogue - ILPP,Amari,0,0,0,,Eep!
-Dialogue: 0,0:22:10.52,0:22:11.56,Dialogue - ILPP,Amari,0,0,0,,Somebody heeeelp!
-Dialogue: 0,0:22:11.98,0:22:15.30,Dialogue - ILPP,Mario,0,0,0,,Come on! Aren't we friends?{何だよぉぉ！おれたちのなかで}
-Dialogue: 0,0:22:12.38,0:22:15.30,Dialogue - ILPP,Amari,0,0,0,,{\an8}Aah! Lemme go! Lemme go! Lemme go!
-Dialogue: 0,0:22:18.43,0:22:20.53,Dialogue - ILPP,Mario,0,0,0,,It's me! Don't ya remember?
-Dialogue: 0,0:22:21.47,0:22:24.56,Dialogue - ILPP,Amari,0,0,0,note,No! I don't have a clue! Who the heck are you?! {QC: Is a line break needed or nah? I couldn't decide which looked better.}
-Dialogue: 0,0:22:24.90,0:22:26.02,Dialogue - ILPP,Mario,0,0,0,,No way...
-Dialogue: 0,0:22:35.52,0:22:38.92,Liar - ED Ver,ED,0,0,0,,{=37}{Usotsuki ED ver}
-Dialogue: 0,0:22:35.53,0:22:37.74,Liar - ED Ver,,0,0,0,,{\blur7.5}This world's a silent film
-Dialogue: 0,0:22:35.53,0:22:37.74,Liar - Roma ED,,0,0,0,,{\blur7.5}Kono sekai wa SILENT
-Dialogue: 0,0:22:37.74,0:22:40.01,Liar - ED Ver,,0,0,0,,{\blur7.5}where only the subtitles never stop
-Dialogue: 0,0:22:37.74,0:22:40.01,Liar - ED Ver,,0,0,0,,{\blur7.5}Jimaku dake tomaranai
-Dialogue: 0,0:22:40.01,0:22:44.56,Liar - ED Ver,,0,0,0,,{\blur7.5}Protecting the canary's song is my solemn duty
-Dialogue: 0,0:22:40.01,0:22:44.52,Liar - Roma ED,,0,0,0,,{\blur7.5}Kanaria no utagoe wa tasukeru sadame
-Dialogue: 0,0:22:44.56,0:22:46.69,Liar - ED Ver,,0,0,0,,{\blur7.5}I cast aside my Borsalino
-Dialogue: 0,0:22:44.56,0:22:46.69,Liar - Roma ED,,0,0,0,,{\blur7.5}Borsalino nagesute
-Dialogue: 0,0:22:46.69,0:22:49.00,Liar - ED Ver,,0,0,0,,{\blur7.5}as roses decorate my path
-Dialogue: 0,0:22:46.69,0:22:49.00,Liar - Roma ED,,0,0,0,,{\blur7.5}Bara no chitta kono michi de
-Dialogue: 0,0:22:49.00,0:22:50.92,Liar - ED Ver,,0,0,0,,{\blur7.5}I'll fire away with a machine gun
-Dialogue: 0,0:22:49.00,0:22:50.92,Liar - Roma ED,,0,0,0,,{\blur7.5}MACHINE GUN wo uchimakure
-Dialogue: 0,0:22:50.92,0:22:53.56,Liar - ED Ver,,0,0,0,,{\blur7.5}and deceive them all, oh!
-Dialogue: 0,0:22:50.92,0:22:53.56,Liar - Roma ED,,0,0,0,,{\blur7.5}subete wo damasou Oh
-Dialogue: 0,0:22:53.56,0:22:55.53,Liar - ED Ver,,0,0,0,,{\blur7.5}Ruined is the key to your cage
-Dialogue: 0,0:22:53.56,0:22:55.53,Liar - Roma ED,,0,0,0,,{\blur7.5}Ori no kagi wa kowashita yo
-Dialogue: 0,0:22:55.53,0:22:57.98,Liar - ED Ver,,0,0,0,,{\blur7.5}If you still wish for your prayers to be answered,
-Dialogue: 0,0:22:55.53,0:22:57.98,Liar - Roma ED,,0,0,0,,{\blur7.5}Mada kanaetai koto ga aru nara
-Dialogue: 0,0:22:57.98,0:23:03.02,Liar - ED Ver,,0,0,0,,{\blur7.5}you must take my hand and never let go!
-Dialogue: 0,0:22:57.98,0:23:03.02,Liar - Roma ED,,0,0,0,,{\blur7.5}Kono te wo nigiri kaeseba miraieigou hanasanai
-Dialogue: 0,0:23:03.02,0:23:08.30,Liar - ED Ver,,0,0,0,,{\blur7.5}Lady! She who lies shall forge her own tomorrow!
-Dialogue: 0,0:23:03.02,0:23:08.30,Liar - ED Ver,,0,0,0,,{\blur7.5}LADY! Usotsuki wa TOMORROW no hajimari
-Dialogue: 0,0:23:06.92,0:23:07.96,Liar - ED Ver,,0,0,0,,{\an9\blur7.5}(Maybe!)
-Dialogue: 0,0:23:07.96,0:23:12.05,Liar - ED Ver,,0,0,0,,{\blur7.5}Your voice reaches not a single soul
-Dialogue: 0,0:23:07.96,0:23:12.05,Liar - Roma ED,,0,0,0,,{\blur7.5}Dare ni mo todokanu sono koe mo
-Dialogue: 0,0:23:10.19,0:23:12.89,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Bang!×5)
-Dialogue: 0,0:23:12.05,0:23:17.10,Liar - Roma ED,,0,0,0,,{\blur7.5}Lady! She who lies shall forge her own tomorrow!
-Dialogue: 0,0:23:12.05,0:23:17.10,Liar - Roma ED,,0,0,0,,{\blur7.5}LADY! Usotsuki wa TOMORROW no hajimari
-Dialogue: 0,0:23:15.90,0:23:17.10,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Maybe!)
-Dialogue: 0,0:23:17.10,0:23:21.56,Liar - ED Ver,,0,0,0,,{\blur7.5}I know love's liar! I know love's fire!
-Dialogue: 0,0:23:17.10,0:23:21.56,Liar - Roma ED,,0,0,0,,{\blur7.5}I KNOW LIAR! I KNOW FIRE!
-Dialogue: 0,0:23:17.90,0:23:19.30,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Ai no)
-Dialogue: 0,0:23:20.00,0:23:21.54,Liar - ED Ver,,0,0,0,,{\blur7.5\an9}(Ai no)
-Dialogue: 0,0:23:21.54,0:23:23.70,Liar - ED Ver,,0,0,0,,{\blur7.5}A marvelous countdown
-Dialogue: 0,0:23:21.56,0:23:23.70,Liar - Roma ED,,0,0,0,,{\blur7.5}COUNTDOWN sou kantan
-Dialogue: 0,0:23:23.70,0:23:25.10,Liar - ED Ver,,0,0,0,,{\blur7.5}"Your song reached me!", but is that so?
-Dialogue: 0,0:23:23.70,0:23:25.10,Liar - Roma ED,,0,0,0,,{\blur7.5}"Kikoeru" tte ne
-Dialogue: 0,0:23:25.10,0:23:28.30,Liar - ED Ver,,0,0,0,,{\blur7.5}Hah! It's simply a lie!
-Dialogue: 0,0:23:25.10,0:23:28.30,Liar - Roma ED,,0,0,0,,{\blur7.5}hora usobukuyo
-Dialogue: 0,0:23:32.17,0:23:37.23,Liar - ED Ver,,0,0,0,,{\blur7.5}Lady! She who lies shall forge her own tomorrow
-Dialogue: 0,0:23:32.17,0:23:37.23,Liar - Roma ED,,0,0,0,,{\blur7.5}LADY! Usotsuki wa TOMORROW no hajimari
-Dialogue: 0,0:23:36.00,0:23:37.23,Liar - Roma ED,,0,0,0,,{\an9\blur7.5}(Maybe!)
-Dialogue: 0,0:23:37.23,0:23:41.70,Liar - ED Ver,,0,0,0,,{\blur7.5}I know love's liar! I know love's FIRE!
-Dialogue: 0,0:23:37.23,0:23:41.70,Liar - ED Ver,,0,0,0,,{\blur7.5}I KNOW LIAR! I KNOW FIRE!
-Dialogue: 0,0:23:40.21,0:23:41.68,Liar - ED Ver,,0,0,0,,{\blur7.5\an9}(Ai no)
-Dialogue: 0,0:23:38.03,0:23:39.33,Liar - ED Ver,,0,0,0,,{\blur7.5\an9}(Ai no)
-Dialogue: 0,0:23:41.70,0:23:46.23,Liar - ED Ver,,0,0,0,,{\blur7.5}I know love's liar! I know love's fighter!
-Dialogue: 0,0:23:41.68,0:23:46.23,Liar - Roma ED,,0,0,0,,{\blur7.5}I KNOW LIAR! I KNOW FIGHTER!
-Dialogue: 0,0:23:42.47,0:23:43.70,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Ai no)
-Dialogue: 0,0:23:44.71,0:23:46.24,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Ai no)
-Dialogue: 0,0:23:46.23,0:23:48.44,Liar - ED Ver,,0,0,0,,{\blur7.5}A marvelous countdown
-Dialogue: 0,0:23:46.24,0:23:48.44,Liar - Roma ED,,0,0,0,,{\blur7.5}COUNTDOWN sou kantan
-Dialogue: 0,0:23:48.44,0:23:50.20,Liar - ED Ver,,0,0,0,,{\blur7.5}Tomorrow is a caprice
-Dialogue: 0,0:23:48.44,0:23:50.20,Liar - Roma ED,,0,0,0,,{\blur7.5}Ashita wa kimagure
-Dialogue: 0,0:23:50.20,0:23:50.68,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Maybe!)
-Dialogue: 0,0:23:50.65,0:23:52.52,Liar - ED Ver,,0,0,0,,{\blur7.5}Wonders are prevalent
-Dialogue: 0,0:23:50.68,0:23:52.52,Liar - Roma ED,,0,0,0,,{\blur7.5}Kiseki mo arifure
-Dialogue: 0,0:23:52.52,0:23:53.15,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Maybe!)
-Dialogue: 0,0:23:53.15,0:23:58.55,Liar - ED Ver,,0,0,0,,{\blur7.5}That's why I hold this world dear
-Dialogue: 0,0:23:53.15,0:23:58.55,Liar - Roma ED,,0,0,0,,{=38}{\blur7.5}Dakara kono sekai dakishimete
-Dialogue: 0,0:01:47.50,0:03:24.65,ILOP(ODL)-Eng,OP,0,0,0,,{=41}{OP}
-Dialogue: 14,0:01:53.81,0:01:56.73,ILOP(ODL)-Eng,,0,0,0,,{\an8\fad(125,208)\blur0.75\bord0\pos(466.395,18)}We're waiting for you
-Dialogue: 12,0:01:53.81,0:01:56.73,ILOP(ODL)-Eng,,0,0,0,,{\an8\fad(125,208)\blur1.001\pos(466.395,18)}We're waiting for you
-Dialogue: 10,0:01:53.81,0:01:56.73,ILOP(ODL)-Eng,,0,0,0,,{\an8\fad(125,208)\3c&HFFBAF8&\blur4\bord4\pos(466.395,18)}We're waiting for you
-Dialogue: 13,0:01:53.81,0:01:56.73,ILOP(ODL)-Roma,,0,0,0,,{\an8\fad(125,208)\blur0.6\bord0\fs62.4\pos(462.4,115.001)}kimi wo matterun da yo
-Dialogue: 11,0:01:53.81,0:01:56.73,ILOP(ODL)-Roma,,0,0,0,,{\an8\fad(125,208)\blur0.8\fs62.4\pos(462.4,115.001)}kimi wo matterun da yo
-Dialogue: 9,0:01:53.81,0:01:56.73,ILOP(ODL)-Roma,,0,0,0,,{\an8\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4\pos(462.4,115.001)}kimi wo matterun da yo
-Dialogue: 14,0:01:59.07,0:02:01.90,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0\pos(1360.395,28.005)}Open dream land!
-Dialogue: 12,0:01:59.07,0:02:01.90,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001\pos(1360.395,28.005)}Open dream land!
-Dialogue: 10,0:01:59.07,0:02:01.90,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4\pos(1360.395,28.005)}Open dream land!
-Dialogue: 13,0:01:59.07,0:02:01.90,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4\pos(1358.4,115.001)}open dream land
-Dialogue: 11,0:01:59.07,0:02:01.90,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4\pos(1358.4,115.001)}open dream land
-Dialogue: 9,0:01:59.07,0:02:01.90,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4\pos(1358.4,115.001)}open dream land
-Dialogue: 14,0:02:01.90,0:02:06.94,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}Every outfit you admire
-Dialogue: 12,0:02:01.90,0:02:06.94,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}Every outfit you admire
-Dialogue: 10,0:02:01.90,0:02:06.94,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}Every outfit you admire
-Dialogue: 13,0:02:01.90,0:02:06.94,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}akoreteru oshare ya ano daisuki
-Dialogue: 11,0:02:01.90,0:02:06.94,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}akoreteru oshare ya ano daisuki
-Dialogue: 9,0:02:01.90,0:02:06.94,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}akoreteru oshare ya ano daisuki
-Dialogue: 14,0:02:06.94,0:02:10.10,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}Every lyric that you love
-Dialogue: 12,0:02:06.94,0:02:10.10,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}Every lyric that you love
-Dialogue: 10,0:02:06.94,0:02:10.10,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}Every lyric that you love
-Dialogue: 13,0:02:06.94,0:02:10.10,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}na uta no fureezu ga
-Dialogue: 11,0:02:06.94,0:02:10.10,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}na uta no fureezu ga
-Dialogue: 9,0:02:06.94,0:02:10.10,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}na uta no fureezu ga
-Dialogue: 14,0:02:10.10,0:02:13.98,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}It's all inviting you to come join us
-Dialogue: 12,0:02:10.10,0:02:13.98,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}It's all inviting you to come join us
-Dialogue: 10,0:02:10.10,0:02:13.98,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}It's all inviting you to come join us
-Dialogue: 13,0:02:10.10,0:02:13.98,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}kocchi oide yo tte yonderu yo
-Dialogue: 11,0:02:10.10,0:02:13.98,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}kocchi oide yo tte yonderu yo
-Dialogue: 9,0:02:10.10,0:02:13.98,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}kocchi oide yo tte yonderu yo
-Dialogue: 14,0:02:13.98,0:02:18.77,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}You know that you're unique
-Dialogue: 12,0:02:13.98,0:02:18.77,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}You know that you're unique
-Dialogue: 10,0:02:13.98,0:02:18.77,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}You know that you're unique
-Dialogue: 13,0:02:13.98,0:02:18.77,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}jibun dake ga motteru no wa dare ka to chigau
-Dialogue: 11,0:02:13.98,0:02:18.77,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}jibun dake ga motteru no wa dare ka to chigau
-Dialogue: 9,0:02:13.98,0:02:18.77,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}jibun dake ga motteru no wa dare ka to chigau
-Dialogue: 14,0:02:18.77,0:02:21.90,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}There's no one else the same
-Dialogue: 12,0:02:18.77,0:02:21.90,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}There's no one else the same
-Dialogue: 10,0:02:18.77,0:02:21.90,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}There's no one else the same
-Dialogue: 13,0:02:18.77,0:02:21.90,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}tte omotteru koto
-Dialogue: 11,0:02:18.77,0:02:21.90,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}tte omotteru koto
-Dialogue: 9,0:02:18.77,0:02:21.90,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}tte omotteru koto
-Dialogue: 14,0:02:21.90,0:02:26.56,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}Wear that thought and you'll get a ton of likes!
-Dialogue: 12,0:02:21.90,0:02:26.56,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}Wear that thought and you'll get a ton of likes!
-Dialogue: 10,0:02:21.90,0:02:26.56,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}Wear that thought and you'll get a ton of likes!
-Dialogue: 13,0:02:21.90,0:02:26.56,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}ii ne ga ippai no koode da yo
-Dialogue: 11,0:02:21.90,0:02:26.56,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}ii ne ga ippai no koode da yo
-Dialogue: 9,0:02:21.90,0:02:26.56,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}ii ne ga ippai no koode da yo
-Dialogue: 14,0:02:26.56,0:02:29.48,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}Give it a twirl
-Dialogue: 12,0:02:26.56,0:02:29.48,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}Give it a twirl
-Dialogue: 10,0:02:26.56,0:02:29.48,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}Give it a twirl
-Dialogue: 13,0:02:26.56,0:02:29.48,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}kururi mawashite
-Dialogue: 11,0:02:26.56,0:02:29.48,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}kururi mawashite
-Dialogue: 9,0:02:26.56,0:02:29.48,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}kururi mawashite
-Dialogue: 14,0:02:29.60,0:02:32.44,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}And take the key to your heart
-Dialogue: 12,0:02:29.60,0:02:32.44,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}And take the key to your heart
-Dialogue: 10,0:02:29.60,0:02:32.44,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}And take the key to your heart
-Dialogue: 13,0:02:29.60,0:02:32.44,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}haato no kagi wo
-Dialogue: 11,0:02:29.60,0:02:32.44,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}haato no kagi wo
-Dialogue: 9,0:02:29.60,0:02:32.44,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}haato no kagi wo
-Dialogue: 14,0:02:32.44,0:02:34.65,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}Let's snick them, you and me
-Dialogue: 12,0:02:32.44,0:02:34.65,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}Let's snick them, you and me
-Dialogue: 10,0:02:32.44,0:02:34.65,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}Let's snick them, you and me
-Dialogue: 13,0:02:32.44,0:02:34.65,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}deaeta nara chakirou
-Dialogue: 11,0:02:32.44,0:02:34.65,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}deaeta nara chakirou
-Dialogue: 9,0:02:32.44,0:02:34.65,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}deaeta nara chakirou
-Dialogue: 14,0:02:34.65,0:02:38.72,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}And our worlds will become one
-Dialogue: 12,0:02:34.65,0:02:38.72,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}And our worlds will become one
-Dialogue: 10,0:02:34.65,0:02:38.72,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}And our worlds will become one
-Dialogue: 13,0:02:34.65,0:02:38.72,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}sekai ga tsunagaru
-Dialogue: 11,0:02:34.65,0:02:38.73,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}sekai ga tsunagaru
-Dialogue: 9,0:02:34.65,0:02:38.72,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}sekai ga tsunagaru
-Dialogue: 14,0:02:38.73,0:02:42.06,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}Remember the promise, shining bright
-Dialogue: 12,0:02:38.73,0:02:42.06,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}Remember the promise, shining bright
-Dialogue: 10,0:02:38.73,0:02:42.06,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}Remember the promise, shining bright
-Dialogue: 13,0:02:38.73,0:02:42.06,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}sparkling no yakusoku wo
-Dialogue: 11,0:02:38.73,0:02:42.06,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}sparkling no yakusoku wo
-Dialogue: 9,0:02:38.73,0:02:42.06,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}sparkling no yakusoku wo
-Dialogue: 14,0:02:42.06,0:02:45.06,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}It's gonna envelop your future
-Dialogue: 12,0:02:42.06,0:02:45.06,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}It's gonna envelop your future
-Dialogue: 10,0:02:42.06,0:02:45.06,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}It's gonna envelop your future
-Dialogue: 13,0:02:42.06,0:02:45.06,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}kimi no mirai to kawashita toki
-Dialogue: 11,0:02:42.06,0:02:45.06,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}kimi no mirai to kawashita toki
-Dialogue: 9,0:02:42.06,0:02:45.06,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}kimi no mirai to kawashita toki
-Dialogue: 14,0:02:45.06,0:02:47.77,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}Open the door in your heart
-Dialogue: 12,0:02:45.06,0:02:47.77,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}Open the door in your heart
-Dialogue: 10,0:02:45.06,0:02:47.77,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}Open the door in your heart
-Dialogue: 13,0:02:45.06,0:02:47.77,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}mune no oku de hiraiteiku
-Dialogue: 11,0:02:45.06,0:02:47.77,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}mune no oku de hiraiteiku
-Dialogue: 9,0:02:45.06,0:02:47.77,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}mune no oku de hiraiteiku
-Dialogue: 14,0:02:47.77,0:02:50.35,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}Go on through, 'cause your dreams are waiting for you
-Dialogue: 12,0:02:47.77,0:02:50.35,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}Go on through, 'cause your dreams are waiting for you
-Dialogue: 10,0:02:47.77,0:02:50.35,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}Go on through, 'cause your dreams are waiting for you
-Dialogue: 13,0:02:47.77,0:02:50.35,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}tobira sore ga iriguchi da yo
-Dialogue: 11,0:02:47.77,0:02:50.35,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4\}tobira sore ga iriguchi da yo
-Dialogue: 9,0:02:47.77,0:02:50.35,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}tobira sore ga iriguchi da yo
-Dialogue: 14,0:02:50.81,0:02:53.94,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}So come on, dive in with me
-Dialogue: 12,0:02:50.81,0:02:53.94,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}So come on, dive in with me
-Dialogue: 10,0:02:50.81,0:02:53.94,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}So come on, dive in with me
-Dialogue: 13,0:02:50.81,0:02:53.94,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}omoikitte tobikomou ne
-Dialogue: 11,0:02:50.81,0:02:53.94,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}omoikitte tobikomou ne
-Dialogue: 9,0:02:50.81,0:02:53.94,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}omoikitte tobikomou ne
-Dialogue: 14,0:02:53.94,0:02:59.10,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}Wear a smile like the sun and let's go to Idol Land (Yeah!)
-Dialogue: 12,0:02:53.94,0:02:59.10,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}Wear a smile like the sun and let's go to Idol Land (Yeah!)
-Dialogue: 10,0:02:53.94,0:02:59.10,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}Wear a smile like the sun and let's go to Idol Land (Yeah!)
-Dialogue: 13,0:02:53.94,0:02:59.10,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4\}tobikiri no egao de go to aidoru land (yeah)
-Dialogue: 11,0:02:53.94,0:02:59.10,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}tobikiri no egao de go to aidoru land (yeah)
-Dialogue: 9,0:02:53.94,0:02:59.10,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4\}tobikiri no egao de go to aidoru land (yeah)
-Dialogue: 14,0:02:59.10,0:03:05.19,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}We'll make it all the more vivid and lovely
-Dialogue: 12,0:02:59.10,0:03:05.19,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}We'll make it all the more vivid and lovely
-Dialogue: 10,0:02:59.10,0:03:05.19,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}We'll make it all the more vivid and lovely
-Dialogue: 13,0:02:59.10,0:03:05.19,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}kagayaki wo tsukutteikou
-Dialogue: 11,0:02:59.10,0:03:05.19,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}kagayaki wo tsukutteikou
-Dialogue: 9,0:02:59.10,0:03:05.19,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}kagayaki wo tsukutteikou
-Dialogue: 14,0:03:07.19,0:03:13.06,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur0.75\bord0}'Cause our dreams are shining bright!
-Dialogue: 12,0:03:07.19,0:03:13.06,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\blur1.001}'Cause our dreams are shining bright!
-Dialogue: 10,0:03:07.19,0:03:13.06,ILOP(ODL)-Eng,,0,0,0,,{\fad(125,208)\3c&HFFBAF8&\blur4\bord4}'Cause our dreams are shining bright!
-Dialogue: 13,0:03:07.19,0:03:13.06,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.6\bord0\fs62.4}mabushii yume de
-Dialogue: 11,0:03:07.19,0:03:13.06,ILOP(ODL)-Roma,,0,0,0,,{\fad(125,208)\blur0.8\fs62.4}mabushii yume de
-Dialogue: 9,0:03:07.19,0:03:13.06,ILOP(ODL)-Roma,,0,0,0,,{=42}{\fad(125,208)\3c&HFFBAF8&\blur3.2\bord3.2\fs62.4}mabushii yume de
-Dialogue: 0,0:14:00.44,0:16:28.17,Liar,Hibiki Insert,0,0,0,,{=45}{Liar}
-Dialogue: 0,0:14:23.60,0:14:25.98,Liar,,0,0,0,,{\blur4.5\fad(150,150)}This world's a silent film
-Dialogue: 0,0:14:25.98,0:14:28.02,Liar,,0,0,0,,{\blur4.5\fad(150,150)}where only the subtitles never stop
-Dialogue: 0,0:14:28.02,0:14:32.48,Liar,,0,0,0,,{\blur4.5\fad(150,150)}Protecting the canary's song is my solemn duty
-Dialogue: 0,0:14:32.67,0:14:34.85,Liar,,0,0,0,,{\blur4.5\fad(150,150)}I cast aside my Borsalino
-Dialogue: 0,0:14:34.85,0:14:37.15,Liar,,0,0,0,,{\blur4.5\fad(150,150)}as roses decorate my path
-Dialogue: 0,0:14:37.15,0:14:39.20,Liar,,0,0,0,,{\blur4.5\fad(150,150)}I'll fire away with a machine gun
-Dialogue: 0,0:14:39.20,0:14:41.65,Liar,,0,0,0,,{\blur4.5\fad(150,150)}and deceive them all, oh!
-Dialogue: 0,0:14:41.65,0:14:43.71,Liar,,0,0,0,,{\blur4.5\fad(150,150)}Ruined is the key to your cage
-Dialogue: 0,0:14:43.71,0:14:46.06,Liar,,0,0,0,,{\blur4.5\fad(150,150)}If you still wish for your prayers to be answered,
-Dialogue: 0,0:14:46.06,0:14:51.31,Liar,,0,0,0,,{\blur4.5\fad(150,150)}you must take my hand and never let go.
-Dialogue: 0,0:14:51.31,0:14:56.30,Liar,,0,0,0,,{\blur4.5\fad(150,150)}Lady! She who lies shall forge her own tomorrow
-Dialogue: 0,0:14:55.24,0:14:56.31,Liar,,0,0,0,,{\an7\blur4.5\fad(150,150)}(Maybe!)
-Dialogue: 0,0:14:56.31,0:15:00.28,Liar,,0,0,0,,{\blur4.5\fad(150,150)}Your voice reaches not a single soul
-Dialogue: 0,0:14:58.48,0:15:00.81,Liar,,0,0,0,,{\an7\blur4.5\fad(150,150)}(Bang!×5)
-Dialogue: 0,0:15:00.28,0:15:05.23,Liar,,0,0,0,,{\blur4.5\fad(150,150)}Lady! She who lies shall forge her own tomorrow
-Dialogue: 0,0:15:04.09,0:15:05.23,Liar,,0,0,0,,{\blur4.5\fad(150,150)\an7}(Maybe!)
-Dialogue: 0,0:15:05.23,0:15:09.81,Liar,,0,0,0,,{\blur4.5\fad(150,150)}I know love's liar! I know love's fire!
-Dialogue: 0,0:15:06.15,0:15:07.56,Liar,,0,0,0,,{\blur4.5\fad(150,150)\an7}(Ai no)
-Dialogue: 0,0:15:08.46,0:15:09.83,Liar,,0,0,0,,{\blur4.5\fad(150,150)\an7}(Ai no)
-Dialogue: 0,0:15:09.83,0:15:11.90,Liar,,0,0,0,,{\blur4.5\fad(150,150)}A marvelous countdown
-Dialogue: 0,0:15:11.90,0:15:13.40,Liar,,0,0,0,,{\blur4.5\fad(150,150)}“Your song reached me!”, but is that so?
-Dialogue: 0,0:15:13.39,0:15:16.65,Liar,,0,0,0,,{\blur4.5\fad(150,150)}Hah! It's simply a lie!{Technically, "hora" does not translate to "hah!", but for the sake of it sounding "Hibiki" enough and avoiding "stock" TLs that don't properly convey the feeling, "hah!" gets used. TL note: keikaku means plan}
-Dialogue: 0,0:14:23.60,0:14:25.98,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}Kono sekai wa SILENT
-Dialogue: 0,0:14:25.98,0:14:28.02,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}Jimaku dake tomaranai
-Dialogue: 0,0:14:28.02,0:14:32.46,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}Kanaria no utagoe wo tasukeru sadame
-Dialogue: 0,0:14:32.67,0:14:34.85,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}BORSALINO nagesute
-Dialogue: 0,0:14:34.85,0:14:37.15,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}Bara no chitta kono michi de
-Dialogue: 0,0:14:37.15,0:14:39.20,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}MACHINE GUN wo uchimakure
-Dialogue: 0,0:14:39.20,0:14:41.65,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}Subete wo damasou Oh
-Dialogue: 0,0:14:41.65,0:14:43.71,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}Ori no kagi wa kowashita yo
-Dialogue: 0,0:14:43.71,0:14:46.06,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}mada kanaetai koto ga aru nara
-Dialogue: 0,0:14:46.06,0:14:51.31,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}Kono te wo nigiri kaeseba miraieigou hanasanai
-Dialogue: 0,0:14:51.31,0:14:56.30,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}LADY! Usotsuki wa tomorrow no hajimari
-Dialogue: 0,0:14:56.31,0:15:00.28,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}Dare ni mo todokanu sono koe mo
-Dialogue: 0,0:15:00.28,0:15:05.23,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}LADY! Usotsuki wa TOMORROW no hajimari
-Dialogue: 0,0:15:05.23,0:15:09.81,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}I KNOW LIAR! I KNOW FIRE!
-Dialogue: 0,0:15:09.81,0:15:11.90,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}COUNTDOWN sou kantan
-Dialogue: 0,0:15:11.90,0:15:13.39,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}“kikoeru” tte ne
-Dialogue: 0,0:15:13.39,0:15:16.65,Liar - Roma,,0,0,0,,{\blur4.5\fad(150,150)}Hora! Usobuku yo
-Dialogue: 4,0:15:34.69,0:15:39.00,Liar - Cyalume top,,0,0,0,,{\blur3\fad(150,150)}Left and right begin reflecting the labyrinth of mirrors
-Dialogue: 13,0:15:39.00,0:15:43.43,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\bord0.75\blur3\1a&HFF&\3c&HFFFFFF&\}A paradise of my own making with no way out
-Dialogue: 4,0:15:43.43,0:15:45.15,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\1a&HFF&\3c&HFFFFFF&\}Here remains this song,
-Dialogue: 4,0:15:45.40,0:15:47.98,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\bord0.75\blur3\1a&HFF&\3c&HFFFFFF&\}and the canary playing two roles
-Dialogue: 4,0:15:47.98,0:15:51.73,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1c&H000000&\3c&HFFFFFF&}is not only “You”, but "Me” as well
-Dialogue: 4,0:15:51.73,0:15:53.35,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3}Oh, lady!
-Dialogue: 4,0:15:53.35,0:15:57.94,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3}She who lies shall forge her own tomorrow
-Dialogue: 4,0:15:56.93,0:15:57.94,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\an7}(Maybe!)
-Dialogue: 4,0:15:57.94,0:16:01.98,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Certainly this act is the truth
-Dialogue: 4,0:16:00.14,0:16:02.91,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\an7}(Bang!×5)
-Dialogue: 4,0:16:01.98,0:16:07.02,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Lady! She who lies shall forge her own tomorrow
-Dialogue: 4,0:16:05.80,0:16:07.02,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\an7}(Maybe!)
-Dialogue: 4,0:16:07.02,0:16:11.23,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}I know love’s liar! I know love’s fire!
-Dialogue: 4,0:16:07.82,0:16:09.02,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\an7}(Ai no)
-Dialogue: 4,0:16:09.98,0:16:11.23,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\an7}(Ai no)
-Dialogue: 4,0:16:11.58,0:16:16.04,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&}I know love's liar! I know love’s fighter!
-Dialogue: 4,0:16:12.21,0:16:13.47,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\an7\c&HFFFFFF&\1a&HFF&\3c&HFFFFFF&}(Ai no)
-Dialogue: 4,0:16:14.44,0:16:15.78,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\an7}(Ai no)
-Dialogue: 4,0:16:16.02,0:16:18.20,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}A marvelous countdown
-Dialogue: 4,0:16:18.20,0:16:20.40,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Tomorrow is capricious
-Dialogue: 4,0:16:19.89,0:16:20.40,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\an7}(Maybe!)
-Dialogue: 4,0:16:20.40,0:16:22.73,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Wonders are prevalent
-Dialogue: 4,0:16:22.11,0:16:22.73,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\an7}(Maybe!)
-Dialogue: 4,0:16:22.73,0:16:27.85,Liar - Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}That’s why I hold this world dear
-Dialogue: 3,0:15:34.69,0:15:39.00,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)}Left and right begin reflecting the labyrinth of mirrors
-Dialogue: 12,0:15:39.00,0:15:43.43,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}A paradise of my own making with no way out
-Dialogue: 3,0:15:43.43,0:15:45.15,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Here remains this song,
-Dialogue: 3,0:15:45.40,0:15:47.98,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}and the canary playing two roles
-Dialogue: 3,0:15:47.98,0:15:51.73,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}is not only “You”, but "Me” as well
-Dialogue: 3,0:15:51.73,0:15:53.35,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)}Oh, lady!
-Dialogue: 3,0:15:53.35,0:15:57.94,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)}She who lies shall forge her own tomorrow
-Dialogue: 3,0:15:56.93,0:15:57.94,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&\an7}(Maybe!)
-Dialogue: 3,0:15:57.94,0:16:01.98,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Certainly this act is the truth
-Dialogue: 3,0:16:00.14,0:16:02.91,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&\an7}(Bang!×5)
-Dialogue: 3,0:16:01.98,0:16:07.02,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Lady! She who lies shall forge her own tomorrow
-Dialogue: 3,0:16:05.80,0:16:07.02,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&\an7}(Maybe!)
-Dialogue: 3,0:16:07.02,0:16:11.23,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}I know love’s liar! I know love’s fire!
-Dialogue: 3,0:16:07.82,0:16:09.02,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&\an7}(Ai no)
-Dialogue: 3,0:16:09.98,0:16:11.23,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&\an7}(Ai no)
-Dialogue: 3,0:16:11.58,0:16:16.04,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}I know love's liar! I know love’s fighter!
-Dialogue: 3,0:16:12.21,0:16:13.47,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&\an7}(Ai no)
-Dialogue: 3,0:16:14.44,0:16:16.02,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&\an7}(Ai no)
-Dialogue: 3,0:16:16.04,0:16:18.20,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}A marvelous countdown
-Dialogue: 3,0:16:18.20,0:16:20.40,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Tomorrow is capricious
-Dialogue: 3,0:16:19.86,0:16:20.40,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&\an7}(Maybe!)
-Dialogue: 3,0:16:20.40,0:16:22.73,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Wonders are prevalent
-Dialogue: 3,0:16:22.11,0:16:22.73,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\an7}(Maybe!)
-Dialogue: 3,0:16:22.73,0:16:27.85,Liar - Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}That’s why I hold this world dear
-Dialogue: 1,0:15:34.69,0:15:39.00,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}L{\3c&H3344E9&}e{\3c&H3254E9&}f{\3c&H3264E9&}t{\3c&H3275E9&} {\3c&H3185EA&}a{\3c&H3196EA&}n{\3c&H31A6EA&}d{\3c&H30B7EA&} {\3c&H30C8EA&}r{\3c&H30D8EA&}i{\3c&H2FE9EA&}g{\3c&H2FEADB&}h{\3c&H2FEBCA&}t{\3c&H2EEBB9&} {\3c&H2EEBA8&}b{\3c&H2EEB97&}e{\3c&H2DEB86&}g{\3c&H2DEB74&}i{\3c&H2DEB63&}n{\3c&H2CEB52&} {\3c&H2CEC40&}r{\3c&H2BEC2F&}e{\3c&H39EC2B&}f{\3c&H4AEC2B&}l{\3c&H5CEC2A&}e{\3c&H6DEC2A&}c{\3c&H7EEC2A&}t{\3c&H90EC29&}i{\3c&HA1ED29&}n{\3c&HB3ED29&}g{\3c&HC4ED28&} {\3c&HD6ED28&}t{\3c&HE8ED28&}h{\3c&HEDE127&}e{\3c&HEDCF27&} {\3c&HEDBD27&}l{\3c&HEEAB26&}a{\3c&HEE9926&}b{\3c&HEE8726&}y{\3c&HEE7525&}r{\3c&HEE6325&}i{\3c&HEE5025&}n{\3c&HEE3E24&}t{\3c&HEF2B24&}h{\3c&HEF242E&} {\3c&HEF2340&}o{\3c&HEF2352&}f{\3c&HEF2264&} {\3c&HEF2277&}m{\3c&HEF2289&}i{\3c&HEF219B&}r{\3c&HF021AE&}r{\3c&HF021C1&}o{\3c&HF020D3&}r{\3c&HF020E6&}s
-Dialogue: 11,0:15:39.00,0:15:43.43,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\1a&HFF&\\3c&H3334E9&}A{\3c&H3349E9&} {\3c&H325EE9&}p{\3c&H3274E9&}a{\3c&H3189EA&}r{\3c&H319FEA&}a{\3c&H30B5EA&}d{\3c&H30CAEA&}i{\3c&H2FE0EA&}s{\3c&H2FEADE&}e{\3c&H2FEBC8&} {\3c&H2EEBB2&}o{\3c&H2EEB9C&}f{\3c&H2DEB85&} {\3c&H2DEB6F&}m{\3c&H2CEB58&}y{\3c&H2CEC41&} {\3c&H2DEC2B&}o{\3c&H43EC2B&}w{\3c&H5AEC2B&}n{\3c&H70EC2A&} {\3c&H87EC2A&}m{\3c&H9EED29&}a{\3c&HB5ED29&}k{\3c&HCCED28&}i{\3c&HE3ED28&}n{\3c&HEDE027&}g{\3c&HEDC927&} {\3c&HEEB126&}w{\3c&HEE9A26&}i{\3c&HEE8226&}t{\3c&HEE6A25&}h{\3c&HEE5225&} {\3c&HEE3A24&}n{\3c&HEF2426&}o{\3c&HEF233D&} {\3c&HEF2355&}w{\3c&HEF226D&}a{\3c&HEF2285&}y{\3c&HEF219D&} {\3c&HF021B5&}o{\3c&HF020CD&}u{\3c&HF020E6&}t
-Dialogue: 1,0:15:43.43,0:15:45.15,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}H{\3c&H325CE9&}e{\3c&H3185EA&}r{\3c&H30AFEA&}e{\3c&H30D8EA&} {\3c&H2FEBD2&}r{\3c&H2EEBA8&}e{\3c&H2DEB7D&}m{\3c&H2CEB52&}a{\3c&H31EC2B&}i{\3c&H5CEC2A&}n{\3c&H87EC2A&}s{\3c&HB3ED29&} {\3c&HDFED28&}t{\3c&HEDCF27&}h{\3c&HEEA226&}i{\3c&HEE7525&}s{\3c&HEE4724&} {\3c&HEF242E&}s{\3c&HEF235B&}o{\3c&HEF2289&}n{\3c&HF021B7&}g{\3c&HF020E6&},
-Dialogue: 1,0:15:45.40,0:15:47.98,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}a{\3c&H3251E9&}n{\3c&H326DE9&}d{\3c&H318BEA&} {\3c&H31A8EA&}t{\3c&H30C5EA&}h{\3c&H2FE3EA&}e{\3c&H2FEBD4&} {\3c&H2EEBB6&}c{\3c&H2EEB97&}a{\3c&H2DEB79&}n{\3c&H2CEB5A&}a{\3c&H2CEC3B&}r{\3c&H3BEC2B&}y{\3c&H59EC2B&} {\3c&H77EC2A&}p{\3c&H96ED29&}l{\3c&HB5ED29&}a{\3c&HD5ED28&}y{\3c&HEDE627&}i{\3c&HEDC627&}n{\3c&HEEA726&}g{\3c&HEE8726&} {\3c&HEE6625&}t{\3c&HEE4624&}w{\3c&HEF2524&}o{\3c&HEF2343&} {\3c&HEF2263&}r{\3c&HEF2283&}o{\3c&HF021A4&}l{\3c&HF021C5&}e{\3c&HF020E6&}s
-Dialogue: 1,0:15:47.98,0:15:51.73,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}i{\3c&H324EE9&}s{\3c&H3268E9&} {\3c&H3183EA&}n{\3c&H319DEA&}o{\3c&H30B8EA&}t{\3c&H30D3EA&} {\3c&H2FEAE6&}o{\3c&H2FEBCB&}n{\3c&H2EEBAF&}l{\3c&H2DEB94&}y{\3c&H2DEB78&} {\3c&H2CEB5C&}“{\3c&H2CEC40&}Y{\3c&H33EC2B&}o{\3c&H4FEC2B&}u{\3c&H6BEC2A&}”{\3c&H87EC2A&},{\3c&HA3ED29&} {\3c&HC0ED28&}b{\3c&HDCED28&}u{\3c&HEDE127&}t{\3c&HEDC427&} {\3c&HEEA826&}"{\3c&HEE8A26&}M{\3c&HEE6D25&}e{\3c&HEE4F25&}”{\3c&HEE3124&} {\3c&HEF2333&}a{\3c&HEF2351&}s{\3c&HEF226E&} {\3c&HEF228C&}w{\3c&HF021AA&}e{\3c&HF021C8&}l{\3c&HF020E6&}l
-Dialogue: 1,0:15:51.73,0:15:53.35,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}O{\3c&H31A4EA&}h{\3c&H2EEBBD&},{\3c&H2CEC47&} {\3c&H87EC2A&}l{\3c&HEDDA27&}a{\3c&HEE5E25&}d{\3c&HEF2267&}y{\3c&HF020E6&}!
-Dialogue: 1,0:15:53.35,0:15:57.94,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}S{\3c&H334AE9&}h{\3c&H3260E9&}e{\3c&H3277E9&} {\3c&H318DEA&}w{\3c&H31A4EA&}h{\3c&H30BBEA&}o{\3c&H30D2EA&} {\3c&H2FE9EA&}l{\3c&H2FEBD4&}i{\3c&H2EEBBD&}e{\3c&H2EEBA6&}s{\3c&H2DEB8E&} {\3c&H2DEB77&}s{\3c&H2CEB5F&}h{\3c&H2CEC47&}a{\3c&H2BEC2F&}l{\3c&H40EC2B&}l{\3c&H57EC2B&} {\3c&H6FEC2A&}f{\3c&H87EC2A&}o{\3c&H9FED29&}r{\3c&HB7ED29&}g{\3c&HCFED28&}e{\3c&HE8ED28&} {\3c&HEDDA27&}h{\3c&HEDC227&}e{\3c&HEEA926&}r{\3c&HEE9026&} {\3c&HEE7725&}o{\3c&HEE5E25&}w{\3c&HEE4524&}n{\3c&HEF2B24&} {\3c&HEF2335&}t{\3c&HEF234E&}o{\3c&HEF2267&}m{\3c&HEF2280&}o{\3c&HEF2199&}r{\3c&HF021B3&}r{\3c&HF020CC&}o{\3c&HF020E6&}w
-Dialogue: 1,0:15:56.93,0:15:57.94,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\an7\3c&H3334E9&}({\3c&H30B5EA&}M{\3c&H2EEB9C&}a{\3c&H43EC2B&}y{\3c&HCCED28&}b{\3c&HEE8226&}e{\3c&HEF2355&}!{\3c&HF020E6&})
-Dialogue: 2,0:15:57.94,0:16:01.98,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}C{\3c&H3252E9&}e{\3c&H326FE9&}r{\3c&H318DEA&}t{\3c&H31ACEA&}a{\3c&H30CAEA&}i{\3c&H2FE9EA&}n{\3c&H2FEBCD&}l{\3c&H2EEBAE&}y{\3c&H2DEB8E&} {\3c&H2DEB6F&}t{\3c&H2CEB4F&}h{\3c&H2BEC2F&}i{\3c&H48EC2B&}s{\3c&H67EC2A&} {\3c&H87EC2A&}a{\3c&HA7ED29&}c{\3c&HC7ED28&}t{\3c&HE8ED28&} {\3c&HEDD227&}i{\3c&HEEB126&}s{\3c&HEE9026&} {\3c&HEE6F25&}t{\3c&HEE4D25&}h{\3c&HEF2B24&}e{\3c&HEF233D&} {\3c&HEF235E&}t{\3c&HEF2280&}r{\3c&HF021A2&}u{\3c&HF021C4&}t{\3c&HF020E6&}h
-Dialogue: 1,0:16:00.14,0:16:02.91,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\an7\blur11.25\3c&H3334E9&}({\3c&H31A4EA&}B{\3c&H2EEBBD&}a{\3c&H2CEC47&}n{\3c&H87EC2A&}g{\3c&HEDDA27&}!{\3c&HEE5E25&}×{\3c&HEF2267&}5{\3c&HF020E6&})
-Dialogue: 1,0:16:01.98,0:16:07.02,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}L{\3c&H3347E9&}a{\3c&H325BE9&}d{\3c&H326EE9&}y{\3c&H3182EA&}!{\3c&H3195EA&} {\3c&H31A9EA&}S{\3c&H30BDEA&}h{\3c&H30D1EA&}e{\3c&H2FE5EA&} {\3c&H2FEADB&}w{\3c&H2FEBC7&}h{\3c&H2EEBB3&}o{\3c&H2EEB9F&} {\3c&H2DEB8A&}l{\3c&H2DEB76&}i{\3c&H2CEB61&}e{\3c&H2CEB4C&}s{\3c&H2CEC37&} {\3c&H35EC2B&}s{\3c&H49EC2B&}h{\3c&H5DEC2A&}a{\3c&H72EC2A&}l{\3c&H87EC2A&}l{\3c&H9CED29&} {\3c&HB1ED29&}f{\3c&HC6ED28&}o{\3c&HDBED28&}r{\3c&HEDEA28&}g{\3c&HEDD527&}e{\3c&HEDBF27&} {\3c&HEEAA26&}h{\3c&HEE9526&}e{\3c&HEE7F25&}r{\3c&HEE6925&} {\3c&HEE5325&}o{\3c&HEE3D24&}w{\3c&HEF2724&}n{\3c&HEF2336&} {\3c&HEF234C&}t{\3c&HEF2361&}o{\3c&HEF2277&}m{\3c&HEF228D&}o{\3c&HF021A3&}r{\3c&HF021B9&}r{\3c&HF020D0&}o{\3c&HF020E6&}w
-Dialogue: 1,0:16:05.80,0:16:07.02,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\an7\3c&H3334E9&}({\3c&H30B5EA&}M{\3c&H2EEB9C&}a{\3c&H43EC2B&}y{\3c&HCCED28&}b{\3c&HEE8226&}e{\3c&HEF2355&}!{\3c&HF020E6&})
-Dialogue: 1,0:16:07.02,0:16:11.23,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}I{\3c&H334BE9&} {\3c&H3263E9&}k{\3c&H327AEA&}n{\3c&H3192EA&}o{\3c&H31AAEA&}w{\3c&H30C2EA&} {\3c&H30DBEA&}l{\3c&H2FEAE2&}o{\3c&H2FEBC9&}v{\3c&H2EEBB1&}e{\3c&H2EEB98&}’{\3c&H2DEB7F&}s{\3c&H2DEB66&} {\3c&H2CEB4D&}l{\3c&H2CEC34&}i{\3c&H3CEC2B&}a{\3c&H55EC2B&}r{\3c&H6EEC2A&}!{\3c&H87EC2A&} {\3c&HA0ED29&}I{\3c&HBAED29&} {\3c&HD3ED28&}k{\3c&HEDED28&}n{\3c&HEDD427&}o{\3c&HEEBA27&}w{\3c&HEEA026&} {\3c&HEE8626&}l{\3c&HEE6B25&}o{\3c&HEE5125&}v{\3c&HEE3624&}e{\3c&HEF242C&}’{\3c&HEF2346&}s{\3c&HEF2360&} {\3c&HEF227B&}f{\3c&HEF2295&}i{\3c&HF021B0&}r{\3c&HF021CB&}e{\3c&HF020E6&}!
-Dialogue: 1,0:16:07.82,0:16:09.02,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\an7\3c&H3334E9&}({\3c&H30CAEA&}A{\3c&H2DEB6F&}i{\3c&H87EC2A&} {\3c&HEEB126&}n{\3c&HEF233D&}o{\3c&HF020E6&})
-Dialogue: 1,0:16:09.98,0:16:11.23,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\an7\3c&H3334E9&}({\3c&H30CAEA&}A{\3c&H2DEB6F&}i{\3c&H87EC2A&} {\3c&HEEB126&}n{\3c&HEF233D&}o{\3c&HF020E6&})
-Dialogue: 1,0:16:11.58,0:16:16.04,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}I{\3c&H334AE9&} {\3c&H325FE9&}k{\3c&H3275E9&}n{\3c&H318BEA&}o{\3c&H31A1EA&}w{\3c&H30B8EA&} {\3c&H30CEEA&}l{\3c&H2FE5EA&}o{\3c&H2FEAD9&}v{\3c&H2EEBC3&}e{\3c&H2EEBAC&}'{\3c&H2EEB95&}s{\3c&H2DEB7E&} {\3c&H2DEB67&}l{\3c&H2CEB50&}i{\3c&H2CEC38&}a{\3c&H36EC2B&}r{\3c&H4DEC2B&}!{\3c&H64EC2A&} {\3c&H7BEC2A&}I{\3c&H93EC29&} {\3c&HAAED29&}k{\3c&HC2ED28&}n{\3c&HD9ED28&}o{\3c&HEDE928&}w{\3c&HEDD127&} {\3c&HEEB927&}l{\3c&HEEA126&}o{\3c&HEE8926&}v{\3c&HEE7125&}e{\3c&HEE5825&}’{\3c&HEE3F24&}s{\3c&HEF2624&} {\3c&HEF2339&}f{\3c&HEF2351&}i{\3c&HEF226A&}g{\3c&HEF2282&}h{\3c&HEF219B&}t{\3c&HF021B4&}e{\3c&HF020CD&}r{\3c&HF020E6&}!
-Dialogue: 1,0:16:12.21,0:16:13.47,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\an7\3c&H3334E9&}({\3c&H30CAEA&}A{\3c&H2DEB6F&}i{\3c&H87EC2A&} {\3c&HEEB126&}n{\3c&HEF233D&}o{\3c&HF020E6&})
-Dialogue: 1,0:16:14.44,0:16:15.78,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\an7\3c&H3334E9&}({\3c&H30CAEA&}A{\3c&H2DEB6F&}i{\3c&H87EC2A&} {\3c&HEEB126&}n{\3c&HEF233D&}o{\3c&HF020E6&})
-Dialogue: 1,0:16:16.04,0:16:18.20,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}A{\3c&H3260E9&} {\3c&H318DEA&}m{\3c&H30BBEA&}a{\3c&H2FE9EA&}r{\3c&H2EEBBD&}v{\3c&H2DEB8E&}e{\3c&H2CEB5F&}l{\3c&H2BEC2F&}o{\3c&H57EC2B&}u{\3c&H87EC2A&}s{\3c&HB7ED29&} {\3c&HE8ED28&}c{\3c&HEDC227&}o{\3c&HEE9026&}u{\3c&HEE5E25&}n{\3c&HEF2B24&}t{\3c&HEF234E&}d{\3c&HEF2280&}o{\3c&HF021B3&}w{\3c&HF020E6&}n
-Dialogue: 1,0:16:18.20,0:16:20.40,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}T{\3c&H325EE9&}o{\3c&H3189EA&}m{\3c&H30B5EA&}o{\3c&H2FE0EA&}r{\3c&H2FEBC8&}r{\3c&H2EEB9C&}o{\3c&H2DEB6F&}w{\3c&H2CEC41&} {\3c&H43EC2B&}i{\3c&H70EC2A&}s{\3c&H9EED29&} {\3c&HCCED28&}c{\3c&HEDE027&}a{\3c&HEEB126&}p{\3c&HEE8226&}r{\3c&HEE5225&}i{\3c&HEF2426&}c{\3c&HEF2355&}i{\3c&HEF2285&}o{\3c&HF021B5&}u{\3c&HF020E6&}s
-Dialogue: 1,0:16:19.86,0:16:20.40,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\an7\blur11.25}{\3c&H3334E9&}({\3c&H30B5EA&}M{\3c&H2EEB9C&}a{\3c&H43EC2B&}y{\3c&HCCED28&}b{\3c&HEE8226&}e{\3c&HEF2355&}!{\3c&HF020E6&})
-Dialogue: 1,0:16:20.40,0:16:22.73,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}W{\3c&H3260E9&}o{\3c&H318DEA&}n{\3c&H30BBEA&}d{\3c&H2FE9EA&}e{\3c&H2EEBBD&}r{\3c&H2DEB8E&}s{\3c&H2CEB5F&} {\3c&H2BEC2F&}a{\3c&H57EC2B&}r{\3c&H87EC2A&}e{\3c&HB7ED29&} {\3c&HE8ED28&}p{\3c&HEDC227&}r{\3c&HEE9026&}e{\3c&HEE5E25&}v{\3c&HEF2B24&}a{\3c&HEF234E&}l{\3c&HEF2280&}e{\3c&HF021B3&}n{\3c&HF020E6&}t
-Dialogue: 1,0:16:22.10,0:16:22.73,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\an7\blur11.25\3c&H3334E9&}({\3c&H30B5EA&}M{\3c&H2EEB9C&}a{\3c&H43EC2B&}y{\3c&HCCED28&}b{\3c&HEE8226&}e{\3c&HEF2355&}!{\3c&HF020E6&})
-Dialogue: 1,0:16:22.73,0:16:27.85,Liar - Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}T{\3c&H3250E9&}h{\3c&H326CE9&}a{\3c&H3188EA&}t{\3c&H31A4EA&}’{\3c&H30C1EA&}s{\3c&H30DEEA&} {\3c&H2FEADA&}w{\3c&H2EEBBD&}h{\3c&H2EEBA0&}y{\3c&H2DEB82&} {\3c&H2DEB65&}I{\3c&H2CEC47&} {\3c&H2EEC2B&}h{\3c&H4CEC2B&}o{\3c&H69EC2A&}l{\3c&H87EC2A&}d{\3c&HA5ED29&} {\3c&HC3ED28&}t{\3c&HE2ED28&}h{\3c&HEDDA27&}i{\3c&HEEBB27&}s{\3c&HEE9D26&} {\3c&HEE7E25&}w{\3c&HEE5E25&}o{\3c&HEE3F24&}r{\3c&HEF2429&}l{\3c&HEF2348&}d{\3c&HEF2267&} {\3c&HEF2286&}d{\3c&HF021A6&}e{\3c&HF021C6&}a{\3c&HF020E6&}r
-Dialogue: 8,0:15:34.69,0:15:39.00,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Migi mo hidari mo itsuka utsushi kagami no LABYRINTH
-Dialogue: 13,0:15:39.00,0:15:43.43,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Deguchi wa nai no sa marude jisaku jien no PARADISE
-Dialogue: 4,0:15:43.43,0:15:45.15,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Sore demo uta wa hibiku yo
-Dialogue: 4,0:15:45.40,0:15:47.98,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}hitori futayaku sou kanaria wa
-Dialogue: 4,0:15:47.98,0:15:51.73,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&}Kimi demo ari boku demo aru no sa
-Dialogue: 4,0:15:53.35,0:15:57.94,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3}Usotsuki wa TOMORROW no hajimari
-Dialogue: 4,0:15:57.94,0:16:01.98,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Enjiru koto koso shinjitsu sa
-Dialogue: 4,0:16:01.98,0:16:07.02,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Lady! Usotsuki wa TOMORROW no hajimari!
-Dialogue: 4,0:16:07.02,0:16:11.23,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}I KNOW LIAR! I KNOW FIRE!
-Dialogue: 4,0:16:11.56,0:16:16.04,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&}I KNOW LIAR! I KNOW FIGHTER!
-Dialogue: 4,0:16:16.04,0:16:18.20,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Countdown sou kantan
-Dialogue: 4,0:16:18.20,0:16:20.40,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Ashita wa kimagure
-Dialogue: 4,0:16:20.40,0:16:22.73,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Kiseki mo arifure
-Dialogue: 4,0:16:22.73,0:16:27.85,Liar - Roma Cyalume top,,0,0,0,,{\fad(150,150)\blur3\1a&HFF&\3c&HFFFFFF&\}Dakara sou kono sekai dakishimete
-Dialogue: 7,0:15:34.69,0:15:39.00,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Migi mo hidari mo itsuka utsushi kagami no LABYRINTH
-Dialogue: 12,0:15:39.00,0:15:43.43,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Deguchi wa nai no sa marude jisaku jien no PARADISE
-Dialogue: 3,0:15:43.43,0:15:45.15,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Sore demo uta wa hibiku yo
-Dialogue: 3,0:15:45.40,0:15:47.98,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}hitori futayaku sou kanaria wa
-Dialogue: 3,0:15:47.98,0:15:51.73,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Kimi demo ari boku demo aru no sa
-Dialogue: 3,0:15:53.35,0:15:57.94,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\bord0\1c&H000000&}Usotsuki wa TOMORROW no hajimari
-Dialogue: 3,0:15:57.94,0:16:01.98,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Enjiru koto koso shinjitsu sa
-Dialogue: 3,0:16:01.98,0:16:07.02,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\bord0\1c&H000000&}Lady! Usotsuki wa TOMORROW no hajimari!
-Dialogue: 3,0:16:07.02,0:16:11.23,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}I KNOW LIAR! I KNOW FIRE!
-Dialogue: 3,0:16:11.58,0:16:16.04,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&\}I KNOW LIAR! I KNOW FIGHTER!
-Dialogue: 3,0:16:16.04,0:16:18.20,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Countdown sou kantan
-Dialogue: 3,0:16:18.20,0:16:20.40,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Ashita wa kimagure
-Dialogue: 3,0:16:20.40,0:16:22.73,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Kiseki mo arifure
-Dialogue: 3,0:16:22.73,0:16:27.85,Liar - Roma Cyalume mid,,0,0,0,,{\fad(150,150)\1c&H000000&}Dakara sou kono sekai dakishimete
-Dialogue: 4,0:15:34.69,0:15:39.00,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\c&HECDDE3&\1a&HFF&\bord12.3\blur11.25\3c&H3334E9&}M{\3c&H3345E9&}i{\3c&H3257E9&}g{\3c&H3268E9&}i{\3c&H327AEA&} {\3c&H318CEA&}m{\3c&H319DEA&}o{\3c&H30AFEA&} {\3c&H30C1EA&}h{\3c&H30D3EA&}i{\3c&H2FE6EA&}d{\3c&H2FEADD&}a{\3c&H2FEBCB&}r{\3c&H2EEBB9&}i{\3c&H2EEBA6&} {\3c&H2DEB94&}m{\3c&H2DEB81&}o{\3c&H2DEB6F&} {\3c&H2CEB5C&}i{\3c&H2CEC49&}t{\3c&H2CEC36&}s{\3c&H33EC2B&}u{\3c&H46EC2B&}k{\3c&H58EC2B&}a{\3c&H6BEC2A&} {\3c&H7DEC2A&}u{\3c&H90EC29&}t{\3c&HA3ED29&}s{\3c&HB6ED29&}u{\3c&HC9ED28&}s{\3c&HDCED28&}h{\3c&HEDEB28&}i{\3c&HEDD827&} {\3c&HEDC427&}k{\3c&HEEB126&}a{\3c&HEE9E26&}g{\3c&HEE8A26&}a{\3c&HEE7725&}m{\3c&HEE6325&}i{\3c&HEE4F25&} {\3c&HEE3B24&}n{\3c&HEF2724&}o{\3c&HEF2333&} {\3c&HEF2347&}L{\3c&HEF235A&}A{\3c&HEF226E&}B{\3c&HEF2282&}Y{\3c&HEF2296&}R{\3c&HF021AA&}I{\3c&HF021BE&}N{\3c&HF020D2&}T{\3c&HF020E6&}H
-Dialogue: 11,0:15:39.00,0:15:43.43,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}D{\3c&H3346E9&}e{\3c&H3257E9&}g{\3c&H3269E9&}u{\3c&H327BEA&}c{\3c&H318DEA&}h{\3c&H31A0EA&}i{\3c&H30B2EA&} {\3c&H30C4EA&}w{\3c&H30D7EA&}a{\3c&H2FE9EA&} {\3c&H2FEAD9&}n{\3c&H2FEBC6&}a{\3c&H2EEBB4&}i{\3c&H2EEBA1&} {\3c&H2DEB8E&}n{\3c&H2DEB7B&}o{\3c&H2DEB68&} {\3c&H2CEB55&}s{\3c&H2CEC42&}a{\3c&H2BEC2F&} {\3c&H3BEC2B&}m{\3c&H4EEC2B&}a{\3c&H61EC2A&}r{\3c&H74EC2A&}u{\3c&H87EC2A&}d{\3c&H9AED29&}e{\3c&HADED29&} {\3c&HC1ED28&}j{\3c&HD4ED28&}i{\3c&HE8ED28&}s{\3c&HEDDF27&}a{\3c&HEDCB27&}k{\3c&HEEB827&}u{\3c&HEEA426&} {\3c&HEE9026&}j{\3c&HEE7C25&}i{\3c&HEE6825&}e{\3c&HEE5425&}n{\3c&HEE4024&} {\3c&HEF2B24&}n{\3c&HEF2330&}o{\3c&HEF2344&} {\3c&HEF2358&}P{\3c&HEF226C&}A{\3c&HEF2280&}R{\3c&HEF2294&}A{\3c&HF021A8&}D{\3c&HF021BD&}I{\3c&HF020D1&}S{\3c&HF020E6&}E
-Dialogue: 1,0:15:43.43,0:15:45.15,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}S{\3c&H3257E9&}o{\3c&H327BEA&}r{\3c&H31A0EA&}e{\3c&H30C4EA&} {\3c&H2FE9EA&}d{\3c&H2FEBC6&}e{\3c&H2EEBA1&}m{\3c&H2DEB7B&}o{\3c&H2CEB55&} {\3c&H2BEC2F&}u{\3c&H4EEC2B&}t{\3c&H74EC2A&}a{\3c&H9AED29&} {\3c&HC1ED28&}w{\3c&HE8ED28&}a{\3c&HEDCB27&} {\3c&HEEA426&}h{\3c&HEE7C25&}i{\3c&HEE5425&}b{\3c&HEF2B24&}i{\3c&HEF2344&}k{\3c&HEF226C&}u{\3c&HEF2294&} {\3c&HF021BD&}y{\3c&HF020E6&}o
-Dialogue: 1,0:15:45.40,0:15:47.98,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}h{\3c&H3253E9&}i{\3c&H3271E9&}t{\3c&H3191EA&}o{\3c&H30B0EA&}r{\3c&H30D0EA&}i{\3c&H2FEAE5&} {\3c&H2EEBC5&}f{\3c&H2EEBA5&}u{\3c&H2DEB84&}t{\3c&H2DEB64&}a{\3c&H2CEC43&}y{\3c&H35EC2B&}a{\3c&H56EC2B&}k{\3c&H76EC2A&}u{\3c&H97ED29&} {\3c&HB9ED29&}s{\3c&HDAED28&}o{\3c&HEDDE27&}u{\3c&HEDBD27&} {\3c&HEE9A26&}k{\3c&HEE7825&}a{\3c&HEE5525&}n{\3c&HEE3224&}a{\3c&HEF2337&}r{\3c&HEF235A&}i{\3c&HEF227C&}a{\3c&HEF219F&} {\3c&HF021C2&}w{\3c&HF020E6&}a
-Dialogue: 1,0:15:47.98,0:15:51.73,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}K{\3c&H3250E9&}i{\3c&H326CE9&}m{\3c&H3188EA&}i{\3c&H31A4EA&} {\3c&H30C1EA&}d{\3c&H30DEEA&}e{\3c&H2FEADA&}m{\3c&H2EEBBD&}o{\3c&H2EEBA0&} {\3c&H2DEB82&}a{\3c&H2DEB65&}r{\3c&H2CEC47&}i{\3c&H2EEC2B&} {\3c&H4CEC2B&}b{\3c&H69EC2A&}o{\3c&H87EC2A&}k{\3c&HA5ED29&}u{\3c&HC3ED28&} {\3c&HE2ED28&}d{\3c&HEDDA27&}e{\3c&HEEBB27&}m{\3c&HEE9D26&}o{\3c&HEE7E25&} {\3c&HEE5E25&}a{\3c&HEE3F24&}r{\3c&HEF2429&}u{\3c&HEF2348&} {\3c&HEF2267&}n{\3c&HEF2286&}o{\3c&HF021A6&} {\3c&HF021C6&}s{\3c&HF020E6&}a
-Dialogue: 1,0:15:53.35,0:15:57.94,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}U{\3c&H3251E9&}s{\3c&H326DE9&}o{\3c&H318BEA&}t{\3c&H31A8EA&}s{\3c&H30C5EA&}u{\3c&H2FE3EA&}k{\3c&H2FEBD4&}i{\3c&H2EEBB6&} {\3c&H2EEB97&}w{\3c&H2DEB79&}a{\3c&H2CEB5A&} {\3c&H2CEC3B&}T{\3c&H3BEC2B&}O{\3c&H59EC2B&}M{\3c&H77EC2A&}O{\3c&H96ED29&}R{\3c&HB5ED29&}R{\3c&HD5ED28&}O{\3c&HEDE627&}W{\3c&HEDC627&} {\3c&HEEA726&}n{\3c&HEE8726&}o{\3c&HEE6625&} {\3c&HEE4624&}h{\3c&HEF2524&}a{\3c&HEF2343&}j{\3c&HEF2263&}i{\3c&HEF2283&}m{\3c&HF021A4&}a{\3c&HF021C5&}r{\3c&HF020E6&}i
-Dialogue: 2,0:15:57.94,0:16:01.98,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}E{\3c&H3254E9&}n{\3c&H3274E9&}j{\3c&H3194EA&}i{\3c&H30B5EA&}r{\3c&H30D5EA&}u{\3c&H2FEADE&} {\3c&H2EEBBD&}k{\3c&H2EEB9C&}o{\3c&H2DEB7A&}t{\3c&H2CEB58&}o{\3c&H2CEC35&} {\3c&H43EC2B&}k{\3c&H65EC2A&}o{\3c&H87EC2A&}s{\3c&HA9ED29&}o{\3c&HCCED28&} {\3c&HEDEB28&}s{\3c&HEDC927&}h{\3c&HEEA526&}i{\3c&HEE8226&}n{\3c&HEE5E25&}j{\3c&HEE3A24&}i{\3c&HEF2331&}t{\3c&HEF2355&}s{\3c&HEF2279&}u{\3c&HEF219D&} {\3c&HF021C1&}s{\3c&HF020E6&}a
-Dialogue: 1,0:16:01.98,0:16:07.02,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}L{\3c&H334BE9&}a{\3c&H3263E9&}d{\3c&H327AEA&}y{\3c&H3192EA&}!{\3c&H31AAEA&} {\3c&H30C2EA&}U{\3c&H30DBEA&}s{\3c&H2FEAE2&}o{\3c&H2FEBC9&}t{\3c&H2EEBB1&}s{\3c&H2EEB98&}u{\3c&H2DEB7F&}k{\3c&H2DEB66&}i{\3c&H2CEB4D&} {\3c&H2CEC34&}w{\3c&H3CEC2B&}a{\3c&H55EC2B&} {\3c&H6EEC2A&}T{\3c&H87EC2A&}O{\3c&HA0ED29&}M{\3c&HBAED29&}O{\3c&HD3ED28&}R{\3c&HEDED28&}R{\3c&HEDD427&}O{\3c&HEEBA27&}W{\3c&HEEA026&} {\3c&HEE8626&}n{\3c&HEE6B25&}o{\3c&HEE5125&} {\3c&HEE3624&}h{\3c&HEF242C&}a{\3c&HEF2346&}j{\3c&HEF2360&}i{\3c&HEF227B&}m{\3c&HEF2295&}a{\3c&HF021B0&}r{\3c&HF021CB&}i{\3c&HF020E6&}!
-Dialogue: 1,0:16:07.02,0:16:11.23,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}I{\3c&H3259E9&} {\3c&H317EEA&}K{\3c&H31A4EA&}N{\3c&H30CAEA&}O{\3c&H2FEAE4&}W{\3c&H2EEBBD&} {\3c&H2EEB96&}L{\3c&H2DEB6F&}I{\3c&H2CEC47&}A{\3c&H38EC2B&}R{\3c&H5FEC2A&}!{\3c&H87EC2A&} {\3c&HAFED29&}I{\3c&HD7ED28&} {\3c&HEDDA27&}K{\3c&HEEB126&}N{\3c&HEE8826&}O{\3c&HEE5E25&}W{\3c&HEE3424&} {\3c&HEF233D&}F{\3c&HEF2267&}I{\3c&HEF2291&}R{\3c&HF021BB&}E{\3c&HF020E6&}!
-Dialogue: 1,0:16:11.58,0:16:16.04,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}I{\3c&H3255E9&} {\3c&H3276E9&}K{\3c&H3198EA&}N{\3c&H30B9EA&}O{\3c&H30DCEA&}W{\3c&H2FEAD7&} {\3c&H2EEBB4&}L{\3c&H2DEB92&}I{\3c&H2DEB6F&}A{\3c&H2CEB4B&}R{\3c&H2FEC2B&}!{\3c&H52EC2B&} {\3c&H75EC2A&}I{\3c&H99ED29&} {\3c&HBCED29&}K{\3c&HE1ED28&}N{\3c&HEDD627&}O{\3c&HEEB126&}W{\3c&HEE8D26&} {\3c&HEE6725&}F{\3c&HEE4224&}I{\3c&HEF242B&}G{\3c&HEF2350&}H{\3c&HEF2275&}T{\3c&HEF219A&}E{\3c&HF021C0&}R{\3c&HF020E6&}!
-Dialogue: 1,0:16:16.04,0:16:18.20,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}C{\3c&H3263E9&}o{\3c&H3192EA&}u{\3c&H30C2EA&}n{\3c&H2FEAE2&}t{\3c&H2EEBB1&}d{\3c&H2DEB7F&}o{\3c&H2CEB4D&}w{\3c&H3CEC2B&}n{\3c&H6EEC2A&} {\3c&HA0ED29&}s{\3c&HD3ED28&}o{\3c&HEDD427&}u{\3c&HEEA026&} {\3c&HEE6B25&}k{\3c&HEE3624&}a{\3c&HEF2346&}n{\3c&HEF227B&}t{\3c&HF021B0&}a{\3c&HF020E6&}n
-Dialogue: 1,0:16:18.20,0:16:20.40,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}A{\3c&H3268E9&}s{\3c&H319DEA&}h{\3c&H30D3EA&}i{\3c&H2FEBCB&}t{\3c&H2DEB94&}a{\3c&H2CEB5C&} {\3c&H33EC2B&}w{\3c&H6BEC2A&}a{\3c&HA3ED29&} {\3c&HDCED28&}k{\3c&HEDC427&}i{\3c&HEE8A26&}m{\3c&HEE4F25&}a{\3c&HEF2333&}g{\3c&HEF226E&}u{\3c&HF021AA&}r{\3c&HF020E6&}e
-Dialogue: 1,0:16:20.40,0:16:22.73,Liar - Roma Cyalume bottom,,0,0,0,,{\fad(150,150)\blur11.25\3c&H3334E9&}K{\3c&H326CE9&}i{\3c&H31A4EA&}s{\3c&H30DEEA&}e{\3c&H2EEBBD&}k{\3c&H2DEB82&}i{\3c&H2CEC47&} {\3c&H4CEC2B&}m{\3c&H87EC2A&}o{\3c&HC3ED28&} {\3c&HEDDA27&}a{\3c&HEE9D26&}r{\3c&HEE5E25&}i{\3c&HEF2429&}f{\3c&HEF2267&}u{\3c&HF021A6&}r{\3c&HF020E6&}e
-Dialogue: 1,0:16:22.73,0:16:27.85,Liar - Roma Cyalume bottom,,0,0,0,,{=46}{\fad(150,150)\blur11.25\3c&H3334E9&}D{\3c&H3250E9&}a{\3c&H326CE9&}k{\3c&H3188EA&}a{\3c&H31A4EA&}r{\3c&H30C1EA&}a{\3c&H30DEEA&} {\3c&H2FEADA&}s{\3c&H2EEBBD&}o{\3c&H2EEBA0&}u{\3c&H2DEB82&} {\3c&H2DEB65&}k{\3c&H2CEC47&}o{\3c&H2EEC2B&}n{\3c&H4CEC2B&}o{\3c&H69EC2A&} {\3c&H87EC2A&}s{\3c&HA5ED29&}e{\3c&HC3ED28&}k{\3c&HE2ED28&}a{\3c&HEDDA27&}i{\3c&HEEBB27&} {\3c&HEE9D26&}d{\3c&HEE7E25&}a{\3c&HEE5E25&}k{\3c&HEE3F24&}i{\3c&HEF2429&}s{\3c&HEF2348&}h{\3c&HEF2267&}i{\3c&HEF2286&}m{\3c&HF021A6&}e{\3c&HF021C6&}t{\3c&HF020E6&}e
-Dialogue: 0,0:17:12.52,0:17:16.19,It's-a Me Mario!,Mario insert,0,0,0,note,{=56}{Chocolate Ice Cream Tornado}{Note: the lack of fade in and fade out is for two reasons: The first being to make it seem "edgy" in comparison and also because Mario has a lot of shouting in "broken up" (for lack of a better word) sentences. The second is that I just don't feel like having to add fade tags to EVERY damn subtitle in the insert song.}
-Dialogue: 0,0:17:18.33,0:17:19.56,Dialogue - ILPP,Mario,0,0,0,,Woo!
-Dialogue: 0,0:17:22.02,0:17:23.98,It's-a Me Mario!,,0,0,0,,{\blur7.5}I'm gonna devour the light
-Dialogue: 0,0:17:27.02,0:17:29.40,It's-a Me Mario!,,0,0,0,,{\blur7.5}and shoot down Heaven itself
-Dialogue: 0,0:17:33.15,0:17:37.98,It's-a Me Mario!,,0,0,0,,{\blur7.5}Baby, every word you speak is a lie
-Dialogue: 0,0:17:38.34,0:17:40.40,It's-a Me Mario!,,0,0,0,,{\blur7.5}Baby, does that make you jump?
-Dialogue: 0,0:17:40.86,0:17:42.27,It's-a Me Mario!,,0,0,0,,{\blur7.5}Escape pod
-Dialogue: 0,0:17:42.93,0:17:44.19,It's-a Me Mario!,,0,0,0,,{\blur7.5}Your words are an act,
-Dialogue: 0,0:17:44.19,0:17:45.58,It's-a Me Mario!,,0,0,0,,{\blur7.5}exploiting everyone around!
-Dialogue: 0,0:17:45.58,0:17:47.81,It's-a Me Mario!,,0,0,0,,{\blur7.5}Your frail parachute
-Dialogue: 0,0:17:47.81,0:17:50.23,It's-a Me Mario!,,0,0,0,,{\blur7.5}was swept up by yours, truly!
-Dialogue: 0,0:17:50.23,0:17:54.82,It's-a Me Mario!,,0,0,0,,{\blur7.5}Chocolate ice cream tornado!
-Dialogue: 0,0:17:54.82,0:17:59.40,It's-a Me Mario!,,0,0,0,,{\blur7.5}Don’t bother trying! The light has
-Dialogue: 0,0:17:59.40,0:18:04.15,It's-a Me Mario!,,0,0,0,,{\blur7.5}been swallowed up by a pitch-black rocket!
-Dialogue: 0,0:18:04.57,0:18:11.52,It's-a Me Mario!,,0,0,0,,{\blur7.5}A halation of desire blooms in Hell
-Dialogue: 0,0:18:11.52,0:18:14.61,It's-a Me Mario!,,0,0,0,,{\blur7.5}Gimme lock!(×5)
-Dialogue: 0,0:18:14.61,0:18:16.40,It's-a Me Mario!,,0,0,0,,{\blur7.5}Lock!(×7)
-Dialogue: 0,0:18:16.40,0:18:18.44,It's-a Me Mario!,,0,0,0,,{\blur7.5}Now, despair!
-Dialogue: 0,0:18:53.13,0:18:58.30,It's-a Me Mario!,,0,0,0,,{\blur7.5}Baby, every word you speak is a lie.
-Dialogue: 0,0:18:58.31,0:19:00.72,It's-a Me Mario!,,0,0,0,,{\blur7.5}Baby, did that make you jump?
-Dialogue: 0,0:19:00.72,0:19:02.88,It's-a Me Mario!,,0,0,0,,{\blur7.5}Escape pod
-Dialogue: 0,0:19:02.88,0:19:03.98,It's-a Me Mario!,,0,0,0,,{\blur7.5}Your words are an act!
-Dialogue: 0,0:19:04.36,0:19:05.23,It's-a Me Mario!,,0,0,0,,{\blur7.5}You're exploiting everyone around!
-Dialogue: 11,0:19:05.69,0:19:10.45,It's-a Me Mario! - Cyalume top,,0,0,0,,Your frail parachute was swept up by yours, truly!
-Dialogue: 10,0:19:05.69,0:19:10.45,It's-a Me Mario! - Cyalume Mid,,0,0,0,,Your frail parachute was swept up by yours, truly!
-Dialogue: 9,0:19:05.69,0:19:10.45,It's-a Me Mario! - Cyalume bottom,,0,0,0,,{\blur11.25\3c&H3334E9&}Y{\3c&H3346E9&}o{\3c&H3258E9&}u{\3c&H326AE9&}r{\3c&H317DEA&} {\3c&H318FEA&}f{\3c&H31A2EA&}r{\3c&H30B5EA&}a{\3c&H30C7EA&}i{\3c&H30DAEA&}l{\3c&H2FEAE8&} {\3c&H2FEAD5&}p{\3c&H2EEBC2&}a{\3c&H2EEBAF&}r{\3c&H2EEB9C&}a{\3c&H2DEB88&}c{\3c&H2DEB75&}h{\3c&H2DEB62&}u{\3c&H2CEB4E&}t{\3c&H2CEC3A&}e{\3c&H30EC2B&} {\3c&H43EC2B&}w{\3c&H56EC2B&}a{\3c&H6AEC2A&}s{\3c&H7DEC2A&} {\3c&H91EC29&}s{\3c&HA4ED29&}w{\3c&HB8ED29&}e{\3c&HCCED28&}p{\3c&HE0ED28&}t{\3c&HEDE627&} {\3c&HEDD327&}u{\3c&HEDBF27&}p{\3c&HEEAA26&} {\3c&HEE9626&}b{\3c&HEE8226&}y{\3c&HEE6E25&} {\3c&HEE5925&}y{\3c&HEE4424&}o{\3c&HEF3024&}u{\3c&HEF242C&}r{\3c&HEF2341&}s{\3c&HEF2355&},{\3c&HEF2269&} {\3c&HEF227E&}t{\3c&HEF2292&}r{\3c&HF021A7&}u{\3c&HF021BC&}l{\3c&HF020D1&}y{\3c&HF020E6&}!
-Dialogue: 11,0:19:10.45,0:19:14.56,It's-a Me Mario! - Cyalume top,,0,0,0,,Chocolate ice cream tornado
-Dialogue: 10,0:19:10.45,0:19:14.56,It's-a Me Mario! - Cyalume Mid,,0,0,0,,Chocolate ice cream tornado
-Dialogue: 8,0:19:10.45,0:19:14.56,It's-a Me Mario! - Cyalume bottom,,0,0,0,,{\blur11.25\3c&H3334E9&}C{\3c&H3256E9&}h{\3c&H3279EA&}o{\3c&H319BEA&}c{\3c&H30BFEA&}o{\3c&H2FE2EA&}l{\3c&H2FEBCF&}a{\3c&H2EEBAB&}t{\3c&H2DEB87&}e{\3c&H2DEB62&} {\3c&H2CEC3D&}i{\3c&H3EEC2B&}c{\3c&H62EC2A&}e{\3c&H87EC2A&} {\3c&HACED29&}c{\3c&HD1ED28&}r{\3c&HEDE327&}e{\3c&HEDBE27&}a{\3c&HEE9826&}m{\3c&HEE7125&} {\3c&HEE4B24&}t{\3c&HEF2424&}o{\3c&HEF234A&}r{\3c&HEF2270&}n{\3c&HEF2197&}a{\3c&HF021BE&}d{\3c&HF020E6&}o
-Dialogue: 11,0:19:16.93,0:19:21.56,It's-a Me Mario! - Cyalume top,,0,0,0,,Don’t bother trying! The light has
-Dialogue: 10,0:19:16.93,0:19:21.56,It's-a Me Mario! - Cyalume Mid,,0,0,0,,Don’t bother trying! The light has
-Dialogue: 9,0:19:16.93,0:19:21.56,It's-a Me Mario! - Cyalume bottom,,0,0,0,,{\blur11.25\3c&H3334E9&}D{\3c&H324FE9&}o{\3c&H326AE9&}n{\3c&H3185EA&}’{\3c&H31A1EA&}t{\3c&H30BCEA&} {\3c&H30D8EA&}b{\3c&H2FEAE0&}o{\3c&H2EEBC4&}t{\3c&H2EEBA8&}h{\3c&H2DEB8B&}e{\3c&H2DEB6F&}r{\3c&H2CEB52&} {\3c&H2CEC34&}t{\3c&H3FEC2B&}r{\3c&H5CEC2A&}y{\3c&H78EC2A&}i{\3c&H95ED29&}n{\3c&HB3ED29&}g{\3c&HD0ED28&}!{\3c&HEDEC28&} {\3c&HEDCF27&}T{\3c&HEEB126&}h{\3c&HEE9326&}e{\3c&HEE7525&} {\3c&HEE5725&}l{\3c&HEE3824&}i{\3c&HEF242E&}g{\3c&HEF234C&}h{\3c&HEF226A&}t{\3c&HEF2289&} {\3c&HF021A8&}h{\3c&HF021C7&}a{\3c&HF020E6&}s
-Dialogue: 11,0:19:21.83,0:19:26.56,It's-a Me Mario! - Cyalume top,,0,0,0,,been swallowed up by this pitch-black rocket!
-Dialogue: 10,0:19:21.83,0:19:26.56,It's-a Me Mario! - Cyalume Mid,,0,0,0,,been swallowed up by this pitch-black rocket!
-Dialogue: 9,0:19:21.83,0:19:26.56,It's-a Me Mario! - Cyalume bottom,,0,0,0,,{\blur11.25\3c&H3334E9&}b{\3c&H3348E9&}e{\3c&H325CE9&}e{\3c&H3271E9&}n{\3c&H3185EA&} {\3c&H319AEA&}s{\3c&H30AFEA&}w{\3c&H30C3EA&}a{\3c&H30D8EA&}l{\3c&H2FEAE7&}l{\3c&H2FEBD2&}o{\3c&H2EEBBD&}w{\3c&H2EEBA8&}e{\3c&H2DEB92&}d{\3c&H2DEB7D&} {\3c&H2DEB67&}u{\3c&H2CEB52&}p{\3c&H2CEC3C&} {\3c&H31EC2B&}b{\3c&H46EC2B&}y{\3c&H5CEC2A&} {\3c&H71EC2A&}t{\3c&H87EC2A&}h{\3c&H9DED29&}i{\3c&HB3ED29&}s{\3c&HC9ED28&} {\3c&HDFED28&}p{\3c&HEDE527&}i{\3c&HEDCF27&}t{\3c&HEEB927&}c{\3c&HEEA226&}h{\3c&HEE8C26&}-{\3c&HEE7525&}b{\3c&HEE5E25&}l{\3c&HEE4724&}a{\3c&HEF3024&}c{\3c&HEF242E&}k{\3c&HEF2345&} {\3c&HEF235B&}r{\3c&HEF2272&}o{\3c&HEF2289&}c{\3c&HEF21A0&}k{\3c&HF021B7&}e{\3c&HF020CF&}t{\3c&HF020E6&}!
-Dialogue: 4,0:19:26.56,0:19:33.52,It's-a Me Mario! - Cyalume top,,0,0,0,,A halation of desire blooms in Hell
-Dialogue: 3,0:19:26.56,0:19:33.52,It's-a Me Mario! - Cyalume Mid,,0,0,0,,A halation of desire blooms in Hell
-Dialogue: 1,0:19:26.56,0:19:33.52,It's-a Me Mario! - Cyalume bottom,,0,0,0,,{\blur11.25\3c&H3334E9&}A{\3c&H324EE9&} {\3c&H3268E9&}h{\3c&H3183EA&}a{\3c&H319DEA&}l{\3c&H30B8EA&}a{\3c&H30D3EA&}t{\3c&H2FEAE6&}i{\3c&H2FEBCB&}o{\3c&H2EEBAF&}n{\3c&H2DEB94&} {\3c&H2DEB78&}o{\3c&H2CEB5C&}f{\3c&H2CEC40&} {\3c&H33EC2B&}d{\3c&H4FEC2B&}e{\3c&H6BEC2A&}s{\3c&H87EC2A&}i{\3c&HA3ED29&}r{\3c&HC0ED28&}e{\3c&HDCED28&} {\3c&HEDE127&}b{\3c&HEDC427&}l{\3c&HEEA826&}o{\3c&HEE8A26&}o{\3c&HEE6D25&}m{\3c&HEE4F25&}s{\3c&HEE3124&} {\3c&HEF2333&}i{\3c&HEF2351&}n{\3c&HEF226E&} {\3c&HEF228C&}H{\3c&HF021AA&}e{\3c&HF021C8&}l{\3c&HF020E6&}l
-Dialogue: 4,0:19:33.52,0:19:36.68,It's-a Me Mario! - Cyalume top,,0,0,0,,Gimme lock!(×5)
-Dialogue: 3,0:19:33.52,0:19:36.68,It's-a Me Mario! - Cyalume Mid,,0,0,0,,Gimme lock!(×5)
-Dialogue: 1,0:19:33.52,0:19:36.68,It's-a Me Mario! - Cyalume bottom,,0,0,0,,{\blur7.5\3c&H3334E9&}G{\3c&H3274E9&}i{\3c&H30B5EA&}m{\3c&H2FEADE&}m{\3c&H2EEB9C&}e{\3c&H2CEB58&} {\3c&H43EC2B&}l{\3c&H87EC2A&}o{\3c&HCCED28&}c{\3c&HEDC927&}k{\3c&HEE8226&}!{\3c&HEE3A24&}({\3c&HEF2355&}×{\3c&HEF219D&}5{\3c&HF020E6&})
-Dialogue: 4,0:19:36.68,0:19:38.19,It's-a Me Mario! - Cyalume top,,0,0,0,,Lock!(×7)
-Dialogue: 3,0:19:36.68,0:19:38.19,It's-a Me Mario! - Cyalume Mid,,0,0,0,,Lock!(×7)
-Dialogue: 1,0:19:36.68,0:19:38.19,It's-a Me Mario! - Cyalume bottom,,0,0,0,,{\blur7.5\3c&H3334E9&}L{\3c&H31A4EA&}o{\3c&H2EEBBD&}c{\3c&H2CEC47&}k{\3c&H87EC2A&}!{\3c&HEDDA27&}({\3c&HEE5E25&}×{\3c&HEF2267&}7{\3c&HF020E6&})
-Dialogue: 4,0:19:38.47,0:19:40.35,It's-a Me Mario! - Cyalume top,,0,0,0,,Now, despair.
-Dialogue: 3,0:19:38.47,0:19:40.35,It's-a Me Mario! - Cyalume Mid,,0,0,0,,Now, despair.
-Dialogue: 1,0:19:38.47,0:19:40.35,It's-a Me Mario! - Cyalume bottom,,0,0,0,,{\blur7.5\3c&H3334E9&}N{\3c&H317EEA&}o{\3c&H30CAEA&}w{\3c&H2EEBBD&},{\3c&H2DEB6F&} {\3c&H38EC2B&}d{\3c&H87EC2A&}e{\3c&HD7ED28&}s{\3c&HEEB126&}p{\3c&HEE5E25&}a{\3c&HEF233D&}i{\3c&HEF2291&}r{\3c&HF020E6&}.
-Dialogue: 0,0:17:22.02,0:17:23.98,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Hikari o kuiarase
-Dialogue: 0,0:17:27.02,0:17:29.40,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Ten mo uchiotose
-Dialogue: 0,0:17:33.15,0:17:37.98,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}BABY, omaera no kuchi kara deru no wa uso bakari
-Dialogue: 0,0:17:38.34,0:17:40.40,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}BABY, tobidasanai?
-Dialogue: 0,0:17:42.93,0:17:44.19,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Kotoba wa damase
-Dialogue: 0,0:17:44.19,0:17:45.58,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Minna shiboritore
-Dialogue: 0,0:17:45.58,0:17:47.81,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Hirakunai PARACHUTE
-Dialogue: 0,0:17:47.81,0:17:50.23,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}derakushite omaera no
-Dialogue: 0,0:17:54.83,0:17:59.40,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Dou demo ii! Hikari wa
-Dialogue: 0,0:17:59.40,0:18:04.15,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Makkuru no ROCKET de kuiarashite
-Dialogue: 0,0:18:04.57,0:18:11.52,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Yokubou no HALATION hanahirake meifu
-Dialogue: 0,0:18:16.40,0:18:18.44,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Zetsubou
-Dialogue: 0,0:18:53.13,0:18:58.30,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}BABY, omaera no kuchi kara deru no wa uso bakari
-Dialogue: 0,0:18:58.31,0:19:00.72,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}BABY, tobidasanai?
-Dialogue: 0,0:19:02.88,0:19:03.98,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Kotoba wa damase
-Dialogue: 0,0:19:04.36,0:19:05.23,It's-a Me Mario! - Rom,,0,0,0,,{\blur7.5}Minna shiboritore
-Dialogue: 11,0:19:05.69,0:19:10.45,It's-a Me Mario! - Rom Cyalume top,,0,0,0,,Hirakunai PARACHUTE
-Dialogue: 11,0:19:16.93,0:19:21.56,It's-a Me Mario! - Rom Cyalume top,,0,0,0,,Dou demo ii! Hikari wa
-Dialogue: 11,0:19:21.83,0:19:26.56,It's-a Me Mario! - Rom Cyalume top,,0,0,0,,Makkuru no ROCKET de kuiarashite
-Dialogue: 11,0:19:26.56,0:19:33.52,It's-a Me Mario! - Rom Cyalume top,,0,0,0,,Yokubou no HALATION hanahirake meifu
-Dialogue: 11,0:19:38.47,0:19:40.35,It's-a Me Mario! - Rom Cyalume top,,0,0,0,,Zetsubou
-Dialogue: 10,0:19:05.69,0:19:10.45,It's-a Me Mario! - Rom Cyalume Mid,,0,0,0,,Hirakunai PARACHUTE
-Dialogue: 10,0:19:16.93,0:19:21.56,It's-a Me Mario! - Rom Cyalume Mid,,0,0,0,,Dou demo ii! Hikari wa
-Dialogue: 10,0:19:21.83,0:19:26.56,It's-a Me Mario! - Rom Cyalume Mid,,0,0,0,,Makkuru no ROCKET de kuiarashite
-Dialogue: 10,0:19:26.56,0:19:33.52,It's-a Me Mario! - Rom Cyalume Mid,,0,0,0,,Yokubou no HALATION hanahirake meifu
-Dialogue: 10,0:19:38.47,0:19:40.35,It's-a Me Mario! - Rom Cyalume Mid,,0,0,0,,Zetsubou
-Dialogue: 6,0:19:05.69,0:19:10.45,It's-a Me Mario! Rom Cyalume bottom,,0,0,0,,{\blur11.25\3c&H3334E9&\}H{\3c&H3265E9&}i{\3c&H3198EA&}r{\3c&H30CAEA&}a{\3c&H2FEAD7&}k{\3c&H2EEBA3&}u{\3c&H2DEB6F&}n{\3c&H2CEC39&}a{\3c&H52EC2B&}i{\3c&H87EC2A&} {\3c&HBCED29&}P{\3c&HEDE827&}A{\3c&HEEB126&}R{\3c&HEE7A25&}A{\3c&HEE4224&}C{\3c&HEF233D&}H{\3c&HEF2275&}U{\3c&HF021AD&}T{\3c&HF020E6&}E
-Dialogue: 6,0:19:16.93,0:19:21.56,It's-a Me Mario! Rom Cyalume bottom,,0,0,0,,{\blur11.25\3c&H3334E9&\}D{\3c&H325EE9&}o{\3c&H3189EA&}u{\3c&H30B5EA&} {\3c&H2FE0EA&}d{\3c&H2FEBC8&}e{\3c&H2EEB9C&}m{\3c&H2DEB6F&}o{\3c&H2CEC41&} {\3c&H43EC2B&}i{\3c&H70EC2A&}i{\3c&H9EED29&}!{\3c&HCCED28&} {\3c&HEDE027&}H{\3c&HEEB126&}i{\3c&HEE8226&}k{\3c&HEE5225&}a{\3c&HEF2426&}r{\3c&HEF2355&}i{\3c&HEF2285&} {\3c&HF021B5&}w{\3c&HF020E6&}a
-Dialogue: 6,0:19:21.83,0:19:26.56,It's-a Me Mario! Rom Cyalume bottom,,0,0,0,,{\blur11.25\3c&H3334E9&\}M{\3c&H3251E9&}a{\3c&H326DE9&}k{\3c&H318BEA&}k{\3c&H31A8EA&}u{\3c&H30C5EA&}r{\3c&H2FE3EA&}u{\3c&H2FEBD4&} {\3c&H2EEBB6&}n{\3c&H2EEB97&}o{\3c&H2DEB79&} {\3c&H2CEB5A&}R{\3c&H2CEC3B&}O{\3c&H3BEC2B&}C{\3c&H59EC2B&}K{\3c&H77EC2A&}E{\3c&H96ED29&}T{\3c&HB5ED29&} {\3c&HD5ED28&}d{\3c&HEDE627&}e{\3c&HEDC627&} {\3c&HEEA726&}k{\3c&HEE8726&}u{\3c&HEE6625&}i{\3c&HEE4624&}a{\3c&HEF2524&}r{\3c&HEF2343&}a{\3c&HEF2263&}s{\3c&HEF2283&}h{\3c&HF021A4&}i{\3c&HF021C5&}t{\3c&HF020E6&}e
-Dialogue: 6,0:19:26.56,0:19:33.52,It's-a Me Mario! Rom Cyalume bottom,,0,0,0,,{\blur11.25\3c&H3334E9&}Y{\3c&H334EE9&}o{\3c&H3468E8&}k{\3c&H3482E8&}u{\3c&H349CE7&}b{\3c&H35B5E7&}o{\3c&H35CEE6&}u{\3c&H35E6E5&} {\3c&H35E6CB&}n{\3c&H36E5B1&}o{\3c&H36E598&} {\3c&H36E47F&}H{\3c&H37E466&}A{\3c&H37E34E&}L{\3c&H39E337&}A{\3c&H52E338&}T{\3c&H6BE238&}I{\3c&H83E238&}O{\3c&H9BE139&}N{\3c&HB3E139&} {\3c&HCBE039&}h{\3c&HE0DE3A&}a{\3c&HE0C63A&}n{\3c&HDFAE3A&}a{\3c&HDF963A&}h{\3c&HDE7E3B&}i{\3c&HDE673B&}r{\3c&HDD503B&}a{\3c&HDD3C3E&}k{\3c&HDD3C56&}e{\3c&HDC3C6D&} {\3c&HDC3D84&}m{\3c&HDB3D9A&}e{\3c&HDB3DB1&}i{\3c&HDA3EC7&}f{\3c&HD73EDA&}u
-Dialogue: 6,0:19:38.47,0:19:40.35,It's-a Me Mario! Rom Cyalume bottom,,0,0,0,,{=53}{\blur7.5\3c&H3334E9&\}Z{\3c&H30B5EA&}e{\3c&H2EEB9C&}t{\3c&H43EC2B&}s{\3c&HCCED28&}u{\3c&HEE8226&}b{\3c&HEF2355&}o{\3c&HF020E6&}u
+Comment: 0,0:03:17.19,0:03:20.20,Default,,0,0,0,,Credits
+Comment: 0,0:00:00.08,0:01:46.87,Default,chptr,0,0,0,,Prologue
+Comment: 0,0:03:16.89,0:11:24.92,Default,chptr,0,0,0,,Part A
+Comment: 0,0:11:29.95,0:23:59.91,Default,chptr,0,0,0,,Part B
+Comment: 0,0:01:46.87,0:03:16.89,Default,chptr,0,0,0,,OP
+Comment: 0,0:22:35.48,0:23:59.91,Liar - ED Ver,chptr,0,0,0,,ED
+Comment: 0,0:11:24.92,0:11:29.92,Default,chptr,0,0,0,,Eyecatch
+Comment: 0,0:14:00.34,0:16:27.75,Default,,0,0,0,,She who lies will forge her own tomorrow
+Comment: 0,0:17:12.50,0:17:15.47,Default,,0,0,0,,Chocolate Ice Cream Tornado
+Dialogue: 0,0:00:11.58,0:00:12.31,Default,Amari,0,0,0,,Nailed it!
+Dialogue: 0,0:00:12.31,0:00:13.58,Default,Laala,0,0,0,,Ten out of ten!
+Dialogue: 0,0:00:14.55,0:00:15.88,Default,Amari,0,0,0,,Let's go!
+Dialogue: 0,0:00:15.88,0:00:18.12,Default,Amari,0,0,0,,That's a new record! Heck yeah!
+Dialogue: 0,0:00:18.12,0:00:19.88,Default,Laala,0,0,0,,Way to go!
+Dialogue: 0,0:00:20.88,0:00:23.72,Default,Laala,0,0,0,,Tricolore's gonna be doing a Promise today!
+Dialogue: 0,0:00:28.16,0:00:31.70,Default,Laala,0,0,0,QC,Looks like they're so popular, \Nwe have to use the goat seats!{大人気でヤギすきしかえてなかった}{they got put in the goat seats?????}
+Dialogue: 0,0:00:34.60,0:00:37.10,Default,Andou,0,0,0,,Thank you very much for waiting.
+Dialogue: 0,0:00:37.40,0:00:42.21,Default,Andou,0,0,0,QC,Master Hibiki's welcoming{iffy on the wording, but hibiki's promise is the one doing the welcoming here} Promise will soon begin.
+Dialogue: 0,0:00:50.82,0:00:52.48,Default,Hibiki,0,0,0,,Kept you waiting, haven't we? {I misheard the line as まかせて at first, but she's actually saying saying まかせだね.}{I'm not sure about the wording. I want it to sound grandiose-ish but I feel like maybe the current wording reads awkwardly.}
+Dialogue: 0,0:00:52.48,0:00:54.55,Default,Hibiki,0,0,0,,Bienvenue, Hibikisiennes. {She's saying Hibikisiennes (like pormanteau of Hibiki+Parisienne.}
+Dialogue: 0,0:00:54.55,0:00:56.35,Default,Fans,0,0,0,,{\an8}Eek! Prince Hibiki!
+Dialogue: 0,0:00:56.82,0:00:59.42,Default,Fans,0,0,0,,{\an8}Prince Hibiki! We can't wait!
+Dialogue: 0,0:00:58.56,0:00:59.82,Default,Amari,0,0,0,,Amazing...
+Dialogue: 0,0:01:02.46,0:01:06.20,Default,Andou,0,0,0,note,The other Prisiennes are en route,\Nand will arrive momentarily.{From what I can hear, the original line is "パリじぇんのみんなさんも一生に途上です！", but I'm not sure how to TL.}{can sorta hear a similar term to the hibiki-somethings line}
+Dialogue: 0,0:01:07.43,0:01:09.63,Default,Toriko,0,0,0,,Don't forget about Toriko-tori!
+Dialogue: 0,0:01:09.63,0:01:10.74,Default,Toriko,0,0,0,,They forgot about me!
+Dialogue: 0,0:01:10.74,0:01:11.70,Default,Toriko,0,0,0,,I just knew they would-tori!
+Dialogue: 0,0:01:11.70,0:01:13.90,Default,Toriko,0,0,0,,Toriko's just so forgettable-tori!
+Dialogue: 0,0:01:13.90,0:01:17.54,Default,Falulu,0,0,0,,{Not 100% sure on what Falulu's saying.  I'm hearing "moto-para idol ippai sagashitekita da ne".}You've found so many of the old PriPara idols!
+Dialogue: 0,0:01:17.54,0:01:19.34,Default,Fuwari,0,0,0,,These are the old PriPara goats!
+Dialogue: 0,0:01:19.34,0:01:21.81,Default,Toriko,0,0,0,,It's been so long since the last time\N everyone was together!
+Dialogue: 0,0:01:21.81,0:01:23.08,Default,Toriko,0,0,0,,This must be a dream!
+Dialogue: 0,0:01:23.08,0:01:24.25,Default,Toriko,0,0,0,,But it's not a dream!
+Dialogue: 0,0:01:26.45,0:01:30.75,Default,Amari,0,0,0,,Whoa! I've never seen Tricolore before...
+Dialogue: 0,0:01:30.75,0:01:33.32,Default,Amari,0,0,0,QC,They really take the cake!{she's noting how much more impressive they are compared to others}
+Dialogue: 0,0:01:33.32,0:01:35.13,Default,Laala,0,0,0,,Want me to introduce you after this?
+Dialogue: 0,0:01:36.83,0:01:38.30,Default,Hibiki,0,0,0,,Hey. {It took every bone in my body to not throw in "salut" or something. Everyone is lucky that "salut" isn't said to non-friends or else Hibiki would be mega-French.}
+Dialogue: 0,0:01:38.30,0:01:39.76,Default,Amari,0,0,0,,Thump!
+Dialogue: 0,0:01:39.76,0:01:41.97,Default,Amari,0,0,0,,Eep! She looked at me!
+Dialogue: 0,0:01:43.53,0:01:44.90,Default,Laala,0,0,0,,Amari?!
+Dialogue: 0,0:03:16.96,0:03:21.97,Title - ILPP,,0,0,0,,{\be26}Hibiki vs. Mario!\NThe BoyPara Beautification Plan!
+Dialogue: 0,0:03:23.90,0:03:25.14,Default,Laala,0,0,0,,Hibiki!
+Dialogue: 0,0:03:25.14,0:03:27.64,Default,Laala,0,0,0,,Let me introduce you to my friend!
+Dialogue: 0,0:03:28.64,0:03:32.21,Default,Amari,0,0,0,,{\i1}Okay! I've gotta make a good first impression...
+Dialogue: 0,0:03:32.21,0:03:35.98,Default,Amari,0,0,0,,N-Nice to meet you! I'm Amari... I think.
+Dialogue: 0,0:03:38.42,0:03:42.05,Default,Amari,0,0,0,,I'm Asami and seaweed!\NVery cheesed to meet you!
+Dialogue: 0,0:03:42.05,0:03:45.96,Default,Amari,0,0,0,,{\i1}Oh, man... I totally flubbed it!
+Dialogue: 0,0:03:54.33,0:03:59.60,Default,Hibiki,0,0,0,QC,You've the aura of someone\N with not a shred of confidence.{じぶん　に　じしん　のない　にんげん　とく　ゆう　の　ふ　の　オーラ　ただ　を　ていゆな}
+Dialogue: 0,0:03:59.60,0:04:02.24,Default,Hibiki,0,0,0,,You probably don't finish anything you start.{何をやっても中途半端。。。}
+Dialogue: 0,0:04:02.24,0:04:03.91,Default,Hibiki,0,0,0,,Your ribbon is crooked, {「リボンあがっている」}
+Dialogue: 0,0:04:03.91,0:04:06.91,Default,Hibiki,0,0,0,,and you reek of wasabi and mayonnaise.
+Dialogue: 0,0:04:06.91,0:04:08.91,Default,Hibiki,0,0,0,QC,I'd be willing to bet you don't\N have many friends, if any at all.{What is she even saying?? I'm hearing 「友人ぽいなさそう」}{she's saying that amari doesn't have any friends (or doesn't seem like it)}
+Dialogue: 0,0:04:09.75,0:04:12.22,Default,Fuwari,0,0,0,,{\i1}That's{\i0} what Hibiki has to say?{yeah no shit?????}
+Dialogue: 0,0:04:12.95,0:04:16.32,Default,Hibiki,0,0,0,,However, you don't use a verbal affectation,\N so I suppose you can't be too terrible.
+Dialogue: 0,0:04:19.12,0:04:21.79,Default,Amari,0,0,0,,A-A compliment?!{ほめられた}
+Dialogue: 0,0:04:21.79,0:04:25.83,Default,Amari,0,0,0,QC,Praise be to Hibiki! \NThis was so easy! {ひびきさんはかみ！ひびきさんはしかっかんたぁぁ！is what I'm hearing.}{no clue on the second half, but consider "Praise be to Hibiki" depending on what it is}
+Dialogue: 0,0:04:27.10,0:04:29.73,Default,Toriko,0,0,0,,Congratulations-tori!\N It's an auspicious day-tori!
+Dialogue: 0,0:04:28.97,0:04:31.67,Default,,0,0,0,,{\an8}I... don't really think that was a compliment...
+Dialogue: 0,0:04:29.73,0:04:32.67,Default,Toriko,0,0,0,,You must be tori-bbly happy! I understand-tori!
+Dialogue: 0,0:04:31.67,0:04:32.67,Default,Yui,0,0,0,,{\an8}Dreamy!
+Dialogue: 0,0:04:32.67,0:04:34.54,Default,Yui,0,0,0,QC,Hey, hey! Listen to this for a dreaminute!{surely there's a better way to handle the vocal tic}{is this better?}
+Dialogue: 0,0:04:34.54,0:04:36.21,Default,Yui,0,0,0,,You can't dream this up! Dream it or not,
+Dialogue: 0,0:04:36.21,0:04:39.11,Default,Yui,0,0,0,,Amari's got a dreamy new manager,\N and it's yours, dreamily! {Cease your "dream dream' nonsense at once. Don't you know this makes my job more difficult?}{"Yours, dreamily" like "yours, truly"}
+Dialogue: 0,0:04:39.11,0:04:40.21,Default,Hibiki,0,0,0,,Be quiet!
+Dialogue: 0,0:04:40.88,0:04:43.75,Default,Cooky,0,0,0,,Hey now! Girls should be nice to each other!{乙女と乙女はたいせつに！}
+Dialogue: 0,0:04:43.75,0:04:47.08,Default,Hibiki,0,0,0,,I don't have time for your tomfoolery.
+Dialogue: 0,0:04:47.08,0:04:50.32,Default,Fuwari,0,0,0,,Hibiki, have you found any clues about PriParis?{プリパリス手がかりを見つかった}
+Dialogue: 0,0:04:50.32,0:04:51.32,Default,Hibiki,0,0,0,,No.
+Dialogue: 0,0:04:51.32,0:04:55.89,Default,Hibiki,0,0,0,,Naturally, I've searched wherever I could\N for clues of its whereabouts...{いいや。プリパリスはもちろん拡張のプリパラ行方探ていたのだな。}
+Dialogue: 0,0:04:55.89,0:04:58.76,Default,Hibiki,0,0,0,,...but I've yet to find anything of use.{有力なん手がかりをつかめていないよ。}
+Dialogue: 0,0:04:58.76,0:05:01.77,Default,Parisnii,0,0,0,,{\i1}Bon poyage, mademoiselle!{\i0} {Rip Parisnii you were a real one.}{I rewatched the episode the flashback is from.  He's saying "poyage" there, but "voyage" here. I changed it to "poyage" for consistency.}
+Dialogue: 0,0:05:01.80,0:05:04.30,Default,Hibiki,0,0,0,,Where could it have possibly gone... {San Diego}{Keeping the "disappeared" word choice since PriParis, along with every PriPara but the Parajuku location, straight up disappeared from reality.}
+Dialogue: 0,0:05:04.30,0:05:05.87,Default,Meganii,0,0,0,,Long time, no see-mega!
+Dialogue: 0,0:05:06.27,0:05:09.11,Default,Meganii,0,0,0,,I've got something we need to discuss-mega.{ちょうどをつたいしたいことはあって。}
+Dialogue: 0,0:05:10.71,0:05:14.31,Default,Meganii,0,0,0,QC,I'm sorry! I was just having a laugh —\Ndon't turn me into rice!{すみませんすぱいびしじょうぶです。かみかみし}{linebreak before or after em dash?}{Not 100% sure this is what he said, but it's the best thing I've got since he's borderline impossible to understand here.}
+Dialogue: 0,0:05:14.78,0:05:19.48,Default,Meganii,0,0,0,,I came here because I found the cause of our problem.{what the fuck is he even saying.  Something Jitsu wa, TROUBLE GANG??? Waka dekimashite???実はトラブルのげんがわかてきまして。}
+Dialogue: 0,0:05:19.87,0:05:20.95,Default,Hibiki,0,0,0,,You did?
+Dialogue: 0,0:05:20.95,0:05:24.86,Default,Meganii,0,0,0,,Although we have a steady flow\N of sparkling power here,{こちらには、順調にキラキラ吹いているのに、}
+Dialogue: 0,0:05:24.86,0:05:28.96,Default,Meganii,0,0,0,,BoyPara has sent word that, for some reason,\N spiny bugs have been appearing there. {なぜかダンプリいがいが無視ぞしょくしているです。}
+Dialogue: 0,0:05:28.96,0:05:34.27,Default,Meganii,0,0,0,QC,Meaning Idol Land's sparkling power\N has no effect in BoyPara.{それが、アイドルランドのキラキラにえいきょはたいてるではないこと。}{no effect on what}{Not entirely sure if he's referring to BoyPara or the bugs as either seem likely. Previous episodes don't seem to provide anything useful in figuring this out.}
+Dialogue: 0,0:05:36.57,0:05:42.17,Default,Hibiki,0,0,0,,In short, you think these spiny bugs\N caused the update's malfunction? {詰まり、アップデートのさいのぼうそうはいがいが無視の影響かんがえあれるっと。}
+Dialogue: 0,0:05:42.17,0:05:42.87,Default,Meganii,0,0,0,,That's right.
+Dialogue: 0,0:05:43.81,0:05:48.08,Default,Hibiki,0,0,0,,I suppose we ought to further\N investigate BoyPara's involvement. {どうやらその謎特にはダンプリにたほおなさそうだな。}
+Dialogue: 0,0:05:48.85,0:05:50.51,Default,Hibiki,0,0,0,,Very well. Let's get moving.
+Dialogue: 0,0:05:50.85,0:05:51.78,Default,Meganii,0,0,0,,I'll join you.{もっともいたします。}
+Dialogue: 0,0:05:51.78,0:05:53.35,Default,Falulu,0,0,0,,Falulu will come, too!
+Dialogue: 0,0:05:53.35,0:05:54.72,Default,Laala,0,0,0,,So will Amari and I!
+Dialogue: 0,0:05:54.72,0:05:55.39,Default,Amari,0,0,0,,We will?!
+Dialogue: 0,0:05:55.39,0:05:56.85,Default,Hibiki,0,0,0,,I do not require your assistance.
+Dialogue: 0,0:05:57.72,0:06:01.26,Default,Hibiki,0,0,0,,Why don't you do a Promise with the goats instead?
+Dialogue: 0,0:06:14.91,0:06:16.84,Default,Mega-boy,0,0,0,,Please put on a sheep suit if you'd like to enter!
+Dialogue: 0,0:06:16.84,0:06:18.61,Default,Hibiki,0,0,0,,I shall wear no such rags.
+Dialogue: 0,0:06:19.44,0:06:21.38,Default,Hibiki,0,0,0,,I am Shikyouin Hibiki!
+Dialogue: 0,0:06:21.38,0:06:23.08,Default,Hibiki,0,0,0,,{\i1}Shikyouin Hibiki!{\i0}{Italicized because I figure she's not speaking this aloud so.}
+Dialogue: 0,0:06:23.08,0:06:24.78,Default,Hibiki,0,0,0,,{\i1}Shikyouin Hibiki!{\i0}
+Dialogue: 0,0:06:42.73,0:06:44.67,Default,Mega-boy,0,0,0,,Welcome to BoyPara!
+Dialogue: 0,0:06:47.57,0:06:49.87,Default,Meganii,0,0,0,,Placing yourself above the rules as always, I see.
+Dialogue: 0,0:06:50.51,0:06:52.24,Default,Shougo,0,0,0,,Nice to see you, Hibiki!
+Dialogue: 0,0:06:52.24,0:06:53.98,Default,Koyoi,0,0,0,,Enjoy your time in BoyPara.{ゆっくりしていてください・}
+Dialogue: 0,0:06:53.98,0:06:55.11,Default,Hibiki,0,0,0,,Thank you.
+Dialogue: 0,0:06:55.11,0:06:56.65,Default,Asahi,0,0,0,,Whoa! Freakin' rad!
+Dialogue: 0,0:06:56.65,0:06:58.35,Default,Asahi,0,0,0,,I can't believe we're this close to Hibiki!
+Dialogue: 0,0:06:58.35,0:06:59.68,Default,Asahi,0,0,0,,I'm gonna combust, bro!{ひびきさんは近けるぞ！バジ（マジ？)... can't hear the last bit very well, so hopefully this suffices.}
+Dialogue: 0,0:06:57.81,0:06:59.68,Default,Shougo,0,0,0,,{\an8\3c&HCE5139&}Asahi! Chill out, man!
+Dialogue: 0,0:06:59.68,0:07:00.72,Default,Reona,0,0,0,,Hibiki!
+Dialogue: 0,0:07:03.15,0:07:05.21,Default,Reona,0,0,0,,I came to help, too!
+Dialogue: 0,0:07:11.36,0:07:14.33,Default,Shougo,0,0,0,,{\i1}Reona's charm is gonna give me\N a serious run for my money!{\i0}{さすがあおれもかわいいさまけるかも}{Shougo, buddy, I regret to inform you were never cute or charming.}
+Dialogue: 0,0:07:14.33,0:07:16.03,Default,Reona,0,0,0,,Something wrong?
+Dialogue: 0,0:07:17.40,0:07:19.64,Default,Shougo,0,0,0,,Oh, uh... N-Nothing! Nothing at all!
+Dialogue: 0,0:07:19.64,0:07:20.74,Default,Shougo,0,0,0,,{Er...} Enjoy yourself out there!
+Dialogue: 0,0:07:27.11,0:07:29.68,Default,Mega-boy,0,0,0,,What's this? There's an empty bottle\N in the burnable trash bin...
+Dialogue: 0,0:07:29.68,0:07:34.12,Default,Mega-boy,0,0,0,QC,I keep telling them to dispose of their trash in the correct bin... {I wanted to make him sound done, but his speaking is too polite for that}{sounds more like he's lamenting that he had already told others to put trash in the right bins}
+Dialogue: 0,0:07:35.82,0:07:38.59,Default,Hibiki,0,0,0,,Just as I suspected. \NThis place is as uncouth as they come.{思ったとり無策らしいところだ。}
+Dialogue: 0,0:07:41.83,0:07:43.13,Default,Mario,0,0,0,,Hey, hey, hey!
+Dialogue: 0,0:07:43.13,0:07:45.83,Default,Mario,0,0,0,,You losers better look sharp,\N 'cuz you're all about to be my flunkeys!  {The best I've got is ただただ悪いだっと ぶばらす. Iffy about the last part, but given later episodes, it's not unlikely he's talking about making the place more "soldierly" in the sense of making everyone into his minions. Good thing I waited until after all of the episodes released before I tried to TL. I'm not certain this is what he's saying, but it}
+Dialogue: 0,0:07:45.83,0:07:47.30,Default,Mario,0,0,0,note,{LET'S} LOCK'EM AWAY!{Cursed(?) knowledge: upon watching later episodes, I discovered he's combining "lock" and onomatopeia for "bang". So ロッキュン or something. This a pun more terrible than any I could ever make or have made.}
+Dialogue: 0,0:07:59.81,0:08:03.28,Default,Extras,0,0,0,,{\an8}Whatever...
+Dialogue: 2,0:08:05.52,0:08:09.19,Signs,,0,0,0,,{\fnCloser\fs78\be0\fad(300,0)\fsp7.5\blur1.125}Whatever...
+Dialogue: 0,0:08:05.52,0:08:09.19,Signs,,0,0,0,,{\bord7.5\fnCloser\fs78\be30\blur1.125\fe3\fad(300,0)\c&HFFFFFF&\1a&HFF&\fsp7.5}Whatever...
+Dialogue: 0,0:08:23.97,0:08:25.67,Default,Shinya,0,0,0,,Not too shabby there, pal.
+Dialogue: 0,0:08:25.97,0:08:28.01,Default,Shinya,0,0,0,,Heard your name's Mario?
+Dialogue: 0,0:08:28.01,0:08:30.11,Default,Shinya,0,0,0,,I think the three of us are gonna get along great. {おまえとうまがあいそうだ}
+Dialogue: 0,0:08:30.87,0:08:31.91,Default,Shinya,0,0,0,,Oh yeah?
+Dialogue: 0,0:08:33.31,0:08:35.91,Default,Shinya,0,0,0,,How about you join up with us?
+Dialogue: 0,0:08:35.91,0:08:39.82,Default,Shinya,0,0,0,,We'll take down WITH and become\N the top team in BoyPara.
+Dialogue: 0,0:08:39.82,0:08:42.79,Default,Shinya,0,0,0,,You'd fit right in with us.{あんたがはいったろ悪いよんやしねえ}
+Dialogue: 0,0:08:42.79,0:08:44.25,Default,Shinya,0,0,0,,Name's Shinya.
+Dialogue: 0,0:08:44.25,0:08:45.56,Default,Shinya,0,0,0,,And this guy's Ushimitsu.
+Dialogue: 0,0:08:45.56,0:08:47.89,Default,Shinya,0,0,0,,C'mon! Bring it out!{おい！あれおわたせ。}
+Dialogue: 0,0:08:47.89,0:08:49.33,Default,Ushimitsu,0,0,0,,Yes!
+Dialogue: 0,0:08:49.33,0:08:51.00,Default,Ushimitsu,0,0,0,,Understood!
+Dialogue: 0,0:08:52.53,0:08:54.50,Default,Ushimitsu,0,0,0,,This is our blood pact.{けっぱんじょうでござる}
+Dialogue: 0,0:08:54.50,0:08:56.40,Default,Shinya,0,0,0,QC,Just stamp your finger there,\N and it's a done deal.{おまえにおさすてあゆ}{feels more like he's telling mario to put his fingerprint there as well, not that he already put it there}
+Dialogue: 0,0:08:57.77,0:08:59.67,Default,Mario,0,0,0,,Whatever...{If this weren't a kids' show, "dou demo ii ze" would be TL'd as "who gives a shit/who gaf".}
+Dialogue: 0,0:09:05.41,0:09:07.41,Default,Ushimitsu,0,0,0,,I must resort to harakiri!{ごうつはらきり}{Holy shit bro I get you're embarrassed but you did not need to go "yeah I need to kms"}{I'm 90% sure SMC may have TL'd this line so I need to go back through his subs of 0-2 and check.}{almost sounds like he's saying "go to" in english; "I must resort to harakiri" is fine}
+Dialogue: 0,0:09:09.95,0:09:11.42,Default,Ushimitsu,0,0,0,,Such disgrace.
+Dialogue: 0,0:09:11.42,0:09:14.68,Default,Ushimitsu,0,0,0,,Milord, 'tis all your lowly servant's fault.
+Dialogue: 0,0:09:14.68,0:09:16.25,Default,Ushimitsu,0,0,0,,It's come to this at last...{ かくなる上は }
+Dialogue: 0,0:09:16.85,0:09:18.39,Default,Ushimitsu,0,0,0,,{\an8}Unhand me!
+Dialogue: 0,0:09:17.25,0:09:18.89,Default,Shinya,0,0,0,,Ushimitsu! Pull yourself together, man!
+Dialogue: 0,0:09:18.42,0:09:19.69,Default,Ushimitsu,0,0,0,,{\an8}I said "unhand me"!
+Dialogue: 0,0:09:18.89,0:09:21.16,Default,Shinya,0,0,0,,C'mon! It's not your dang fault! \NI swear you're gonna be fine!
+Dialogue: 0,0:09:21.43,0:09:25.80,Default,Ushimitsu,0,0,0,,To meet a glorious end,\N for the sake of milord. Oh my god!{I don't know what these kanji say even though I recognize the radicals in the first two.  "Oh my god", indeed.}{Ok never mind.  It's 散れば散れ殿のためならオーマイゴッド}
+Dialogue: 0,0:09:26.66,0:09:28.53,Default,Shinya,0,0,0,,{\an8}Now's not the time to be reciting poetry!
+Dialogue: 0,0:09:28.53,0:09:30.70,Default,Mario,0,0,0,QC,Well, wasn't that exciting.{いいかんとうみせるならったぜ}{more commenting how it was nice to see the fight}{Does this convey the feeling correctly? I wanted to avoid rendering it directly.}
+Dialogue: 0,0:09:30.70,0:09:31.84,Default,Shinya,0,0,0,,{\an8}Hold still!
+Dialogue: 0,0:09:36.24,0:09:40.51,Default,Reona,0,0,0,,Your laundry won't clean itself. \NMake sure to do it before it piles up!{ためこめは大変だから、毎日ちょっとずつやりたい。}{I'm sorry for butchering your dialogue, Reona.}
+Dialogue: 0,0:09:47.85,0:09:49.62,Default,Reona,0,0,0,QC,It smells like it was washed by the sun!{specifically mentions how it smells of the sun; make of that what you will}
+Dialogue: 0,0:09:49.62,0:09:52.36,Default,Reona,0,0,0,,Looks like your boxers have a hole in them...
+Dialogue: 0,0:09:52.36,0:09:54.22,Default,Reona,0,0,0,,I'll fix that up for you!
+Dialogue: 0,0:10:03.60,0:10:06.34,Default,Mega-boy,0,0,0,,Reona's amazing...
+Dialogue: 0,0:10:11.81,0:10:13.71,Default,Hibiki,0,0,0,,Spiny bugs?
+Dialogue: 0,0:10:21.45,0:10:24.76,Default,Hibiki,0,0,0,,Leaving Falulu and Fuwari\Nbehind was the right choice...
+Dialogue: 0,0:10:35.27,0:10:38.94,Default,Extras,0,0,0,,Somethin' tells me there's a girl hangin' around here...
+Dialogue: 0,0:10:38.94,0:10:41.64,Default,Extras,0,0,0,,Ah c'mon... Get over yourselves...{やろうどもがうかれあがってよ}
+Dialogue: 0,0:10:41.64,0:10:43.61,Default,Extras,0,0,0,,Meh... who cares...
+Dialogue: 0,0:10:43.61,0:10:46.21,Default,Mario,0,0,0,,A girl? No way... {A girl? In my BoyPara? More likely than you think. Except not really because Hibiki's not a girl, either. She's enby who sits back a laughs at how she's "deceiving" others. Iconic tbh.}
+Dialogue: 0,0:10:46.21,0:10:47.74,Default,Mario,0,0,0,,Is she coming over here?
+Dialogue: 0,0:11:07.16,0:11:08.93,Default,Mario,0,0,0,,{\i1}This one's...{\i0}
+Dialogue: 0,0:11:09.43,0:11:12.14,Default,Hibiki,0,0,0,,{\i1}...no ordinary person.{\i0}
+Dialogue: 0,0:11:12.14,0:11:14.94,Default,Mario,0,0,0,,{\i1}I can feel the darkness...{\i0}
+Dialogue: 0,0:11:24.31,0:11:26.12,Default,Mario,0,0,0,,Never seen your mug around here.
+Dialogue: 0,0:11:26.12,0:11:30.52,Default,Hibiki,0,0,0,,Oh? So there are people who've yet\N to hear of {\i1}the{\i0} Shikyouin Hibiki...
+Dialogue: 0,0:11:31.09,0:11:32.96,Default,Hibiki,0,0,0,,PriPara really is a wide world...
+Dialogue: 0,0:11:33.62,0:11:37.09,Default,Mario,0,0,0,,{\i1}So{\i0} sorry you got all gussied up for nothing.
+Dialogue: 0,0:11:37.83,0:11:41.23,Default,Mario,0,0,0,,Hey there, little princess.\N My name's Mario.
+Dialogue: 0,0:11:44.43,0:11:47.37,Default,Mario,0,0,0,note,I see how it is... \N I'll let you in on a little something...{QC, is this better?}
+Dialogue: 0,0:11:49.84,0:11:55.31,Default,Mario,0,0,0,,Soon, I'm gonna take over this {\i1}whole{\i0} joint,\N and make this world all mine.
+Dialogue: 0,0:11:55.81,0:11:58.28,Default,Hibiki,0,0,0,,You're quite the funny one, aren't you...
+Dialogue: 0,0:11:59.02,0:12:01.05,Default,Mario,0,0,0,,So you think I'm joking, huh?{ほんきにしてないなら}
+Dialogue: 0,0:12:01.05,0:12:03.12,Default,Hibiki,0,0,0,,I can respect your ambition.
+Dialogue: 0,0:12:03.52,0:12:08.73,Default,Hibiki,0,0,0,,However, only those with talent\Ncan achieve such greatness.{君にそれだけの才能があればの話しだな。}
+Dialogue: 0,0:12:10.46,0:12:13.56,Default,Mario,0,0,0,,How's about I prove it to you...
+Dialogue: 0,0:12:13.56,0:12:14.53,Default,Mario,0,0,0,,...with a show!
+Dialogue: 0,0:12:15.95,0:12:18.00,Default,Shougo,0,0,0,,A battle of the idols?!
+Dialogue: 0,0:12:18.80,0:12:20.40,Default,Hibiki,0,0,0,,Make my day.
+Dialogue: 0,0:12:20.70,0:12:24.41,Default,Laala and Amari,0,0,0,note,A winning goat is a happy goat, baa baa baa! {literally what is this}
+Dialogue: 0,0:12:24.41,0:12:28.34,Default,Andou,0,0,0,note,This tired goat's about to throw in the towel, baa baa baa...{まけた　くるしい　ヤギち　メメメ}{I hate that this doesn't match with the previous line now, but "throw in the towel" sounds much better than "losing".}
+Dialogue: 0,0:12:29.41,0:12:31.85,Default,Amari,0,0,0,,So even goats hold Promises, huh?
+Dialogue: 0,0:12:34.32,0:12:36.79,Default,Amari,0,0,0,,Baah! No baah-ther at all!
+Dialogue: 0,0:12:36.79,0:12:39.49,Default,Laala,0,0,0,,How are we supposed\N to introduce ourselves to goats?! {Alt: I said we're not here to meet with goats, but like??? Then why are you here???}{?????????}{ヤギ見知りしだめだって}
+Dialogue: 0,0:12:39.96,0:12:42.23,Default,Falulu,0,0,0,,I wonder what Gigi's up to...
+Dialogue: 0,0:12:45.23,0:12:48.10,Default,Fuwari,0,0,0,,You're letting us borrow the new GoatPad model? {I'm proud of "GoatPad".  Why say "tablet for goats" when you could call it something fun? Guess you could say it's GOAT-ed...}
+Dialogue: 0,0:12:51.74,0:12:53.90,Default,Announcer,0,0,0,,We're live from BoyPara!
+Dialogue: 0,0:12:55.44,0:12:56.84,Default,Falulu,0,0,0,,Oh, it's BoyPara!
+Dialogue: 0,0:12:56.84,0:12:59.94,Default,Fuwari,0,0,0,note,Thanks for letting us borrow this, Ms. Goat! {Normally, I wouldn't TL honorifics 1:1 with English, but Fuwari is totally the kinda gal to refer to her goat friend as "Ms. Goat".}
+Dialogue: 0,0:12:59.94,0:13:01.45,Default,Meganii,0,0,0,,This just in!
+Dialogue: 0,0:13:01.81,0:13:07.28,Default,Meganii,0,0,0,,A heated battle of the idols \Nwill be starting any minute in BoyPara!
+Dialogue: 0,0:13:07.28,0:13:09.72,Default,Fuwari,0,0,0,,A performance showdown?
+Dialogue: 0,0:13:09.72,0:13:12.06,Default,Meganii,0,0,0,,I'm your host, Meganii, assisted by...
+Dialogue: 0,0:13:12.06,0:13:14.76,Default,Reona,0,0,0,QC,Your co-host, Reona!{people say "signing off" at the end of a program}
+Dialogue: 0,0:13:14.76,0:13:17.19,Default,Meganii,0,0,0,,First off, for the first time in BoyPara's history,{ダンプリしじょはつじょうしのプリパラ女子プリお逆様のスペシャルステージフェス！}
+Dialogue: 0,0:13:17.19,0:13:22.23,Default,Meganii,0,0,0,,a special girls' PriPara performance-fest,\N featuring a guest from GirlPara!
+Dialogue: 0,0:13:27.24,0:13:30.47,Default,Hibiki,0,0,0,,A show of brilliant elegance and talent!{めくるめくびのうかげいざなを}{I opted for "brilliant" over "dazzling" because "brilliant" is more associated with Hibiki---it's literally in the name of her brand (Brilliant Prince).}
+Dialogue: 0,0:13:31.94,0:13:33.24,Default,Hibiki,0,0,0,,Idol Key:
+Dialogue: 0,0:13:34.04,0:13:36.15,Default,Hibiki,0,0,0,,Open the stage!
+Dialogue: 0,0:13:39.15,0:13:42.82,Default,Meganii,0,0,0,,This gallant style gives the impression of a knight,
+Dialogue: 0,0:13:42.82,0:13:45.76,Default,Meganii,0,0,0,,and the large violet roses give off a lovely aroma.
+Dialogue: 0,0:13:45.76,0:13:48.39,Default,Hibiki,0,0,0,,Violet Rose Duelist Coord!
+Dialogue: 0,0:13:48.39,0:13:50.36,Default,Hibiki,0,0,0,,Start!
+Dialogue: 0,0:15:22.09,0:15:24.62,Default,Hibiki,0,0,0,,Cyalume change!{:(}
+Dialogue: 0,0:16:22.45,0:16:23.91,Default,Crowd,0,0,0,,{\an8}Nice!
+Dialogue: 0,0:16:23.91,0:16:25.35,Default,Crowd,0,0,0,,{\an8}Nice!
+Dialogue: 0,0:16:25.35,0:16:29.79,Default,Crowd,0,0,0,,{\an8}Nice! Nice! Nice! Nice! Nice!
+Dialogue: 0,0:16:32.12,0:16:34.99,Default,Mario,0,0,0,,Not using your Making Drama\N during your performance, huh?
+Dialogue: 0,0:16:34.99,0:16:38.43,Default,Mario,0,0,0,,Guess you were too busy shakin' in your boots to do one.
+Dialogue: 0,0:16:39.33,0:16:41.36,Default,Hibiki,0,0,0,,You're free to think that.{ごじゆうとらえたくる}
+Dialogue: 0,0:16:41.77,0:16:43.83,Default,Meganii,0,0,0,,Up next is uh...
+Dialogue: 0,0:16:43.83,0:16:48.40,Default,Meganii,0,0,0,,Well... He's, uh... \NNot really in our system just yet, but...
+Dialogue: 0,0:16:48.40,0:16:49.27,Default,Reona,0,0,0,,Relax!
+Dialogue: 0,0:16:49.27,0:16:51.34,Default,Mario,0,0,0,,Whatever. Who cares!
+Dialogue: 0,0:16:51.34,0:16:53.24,Default,Mario,0,0,0,,Lemme show ya how it's done!
+Dialogue: 0,0:16:55.95,0:16:59.58,Default,Mario,0,0,0,,I don't give a damn about your prodigy crap!
+Dialogue: 0,0:16:59.58,0:17:02.45,Default,Mario,0,0,0,,Fall into darkness before the great Mario!{I can't fucking take him seriously when he shares his name with Nintendo Mario.}
+Dialogue: 0,0:18:10.35,0:18:11.89,Default,Mario,0,0,0,,Making Dra—
+Dialogue: 0,0:18:11.29,0:18:15.37,Default,Hibiki,0,0,0,,{\an8\fad(0,500)}Making Drama, switch on!
+Dialogue: 0,0:18:18.49,0:18:21.60,Default,Mario,0,0,0,,So you think you can just\N cut into my Making Drama like that, huh?{メーキングドラマになにゆえとやるじゃねえか}
+Dialogue: 0,0:18:21.60,0:18:22.83,Default,Hibiki,0,0,0,,Sapphire revolution!
+Dialogue: 0,0:18:22.83,0:18:24.37,Default,Hibiki,0,0,0,,Machine gun frenzy!{I really don't want to TL this as "wild machine gun dance" because that sounds stupid, but I guess that's technically correct.}
+Dialogue: 0,0:18:25.84,0:18:27.10,Default,Mario,0,0,0,,Lockdown pandemic!
+Dialogue: 0,0:18:27.44,0:18:28.07,Default,Meganii,0,0,0,,Stop this, you two!
+Dialogue: 0,0:18:28.07,0:18:29.64,Default,Meganii,0,0,0,,You're going to hit the audience—
+Dialogue: 0,0:18:35.88,0:18:37.91,Default,Hibiki,0,0,0,,Listen well.
+Dialogue: 0,0:18:37.91,0:18:40.48,Default,Hibiki,0,0,0,,My heart...
+Dialogue: 0,0:18:41.65,0:18:43.92,Default,Mario,0,0,0,,{\i1}Her heart is locked?!{\i0}
+Dialogue: 0,0:18:43.92,0:18:45.89,Default,Mario,0,0,0,,{\i1}I can't lock something that's already locked away!{\i0}{最初から閉じてるとびらはしみられね。}
+Dialogue: 0,0:18:46.22,0:18:51.90,Default,Hibiki,0,0,0,,My heart opens for none but Fuwari and Falulu!
+Dialogue: 0,0:18:51.90,0:18:52.80,Default,Mario,0,0,0,,Damn it!
+Dialogue: 0,0:18:55.16,0:18:58.23,Default,Mario,0,0,0,,Cyalume Tornado!
+Dialogue: 0,0:19:02.04,0:19:04.47,Default,Mario,0,0,0,,Screw it! You've left me no choice!
+Dialogue: 0,0:19:44.51,0:19:49.92,Default,Hibiki,0,0,0,,{\i1}My heart opens for none but Fuwari and Falulu!
+Dialogue: 0,0:19:49.92,0:19:51.42,Default,Falulu,0,0,0,,Gigi...
+Dialogue: 0,0:19:51.42,0:19:53.09,Default,Fuwari,0,0,0,,We'll have a word with her about this later.
+Dialogue: 0,0:19:54.32,0:19:57.49,Default,Meganii,0,0,0,,{\i1}Mario's performance didn't\N bring forth any sparkling power...{\i0}
+Dialogue: 0,0:19:57.49,0:20:02.50,Default,Meganii,0,0,0,,{\i1}Meanwhile, Hibiki was able to\N manifest an Idol Key on her own...{\i0}
+Dialogue: 0,0:20:02.50,0:20:04.03,Default,Meganii,0,0,0,,{\i1}I expected no less of her.{\i0}
+Dialogue: 0,0:20:07.97,0:20:10.47,Default,Koyoi,0,0,0,,Another tornado, huh?
+Dialogue: 0,0:20:10.47,0:20:12.21,Default,Asahi,0,0,0,,That's some crazy awesome power!
+Dialogue: 0,0:20:12.21,0:20:13.94,Default,Shougo,0,0,0,,Both of them were astounding.
+Dialogue: 0,0:20:18.45,0:20:19.68,Default,Hibiki,0,0,0,,He's gone!
+Dialogue: 0,0:20:20.85,0:20:23.35,Default,Meganii,0,0,0,,More spiny bugs?!
+Dialogue: 0,0:20:23.09,0:20:26.82,Default,Extras,0,0,0,,{\an8}Whatever...
+Dialogue: 0,0:20:26.82,0:20:32.33,Default,Laala,0,0,0,,So even my power wasn't enough\N to return them to their senses...
+Dialogue: 0,0:20:32.86,0:20:36.57,Default,Hibiki,0,0,0,,Just {\i1}what{\i0} is that fellow?
+Dialogue: 0,0:20:47.38,0:20:49.58,Default,Mario,0,0,0,,GirlPara, huh...
+Dialogue: 0,0:20:49.58,0:20:53.25,Default,Mario,0,0,0,,So that's where her little friends are...{あいつはバンのやつらあいてにしてんのか... something}
+Dialogue: 0,0:21:00.39,0:21:03.53,Default,Mario,0,0,0,,Guess I oughta pay them a little visit.{そろそろあいにってやろうか}
+Dialogue: 0,0:21:07.40,0:21:09.90,Default,Amari,0,0,0,,Wahooooo!
+Dialogue: 0,0:21:09.90,0:21:12.37,Default,Amari,0,0,0,QC,How shall I land today?{your job, cynthiatheTL}{vibe i'm getting is that she's nonchalantly deciding how to land}
+Dialogue: 0,0:21:12.37,0:21:15.04,Default,Amari,0,0,0,,Hm... I could do this... {\i1}or{\i0} I could do that! {Probably a less direct way to handle this, but I'll keep it for now.}
+Dialogue: 0,0:21:15.04,0:21:18.27,Default,Amari,0,0,0,,The possibilities are endless!
+Dialogue: 0,0:21:18.27,0:21:20.58,Default,Amari,0,0,0,,Gah! Ow, ow, ow! My foot!
+Dialogue: 0,0:21:20.58,0:21:23.45,Default,Amari,0,0,0,,AAAAGGGHHHH!
+Dialogue: 0,0:21:28.85,0:21:32.22,Default,Mario,0,0,0,QC,What is {\i1}with{\i0} that annoying power?{context makes me think he's complaining about hibiki being able to manifest the key earlier, with the power of what i can only assume to be friendship}{何だ　あの　うっとうしい　パワーは}
+Dialogue: 0,0:21:33.39,0:21:36.76,Default,Mario,0,0,0,,It's all because of their sparkling power crap!
+Dialogue: 0,0:21:36.76,0:21:39.26,Default,Amari,0,0,0,,Safe! Perfect ten!
+Dialogue: 0,0:21:40.16,0:21:42.23,Default,Amari,0,0,0,,O-Oh my gosh! I am so, so sorry!
+Dialogue: 0,0:21:42.23,0:21:44.77,Default,Amari,0,0,0,,It was an accident, I swear!
+Dialogue: 0,0:21:45.77,0:21:49.31,Default,Mario,0,0,0,,You tellin' me that headshot {\i1}wasn't{\i0} on purpose?
+Dialogue: 0,0:21:49.97,0:21:51.94,Default,Amari,0,0,0,,Eeyikes! What's wrong with your {\i1}face?{\i0}
+Dialogue: 0,0:21:52.84,0:21:53.91,Default,Mario,0,0,0,,Oh?!
+Dialogue: 0,0:21:55.28,0:21:56.88,Default,Mario,0,0,0,,Yo, Amari!
+Dialogue: 0,0:21:56.88,0:21:58.98,Default,Mario,0,0,0,note,That's a good look for you!{なんかにおじゃんそのすがったも}{he's saying that amari's current look/form kinda suits her}{Is it clear enough that he's referring to Amari's current form and not being like hehe evil bad guy who's like "that fear on your face suits you well muahaha"? }
+Dialogue: 0,0:21:58.98,0:22:00.45,Default,Amari,0,0,0,,Eep!
+Dialogue: 0,0:22:00.45,0:22:01.48,Default,Amari,0,0,0,,Somebody heeeelp!
+Dialogue: 0,0:22:01.92,0:22:05.22,Default,Mario,0,0,0,,Come on! Aren't we friends?{何だよぉぉ！おれたちのなかで}
+Dialogue: 0,0:22:02.32,0:22:05.22,Default,Amari,0,0,0,,{\an8}Aah! Lemme go! Lemme go! Lemme go!
+Dialogue: 0,0:22:08.36,0:22:10.46,Default,Mario,0,0,0,,It's me! Don't ya remember?
+Dialogue: 0,0:22:11.39,0:22:14.50,Default,Amari,0,0,0,note,No! I don't have a clue! Who the heck are you?!
+Dialogue: 0,0:22:14.83,0:22:15.93,Default,Mario,0,0,0,,No way...
+Dialogue: 0,0:22:35.42,0:22:38.82,Liar - ED Ver,ED,0,0,0,,{=37}{Usotsuki ED ver}
+Dialogue: 0,0:22:35.42,0:22:37.65,Liar - ED Ver,,0,0,0,,{\blur7.5}This world's a silent film
+Dialogue: 0,0:22:35.42,0:22:37.65,Liar - Roma ED,,0,0,0,,{\blur7.5}Kono sekai wa SILENT
+Dialogue: 0,0:22:37.65,0:22:39.92,Liar - ED Ver,,0,0,0,,{\blur7.5}where only the subtitles never stop
+Dialogue: 0,0:22:37.65,0:22:39.92,Liar - ED Ver,,0,0,0,,{\blur7.5}Jimaku dake tomaranai
+Dialogue: 0,0:22:39.92,0:22:44.46,Liar - ED Ver,,0,0,0,,{\blur7.5}Protecting the canary's song is my solemn duty
+Dialogue: 0,0:22:39.92,0:22:44.43,Liar - Roma ED,,0,0,0,,{\blur7.5}Kanaria no utagoe wa tasukeru sadame
+Dialogue: 0,0:22:44.46,0:22:46.60,Liar - ED Ver,,0,0,0,,{\blur7.5}I cast aside my Borsalino
+Dialogue: 0,0:22:44.46,0:22:46.60,Liar - Roma ED,,0,0,0,,{\blur7.5}Borsalino nagesute
+Dialogue: 0,0:22:46.60,0:22:48.90,Liar - ED Ver,,0,0,0,,{\blur7.5}as roses decorate my path
+Dialogue: 0,0:22:46.60,0:22:48.90,Liar - Roma ED,,0,0,0,,{\blur7.5}Bara no chitta kono michi de
+Dialogue: 0,0:22:48.90,0:22:50.83,Liar - ED Ver,,0,0,0,,{\blur7.5}I'll fire away with a machine gun
+Dialogue: 0,0:22:48.90,0:22:50.83,Liar - Roma ED,,0,0,0,,{\blur7.5}MACHINE GUN wo uchimakure
+Dialogue: 0,0:22:50.83,0:22:53.47,Liar - ED Ver,,0,0,0,,{\blur7.5}and deceive them all, oh!
+Dialogue: 0,0:22:50.83,0:22:53.47,Liar - Roma ED,,0,0,0,,{\blur7.5}subete wo damasou Oh
+Dialogue: 0,0:22:53.47,0:22:55.44,Liar - ED Ver,,0,0,0,,{\blur7.5}Ruined is the key to your cage
+Dialogue: 0,0:22:53.47,0:22:55.44,Liar - Roma ED,,0,0,0,,{\blur7.5}Ori no kagi wa kowashita yo
+Dialogue: 0,0:22:55.44,0:22:57.87,Liar - ED Ver,,0,0,0,,{\blur7.5}If you still wish for your prayers to be answered,
+Dialogue: 0,0:22:55.44,0:22:57.87,Liar - Roma ED,,0,0,0,,{\blur7.5}Mada kanaetai koto ga aru nara
+Dialogue: 0,0:22:57.87,0:23:02.91,Liar - ED Ver,,0,0,0,,{\blur7.5}you must take my hand and never let go!
+Dialogue: 0,0:22:57.87,0:23:02.91,Liar - Roma ED,,0,0,0,,{\blur7.5}Kono te wo nigiri kaeseba miraieigou hanasanai
+Dialogue: 0,0:23:02.91,0:23:08.18,Liar - ED Ver,,0,0,0,,{\blur7.5}Lady! She who lies shall forge her own tomorrow!
+Dialogue: 0,0:23:02.91,0:23:08.18,Liar - ED Ver,,0,0,0,,{\blur7.5}LADY! Usotsuki wa TOMORROW no hajimari
+Dialogue: 0,0:23:06.82,0:23:07.85,Liar - ED Ver,,0,0,0,,{\an9\blur7.5}(Maybe!)
+Dialogue: 0,0:23:07.85,0:23:11.95,Liar - ED Ver,,0,0,0,,{\blur7.5}Your voice reaches not a single soul
+Dialogue: 0,0:23:07.85,0:23:11.95,Liar - Roma ED,,0,0,0,,{\blur7.5}Dare ni mo todokanu sono koe mo
+Dialogue: 0,0:23:10.09,0:23:12.79,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Bang!×5)
+Dialogue: 0,0:23:11.95,0:23:16.99,Liar - Roma ED,,0,0,0,,{\blur7.5}Lady! She who lies shall forge her own tomorrow!
+Dialogue: 0,0:23:11.95,0:23:16.99,Liar - Roma ED,,0,0,0,,{\blur7.5}LADY! Usotsuki wa TOMORROW no hajimari
+Dialogue: 0,0:23:15.79,0:23:16.99,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Maybe!)
+Dialogue: 0,0:23:16.99,0:23:21.46,Liar - ED Ver,,0,0,0,,{\blur7.5}I know love's liar! I know love's fire!
+Dialogue: 0,0:23:16.99,0:23:21.46,Liar - Roma ED,,0,0,0,,{\blur7.5}I KNOW LIAR! I KNOW FIRE!
+Dialogue: 0,0:23:17.79,0:23:19.20,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Ai no)
+Dialogue: 0,0:23:19.90,0:23:21.43,Liar - ED Ver,,0,0,0,,{\blur7.5\an9}(Ai no)
+Dialogue: 0,0:23:21.43,0:23:23.60,Liar - ED Ver,,0,0,0,,{\blur7.5}A marvelous countdown
+Dialogue: 0,0:23:21.46,0:23:23.60,Liar - Roma ED,,0,0,0,,{\blur7.5}COUNTDOWN sou kantan
+Dialogue: 0,0:23:23.60,0:23:25.00,Liar - ED Ver,,0,0,0,,{\blur7.5}"Your song reached me!", but is that so?
+Dialogue: 0,0:23:23.60,0:23:25.00,Liar - Roma ED,,0,0,0,,{\blur7.5}"Kikoeru" tte ne
+Dialogue: 0,0:23:25.00,0:23:28.20,Liar - ED Ver,,0,0,0,,{\blur7.5}Hah! It's simply a lie!
+Dialogue: 0,0:23:25.00,0:23:28.20,Liar - Roma ED,,0,0,0,,{\blur7.5}hora usobukuyo
+Dialogue: 0,0:23:32.07,0:23:37.15,Liar - ED Ver,,0,0,0,,{\blur7.5}Lady! She who lies shall forge her own tomorrow
+Dialogue: 0,0:23:32.07,0:23:37.15,Liar - Roma ED,,0,0,0,,{\blur7.5}LADY! Usotsuki wa TOMORROW no hajimari
+Dialogue: 0,0:23:35.91,0:23:37.15,Liar - Roma ED,,0,0,0,,{\an9\blur7.5}(Maybe!)
+Dialogue: 0,0:23:37.15,0:23:41.58,Liar - ED Ver,,0,0,0,,{\blur7.5}I know love's liar! I know love's FIRE!
+Dialogue: 0,0:23:37.15,0:23:41.58,Liar - ED Ver,,0,0,0,,{\blur7.5}I KNOW LIAR! I KNOW FIRE!
+Dialogue: 0,0:23:40.12,0:23:41.58,Liar - ED Ver,,0,0,0,,{\blur7.5\an9}(Ai no)
+Dialogue: 0,0:23:37.91,0:23:39.22,Liar - ED Ver,,0,0,0,,{\blur7.5\an9}(Ai no)
+Dialogue: 0,0:23:41.58,0:23:46.12,Liar - ED Ver,,0,0,0,,{\blur7.5}I know love's liar! I know love's fighter!
+Dialogue: 0,0:23:41.58,0:23:46.12,Liar - Roma ED,,0,0,0,,{\blur7.5}I KNOW LIAR! I KNOW FIGHTER!
+Dialogue: 0,0:23:42.39,0:23:43.59,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Ai no)
+Dialogue: 0,0:23:44.62,0:23:46.16,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Ai no)
+Dialogue: 0,0:23:46.12,0:23:48.32,Liar - ED Ver,,0,0,0,,{\blur7.5}A marvelous countdown
+Dialogue: 0,0:23:46.16,0:23:48.32,Liar - Roma ED,,0,0,0,,{\blur7.5}COUNTDOWN sou kantan
+Dialogue: 0,0:23:48.32,0:23:50.10,Liar - ED Ver,,0,0,0,,{\blur7.5}Tomorrow is a caprice
+Dialogue: 0,0:23:48.32,0:23:50.10,Liar - Roma ED,,0,0,0,,{\blur7.5}Ashita wa kimagure
+Dialogue: 0,0:23:50.10,0:23:50.56,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Maybe!)
+Dialogue: 0,0:23:50.56,0:23:52.43,Liar - ED Ver,,0,0,0,,{\blur7.5}Wonders are prevalent
+Dialogue: 0,0:23:50.56,0:23:52.43,Liar - Roma ED,,0,0,0,,{\blur7.5}Kiseki mo arifure
+Dialogue: 0,0:23:52.43,0:23:53.03,Liar - Roma ED,,0,0,0,,{\blur7.5\an9}(Maybe!)
+Dialogue: 0,0:23:53.03,0:23:58.44,Liar - ED Ver,,0,0,0,,{\blur7.5}That's why I hold this world dear
+Dialogue: 0,0:23:53.03,0:23:58.44,Liar - Roma ED,,0,0,0,,{=38}{\blur7.5}Dakara kono sekai dakishimete
