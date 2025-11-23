@@ -19,9 +19,9 @@ Keyframes File: PriPara - 58_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 344
-Active Line: 360
-Video Position: 28784
+Scroll Position: 117
+Active Line: 126
+Video Position: 10940
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,14 +87,14 @@ Dialogue: 0,0:03:38.10,0:03:41.35,S2 Episode Title,Unicorn,0,0,0,,{\blur4}Falulu
 Dialogue: 0,0:03:38.10,0:03:41.35,Default,Unicorn,0,0,0,,Falulu Has Returned.
 Dialogue: 0,0:03:42.18,0:03:44.58,Default,Non,0,0,0,,Welcome back, Falulu!
 Dialogue: 0,0:03:44.97,0:03:46.54,Default,Falulu,0,0,0,,Nice to see you again, Non.
-Dialogue: 0,0:03:46.54,0:03:51.05,Default,Non,0,0,0,,Being able to talk with my beloved\N Falulu again is like a dream come true!
+Dialogue: 0,0:03:46.54,0:03:51.05,Default,Non,0,0,0,,Being able to talk with my beloved Falulu\N again is like a dream come true!
 Dialogue: 0,0:03:51.05,0:03:55.45,Default,Lala,0,0,0,,But Non, I thought you were a Fuwari fan now.
 Dialogue: 0,0:03:55.45,0:03:58.26,Default,Non,0,0,0,,I have a separate place in my heart for Falulu.
 Dialogue: 0,0:03:58.77,0:04:01.22,Default,Falulu,0,0,0,,I bought you a gift, Non.
 Dialogue: 0,0:04:01.22,0:04:03.29,Default,Falulu,0,0,0,,They're flower seeds from PriParis.
 Dialogue: 0,0:04:03.29,0:04:04.30,Default,Non,0,0,0,,Really?
 Dialogue: 0,0:04:04.30,0:04:05.94,Default,Non,0,0,0,,Thank you so much!
-Dialogue: 0,0:04:05.94,0:04:07.56,Default,Non,0,0,0,,I'll make sure they grow nicely!
+Dialogue: 0,0:04:05.94,0:04:07.56,Default,Non,0,0,0,,I'll make sure they grow up nice and healthy!
 Dialogue: 0,0:04:07.56,0:04:12.02,Default,Unicorn,0,0,0,,We bought stylish PriParis\Nsouvenirs for the rest of you, too.
 Dialogue: 0,0:04:14.93,0:04:16.61,Default,Leona,0,0,0,,PriParis cookies!
 Dialogue: 0,0:04:16.61,0:04:18.10,Default,Mirelle,0,0,0,,A pendant-pri!
@@ -138,7 +138,7 @@ Dialogue: 0,0:06:00.09,0:06:02.26,Default,Shion,0,0,0,,The PriTickets that don't
 Dialogue: 0,0:06:02.73,0:06:04.28,Default,Unicorn,0,0,0,,Exactly.
 Dialogue: 0,0:06:04.82,0:06:11.40,Default,Unicorn,0,0,0,,I now have the job of visiting the other PriParas\N and collecting dropped PriTickets.
 Dialogue: 0,0:06:11.90,0:06:12.98,Default,Unicorn,0,0,0,,And then...
-Dialogue: 0,0:06:15.82,0:06:20.61,Default,Unicorn,0,0,0,,These girls are born from the feelings of girls who wanted to become idols.
+Dialogue: 0,0:06:15.82,0:06:20.61,Default,Unicorn,0,0,0,,These girls are born from the feelings\N of girls who wanted to become idols.
 Dialogue: 0,0:06:39.43,0:06:47.03,Default,Unicorn,0,0,0,,They are awoken as Vocal Dolls just like Falulu.
 Dialogue: 0,0:06:47.66,0:06:50.10,Default,Unicorn,0,0,0,,Falulu also helps me with it.
 Dialogue: 0,0:06:50.10,0:06:50.88,Default,MiniFalulu1,0,0,0,,{\fad(0,100)}Falu!
@@ -163,7 +163,7 @@ Dialogue: 0,0:07:23.55,0:07:27.26,Default,Mirelle,0,0,0,,"Atmosphere" is... "Atm
 Dialogue: 0,0:07:27.26,0:07:29.32,Default,Lala,0,0,0,,What you roll rice balls in!
 Dialogue: 0,0:07:29.32,0:07:30.98,Default,Mirelle,0,0,0,,Wrong-pri!
 Dialogue: 0,0:07:31.70,0:07:36.25,Default,Falulu,0,0,0,,If you use "-pri", you can become a pop idol like Mirei.
-Dialogue: 0,0:07:36.25,0:07:38.51,Default,Falulu,0,0,0,,Now then, everyone practice it together.
+Dialogue: 0,0:07:36.25,0:07:38.51,Default,Falulu,0,0,0,,Now then, everyone say it together.
 Dialogue: 0,0:07:38.51,0:07:39.41,Default,Falulu,0,0,0,,And start!
 Dialogue: 0,0:07:39.41,0:07:42.63,Default,MiniFalulu,0,0,0,,Pri! Pri! Pri!
 Dialogue: 0,0:07:42.63,0:07:43.74,Default,Falulu,0,0,0,,One more time.
