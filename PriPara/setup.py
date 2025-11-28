@@ -16,7 +16,6 @@ video_file = GlobSearch(f"PriPara - {setup.episode}*.mkv", dir="./")
 premux = Premux(video_file, subtitles=None, keep_attachments=False, mkvmerge_args=["--no-global-tags", "--no-chapters"])
 subtitle = SubFile(GlobSearch("*_dialogue.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
 chapters = Chapters.from_sub(subtitle, use_actor_field=True)
-if songs = 0 then
 
 subtitle.clean_garbage().clean_extradata().set_headers(
     (ASSHeader.PlayResX, 1920),
