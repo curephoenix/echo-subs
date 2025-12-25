@@ -19,14 +19,14 @@ Keyframes File: PriPara - 52_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 85
-Active Line: 97
-Video Position: 7390
+Scroll Position: 388
+Active Line: 401
+Video Position: 30840
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,3.6,1.2,2,120,120,53,1
-Style: Default-Alt,Vesta Pro,72,&H00FFFFFF,&H00FFFFFF,&H00C44742,&H80000000,-1,0,0,0,100,100,0,0,1,3.75,1.5,8,96,96,50,1
+Style: Default-Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00C44742,&H80000000,-1,0,0,0,100,100,0,0,1,3.75,1.5,8,96,96,50,1
 Style: Signs,Lato,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Insert Romaji,PassingNotes,75,&H00FFFFFF,&HA0FF2800,&H00000000,&H00000000,-1,0,0,0,100,100,1.5,0,1,3,0,9,24,24,24,1
 Style: Insert Romaji-Alt,PassingNotes,75,&H00FFFFFF,&HA0FF2800,&H00000000,&H00000000,-1,0,0,0,100,100,1.5,0,1,3,0,7,24,24,24,1
@@ -123,7 +123,7 @@ Dialogue: 0,0:04:31.21,0:04:31.89,Default,Lala,0,0,0,,Capisce!
 Dialogue: 0,0:04:31.89,0:04:33.39,Default,Ookanda,0,0,0,,Manaka!
 Dialogue: 0,0:04:33.39,0:04:34.05,Default,Lala,0,0,0,,Yes?
 Dialogue: 0,0:04:34.05,0:04:37.50,Default,Ookanda,0,0,0,,You're not allowed to use "capisce" during Princess lessons.
-Dialogue: 0,0:04:37.50,0:04:43.77,Default,Ookanda,0,0,0,,When responding, the two of you should use{answer with} the proper "yes, ma'am".{or some very proper and elegant way of saying something like please treat me well / take care of me / please go ahead / it'd be a pleasure -TL}
+Dialogue: 0,0:04:37.50,0:04:43.77,Default,Ookanda,0,0,0,,When responding, the two of you\N should use{answer with} the proper "yes, ma'am".{or some very proper and elegant way of saying something like please treat me well / take care of me / please go ahead / it'd be a pleasure -TL}
 Dialogue: 0,0:04:43.77,0:04:44.82,Default,Lawari,0,0,0,,Okay!
 Dialogue: 0,0:04:44.82,0:04:47.48,Default,Ookanda,0,0,0,,I said use "yes, ma'am"!
 Dialogue: 0,0:04:48.01,0:04:48.96,Default,Lala,0,0,0,,Ye...{よ…｡}
@@ -139,28 +139,28 @@ Dialogue: 0,0:05:04.63,0:05:06.04,Default,Ookanda,0,0,0,,Good enough.
 Dialogue: 0,0:05:06.04,0:05:07.14,Default,Ookanda,0,0,0,,We'll start with this.
 Dialogue: 0,0:05:07.14,0:05:08.21,Default,Lala,0,0,0,,That's huge!
 Dialogue: 0,0:05:08.21,0:05:13.82,Default,Ookanda,0,0,0,,As a princess, you are expected to dance in high heels at a party.{You must be able to attend a party and dance in high heels to be a Princess.}
-Dialogue: 0,0:05:13.82,0:05:15.44,Default,Lawari,0,0,0,,Yes, Ma'am.
+Dialogue: 0,0:05:13.82,0:05:15.44,Default,Lawari,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:05:15.92,0:05:17.76,Default,Ookanda,0,0,0,,What's with you two?
 Dialogue: 0,0:05:17.76,0:05:19.89,Default,Ookanda,0,0,0,,You must stand up straight and elegantly!
-Dialogue: 0,0:05:20.88,0:05:22.85,Default,Lawari,0,0,0,,Yes, Ma'am.
+Dialogue: 0,0:05:20.88,0:05:22.85,Default,Lawari,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:05:22.85,0:05:24.71,Default,Ookanda,0,0,0,,Stand up!
 Dialogue: 0,0:05:25.48,0:05:28.61,Default,Ookanda,0,0,0,,Now onto the tiara.
-Dialogue: 0,0:05:28.61,0:05:33.86,Default,Ookanda,0,0,0,,Being able to stay composed and maintain a cool smile even when wearing a heavy tiara...
+Dialogue: 0,0:05:28.61,0:05:33.86,Default,Ookanda,0,0,0,,Being able to stay composed and maintain a \N.pleasant smile even when wearing a heavy tiara...
 Dialogue: 0,0:05:33.86,0:05:34.90,Default,Lala,0,0,0,,Heavy!
 Dialogue: 0,0:05:34.90,0:05:37.27,Default,Ookanda,0,0,0,,...is a must for a Princess.
 Dialogue: 0,0:05:38.86,0:05:41.25,Default,Lawari,0,0,0,,Ye... Ye...
-Dialogue: 0,0:05:41.25,0:05:42.83,Default,Lawari,0,0,0,,Yes, Ma'am.
+Dialogue: 0,0:05:41.25,0:05:42.83,Default,Lawari,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:05:43.14,0:05:46.45,Default,Ookanda,0,0,0,,Now then, keep that posture as we start the lesson.
 Dialogue: 0,0:05:46.45,0:05:48.16,Default,Lawari,0,0,0,,Eh?!
 Dialogue: 0,0:05:48.66,0:05:53.96,Default,Ookanda,0,0,0,,A PriPara Princess must worry about fashion above all else.
-Dialogue: 0,0:05:53.96,0:05:59.63,Default,Ookanda,0,0,0,,As such, we'll be going over some PriPara Trivia concerning coords.
-Dialogue: 0,0:05:59.63,0:06:01.47,Default,Lawari,0,0,0,,Yes, Ma'am.
+Dialogue: 0,0:05:53.96,0:05:59.63,Default,Ookanda,0,0,0,,As such, we'll be going over some\N PriPara Trivia concerning coords.
+Dialogue: 0,0:05:59.63,0:06:01.47,Default,Lawari,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:06:01.83,0:06:05.19,Default,Ookanda,0,0,0,,This China Rock Coord has a certain animal attached to it.
 Dialogue: 0,0:06:05.19,0:06:06.56,Default,Ookanda,0,0,0,,What is that animal?
 Dialogue: 0,0:06:07.22,0:06:09.97,Default,Lala,0,0,0,,Dressing Parfait wore that coord...
-Dialogue: 0,0:06:09.97,0:06:12.52,Default,Lala,0,0,0,,Let's see... what animal was it...?
+Dialogue: 0,0:06:09.97,0:06:12.52,Default,Lala,0,0,0,,Let's see... what animal was it?
 Dialogue: 0,0:06:13.01,0:06:15.11,Default,Ookanda,0,0,0,,Here's a hint: It's black and white.
-Dialogue: 0,0:06:15.11,0:06:17.08,Default,Fuwari,0,0,0,,I got it! It's a German cow.
+Dialogue: 0,0:06:15.11,0:06:17.08,Default,Fuwari,0,0,0,,I've got it! It's a German cow.
 Dialogue: 0,0:06:17.08,0:06:20.85,Default,Lala,0,0,0,,Let's see, black and white... black and white...
 Dialogue: 0,0:06:20.85,0:06:22.53,Default,Lala,0,0,0,,A penguin! Or zebra?
 Dialogue: 0,0:06:22.53,0:06:25.70,Default,Fuwari,0,0,0,,The Suffolk is a species of sheep that's also black and white.
@@ -179,8 +179,8 @@ Dialogue: 0,0:06:46.74,0:06:48.17,Default,Ookanda,0,0,0,,A panda!
 Dialogue: 0,0:06:48.67,0:06:50.10,Default,Shion,0,0,0,,P-P-Panda!
 Dialogue: 0,0:06:50.43,0:06:52.67,Default,Lala,0,0,0,,Oh, that's right. A panda!
 Dialogue: 0,0:06:52.67,0:06:54.86,Default,Fuwari,0,0,0,,We don't have those in the Palps.
-Dialogue: 0,0:06:54.86,0:06:57.70,Default,Ookanda,0,0,0,,You're tiring.
-Dialogue: 0,0:06:57.70,0:06:59.52,Default,Lawari,0,0,0,,But...!
+Dialogue: 0,0:06:54.86,0:06:57.70,Default,Ookanda,0,0,0,,You're exhausting.
+Dialogue: 0,0:06:57.70,0:06:59.52,Default,Lawari,0,0,0,,But...
 Dialogue: 0,0:07:00.16,0:07:01.61,Default,Ookanda,0,0,0,,When it comes to table manners,
 Dialogue: 0,0:07:01.61,0:07:05.78,Default,Ookanda,0,0,0,,a Princess who can use chopsticks is considered elegant.
 Dialogue: 0,0:07:05.78,0:07:09.90,Default,Ookanda,0,0,0,,These chopstick corrective casts will whip you into shape.
@@ -192,20 +192,20 @@ Dialogue: 0,0:07:25.51,0:07:27.26,Default,Ookanda,0,0,0,,Don't grasp your chopst
 Dialogue: 0,0:07:27.26,0:07:28.51,Default,Ookanda,0,0,0,,Don't hold them in your mouth!
 Dialogue: 0,0:07:28.51,0:07:30.09,Default,Ookanda,0,0,0,,Don't bring the plate to your face!
 Dialogue: 0,0:07:30.09,0:07:31.48,Default,Ookanda,0,0,0,,Don't lose your chopsticks!
-Dialogue: 0,0:07:31.48,0:07:33.27,Default-Alt,Ookanda,0,0,0,,Even if food{taro specifically} slips away, don't stab it!
-Dialogue: 0,0:07:33.27,0:07:34.02,Default-Alt,Ookanda,0,0,0,,Don't drop them!
-Dialogue: 0,0:07:34.02,0:07:35.44,Default-Alt,Ookanda,0,0,0,,Don't eat like a dog!
-Dialogue: 0,0:07:35.77,0:07:36.90,Default,Lala,0,0,0,,Pushuu~.
-Dialogue: 0,0:07:36.90,0:07:39.73,Default,Ookanda,0,0,0,,Once you're done eating, put your chopsticks on the chopstick rest.
-Dialogue: 0,0:07:39.73,0:07:40.86,Default,Lala,0,0,0,,Pushushuu~.
+Dialogue: 0,0:07:31.48,0:07:33.27,Default,Ookanda,0,0,0,,{\an8}Even if food{taro specifically} slips away, don't stab it!
+Dialogue: 0,0:07:33.27,0:07:34.02,Default,Ookanda,0,0,0,,{\an8}Don't drop them!
+Dialogue: 0,0:07:34.02,0:07:35.44,Default,Ookanda,0,0,0,,{\an8}Don't eat like a dog!
+Dialogue: 0,0:07:35.77,0:07:36.90,Default,Lala,0,0,0,,Pushuu...
+Dialogue: 0,0:07:36.90,0:07:39.73,Default,Ookanda,0,0,0,,Once you're done eating, put your \Nchopsticks on the chopstick rest.
+Dialogue: 0,0:07:39.73,0:07:40.86,Default,Lala,0,0,0,,Pushushuu...
 Dialogue: 0,0:07:41.37,0:07:44.39,Default,Ookanda,0,0,0,,For crying out loud, you're a handful...
 Dialogue: 0,0:07:44.39,0:07:44.82,Default,Ookanda,0,0,0,,Huh?
 Dialogue: 0,0:07:45.60,0:07:46.99,Default,Ookanda,0,0,0,,Where's Midorikaze?!
 Dialogue: 0,0:07:47.74,0:07:50.21,Default,Ookanda,0,0,0,,She must have ran off!
 Dialogue: 0,0:07:56.45,0:07:57.78,Default,Fuwari,0,0,0,,Ouch.
 Dialogue: 0,0:07:57.78,0:08:00.81,Default,Fuwari,0,0,0,,High heels sure are rough on the feet.
-Dialogue: 0,0:08:00.81,0:08:03.21,Default,Fuwari,0,0,0,,Since I always ran around the mountains barefoot,
-Dialogue: 0,0:08:03.21,0:08:05.44,Default,Fuwari,0,0,0,,it'll take a while to get used to them.
+Dialogue: 0,0:08:00.81,0:08:03.21,Default,Fuwari,0,0,0,,I've always run around the mountains barefoot,
+Dialogue: 0,0:08:03.21,0:08:05.44,Default,Fuwari,0,0,0,,so I guess it'll take a while to get used to them.
 Dialogue: 0,0:08:06.32,0:08:09.71,Default,Fuwari,0,0,0,,Princess lessons are tougher than I expected.
 Dialogue: 0,0:08:10.75,0:08:14.02,Default,Fuwari,0,0,0,,But everyone came to see me off.
 Dialogue: 0,0:08:14.02,0:08:16.85,Default,Fuwari,0,0,0,,So I have to become a wonderful Princess.
@@ -218,36 +218,36 @@ Dialogue: 0,0:08:33.05,0:08:36.84,Default,Fuwari,0,0,0,,The small squirrels in t
 Dialogue: 0,0:08:36.84,0:08:38.77,Default,Fuwari,0,0,0,,I wonder what they're doing right about now.
 Dialogue: 0,0:08:42.11,0:08:45.59,Default,Fuwari,0,0,0,,It's too soon to be homesick, Fuwari.
 Dialogue: 0,0:08:45.59,0:08:47.80,Default,Ookanda,0,0,0,,Midorikaze!
-Dialogue: 0,0:08:47.80,0:08:49.76,Default-Alt,Ookanda,0,0,0,,Where are you?!
-Dialogue: 0,0:08:50.57,0:08:51.72,Default,Fuwari,0,0,0,,It's Ookanda-sensei!
-Dialogue: 0,0:08:55.39,0:08:56.31,Default,Hibiki,0,0,0,,Uh-oh.
+Dialogue: 0,0:08:47.80,0:08:49.76,Default,Ookanda,0,0,0,,{\an8}Where are you?!
+Dialogue: 0,0:08:50.57,0:08:51.72,Default,Fuwari,0,0,0,,It's Headmistress Ookanda!
+Dialogue: 0,0:08:55.39,0:08:56.31,Default,Hibiki,0,0,0,,Oh dear.
 Dialogue: 0,0:09:11.00,0:09:11.99,Default,Hibiki,0,0,0,,Are you unharmed?
-Dialogue: 0,0:09:11.99,0:09:15.24,Default,Fuwaro,0,0,0,,P-Prince?!
-Dialogue: 0,0:09:16.49,0:09:19.29,Default,Rand1,0,0,0,,It's Hibiki! How lucky!
+Dialogue: 0,0:09:11.99,0:09:15.24,Default,Fuwaro,0,0,0,,M-My prince?!{how the fuck do I handle "prince-sama" in English. How many times can I use "my prince" before it gets repetitive.}
+Dialogue: 0,0:09:16.49,0:09:19.29,Default,Rand1,0,0,0,,It's Prince Hibiki! How lucky!
 Dialogue: 0,0:09:17.07,0:09:19.29,Default-Alt,Rand2,0,0,0,,I'm so jealous!
 Dialogue: 0,0:09:19.29,0:09:21.38,Default-Alt,Rand3,0,0,0,,Okay, calm down.
 Dialogue: 0,0:09:21.38,0:09:23.66,Default,Hibiki,0,0,0,,To fly down like a goddess...
 Dialogue: 0,0:09:23.66,0:09:25.51,Default,Hibiki,0,0,0,,Just what part of the heavens are you from?
 Dialogue: 0,0:09:25.51,0:09:27.19,Default,Fuwari,0,0,0,,I'm sorry.
-Dialogue: 0,0:09:27.19,0:09:32.97,Default,Fuwari,0,0,0,,I thought I might be able to see the Palps if I climbed to the top of that tree.
+Dialogue: 0,0:09:27.19,0:09:32.97,Default,Fuwari,0,0,0,,I thought I might be able to see the Palps\N if I climbed to the top of that tree.
 Dialogue: 0,0:09:33.56,0:09:35.23,Default,Hibiki,0,0,0,,Homesick, huh?
-Dialogue: 0,0:09:35.93,0:09:42.67,Default,Hibiki,0,0,0,,You are the one expected to win the Summer Dream Idol GranPrix and become the Dream Parade Princess,
-Dialogue: 0,0:09:42.67,0:09:46.03,Default,Hibiki,0,0,0,,in other words the ultimate Princess.
+Dialogue: 0,0:09:35.93,0:09:42.67,Default,Hibiki,0,0,0,,You are the one expected to win the Summer Dream \NGrand Prix and become the Dream Parade Princess,
+Dialogue: 0,0:09:42.67,0:09:46.03,Default,Hibiki,0,0,0,,in other words the ideal Princess.
 Dialogue: 0,0:09:46.81,0:09:50.64,Default,Hibiki,0,0,0,,I knew you had the talent.
 Dialogue: 0,0:09:52.59,0:09:55.83,Default,Hibiki,0,0,0,,I look forward to your growth.
-Dialogue: 0,0:09:55.83,0:09:57.16,Default-Alt,Rand4,0,0,0,,Hibiki!
+Dialogue: 0,0:09:55.83,0:09:57.16,Default-Alt,Rand4,0,0,0,,Prince Hibiki!
 Dialogue: 0,0:09:56.38,0:09:57.16,Default,Fuwari,0,0,0,,Of course!
-Dialogue: 0,0:09:57.16,0:09:58.54,Default-Alt,Rand4,0,0,0,,Hibiki is...!
+Dialogue: 0,0:09:57.16,0:09:58.54,Default-Alt,Rand4,0,0,0,,Prince Hibiki is...
 Dialogue: 0,0:09:58.54,0:10:00.00,Default,Ookanda,0,0,0,,J-Just where did she go?!
 Dialogue: 0,0:10:00.00,0:10:04.21,Default,Ookanda,0,0,0,,Did I go a bit overboard with the training?!
-Dialogue: 0,0:10:04.21,0:10:04.87,Default,Ookanda,0,0,0,,Huh?
+Comment: 0,0:10:04.21,0:10:04.87,Default,Ookanda,0,0,0,,Huh?
 Dialogue: 0,0:10:04.87,0:10:06.42,Default,Fuwari,0,0,0,,Sorry I'm late.
-Dialogue: 0,0:10:07.25,0:10:09.23,Default,Fuwari,0,0,0,,I'll do my best with the Princess lessons!
-Dialogue: 0,0:10:09.23,0:10:12.14,Default,Fuwari,0,0,0,,Please be more strict with me, Sensei!
+Dialogue: 0,0:10:07.25,0:10:09.23,Default,Fuwari,0,0,0,,I'll work hard with the princess lessons!
+Dialogue: 0,0:10:09.23,0:10:12.14,Default,Fuwari,0,0,0,,Please be strict with me, Headmistress Ookanda!
 Dialogue: 0,0:10:12.14,0:10:13.16,Default,Ookanda,0,0,0,,Huh?
 Dialogue: 0,0:10:13.16,0:10:15.23,Default,Ookanda,0,0,0,,Um...
 Dialogue: 0,0:10:15.23,0:10:16.61,Default,Lala,0,0,0,,Proper response!
-Dialogue: 0,0:10:16.61,0:10:18.60,Default,Ookanda,0,0,0,,Y-Yes, Ma'am.
+Dialogue: 0,0:10:16.61,0:10:18.60,Default,Ookanda,0,0,0,,Y-Yes, ma'am.
 Dialogue: 0,0:00:00.05,0:00:00.05,Default,Tel,0,0,0,,{[TEL]}
 Dialogue: 0,0:10:19.15,0:10:20.08,Default,Fuwari,0,0,0,,Huh?
 Dialogue: 0,0:10:21.50,0:10:23.02,Default,Fuwari,0,0,0,,This song again!
@@ -257,42 +257,42 @@ Dialogue: 0,0:10:26.94,0:10:29.49,Default,Lala,0,0,0,,Press that and then say "h
 Dialogue: 0,0:10:30.53,0:10:32.30,Default-Alt,Kuma,0,0,0,,Hello! Hello!
 Dialogue: 0,0:10:30.53,0:10:32.30,Default,Fuwari,0,0,0,,H-Hello?
 Dialogue: 0,0:10:32.30,0:10:34.37,Default-Alt,Kuma,0,0,0,,She finally answered-kuma!
-Dialogue: 0,0:10:34.37,0:10:38.55,Default,Kuma,0,0,0,,Geez! Toriko has become quite a handful! It's troublesome-kuma!
-Dialogue: 0,0:10:38.55,0:10:41.03,Default,Toriko,0,0,0,,After all, Toriko is unwanted-tori!
+Dialogue: 0,0:10:34.37,0:10:38.55,Default,Kuma,0,0,0,,Geez! Toriko has turned into a real handful! \NIt's a real pain-kuma!
+Dialogue: 0,0:10:38.55,0:10:41.03,Default,Toriko,0,0,0,,After all, nobody wants Toriko around-tori!
 Dialogue: 0,0:10:41.03,0:10:44.46,Default,Toriko,0,0,0,,I should set off to the mascot graveyard-tori!
-Dialogue: 0,0:10:44.79,0:10:48.67,Default,Kuma,0,0,0,,She completely lost her cool when you continually ignored her call.
+Dialogue: 0,0:10:44.79,0:10:48.67,Default,Kuma,0,0,0,,She completely lost her cool when you\N continually ignored her call.
 Dialogue: 0,0:10:48.67,0:10:50.65,Default,Fuwari,0,0,0,,I wasn't ignoring her.
-Dialogue: 0,0:10:50.65,0:10:53.48,Default,Fuwari,0,0,0,,I didn't know how to use a phone.
+Dialogue: 0,0:10:50.65,0:10:53.48,Default,Fuwari,0,0,0,,I just didn't know how to use a phone.
 Dialogue: 0,0:10:53.48,0:10:54.05,Default,Toriko,0,0,0,,Tori?
-Dialogue: 0,0:10:54.45,0:10:57.44,Default,Fuwari,0,0,0,,I'm sorry I didn't think about it earlier, Toriko.
-Dialogue: 0,0:10:57.44,0:11:01.94,Default,Fuwari,0,0,0,,Toriko is my very, very precious manager.
+Dialogue: 0,0:10:54.45,0:10:57.44,Default,Fuwari,0,0,0,,I'm sorry I didn't realize sooner, Toriko.
+Dialogue: 0,0:10:57.44,0:11:01.94,Default,Fuwari,0,0,0,,You're my very, very precious manager.
 Dialogue: 0,0:11:02.13,0:11:03.38,Default,Toriko,0,0,0,,Tori!
 Dialogue: 0,0:11:03.38,0:11:05.49,Default,Toriko,0,0,0,,Thank tori!
 Dialogue: 0,0:11:05.49,0:11:07.05,Default,Toriko,0,0,0,,I wanted to tell you right away-tori!
 Dialogue: 0,0:11:07.05,0:11:10.45,Default,Toriko,0,0,0,,Your new brand is finally done-tori!
 Dialogue: 0,0:11:11.61,0:11:12.72,Default,Lala,0,0,0,,Hooray!
-Dialogue: 0,0:11:11.61,0:11:12.72,Default-Alt,Fuwari,0,0,0,,Bravo!
-Dialogue: 0,0:11:12.72,0:11:15.49,Default-Alt,Lala,0,0,0,,It's finally time for your début concert!
-Dialogue: 0,0:11:12.72,0:11:15.49,Default,Fuwari,0,0,0,,It's finally time for my début concert!
+Comment: 0,0:11:11.61,0:11:12.72,Default-Alt,Fuwari,0,0,0,,Bravo!
+Dialogue: 0,0:11:12.72,0:11:15.49,Default-Alt,Lala,0,0,0,,It's finally time for your debut concert!
+Dialogue: 0,0:11:12.72,0:11:15.49,Default,Fuwari,0,0,0,,It's finally time for my debut concert!
 Dialogue: 0,0:11:29.92,0:11:31.88,Default,Cosmos,0,0,0,,Cosmic hi!
 Dialogue: 0,0:11:31.88,0:11:34.71,Default,Mega-nee,0,0,0,,Fuwari, thank you for waiting.
 Dialogue: 0,0:11:34.71,0:11:37.44,Default,Mega-nee,0,0,0,,Congratulations on the start of a new brand.
-Dialogue: 0,0:11:37.44,0:11:39.35,Default,Fuwari,0,0,0,,New brand?
+Dialogue: 0,0:11:37.44,0:11:39.35,Default,Fuwari,0,0,0,,What do you mean?
 Dialogue: 0,0:11:40.51,0:11:42.98,Default,Cosmos,0,0,0,,Here, try pulling on this ribbon.
 Dialogue: 0,0:11:42.98,0:11:44.56,Default,Fuwari,0,0,0,,Ribbon?
 Dialogue: 0,0:11:53.83,0:11:56.13,Default,Fuwari,0,0,0,,Coco Flower?
 Dialogue: 0,0:11:56.13,0:11:57.35,Default,Cosmos,0,0,0,,That's right!
-Dialogue: 0,0:11:57.35,0:12:00.62,Default,Cosmos,0,0,0,,I used Fuwari's image and created the new brand Coco Flower!
-Dialogue: 0,0:12:01.79,0:12:08.43,Default,Cosmos,0,0,0,,It's a brand that focuses on using natural materials while adding a novel arrangement to a cute country motif.
-Dialogue: 0,0:12:08.43,0:12:11.88,Default,Cosmos,0,0,0,,It has completely revolutionized the PriPara Fashion world!
+Dialogue: 0,0:11:57.35,0:12:00.62,Default,Cosmos,0,0,0,,I created the Coco Flower brand with the things that represent you in mind. {I was going to use "vibe" but I don't think that's Cosmo's uh, vibe.}
+Dialogue: 0,0:12:01.79,0:12:08.43,Default,Cosmos,0,0,0,,It's a brand with a focus on using natural materials\N while adding a novel arrangement to a cute country motif.
+Dialogue: 0,0:12:08.43,0:12:11.88,Default,Cosmos,0,0,0,,It's completely revolutionized the PriPara fashion world!
 Dialogue: 0,0:12:11.88,0:12:13.13,Default,SoLaMiSmile,0,0,0,,Wow!
 Dialogue: 0,0:12:13.13,0:12:14.43,Default,Lala,0,0,0,,So cool!
-Dialogue: 0,0:12:14.43,0:12:19.89,Default,Mega-nee,0,0,0,,And with that, CoCo Flower has opened a new store in PriPara!
-Dialogue: 0,0:12:19.89,0:12:21.06,Default,DressingParfait,0,0,0,,Wow!
-Dialogue: 0,0:12:21.06,0:12:22.35,Default,Leona,0,0,0,,How wonderful!
-Dialogue: 0,0:12:22.35,0:12:25.82,Default,Cosmos,0,0,0,,Here's a PriTicket for the Tyrolean Fleur Coord.
+Dialogue: 0,0:12:14.46,0:12:19.93,Default,Mega-nee,0,0,0,,And with that, a CoCo Flower brand store has opened in PriPara!
+Dialogue: 0,0:12:19.93,0:12:21.06,Default,DressingParfait,0,0,0,,Wow!
+Dialogue: 0,0:12:21.06,0:12:22.39,Default,Leona,0,0,0,,How wonderful!
+Dialogue: 0,0:12:22.39,0:12:25.82,Default,Cosmos,0,0,0,,Here's a PriTicket for the Tyrolean Fleur Coord.
 Dialogue: 0,0:12:25.82,0:12:28.17,Default,Cosmos,0,0,0,,I'm sorry it took so long.
-Dialogue: 0,0:12:28.17,0:12:30.32,Default,Cosmos,0,0,0,,Now go put everything you've got into your PriPara Change!
+Dialogue: 0,0:12:28.17,0:12:30.35,Default,Cosmos,0,0,0,,Now go give us a stellar PriPara change.
 Dialogue: 0,0:12:31.40,0:12:33.13,Default,Fuwari,0,0,0,,Thank you so much!
 Dialogue: 0,0:12:49.96,0:12:51.92,Default,Fuwari,0,0,0,,PriPara Change!
 Dialogue: 0,0:12:52.29,0:12:53.44,Default,Fuwari,0,0,0,,Complete!
@@ -304,44 +304,44 @@ Dialogue: 0,0:13:12.20,0:13:12.93,Default,Fuwari,0,0,0,,Toriko.
 Dialogue: 0,0:13:12.93,0:13:14.04,Default,Toriko,0,0,0,,That coord...
 Dialogue: 0,0:13:14.04,0:13:16.31,Default,Toriko,0,0,0,,That coord looks perfect on you!
 Dialogue: 0,0:13:16.31,0:13:17.28,Default,Fuwari,0,0,0,,Thanks.
-Dialogue: 0,0:13:17.28,0:13:23.64,Default,Mega-nee,0,0,0,,Mega-niisan should be sending you your debut song "This Song Tomareihi" soon.
+Dialogue: 0,0:13:17.28,0:13:23.64,Default,Mega-nee,0,0,0,,Mr. Meganee should be sending you your debut song,\N"Come Join This Song-Layhee" soon.
 Dialogue: 0,0:13:23.64,0:13:24.87,Default,Mega-nee,0,0,0,,And here it is!
 Dialogue: 0,0:13:30.54,0:13:31.73,Default,Fuwari,0,0,0,,Wow!
-Dialogue: 0,0:13:31.73,0:13:35.55,Default,Toriko,0,0,0,,It's like your Birthday and Christmas presents have been rolled into one-tori!{says Bon and New Years but Jake localized it because we don't get gifts on those days - krym}
+Dialogue: 0,0:13:31.73,0:13:35.55,Default,Toriko,0,0,0,,It's like your birthday and Christmas presents \Nhave been rolled into one-tori!
 Dialogue: 0,0:13:35.55,0:13:36.22,Default,Toriko,0,0,0,,Ah!
 Dialogue: 0,0:13:36.22,0:13:38.51,Default,Toriko,0,0,0,,I'm sure after all this happiness something unfortunate will...
-Dialogue: 0,0:13:38.51,0:13:42.68,Default,Toriko,0,0,0,,An assortment of Friday the 13th, your most unlucky day, and the armageddon will come-tori!
+Dialogue: 0,0:13:38.51,0:13:42.68,Default,Toriko,0,0,0,,An assortment of Friday the 13th, \Nyour unluckiest day, and Armageddon will come-tori! {but what about Aromageddon}
 Dialogue: 0,0:13:42.68,0:13:45.44,Default-Alt,Toriko,0,0,0,,Lord have mercy on us. Please lord...
 Dialogue: 0,0:13:43.13,0:13:45.44,Default,Fuwari,0,0,0,,Don't worry. Calm down.
-Dialogue: 0,0:13:46.27,0:13:49.44,Default,Mikan,0,0,0,,Mikan will take pudding and curry udon-nano!
+Dialogue: 0,0:13:46.27,0:13:49.44,Default,Mikan,0,0,0,,Mikan will take pudding and curry udon!
 Dialogue: 0,0:13:49.44,0:13:50.86,Default,Mega-nee,0,0,0,,Welcome!
 Dialogue: 0,0:13:50.86,0:13:53.63,Default,Mega-nee,0,0,0,,To celebrate the opening of Coco Flower,
-Dialogue: 0,0:13:53.63,0:13:56.67,Default,Mega-nee,0,0,0,,we will be selling pudding a la mode for a limited time!
+Dialogue: 0,0:13:53.63,0:13:56.67,Default,Mega-nee,0,0,0,,we'll be selling pudding a la mode for a limited time!
 Dialogue: 0,0:13:56.67,0:13:58.43,Default,Alomagedon,0,0,0,,Coco Flower?
-Dialogue: 0,0:13:58.43,0:13:59.66,Default,Mikan,0,0,0,,What's that-nano?
-Dialogue: 0,0:13:59.66,0:14:04.87,Default,Mega-nee,0,0,0,,It's a new brand created from Midorikaze Fuwari's image.
-Dialogue: 0,0:14:04.87,0:14:09.97,Default,Aloma,0,0,0,,Aloma Prophecy Grimoire, chapter 259, section 5151:
-Dialogue: 0,0:14:09.97,0:14:12.16,Default,Aloma,0,0,0,,"When the ultimate Princess appears,
-Dialogue: 0,0:14:12.16,0:14:15.10,Default,Aloma,0,0,0,,the demon's grand power shall be demonstrated."
+Dialogue: 0,0:13:58.43,0:13:59.66,Default,Mikan,0,0,0,,What's that?
+Dialogue: 0,0:13:59.69,0:14:04.91,Default,Mega-nee,0,0,0,,It's a new brand created with Midorikaze Fuwari in mind.
+Dialogue: 0,0:14:04.91,0:14:09.97,Default,Aloma,0,0,0,,Aroma Prophecy Grimoire, chapter 259, section 5151:
+Dialogue: 0,0:14:09.97,0:14:12.16,Default,Aloma,0,0,0,,"When the ideal princess appears,
+Dialogue: 0,0:14:12.16,0:14:15.10,Default,Aloma,0,0,0,,the grand power of demons shall be demonstrated."
 Dialogue: 0,0:14:15.63,0:14:18.43,Default,Aloma,0,0,0,,Fuwari, the one who currently basks in everyone's attention,
-Dialogue: 0,0:14:18.43,0:14:22.09,Default,Aloma,0,0,0,,I shall do whatever it takes to draw thee into Alomagedon!
-Dialogue: 0,0:14:22.44,0:14:26.97,Default,Mikan,0,0,0,,Then, Mikan will take 25 of those limited Coco Flower parfaits!
+Dialogue: 0,0:14:18.43,0:14:22.09,Default,Aloma,0,0,0,,I shall do whatever it takes to draw thee into Aromageddon!
+Dialogue: 0,0:14:22.44,0:14:26.97,Default,Mikan,0,0,0,,Mikan will take 25 of those limited Coco Flower parfaits!
 Dialogue: 0,0:14:26.97,0:14:28.06,Default,Aloma,0,0,0,,Hold on!
 Dialogue: 0,0:14:27.60,0:14:28.06,Default-Alt,Mikan,0,0,0,,Gel?
-Dialogue: 0,0:14:28.06,0:14:31.98,Default,Aloma,0,0,0,,I'm reluctant to part with the final note in my purse.
-Dialogue: 0,0:14:31.98,0:14:34.02,Default,Mikan,0,0,0,,She's broke-nano.
-Dialogue: 0,0:14:34.88,0:14:37.41,Default,Sophie,0,0,0,,Good luck with your début concert!
+Dialogue: 0,0:14:28.06,0:14:31.98,Default,Aloma,0,0,0,,I'm reluctant to part with the final bill in my purse.
+Dialogue: 0,0:14:31.98,0:14:34.02,Default,Mikan,0,0,0,,She's broke.
+Dialogue: 0,0:14:34.88,0:14:37.41,Default,Sophie,0,0,0,,Good luck with your debut concert!
 Dialogue: 0,0:14:37.41,0:14:38.91,Default,Shion,0,0,0,,Make sure to put everything into your challenge.
-Dialogue: 0,0:14:38.91,0:14:40.23,Default,Dorthy,0,0,0,,Tension max!
+Dialogue: 0,0:14:38.91,0:14:40.23,Default,Dorthy,0,0,0,,Get psyched to the max!
 Dialogue: 0,0:14:40.23,0:14:41.24,Default,Leona,0,0,0,,Relax!
-Dialogue: 0,0:14:41.58,0:14:43.89,Default,Lala,0,0,0,,Look, Fuwari,
+Dialogue: 0,0:14:41.58,0:14:43.89,Default,Lala,0,0,0,,Oh Fuwari, some advice:
 Dialogue: 0,0:14:43.89,0:14:47.70,Default,Lala,0,0,0,,it's best to sing like you're trying to convey your feelings to someone.
 Dialogue: 0,0:14:47.70,0:14:50.83,Default,Lala,0,0,0,,If you do that, you can put more energy into it.
-Dialogue: 0,0:14:51.76,0:14:55.34,Default,Fuwari,0,0,0,,Convey my feelings... to someone...?
+Dialogue: 0,0:14:51.76,0:14:55.34,Default,Fuwari,0,0,0,,Convey my feelings... to someone...
 Dialogue: 0,0:14:59.77,0:15:01.70,Default,Toriko,0,0,0,,No! No! No!
 Dialogue: 0,0:15:01.70,0:15:04.22,Default,Toriko,0,0,0,,I absolutely won't let you enter-tori!
 Dialogue: 0,0:15:04.22,0:15:05.62,Default,Toriko,0,0,0,,Think about it-tori.
-Dialogue: 0,0:15:05.62,0:15:07.02,Default,Toriko,0,0,0,,If you decide to do your début concert now,
+Dialogue: 0,0:15:05.62,0:15:07.02,Default,Toriko,0,0,0,,If you decide to do your debut concert now,
 Dialogue: 0,0:15:07.02,0:15:08.63,Default,Toriko,0,0,0,,things like make a misstep,
 Dialogue: 0,0:15:08.63,0:15:09.74,Default,Toriko,0,0,0,,forget the lyrics,
 Dialogue: 0,0:15:09.74,0:15:11.23,Default,Toriko,0,0,0,,accidentally drop the microphone,
@@ -349,8 +349,8 @@ Dialogue: 0,0:15:11.23,0:15:14.86,Default,Toriko,0,0,0,,and having the set fall 
 Dialogue: 0,0:15:14.86,0:15:17.53,Default,Toriko,0,0,0,,If that happens, there will be a storm of boos from the crowd.
 Dialogue: 0,0:15:17.53,0:15:20.63,Default,Toriko,0,0,0,,You'll be heckled, eggs will be thrown, people will talk about you behind your back,
 Dialogue: 0,0:15:20.63,0:15:22.79,Default,Toriko,0,0,0,,and you'll absolutely, completely, and undoubtedly regret it!
-Dialogue: 0,0:15:22.79,0:15:24.41,Default,Dorthy,0,0,0,,You sure are a noisy manager!
-Dialogue: 0,0:15:24.41,0:15:26.58,Default,Dorthy,0,0,0,,If you're too cowardly people will call you a chicken!
+Dialogue: 0,0:15:22.79,0:15:24.41,Default,Dorthy,0,0,0,,You sure are a meddlesome manager!
+Dialogue: 0,0:15:24.41,0:15:26.58,Default,Dorthy,0,0,0,,You're so cowardly, people are gonna\N  start calling you a chicken!
 Dialogue: 0,0:15:26.58,0:15:28.83,Default,Toriko,0,0,0,,I am a chicken-tori!
 Dialogue: 0,0:15:28.83,0:15:31.93,Default,Toriko,0,0,0,,You should just prepare an absolutely delicious meal of deep fried Toriko and vegetables...
 Dialogue: 0,0:15:31.93,0:15:34.58,Default,Toriko,0,0,0,,...garnished with a potato and carrot glaze topped with tarter sauce-tori!
@@ -361,15 +361,15 @@ Dialogue: 0,0:15:40.94,0:15:42.72,Default,Dorthy,0,0,0,,Take this Cyalume Charm.
 Dialogue: 0,0:15:43.02,0:15:44.43,Default,Fuwari,0,0,0,,Thanks.
 Dialogue: 0,0:15:43.49,0:15:44.43,Default-Alt,Mirelle,0,0,0,,Hey, stop-pri.
 Dialogue: 0,0:15:44.43,0:15:45.93,Default-Alt,Toriko,0,0,0,,No, don't do it-tori.
-Dialogue: 0,0:15:45.93,0:15:50.30,Default,Mirelle,0,0,0,,Toriko! You need to properly put in her entry-pri!
-Dialogue: 0,0:15:50.30,0:15:56.77,Default,Toriko,0,0,0,,But it's been so long since Toriko has entered anyone she forgot how-tori!
+Dialogue: 0,0:15:45.93,0:15:50.30,Default,Mirelle,0,0,0,,Toriko, you have to put in her entry-pri!
+Dialogue: 0,0:15:50.30,0:15:56.77,Default,Toriko,0,0,0,,It's been so long since Toriko has \Nentered anyone, so she forgot how-tori!
 Dialogue: 0,0:15:57.18,0:15:58.06,Default,Toriko,0,0,0,,Um...
 Dialogue: 0,0:15:58.79,0:16:00.79,Default,Toriko,0,0,0,,Entry...
-Dialogue: 0,0:16:00.79,0:16:02.31,Default,Toriko,0,0,0,,It's not possible-tori.
+Dialogue: 0,0:16:00.79,0:16:02.31,Default,Toriko,0,0,0,,It's just no use-tori.
 Dialogue: 0,0:16:02.31,0:16:03.95,Default,Toriko,0,0,0,,Of course it's impossible-tori.
 Dialogue: 0,0:16:03.95,0:16:05.83,Default,Mega-nee,0,0,0,,Your entry has been accepted.
 Dialogue: 0,0:16:05.83,0:16:06.99,Default,Mega-nee,0,0,0,,The leaf isn't needed.
-Dialogue: 0,0:16:06.99,0:16:07.49,Default,Toriko,0,0,0,,Eh?!
+Dialogue: 0,0:16:06.99,0:16:07.49,Default,Toriko,0,0,0,,Huh?!
 Dialogue: 0,0:16:09.31,0:16:10.88,Default,Fuwari,0,0,0,,Thanks.
 Dialogue: 0,0:16:10.88,0:16:12.08,Default,Toriko,0,0,0,,Fuwari...
 Dialogue: 0,0:16:12.92,0:16:14.47,Default,Fuwari,0,0,0,,I'll be right back.
@@ -379,7 +379,7 @@ Dialogue: 0,0:16:20.84,0:16:22.37,Default,Fuwari,0,0,0,,Cheer for me!
 Dialogue: 0,0:16:27.01,0:16:29.60,Default,Mega-nee,0,0,0,,Good luck with your first concert!
 Dialogue: 0,0:16:31.56,0:16:32.63,Default,Fan1,0,0,0,,Fuwari!
 Dialogue: 0,0:16:32.63,0:16:34.26,Default,Fan2,0,0,0,,Go for it, Fuwari!
-Dialogue: 0,0:16:34.26,0:16:36.14,Default,Fan3,0,0,0,,Congrats on your début!
+Dialogue: 0,0:16:34.26,0:16:36.14,Default,Fan3,0,0,0,,Congrats on your debut!
 Dialogue: 0,0:16:36.71,0:16:38.61,Default,Ookanda,0,0,0,,Do your best!
 Dialogue: 0,0:16:41.32,0:16:43.96,Default-Alt,Director,0,0,0,,You should do it more like that.
 Dialogue: 0,0:16:43.96,0:16:45.06,Default-Alt,Director,0,0,0,,And go!
@@ -389,30 +389,30 @@ Dialogue: 0,0:17:45.96,0:17:49.30,Default,Fuwari,0,0,0,,Making Drama Switch On!
 Dialogue: 0,0:17:53.79,0:17:55.31,Default,Fuwari,0,0,0,,Let's go!
 Dialogue: 0,0:18:08.53,0:18:13.33,Default,Fuwari,0,0,0,,A mysterious spring orchestra!
 Dialogue: 0,0:18:14.20,0:18:17.33,Default,Fuwari,0,0,0,,Cyalume Change!
-Dialogue: 0,0:18:49.69,0:18:51.74,Default,Ookanda,0,0,0,,That was the best "Yes, ma'am"!
+Dialogue: 0,0:18:49.69,0:18:51.74,Default,Ookanda,0,0,0,,That was the best — "Yes, ma'am"!
 Dialogue: 0,0:18:53.00,0:18:54.72,Default,Fuwari,0,0,0,,Thank you!
-Dialogue: 0,0:19:01.60,0:19:04.53,Default,Hibiki,0,0,0,,Well, that wasn't too bad for her début.
+Dialogue: 0,0:19:01.60,0:19:04.53,Default,Hibiki,0,0,0,,Well, that was alright for a debut performance.
 Dialogue: 0,0:19:04.53,0:19:07.88,Default,Rand1,0,0,0,,Ah, Shikyouin's up, but I guess he's not ready yet..
-Dialogue: 2,0:19:11.45,0:19:13.89,Default,Mega-nee,0,0,0,,The green glow indicates a natural type.
-Dialogue: 0,0:19:13.89,0:19:16.89,Default,Mega-nee,0,0,0,,This is also the first time I've seen this colour.
+Dialogue: 2,0:19:11.45,0:19:13.89,Default,Mega-nee,0,0,0,,The green glow indicates a Natural type.
+Dialogue: 0,0:19:13.89,0:19:16.89,Default,Mega-nee,0,0,0,,This is the first time I've seen this color.
 Dialogue: 0,0:19:16.89,0:19:19.02,Default,Mega-nee,0,0,0,,She has also jumped up the rankings!
 Dialogue: 0,0:19:19.02,0:19:21.89,Default,Mega-nee,0,0,0,,She made it all the way to Newbie Idol in one go!
 Dialogue: 0,0:19:27.14,0:19:28.65,Default,All,0,0,0,,Good job!
-Dialogue: 0,0:19:28.65,0:19:31.18,Default,Lala,0,0,0,,You blew it out of the park!
+Dialogue: 0,0:19:28.65,0:19:31.18,Default,Lala,0,0,0,,You knocked it out of the park!
 Dialogue: 0,0:19:31.18,0:19:33.62,Default,Mirelle,0,0,0,,That concert was just like you-pri!
 Dialogue: 0,0:19:33.62,0:19:37.37,Default,Sophie,0,0,0,,You have a voice that makes me feel like a child again.
 Dialogue: 0,0:19:37.37,0:19:38.87,Default,Fuwari,0,0,0,,Thanks!
-Dialogue: 0,0:19:38.87,0:19:43.17,Default,Fuwari,0,0,0,,I tried to show off the feelings of the Palps, my beloved home.
+Dialogue: 0,0:19:38.87,0:19:43.17,Default,Fuwari,0,0,0,,I tried to show off my feelings \Nfor my beloved home, the Palps.
 Dialogue: 0,0:19:43.17,0:19:45.78,Default,Fuwari,0,0,0,,I was nervous, but I had a lot of fun!
 Dialogue: 0,0:19:45.78,0:19:47.00,Default,Fuwari,0,0,0,,I want to do it again!
 Dialogue: 0,0:19:47.00,0:19:47.88,Default,Mirelle,0,0,0,,Pri!
 Dialogue: 0,0:19:47.88,0:19:48.85,Default,Lala,0,0,0,,Yeah, let's do it!
-Dialogue: 0,0:19:48.85,0:19:52.23,Default,Lala,0,0,0,,Join SoLaMi Smile and aim to win the Summer Dream GranPrix with us!
-Dialogue: 0,0:19:52.23,0:19:53.97,Default,Dorthy,0,0,0,,Huh? What are you saying?
-Dialogue: 0,0:19:53.97,0:19:57.36,Default,Dorthy,0,0,0,,Fuwari is joining Dressing Parfait, right?
+Dialogue: 0,0:19:48.85,0:19:52.23,Default,Lala,0,0,0,,Join SoLaMi Smile and aim to win \Nthe Summer Dream Grand Prix with us!
+Dialogue: 0,0:19:52.23,0:19:53.97,Default,Dorthy,0,0,0,,Huh? What're you talking about?
+Dialogue: 0,0:19:53.97,0:19:57.36,Default,Dorthy,0,0,0,,Fuwari is joining Dressing Pafé, right?
 Dialogue: 0,0:19:57.36,0:19:58.47,Default,DressingParfait,0,0,0,,Right?
 Dialogue: 0,0:19:58.47,0:19:59.85,Default,Larelle,0,0,0,,SoLaMi Smile!
-Dialogue: 0,0:19:59.85,0:20:01.22,Default,DressingParfait,0,0,0,,Dressing Parfait!
+Dialogue: 0,0:19:59.85,0:20:01.22,Default,DressingParfait,0,0,0,,Dressing Pafé!
 Dialogue: 0,0:20:01.22,0:20:02.06,Default,Larelle,0,0,0,,SoLaMi!
 Dialogue: 0,0:20:02.06,0:20:02.66,Default,DressingParfait,0,0,0,,Dressing!
 Dialogue: 0,0:20:02.66,0:20:03.14,Default,Larelle,0,0,0,,SoLa!
@@ -422,27 +422,27 @@ Dialogue: 0,0:20:03.89,0:20:04.27,Default,DressingParfait,0,0,0,,Dres!
 Dialogue: 0,0:20:04.27,0:20:04.64,Default,Larelle,0,0,0,,SoLa!
 Dialogue: 0,0:20:04.64,0:20:05.02,Default,DressingParfait,0,0,0,,Dres!
 Dialogue: 0,0:20:05.02,0:20:05.35,Default,Larelle,0,0,0,,SoLa!
-Dialogue: 0,0:20:05.35,0:20:08.57,Default,Toriko,0,0,0,,The team Fuwari will join,
+Dialogue: 0,0:20:05.35,0:20:08.57,Default,Toriko,0,0,0,,The team Fuwari will join...
 Dialogue: 0,0:20:08.57,0:20:09.87,Default,Mirelle,0,0,0,,Huh?
 Dialogue: 0,0:20:09.87,0:20:13.73,Default,Toriko,0,0,0,,Toriko thinks it should be decided by her manager.
 Dialogue: 0,0:20:13.73,0:20:14.40,Default,Toriko,0,0,0,,Tori?!
 Dialogue: 0,0:00:00.05,0:00:00.05,Default,Tel,0,0,0,,{[TEL]}
 Dialogue: 0,0:20:16.82,0:20:18.70,Default,Ookanda,0,0,0,,Yes?
-Dialogue: 0,0:20:18.70,0:20:20.62,Default,Ookanda,0,0,0,,H-Hibiki!
+Dialogue: 0,0:20:18.70,0:20:20.62,Default,Ookanda,0,0,0,,Pr-Prince Hibiki!
 Dialogue: 0,0:20:21.20,0:20:24.18,Default,Hibiki,0,0,0,,I watched Fuwari's concert.
-Dialogue: 0,0:20:24.68,0:20:27.75,Default,Hibiki,0,0,0,,Thank you for guiding her, Miss Gloria.
+Dialogue: 0,0:20:24.68,0:20:27.75,Default,Hibiki,0,0,0,,Thank you for guiding her, Madame Gloria.
 Dialogue: 0,0:20:27.75,0:20:30.34,Default,Ookanda,0,0,0,,No, no, no! I did nothing!
 Dialogue: 0,0:20:30.34,0:20:36.18,Default,Hibiki,0,0,0,,However, let's change the song's Making Drama for her next concert.
-Dialogue: 0,0:20:36.18,0:20:39.23,Default,Hibiki,0,0,0,,Please make sure she's ready by the GranPrix.
+Dialogue: 0,0:20:36.18,0:20:39.23,Default,Hibiki,0,0,0,,Please make sure she's ready by the Grand Prix.
 Dialogue: 0,0:00:00.05,0:00:00.05,Default,Fuwari,0,0,0,,{wa!}
 Dialogue: 0,0:00:00.05,0:00:00.05,Default,PurpleGoat,0,0,0,,{goat noises}
 Dialogue: 0,0:20:59.32,0:21:02.24,Default,Fuwari,0,0,0,,This purple goat is...
 Dialogue: 0,0:21:02.24,0:21:03.29,Default,Fuwari,0,0,0,,A letter?
 Dialogue: 0,0:21:07.33,0:21:09.20,Default,Fubiki,0,0,0,,{\i1}Congragulations on your debut concert.
 Dialogue: 0,0:21:09.20,0:21:11.97,Default,Fubiki,0,0,0,,{\i1}Since you're a bit homesick,
-Dialogue: 0,0:21:11.97,0:21:14.76,Default,Fubiki,0,0,0,,{\i1}I'll give you this Royal Imperial.
+Dialogue: 0,0:21:11.97,0:21:14.76,Default,Fubiki,0,0,0,,{\i1}I'll give you this Royal Imperial. {what is a royal imperial??}
 Dialogue: 0,0:21:15.91,0:21:18.51,Default,Fubiki,0,0,0,,{\i1}Truly yours, Hibiki.
-Dialogue: 0,0:21:24.93,0:21:26.88,Default,Fuwari,0,0,0,,Prince,
+Dialogue: 0,0:21:24.93,0:21:26.88,Default,Fuwari,0,0,0,,Oh, my prince,
 Dialogue: 0,0:21:26.88,0:21:30.44,Default,Fuwari,0,0,0,,I'll make sure to become an elegant Princess.
 Dialogue: 0,0:21:31.40,0:21:32.79,Default,Fuwari,0,0,0,,Please wait for me.
 Dialogue: 0,0:23:06.61,0:23:08.24,Default,Lala,0,0,0,,Why?! Why?! Why?!

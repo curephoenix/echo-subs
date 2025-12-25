@@ -19,9 +19,9 @@ Keyframes File: PriPara - 58_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 117
-Active Line: 126
-Video Position: 10940
+Scroll Position: 381
+Active Line: 388
+Video Position: 30577
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -163,7 +163,7 @@ Dialogue: 0,0:07:23.55,0:07:27.26,Default,Mirelle,0,0,0,,"Atmosphere" is... "Atm
 Dialogue: 0,0:07:27.26,0:07:29.32,Default,Lala,0,0,0,,What you roll rice balls in!
 Dialogue: 0,0:07:29.32,0:07:30.98,Default,Mirelle,0,0,0,,Wrong-pri!
 Dialogue: 0,0:07:31.70,0:07:36.25,Default,Falulu,0,0,0,,If you use "-pri", you can become a pop idol like Mirei.
-Dialogue: 0,0:07:36.25,0:07:38.51,Default,Falulu,0,0,0,,Now then, everyone say it together.
+Dialogue: 0,0:07:36.25,0:07:38.51,Default,Falulu,0,0,0,,All together now!
 Dialogue: 0,0:07:38.51,0:07:39.41,Default,Falulu,0,0,0,,And start!
 Dialogue: 0,0:07:39.41,0:07:42.63,Default,MiniFalulu,0,0,0,,Pri! Pri! Pri!
 Dialogue: 0,0:07:42.63,0:07:43.74,Default,Falulu,0,0,0,,One more time.
@@ -251,7 +251,7 @@ Dialogue: 0,0:10:59.86,0:11:01.93,Default,Fan1,0,0,0,,I'm so happy to meet you, 
 Dialogue: 0,0:11:01.93,0:11:03.39,Default,Falulu,0,0,0,,Thanks you!
 Dialogue: 0,0:11:05.85,0:11:08.97,Default,Fan2,0,0,0,,Even if you're in PriParis, I'll always be your fan!
 Dialogue: 0,0:11:08.97,0:11:10.40,Default,Falulu,0,0,0,,Thank you!
-Dialogue: 0,0:11:10.40,0:11:13.36,Default,Falulu,0,0,0,,{\i1}I wonder if they're staying put\N and behaving themselves.
+Dialogue: 0,0:11:10.40,0:11:13.36,Default,Falulu,0,0,0,,{\i1}I wonder if they're staying put\N and behaving themselves.{No your sisters are pure evil.}
 Dialogue: 0,0:11:13.36,0:11:15.73,Default,Lala,0,0,0,,Wait! Please stop!
 Dialogue: 0,0:11:14.90,0:11:16.67,Default-Alt,Unicorn,0,0,0,,Hold it!
 Dialogue: 0,0:11:15.73,0:11:17.78,Default,Mirelle,0,0,0,,We said stop!
@@ -425,7 +425,7 @@ Dialogue: 0,0:21:08.52,0:21:10.83,Default,Lala,0,0,0,,But we'll see each other s
 Dialogue: 0,0:21:10.83,0:21:12.73,Default,Unicorn,0,0,0,,99...
 Dialogue: 0,0:21:12.73,0:21:13.76,Default,Unicorn,0,0,0,,Huh?
 Dialogue: 0,0:21:13.76,0:21:15.30,Default,Unicorn,0,0,0,,We're missing one!
-Dialogue: 0,0:21:15.30,0:21:16.73,Default,All,0,0,0,,Eh?!
+Dialogue: 0,0:21:15.30,0:21:16.73,Default,All,0,0,0,,Huh?!
 Dialogue: 0,0:21:16.73,0:21:19.93,Default,Mega-nee,0,0,0,,Our flight bound for PriParis will be taking off shortly.
 Dialogue: 0,0:21:19.93,0:21:22.14,Default,Lala,0,0,0,,Eh?!
 Dialogue: 0,0:21:22.14,0:21:23.13,Default,Falulu,0,0,0,,Oh no!

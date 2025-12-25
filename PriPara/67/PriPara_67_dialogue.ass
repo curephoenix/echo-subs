@@ -18,9 +18,9 @@ Video File: ../BDMV/PriPara - 67.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 583
-Active Line: 596
-Video Position: 22747
+Scroll Position: 655
+Active Line: 664
+Video Position: 27366
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -704,7 +704,7 @@ Dialogue: 0,0:18:43.46,0:18:44.26,Default,,0,0,0,,He's below!
 Dialogue: 0,0:18:44.44,0:18:46.31,Default,,0,0,0,,Everyone, head to the basement!
 Dialogue: 0,0:18:53.95,0:18:55.61,Default,,0,0,0,,Phantom Thief Genius!
 Dialogue: 0,0:18:57.82,0:18:59.78,Default,,0,0,0,,Why are you doing these mean things?
-Dialogue: 0,0:19:01.35,0:19:03.41,Default,,0,0,0,,I will bring revolution to PriPara.
+Dialogue: 0,0:19:01.35,0:19:03.41,Default,,0,0,0,,I will bring about revolution to PriPara.
 Dialogue: 0,0:19:03.89,0:19:05.01,Default,,0,0,0,,What revolution?{nice Kill la Kill reference}
 Dialogue: 0,0:19:05.01,0:19:06.27,Default,,0,0,0,,There's no use telling you.
 Dialogue: 0,0:19:06.27,0:19:07.43,Default,,0,0,0,,Tell me what it is!
