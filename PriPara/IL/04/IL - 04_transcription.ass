@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: F:/Raws/Idol Land Raws/webrip/04.mkv
+Audio File: F:/Raws/Idol Land Raws/audio/1_04_(Vocals).wav
 Video File: F:/Raws/Idol Land Raws/webrip/04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 2
-Active Line: 35
-Video Position: 7341
+Scroll Position: 18
+Active Line: 24
+Video Position: 7522
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,7 +50,7 @@ Dialogue: 0,0:02:42.84,0:02:45.18,Default,,0,0,0,,でも　いいもね
 Dialogue: 0,0:02:48.47,0:02:51.55,Default,,0,0,0,,さてアイドルランドで遊びいくよっと！{she's gonna go hang out in idol land}
 Dialogue: 0,0:02:53.71,0:02:56.76,Default,,0,0,0,,今日のゲートはここかぁ
 Dialogue: 0,0:03:02.29,0:03:03.84,Default,,0,0,0,,嫌いじゃないよ
-Dialogue: 0,0:03:03.84,0:03:06.84,Default,,0,0,0,,こんなとこはいいじゃな{something}
+Dialogue: 0,0:03:03.84,0:03:06.84,Default,,0,0,0,,こんなとこはい{something}
 Dialogue: 0,0:03:24.33,0:03:26.86,Default,,0,0,0,,ここはどこ
 Dialogue: 0,0:03:30.82,0:03:33.89,Default,,0,0,0,,何この水着！？恥ずかしい！！
 Dialogue: 0,0:03:34.05,0:03:37.02,Default,,0,0,0,,って憧れてた水着{something}
