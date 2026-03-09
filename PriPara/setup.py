@@ -1,6 +1,5 @@
 from muxtools import *
 episode = int(input("Please enter an episode number: "))
-songs = int(input("Please enter the amount of songs: "))
 setup = Setup(
     f"{episode:02d}",
      None,
@@ -14,7 +13,7 @@ setup = Setup(
 
 video_file = GlobSearch(f"PriPara - {setup.episode}*.mkv", dir="./")
 premux = Premux(video_file, subtitles=None, keep_attachments=False, mkvmerge_args=["--no-global-tags", "--no-chapters"])
-subtitle = SubFile(GlobSearch("*_dialogue.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
+subtitle = SubFile(GlobSearch("*_dialogue.ass", "*_insert.ass",allow_multiple=True, dir=f"./{setup.episode}/"))
 chapters = Chapters.from_sub(subtitle, use_actor_field=True)
 
 subtitle.clean_garbage().clean_extradata().set_headers(
@@ -30,7 +29,7 @@ fonts = subtitle.collect_fonts()
 mux(
     premux,
     subtitle.to_track("English", "en"),
-    *fonts,
+    *fonts, 
     chapters,
     tmdb=TmdbConfig(67627)
 )
