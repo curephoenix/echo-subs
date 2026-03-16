@@ -13,18 +13,12 @@ setup = Setup(
 
 video_file = GlobSearch(f"PriPara - {setup.episode}*.mkv", dir="./")
 premux = Premux(video_file, subtitles=None, keep_attachments=False, mkvmerge_args=["--no-global-tags", "--no-chapters"])
-subtitle = SubFile(GlobSearch("*_dialogue.ass", "*_insert.ass",allow_multiple=True, dir=f"./{setup.episode}/"))
+# dialogue = GlobSearch("*dialogue*.ass", dir=f"./{setup.episode}/")
+subtitle = SubFile(GlobSearch("*_dialogue.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
 chapters = Chapters.from_sub(subtitle, use_actor_field=True)
+subtitle.merge(GlobSearch("*_insert*.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
+# songs = GlobSearch("*insert*.ass",allow_multiple=True, dir=f"./{setup.episode}/").paths
 
-subtitle.clean_garbage().clean_extradata().set_headers(
-    (ASSHeader.PlayResX, 1920),
-    (ASSHeader.PlayResY, 1080),
-    (ASSHeader.LayoutResX, 1920),
-    (ASSHeader.LayoutResY, 1080),
-    (ASSHeader.ScaledBorderAndShadow, True),
-    (ASSHeader.WrapStyle, 2),
-    ("Title", "Echo-subs")
-)
 fonts = subtitle.collect_fonts()
 mux(
     premux,
