@@ -19,10 +19,10 @@ Video File: ../../../../../run/media/genius/My Passport/Raws/[FTF] Aikatsu! x Pr
 Keyframes File: katsupara_Keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 104
-Active Line: 115
-Video Position: 15705
+Video Zoom Percent: 0.500000
+Scroll Position: 132
+Active Line: 139
+Video Position: 17251
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -147,29 +147,29 @@ Dialogue: 0,0:10:45.00,0:10:50.43,Default,,0,0,0,,Well, Starlight Academy is ded
 Dialogue: 0,0:10:50.95,0:10:54.99,Default,,0,0,0,,so we take lessons, go on the Starlight Stage,
 Dialogue: 0,0:10:54.99,0:10:58.22,Default,,0,0,0,,and sometimes we get to do idol work outside school.
 Dialogue: 0,0:10:58.22,0:11:00.64,Default,,0,0,0,,Those are our idol activities, aka idol {\i1}katsudou!
-Dialogue: 0,0:11:00.63,0:11:02.04,Default,,0,0,0,,We call them "aikatsu" for short!
+Dialogue: 0,0:11:00.64,0:11:02.39,Default,,0,0,0,,We call them "aikatsu" for short!
 Dialogue: 0,0:11:02.96,0:11:05.72,Default,,0,0,0,,"Idol katsudou"? "Aikatsu"!
 Dialogue: 0,0:11:05.72,0:11:08.11,Default,,0,0,0,,A school dedicated to idoling...
-Dialogue: 0,0:11:08.94,0:11:11.45,Default,,0,0,0,,So you guys have a school that's just about doing idol stuff?
+Dialogue: 0,0:11:08.94,0:11:11.87,Default,,0,0,0,,So you guys have a school that's\Njust about doing idol stuff?
 Dialogue: 0,0:11:11.87,0:11:13.83,Default,,0,0,0,,Yo, that sounds so fire!
-Dialogue: 0,0:11:14.19,0:11:15.88,Default,,0,0,0,,We still have regular studies, too.{We still have to keep up with our regular studies, too.}
-Dialogue: 0,0:11:16.58,0:11:17.91,Default,,0,0,0,,Really...
-Dialogue: 0,0:11:18.80,0:11:20.88,Default,,0,0,0,,PriPara and Starlight Academy...
+Dialogue: 0,0:11:14.19,0:11:16.10,Default,,0,0,0,,We still have regular studies, too.{We still have to keep up with our regular studies, too.}
+Dialogue: 0,0:11:16.66,0:11:18.28,Default,,0,0,0,,Really...
+Dialogue: 0,0:11:18.66,0:11:21.54,Default,,0,0,0,,PriPara and Starlight Academy...
 Dialogue: 0,0:11:21.54,0:11:23.02,Default,,0,0,0,,Two places have become one...
 Dialogue: 0,0:11:23.75,0:11:25.02,Default,,0,0,0,,But why?
-Dialogue: 0,0:11:25.02,0:11:27.35,Default,,0,0,0,,I believe I can answer that.
-Dialogue: 0,0:11:28.01,0:11:28.96,Default,,0,0,0,,Who might you be?
-Dialogue: 0,0:11:29.29,0:11:32.46,Default,,0,0,0,,Allow me to introduce myself. \NI'm PriPara's operator, Meganii.
-Dialogue: 0,0:11:32.80,0:11:34.43,Default,,0,0,0,,And I'm Meganee, PriPara's other operator.
+Dialogue: 0,0:11:25.20,0:11:27.50,Default,,0,0,0,,I believe I can answer that.
+Dialogue: 0,0:11:27.86,0:11:29.29,Default,,0,0,0,,Who might you be?
+Dialogue: 0,0:11:29.29,0:11:32.80,Default,,0,0,0,,Allow me to introduce myself. \NI'm PriPara's operator, Meganii.
+Dialogue: 0,0:11:32.80,0:11:34.78,Default,,0,0,0,,And I'm Meganee, PriPara's other operator.
 Dialogue: 0,0:11:35.14,0:11:38.04,Default,,0,0,0,,You're from Starlight Academy,
 Dialogue: 0,0:11:38.05,0:11:40.69,Default,,0,0,0,,yet your stage changed upon going to perform.
-Dialogue: 0,0:11:40.69,0:11:43.67,Default,,0,0,0,,I believe the system caused this through\N some sort of spatial transferrance.
-Dialogue: 0,0:11:44.46,0:11:46.36,Default,,0,0,0,,You mean the Aikatsu system did this?
-Dialogue: 0,0:11:46.65,0:11:47.49,Default,,0,0,0,,やはり
-Dialogue: 0,0:11:47.94,0:11:51.19,Default,,0,0,0,,実は先ほど、この施設をスキャンしたところ
-Dialogue: 0,0:11:51.19,0:11:54.45,Default,,0,0,0,,システムにいくつかのバグの痕跡が検出されたのです
-Dialogue: 0,0:11:54.87,0:11:55.53,Default,,0,0,0,,バグ？
-Dialogue: 0,0:11:56.19,0:11:58.31,Default,,0,0,0,,お二人の話から推察しますと
+Dialogue: 0,0:11:40.69,0:11:44.00,Default,,0,0,0,,I believe this was due to some \Nsort of spatial transferrance by the system.
+Dialogue: 0,0:11:44.46,0:11:46.52,Default,,0,0,0,,Was it the Aikatsu system?
+Dialogue: 0,0:11:46.52,0:11:47.94,Default,,0,0,0,,Just as I thought.
+Dialogue: 0,0:11:47.94,0:11:51.19,Default,,0,0,0,,I ran a scan of the area of this facility earlier,
+Dialogue: 0,0:11:51.19,0:11:54.45,Default,,0,0,0,,and a bug was detected in the system.
+Dialogue: 0,0:11:54.87,0:11:55.53,Default,,0,0,0,,Like a glitch?
+Dialogue: 0,0:11:56.19,0:11:58.31,Default,,0,0,0,,I'd like to talk with you two about these circumstances.
 Dialogue: 0,0:11:59.51,0:12:04.05,Default,,0,0,0,,マシンのトラブルが同時に起こったことで 時空に歪みが生じ
 Dialogue: 0,0:12:04.57,0:12:08.00,Default,,0,0,0,,本来交わるはずのなかった2つの世界が重なり合い
 Dialogue: 0,0:12:08.61,0:12:12.46,Default,,0,0,0,,その狭間に、特別な空間が生まれてしまったのではないか
