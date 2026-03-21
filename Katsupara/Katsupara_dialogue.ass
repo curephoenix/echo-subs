@@ -20,9 +20,9 @@ Keyframes File: katsupara_Keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 132
-Active Line: 139
-Video Position: 17251
+Scroll Position: 157
+Active Line: 159
+Video Position: 19132
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -167,34 +167,34 @@ Dialogue: 0,0:11:40.69,0:11:44.00,Default,,0,0,0,,I believe this was due to some
 Dialogue: 0,0:11:44.46,0:11:46.52,Default,,0,0,0,,Was it the Aikatsu system?
 Dialogue: 0,0:11:46.52,0:11:47.94,Default,,0,0,0,,Just as I thought.
 Dialogue: 0,0:11:47.94,0:11:51.19,Default,,0,0,0,,I ran a scan of the area of this facility earlier,
-Dialogue: 0,0:11:51.19,0:11:54.45,Default,,0,0,0,,and a bug was detected in the system.
-Dialogue: 0,0:11:54.87,0:11:55.53,Default,,0,0,0,,Like a glitch?
-Dialogue: 0,0:11:56.19,0:11:58.31,Default,,0,0,0,,I'd like to talk with you two about these circumstances.
-Dialogue: 0,0:11:59.51,0:12:04.05,Default,,0,0,0,,マシンのトラブルが同時に起こったことで 時空に歪みが生じ
-Dialogue: 0,0:12:04.57,0:12:08.00,Default,,0,0,0,,本来交わるはずのなかった2つの世界が重なり合い
-Dialogue: 0,0:12:08.61,0:12:12.46,Default,,0,0,0,,その狭間に、特別な空間が生まれてしまったのではないか
-Dialogue: 0,0:12:14.16,0:12:16.14,Default,,0,0,0,,2つの世界の狭間?
-Dialogue: 0,0:12:16.14,0:12:18.03,Default,,0,0,0,,閉じ込められたってことぷり?
-Dialogue: 0,0:12:19.06,0:12:21.59,Default,,0,0,0,,いいえ プリパラとスターライト学園
-Dialogue: 0,0:12:22.21,0:12:25.25,Default,,0,0,0,,それぞれの世界に通じるゲートはあるようなので
-Dialogue: 0,0:12:25.25,0:12:26.54,Default,,0,0,0,,それは大丈夫かと
-Dialogue: 0,0:12:27.20,0:12:33.02,Default,,0,0,0,,むしろ、自由に行き来できる 新しいエリアが誕生したと考えてもいいのかもしれません
-Dialogue: 0,0:12:33.70,0:12:34.94,Default,,0,0,0,,新しいエリア！
-Dialogue: 0,0:12:35.72,0:12:38.10,Default,,0,0,0,,アイドルがどんどんここに集まってくるんだ
-Dialogue: 0,0:12:38.51,0:12:40.38,Default,,0,0,0,,まるでアイドルの楽園だね
-Dialogue: 0,0:12:41.16,0:12:42.25,Default,,0,0,0,,学園マザー
-Dialogue: 0,0:12:42.65,0:12:45.14,Default,,0,0,0,,この後のライブのスケジュールはどうしますか?
-Dialogue: 0,0:12:45.49,0:12:48.97,Default,,0,0,0,,そうね、みんな楽しみに待っているもの\N
-Dialogue: 0,0:12:49.45,0:12:52.14,Default,,0,0,0,,それについてご提案があるのですが
-Dialogue: 0,0:12:52.55,0:12:53.55,Default,,0,0,0,,伺いますわ
-Dialogue: 0,0:12:54.02,0:12:56.59,Default,,0,0,0,,では、あちらの部屋で、どうぞ
-Dialogue: 0,0:12:59.83,0:13:03.03,Default,,0,0,0,,というわけで、しばらくご歓談くださーい
-Dialogue: 0,0:13:04.95,0:13:06.13,Default,,0,0,0,,ねえ、あかりちゃん\N
-Dialogue: 0,0:13:06.90,0:13:09.16,Default,,0,0,0,,スターライト学園のこと教えて！
-Dialogue: 0,0:13:09.52,0:13:10.16,Default,,0,0,0,,うん！
-Dialogue: 0,0:13:10.64,0:13:12.69,Default,,0,0,0,,私もプリパラのこと知りたい
-Dialogue: 0,0:13:14.97,0:13:16.31,Default,,0,0,0,,もちろんの
-Dialogue: 0,0:13:16.32,0:13:17.23,Default,,0,0,0,,かしこま！
+Dialogue: 0,0:11:51.19,0:11:54.72,Default,,0,0,0,,and a bug was detected in the system.
+Dialogue: 0,0:11:54.72,0:11:56.04,Default,,0,0,0,,Like a glitch?
+Dialogue: 0,0:11:56.04,0:11:58.66,Default,,0,0,0,,I'd like to talk with you two about these circumstances.
+Dialogue: 0,0:11:59.51,0:12:04.29,Default,,0,0,0,,Both machines malfunctioning at once\N caused a rift in time and space.
+Dialogue: 0,0:12:04.29,0:12:08.35,Default,,0,0,0,,As a result, two worlds that were never \Nsupposed to meet became one.
+Dialogue: 0,0:12:08.61,0:12:12.46,Default,,0,0,0,,And it would seem a special kind\N of place was created inside the rift.
+Dialogue: 0,0:12:14.01,0:12:16.14,Default,,0,0,0,,A rift containing two worlds?
+Dialogue: 0,0:12:16.14,0:12:18.30,Default,,0,0,0,,Are we trapped here-pri?
+Dialogue: 0,0:12:19.06,0:12:25.25,Default,,0,0,0,,Not to worry, the gates to both PriPara\N and Starlight Academy's worlds haven't disappeared.
+Dialogue: 0,0:12:25.25,0:12:26.89,Default,,0,0,0,,Everything will be fine.
+Dialogue: 0,0:12:27.06,0:12:33.57,Default,,0,0,0,,Actually, you can come and go quite freely. \NI believe this is an entirely new area altogether.
+Dialogue: 0,0:12:33.57,0:12:35.29,Default,,0,0,0,,A brand-new area!
+Dialogue: 0,0:12:35.72,0:12:38.51,Default,,0,0,0,,Lots of idols could gather here!
+Dialogue: 0,0:12:38.51,0:12:40.82,Default,,0,0,0,,It's like an idol paradise, wouldn't you say?
+Dialogue: 0,0:12:41.01,0:12:42.65,Default,,0,0,0,,Headmistress, {he's literally saying "school mom" but that sounds stupid in English. Need ways to spice up the line}
+Dialogue: 0,0:12:42.65,0:12:45.49,Default,,0,0,0,,what should we do about the shows scheduled after this?
+Dialogue: 0,0:12:45.49,0:12:49.33,Default,,0,0,0,,That's the question... \NEveryone was looking forward to those.
+Dialogue: 0,0:12:49.33,0:12:52.55,Default,,0,0,0,,May I offer my opinion on the matter?
+Dialogue: 0,0:12:52.55,0:12:53.87,Default,,0,0,0,,Be my guest.
+Dialogue: 0,0:12:53.87,0:12:56.00,Default,,0,0,0,,All right. We'll meet in the room over there.
+Dialogue: 0,0:12:56.00,0:12:57.09,Default,,0,0,0,,Right this way.
+Dialogue: 0,0:12:59.68,0:13:03.38,Default,,0,0,0,,Now then, they'll be a while. \NFeel free to talk amongst yourselves.
+Dialogue: 0,0:13:04.95,0:13:06.60,Default,,0,0,0,,So, Akari!
+Dialogue: 0,0:13:06.75,0:13:09.52,Default,,0,0,0,,I wanna hear all about Starlight Academy!
+Dialogue: 0,0:13:09.52,0:13:10.16,Default,,0,0,0,,You bet!
+Dialogue: 0,0:13:10.64,0:13:12.69,Default,,0,0,0,,And I'd love to learn all about PriPara!
+Dialogue: 0,0:13:14.97,0:13:16.31,Default,,0,0,0,,You've got it!
+Dialogue: 0,0:13:16.32,0:13:17.23,Default,,0,0,0,,Capisce!
 Dialogue: 0,0:13:19.80,0:13:21.04,Default,,0,0,0,,おつか
 Dialogue: 0,0:13:21.04,0:13:22.45,Default,,0,0,0,,新条ひなきだよ
 Dialogue: 0,0:13:24.33,0:13:27.50,Default,,0,0,0,,その衣装、ポップですっごくイケてるぜ
