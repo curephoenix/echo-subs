@@ -17,6 +17,7 @@ premux = Premux(video_file, subtitles=None, keep_attachments=False, mkvmerge_arg
 subtitle = SubFile(GlobSearch("*_dialogue.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
 chapters = Chapters.from_sub(subtitle, use_actor_field=True)
 subtitle.merge(GlobSearch("*_insert*.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
+subtitle.merge(GlobSearch("*_typesetting*.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
 # songs = GlobSearch("*insert*.ass",allow_multiple=True, dir=f"./{setup.episode}/").paths
 
 fonts = subtitle.collect_fonts()
