@@ -15,16 +15,16 @@ video_file = GlobSearch(f"PriPara - {setup.episode}*.mkv", dir="./")
 premux = Premux(video_file, subtitles=None, keep_attachments=False, mkvmerge_args=["--no-global-tags", "--no-chapters"])
 # dialogue = GlobSearch("*dialogue*.ass", dir=f"./{setup.episode}/")
 subtitle = SubFile(GlobSearch("*_dialogue.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
-#chapters = Chapters.from_sub(subtitle, use_actor_field=True)
+chapters = (GlobSearch("*_chapters*.ass", use_actor_field=True, dir=f"./{setup.episode}/"))
 subtitle.merge(GlobSearch("*_insert*.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
-#subtitle.merge(GlobSearch("*_typesetting*.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
-# songs = GlobSearch("*insert*.ass",allow_multiple=True, dir=f"./{setup.episode}/").paths
+subtitle.merge(GlobSearch("*_typesetting*.ass", allow_multiple=True, dir=f"./{setup.episode}/"))
+#songs = GlobSearch("*insert*.ass",allow_multiple=True, dir=f"./{setup.episode}/").paths
 
 fonts = subtitle.collect_fonts()
 mux(
     premux,
     subtitle.to_track("English", "en"),
     *fonts, 
-   # chapters,
+    #chapters,
     tmdb=TmdbConfig(67627)
 )
