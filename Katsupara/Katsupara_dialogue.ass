@@ -20,9 +20,9 @@ Keyframes File: katsupara_Keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 157
-Active Line: 159
-Video Position: 19132
+Scroll Position: 202
+Active Line: 207
+Video Position: 22232
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -195,48 +195,50 @@ Dialogue: 0,0:13:09.52,0:13:10.16,Default,,0,0,0,,You bet!
 Dialogue: 0,0:13:10.64,0:13:12.69,Default,,0,0,0,,And I'd love to learn all about PriPara!
 Dialogue: 0,0:13:14.97,0:13:16.31,Default,,0,0,0,,You've got it!
 Dialogue: 0,0:13:16.32,0:13:17.23,Default,,0,0,0,,Capisce!
-Dialogue: 0,0:13:19.80,0:13:21.04,Default,,0,0,0,,おつか
-Dialogue: 0,0:13:21.04,0:13:22.45,Default,,0,0,0,,新条ひなきだよ
-Dialogue: 0,0:13:24.33,0:13:27.50,Default,,0,0,0,,その衣装、ポップですっごくイケてるぜ
-Dialogue: 0,0:13:27.81,0:13:29.00,Default,,0,0,0,,ありがとうぷり
-Dialogue: 0,0:13:29.99,0:13:33.26,Default,,0,0,0,,ポップ　ステップ　ゲッチュー！　のみれぃぷり！
-Dialogue: 0,0:13:35.64,0:13:39.35,Default,,0,0,0,,ひなきちゃんも前髪とヘアアクセがとってもキュートぷり
-Dialogue: 0,0:13:39.67,0:13:40.67,Default,,0,0,0,,ありがとう！
-Dialogue: 0,0:13:45.14,0:13:46.54,Default,,0,0,0,,こんにちは
-Dialogue: 0,0:13:46.54,0:13:48.36,Default,,0,0,0,,私、そふぃ
-Dialogue: 0,0:13:50.94,0:13:52.57,Default,,0,0,0,,私は氷上スミレ
-Dialogue: 0,0:13:52.76,0:13:53.76,Default,,0,0,0,,よろしくね\N
-Dialogue: 0,0:13:56.19,0:13:57.52,Default,,0,0,0,,ステージを舞う
-Dialogue: 0,0:13:57.81,0:13:59.25,Default,,0,0,0,,情熱のバラ
-Dialogue: 0,0:13:59.98,0:14:01.31,Default,,0,0,0,,紅林珠璃！
-Dialogue: 0,0:14:03.29,0:14:04.41,Default,,0,0,0,,百花繚乱!
-Dialogue: 0,0:14:04.83,0:14:06.33,Default,,0,0,0,,一擊必殺!
-Dialogue: 0,0:14:06.61,0:14:07.96,Default,,0,0,0,,東堂シオン!
-Dialogue: 0,0:14:10.61,0:14:13.38,Default,,0,0,0,,Mucho gusto\Nつまり、よろしく！
-Dialogue: 0,0:14:13.39,0:14:15.23,Default,,0,0,0,,イゴお見知り置きを
-Dialogue: 0,0:14:16.05,0:14:18.63,Default,,0,0,0,,わー、もしかして双子?
-Dialogue: 0,0:14:18.63,0:14:20.20,Default,,0,0,0,,すっごくかわいいです！
-Dialogue: 0,0:14:20.40,0:14:22.01,Default,,0,0,0,,お、わかってるね
-Dialogue: 0,0:14:22.21,0:14:24.21,Default,,0,0,0,,君たちもまあまあかわいいよ
-Dialogue: 0,0:14:24.75,0:14:27.16,Default,,0,0,0,,まあ、僕とレオナには負けるけど
-Dialogue: 0,0:14:27.43,0:14:29.87,Default,,0,0,0,,ド、ドロシー、失礼だよ
-Dialogue: 0,0:14:31.73,0:14:33.77,Default,,0,0,0,,よろしく、私は
-Dialogue: 0,0:14:36.42,0:14:37.74,Default,,0,0,0,,踊る稲妻
-Dialogue: 0,0:14:37.74,0:14:38.79,Default,,0,0,0,,黒沢凛！
-Dialogue: 0,0:14:39.34,0:14:40.70,Default,,0,0,0,,天羽まどかです
-Dialogue: 0,0:14:40.86,0:14:42.00,Default,,0,0,0,,はじめまして!
-Dialogue: 0,0:14:44.85,0:14:46.71,Default,,0,0,0,,へ、へ、やるね
-Dialogue: 0,0:14:48.59,0:14:50.21,Default,,0,0,0,,女の子がいっぱいなの！
-Dialogue: 0,0:14:50.63,0:14:53.58,Default,,0,0,0,,新らしき悪魔のしもべを見つけるのだ！
-Dialogue: 0,0:14:53.59,0:14:55.11,Default,,0,0,0,,わくわくガァル！
-Dialogue: 0,0:15:07.62,0:15:09.10,Default,,0,0,0,,なまらめんこい！
-Dialogue: 0,0:15:09.10,0:15:10.83,Default,,0,0,0,,上手だね、ちちしぼり
-Dialogue: 0,0:15:13.06,0:15:14.22,Default,,0,0,0,,お友達なの
-Dialogue: 0,0:15:16.36,0:15:18.57,Default,,0,0,0,,私が、お笑いアイドル
-Dialogue: 0,0:15:19.19,0:15:20.94,Default,,0,0,0,,堂島ニーナやで
-Dialogue: 0,0:15:22.95,0:15:23.87,Default,,0,0,0,,よろしゅう
-Dialogue: 0,0:15:25.73,0:15:27.10,Default,,0,0,0,,ファルルやべ
-Dialogue: 0,0:15:27.25,0:15:28.25,Default,,0,0,0,,よろしゅう
+Dialogue: 0,0:13:19.80,0:13:21.04,Default,,0,0,0,,What up!
+Dialogue: 0,0:13:21.04,0:13:22.80,Default,,0,0,0,,The name's Shinjou Hinaki!
+Dialogue: 0,0:13:24.24,0:13:27.81,Default,,0,0,0,,Your pop fit is absolutely killer!
+Dialogue: 0,0:13:27.81,0:13:29.12,Default,,0,0,0,,Thanks-pri!
+Dialogue: 0,0:13:29.84,0:13:32.16,Default,,0,0,0,,With a pop and a step, I've gotcha!
+Dialogue: 0,0:13:32.16,0:13:33.61,Default,,0,0,0,,I'm Mirei! 
+Dialogue: 0,0:13:35.38,0:13:39.35,Default,,0,0,0,,Your bangs and hairclip are just adorbs-pri!
+Dialogue: 0,0:13:39.67,0:13:40.67,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:13:45.14,0:13:46.54,Default,,0,0,0,,Hello there.
+Dialogue: 0,0:13:46.54,0:13:48.71,Default,,0,0,0,,I'm Sophy.
+Dialogue: 0,0:13:50.79,0:13:52.76,Default,,0,0,0,,And I'm Hikami Sumire.
+Dialogue: 0,0:13:52.76,0:13:54.11,Default,,0,0,0,,Pleased to meet you.
+Dialogue: 0,0:13:56.04,0:13:57.78,Default,,0,0,0,,Dancing freely on stage,
+Dialogue: 0,0:13:57.81,0:13:59.53,Default,,0,0,0,,The red rose of passion,
+Dialogue: 0,0:13:59.83,0:14:01.66,Default,,0,0,0,,Kurebayashi Juri!
+Dialogue: 0,0:14:03.28,0:14:04.78,Default,,0,0,0,,Always in top form
+Dialogue: 0,0:14:04.78,0:14:06.61,Default,,0,0,0,,And prepared to strike first!
+Dialogue: 0,0:14:06.83,0:14:08.31,Default,,0,0,0,,Toudou Sion!
+Dialogue: 0,0:14:10.61,0:14:11.99,Default,,0,0,0,,Mucho gusto!
+Dialogue: 0,0:14:11.99,0:14:13.38,Default,,0,0,0,,Or, pleased to meet you.
+Dialogue: 0,0:14:13.38,0:14:15.79,Default,,0,0,0,,Well met. Go-lad to meet you.
+Dialogue: 0,0:14:15.79,0:14:18.63,Default,,0,0,0,,Whoa! Are you two twins?
+Dialogue: 0,0:14:18.63,0:14:20.40,Default,,0,0,0,,You two are absolutely lovely!
+Dialogue: 0,0:14:20.40,0:14:22.21,Default,,0,0,0,,Yeah, I know right?
+Dialogue: 0,0:14:22.21,0:14:24.21,Default,,0,0,0,,You guys aren't half bad, yourselves.
+Dialogue: 0,0:14:24.43,0:14:27.43,Default,,0,0,0,,But you've got nothin' on me and Reona. {"me and Reona", while not gramatically correct, sounds more like Dorothy to me. -C}
+Dialogue: 0,0:14:27.43,0:14:30.22,Default,,0,0,0,,D-Dorothy! Don't be so rude!
+Dialogue: 0,0:14:31.73,0:14:33.77,Default,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:14:36.27,0:14:37.74,Default,,0,0,0,,The girl who dances like lightning,
+Dialogue: 0,0:14:37.74,0:14:39.19,Default,,0,0,0,,I'm Kurosawa Rin!
+Dialogue: 0,0:14:39.19,0:14:40.70,Default,,0,0,0,,And I'm Amahane Madoka!
+Dialogue: 0,0:14:40.71,0:14:42.35,Default,,0,0,0,,Super glad to meet you!
+Dialogue: 0,0:14:44.70,0:14:47.06,Default,,0,0,0,,G-Guess they're not too shabby...
+Dialogue: 0,0:14:48.44,0:14:50.63,Default,,0,0,0,,Look at all the girls here!
+Dialogue: 0,0:14:50.63,0:14:53.58,Default,,0,0,0,,Plenty of new demonic servants to join us{for the taking?}!
+Dialogue: 0,0:14:53.58,0:14:55.46,Default,,0,0,0,,This is so exciting-garu!
+Dialogue: 0,0:15:07.62,0:15:09.10,Default,,0,0,0,,So freakin' cute!
+Dialogue: 0,0:15:09.10,0:15:10.83,Default,,0,0,0,,You're really great with goats! {Direct: good at milking}
+Dialogue: 0,0:15:13.06,0:15:14.22,Default,,0,0,0,,She's my friend, after all.
+Dialogue: 0,0:15:16.36,0:15:18.57,Default,,0,0,0,,I'm the cheerful idol,
+Dialogue: 0,0:15:19.19,0:15:20.94,Default,,0,0,0,,Doujima Niina!
+Dialogue: 0,0:15:22.95,0:15:23.87,Default,,0,0,0,,Nice to meetcha!
+Dialogue: 0,0:15:25.73,0:15:27.10,Default,,0,0,0,,I'm Falulu!
+Dialogue: 0,0:15:27.25,0:15:28.25,Default,,0,0,0,,Nice to meetcha!
 Dialogue: 0,0:15:33.88,0:15:36.00,Default,,0,0,0,,お、同じ人が何人も
 Dialogue: 0,0:15:36.34,0:15:37.88,Default,,0,0,0,,不思議な場所だな
 Dialogue: 0,0:15:39.94,0:15:41.18,Default,,0,0,0,,システムですから
