@@ -20,9 +20,9 @@ Keyframes File: KatsuparaCRF16_Keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 401
-Active Line: 414
-Video Position: 53503
+Scroll Position: 616
+Active Line: 546
+Video Position: 71495
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -445,575 +445,525 @@ Dialogue: 0,0:36:57.07,0:37:00.81,Default,,0,0,0,,Why's it "Monja Ninja" instead
 Dialogue: 0,0:37:00.81,0:37:02.95,Default,,0,0,0,,I guess it's not that different...
 Dialogue: 0,0:37:10.50,0:37:11.38,Default,,0,0,0,,Laala!
 Dialogue: 0,0:37:11.38,0:37:13.18,Default,,0,0,0,,Akari!
-Dialogue: 0,0:37:14.21,0:37:16.67,Default,,0,0,0,,There's something weird about the real world!
-Dialogue: 0,0:37:16.67,0:37:18.59,Default,,0,0,0,,You guys had weird things happen, too?
-Dialogue: 0,0:37:20.01,0:37:21.18,Default,,0,0,0,,I wonder...
-Dialogue: 0,0:37:21.18,0:37:26.22,Default,,0,0,0,,It looks like this fusion has been affecting things in the outside world, too.
-Dialogue: 0,0:37:26.89,0:37:28.31,Default,,0,0,0,,We're all rather worried.
-Dialogue: 0,0:37:28.81,0:37:30.94,Default,,0,0,0,,We just wonder what's going on.
-Dialogue: 0,0:37:31.31,0:37:34.11,Default,,0,0,0,,But, why man? What's going on?
-Dialogue: 0,0:37:34.57,0:37:38.15,Default,,0,0,0,,Upon doing some investigating, we uncovered a very significant fact.
-Dialogue: 0,0:37:39.07,0:37:40.86,Default,,0,0,0,,Our two worlds connected,
-Dialogue: 0,0:37:40.86,0:37:43.41,Default,,0,0,0,,and this fused space was created.
-Dialogue: 0,0:37:43.41,0:37:46.12,Default,,0,0,0,,As a result, a fork in the space-time continuum appeared.
-Dialogue: 0,0:37:46.91,0:37:48.83,Default,,0,0,0,,A fork in the space-time continuum?
-Dialogue: 0,0:37:48.87,0:37:49.37,Default,,0,0,0,,That's right.
-Dialogue: 0,0:37:50.71,0:37:53.67,Default,,0,0,0,,A fork path in the flow of time was created.
-Dialogue: 0,0:37:54.67,0:37:58.71,Default,,0,0,0,,You've broken from the path in the flow of time you were supposed to follow,
-Dialogue: 0,0:37:58.71,0:38:00.72,Default,,0,0,0,,and entered a different flow altogether.
-Dialogue: 0,0:38:01.88,0:38:04.76,Default,,0,0,0,,Now new forks keep appearing,
-Dialogue: 0,0:38:04.76,0:38:07.81,Default,,0,0,0,,and this space encounters new branches each time.
-Dialogue: 0,0:38:07.81,0:38:10.77,Default,,0,0,0,,We've also discovered it's possible to jump to other parts of the path.
-Dialogue: 0,0:38:11.64,0:38:12.85,Default,,0,0,0,,What do you mean?
-Dialogue: 0,0:38:13.10,0:38:16.32,Default,,0,0,0,,Does that mean we'll keep getting sent to other strange worlds?
-Dialogue: 0,0:38:16.94,0:38:17.65,Default,,0,0,0,,Yes.
-Dialogue: 0,0:38:18.03,0:38:20.36,Default,,0,0,0,,We'll run into the next brance after three days.
-Dialogue: 0,0:38:21.15,0:38:24.07,Default,,0,0,0,,But we've calculated the next one after that
-Dialogue: 0,0:38:24.07,0:38:25.24,Default,,0,0,0,,will be 100 million years from now.
-Dialogue: 0,0:38:25.70,0:38:26.91,Default,,0,0,0,,That long?!
-Dialogue: 0,0:38:27.33,0:38:32.00,Default,,0,0,0,,I can't even begin to image what that'd be like-pri!
-Dialogue: 0,0:38:32.75,0:38:36.67,Default,,0,0,0,,So our original worlds will only continue to get farther away...
-Dialogue: 0,0:38:36.96,0:38:40.26,Default,,0,0,0,,So we'll never be able to return to our original worlds and see the people from them?
-Dialogue: 0,0:38:41.42,0:38:43.76,Default,,0,0,0,,But my friends and family aren't here...
-Dialogue: 0,0:38:44.34,0:38:46.30,Default,,0,0,0,,And the fans who cheer us on...
-Dialogue: 0,0:38:50.14,0:38:52.43,Default,,0,0,0,,Um, is there anything we can do?
-Dialogue: 0,0:38:53.85,0:38:55.48,Default,,0,0,0,,This is merely conjecture,
-Dialogue: 0,0:38:55.48,0:38:59.15,Default,,0,0,0,,but if we were somehow able to jump back to the first point of divergence
-Dialogue: 0,0:38:59.15,0:39:02.32,Default,,0,0,0,,it may be possible for us to return to the original timeline.
-Dialogue: 0,0:39:03.86,0:39:05.16,Default,,0,0,0,,Is that even possible?
-Dialogue: 0,0:39:05.61,0:39:06.62,Default,,0,0,0,,That I cannot say for certain.
-Dialogue: 0,0:39:07.12,0:39:11.54,Default,,0,0,0,,However, the power which creates and sustains this space
-Dialogue: 0,0:39:11.54,0:39:12.96,Default,,0,0,0,,is idols' radiance.
-Dialogue: 0,0:39:13.46,0:39:17.50,Default,,0,0,0,,If we were to be able to combine that radiance, we could bring about a miracle.
-Dialogue: 0,0:39:18.00,0:39:19.04,Default,,0,0,0,,An idol's...
-Dialogue: 0,0:39:19.30,0:39:20.21,Default,,0,0,0,,radiance...
-Dialogue: 0,0:39:20.59,0:39:23.34,Default,,0,0,0,,But how do we combine it?
-Dialogue: 0,0:39:23.80,0:39:24.72,Default,,0,0,0,,Come on!
-Dialogue: 0,0:39:24.72,0:39:26.22,Default,,0,0,0,,That's easy-peasy.
-Dialogue: 0,0:39:26.47,0:39:28.60,Default,,0,0,0,,We just gotta put on a buncha shows!
-Dialogue: 0,0:39:28.60,0:39:31.47,Default,,0,0,0,,Don't ya think we'd shine really bright then?
-Dialogue: 0,0:39:32.73,0:39:33.56,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:39:33.56,0:39:34.64,Default,,0,0,0,,Agreed!
-Dialogue: 0,0:39:34.64,0:39:36.56,Default,,0,0,0,,I've been wanting to perform more anyways!
-Dialogue: 0,0:39:37.02,0:39:41.57,Default,,0,0,0,,If we recruit our friends and sing the songs we like,
-Dialogue: 0,0:39:41.57,0:39:42.99,Default,,0,0,0,,there's a lot we can sing-pri!
-Dialogue: 0,0:39:43.53,0:39:46.53,Default,,0,0,0,,I'm so hyped!
-Dialogue: 0,0:39:46.53,0:39:48.32,Default,,0,0,0,,I think it's only fair if Reona and I go first.
-Dialogue: 0,0:39:48.32,0:39:50.83,Default,,0,0,0,,If you say so, Dorothy.
-Dialogue: 0,0:39:51.24,0:39:52.87,Default,,0,0,0,,Let us sing with you, too!
-Dialogue: 0,0:39:52.87,0:39:54.50,Default,,0,0,0,,Then let's go!
-Dialogue: 0,0:39:54.50,0:39:55.50,Default,,0,0,0,,Get hyped to the max!
-Dialogue: 0,0:39:55.62,0:39:57.62,Default,,0,0,0,,And relax!
-Dialogue: 0,0:40:00.88,0:40:04.63,Default,,0,0,0,,Ultra maxxed!
-Dialogue: 0,0:40:06.80,0:40:10.68,Default,,0,0,0,,Hey, everybody! We're gonna get everything back to normal in no time!
-Dialogue: 0,0:40:10.72,0:40:14.48,Default,,0,0,0,,You and me and a happy smiling shining happy train
-Dialogue: 0,0:40:14.48,0:40:18.98,Default,,0,0,0,,Yeah, mega lucky super sparkly lucky train
-Dialogue: 0,0:40:18.98,0:40:21.69,Default,,0,0,0,,Come on! Adventure's just around the corner
-Dialogue: 0,0:40:23.86,0:40:29.95,Default,,0,0,0,,oh, my lucky tain!
-Dialogue: 0,0:40:29.95,0:40:31.33,Default,,0,0,0,,You're Cinderella, and the clock's struck midnight
-Dialogue: 0,0:40:31.33,0:40:37.33,Default,,0,0,0,,(too bad(
-Dialogue: 0,0:40:37.33,0:40:38.46,Default,,0,0,0,,You want everyone to remember
-Dialogue: 0,0:40:38.46,0:40:42.25,Default,,0,0,0,,(let's dance!)
-Dialogue: 0,0:40:42.25,0:40:45.96,Default,,0,0,0,,Bid yourself from that night "goodbye"
-Dialogue: 0,0:40:45.96,0:40:49.47,Default,,0,0,0,,Cuz tomorrow's back to normal
-Dialogue: 0,0:40:49.47,0:40:53.76,Default,,0,0,0,,You're just an unpolished gem
-Dialogue: 0,0:40:54.77,0:40:58.69,Default,,0,0,0,,you just have to keep polishing yourself
-Dialogue: 0,0:40:58.69,0:41:02.65,Default,,0,0,0,,Countless hours passing by
-Dialogue: 0,0:41:02.65,0:41:09.57,Default,,0,0,0,,Come on, it's your super shiny, ultra sparkly lucky time
-Dialogue: 0,0:41:09.57,0:41:13.24,Default,,0,0,0,,Make a wish upon a shooting star before it passes you by
-Dialogue: 0,0:41:13.24,0:41:17.37,Default,,0,0,0,,so you can once again board that ultra cheerful happy train
-Dialogue: 0,0:41:17.37,0:41:21.75,Default,,0,0,0,,Maybe sometimes you'll slip up
-Dialogue: 0,0:41:21.75,0:41:24.04,Default,,0,0,0,,but that might lead you to your treasure
-Dialogue: 0,0:41:24.04,0:41:28.05,Default,,0,0,0,,Oh my happy train
-Dialogue: 0,0:41:32.55,0:41:35.18,Default,,0,0,0,,Heart-pounding and thrilling -- oh my lucky train!
-Dialogue: 0,0:41:35.56,0:41:36.60,Default,,0,0,0,,A small wormhole has appeared in the sky.
-Dialogue: 0,0:41:36.60,0:41:38.81,Default,,0,0,0,,10-4.
-Dialogue: 0,0:41:39.48,0:41:40.81,Default,,0,0,0,,Let's keep up that momentum.
-Dialogue: 0,0:41:40.81,0:41:41.56,Default,,0,0,0,,Let's go, Madoka!
-Dialogue: 0,0:42:05.71,0:42:08.84,Default,,0,0,0,,Alright!
-Dialogue: 0,0:42:08.84,0:42:12.13,Default,,0,0,0,,Take a step forward and ring the bell of blessings
-Dialogue: 0,0:42:12.13,0:42:15.55,Default,,0,0,0,,and take a bite from this sweet, red apple
-Dialogue: 0,0:42:15.55,0:42:18.89,Default,,0,0,0,,With just one bite,
-Dialogue: 0,0:42:18.89,0:42:22.23,Default,,0,0,0,,you've already become our captive
-Dialogue: 0,0:42:22.23,0:42:25.52,Default,,0,0,0,,Kneel there before me
-Dialogue: 0,0:42:25.56,0:42:28.94,Default,,0,0,0,,My soul
-Dialogue: 0,0:42:28.94,0:42:32.74,Default,,0,0,0,,twinges with unsatiable thirst
-Dialogue: 0,0:42:32.74,0:42:39.54,Default,,0,0,0,,We call out your name
-Dialogue: 0,0:42:39.54,0:42:46.00,Default,,0,0,0,,and invite you somewhere beyond fate
-Dialogue: 0,0:42:46.50,0:42:48.17,Default,,0,0,0,,where darkness and light intermix
-Dialogue: 0,0:42:53.38,0:42:57.47,Default,,0,0,0,,Reversible Ring
+Dialogue: 0,0:37:14.27,0:37:16.87,Default,,0,0,0,,Something weird's going on with the real world!
+Dialogue: 0,0:37:16.87,0:37:19.01,Default,,0,0,0,,Really? You guys had weird stuff happen, too?
+Dialogue: 0,0:37:20.04,0:37:21.23,Default,,0,0,0,,I wonder...
+Dialogue: 0,0:37:21.23,0:37:26.39,Default,,0,0,0,,It looks like this fusion has had\Nan affect on the outside world, too.
+Dialogue: 0,0:37:26.87,0:37:28.92,Default,,0,0,0,,We're all a bit uneasy about all this.
+Dialogue: 0,0:37:28.81,0:37:31.33,Default,,0,0,0,,We just wonder what's going on.
+Dialogue: 0,0:37:31.33,0:37:34.55,Default,,0,0,0,,But, why man? What's going on?
+Dialogue: 0,0:37:34.55,0:37:38.65,Default,,0,0,0,,Upon doing some investigating, we uncovered a very significant fact.
+Dialogue: 0,0:37:38.95,0:37:40.92,Default,,0,0,0,,Our two worlds connected,
+Dialogue: 0,0:37:40.92,0:37:43.29,Default,,0,0,0,,and this fused space was created.
+Dialogue: 0,0:37:43.29,0:37:46.79,Default,,0,0,0,,As a result, a fork in the space-time continuum appeared.
+Dialogue: 0,0:37:46.79,0:37:48.75,Default,,0,0,0,,A fork in the space-time continuum?
+Dialogue: 0,0:37:48.75,0:37:49.79,Default,,0,0,0,,That's right.
+Dialogue: 0,0:37:50.73,0:37:54.73,Default,,0,0,0,,A fork in path of the flow of time was created.
+Dialogue: 0,0:37:54.73,0:37:58.78,Default,,0,0,0,,You've broken from the path in the flow of time you were supposed to follow,
+Dialogue: 0,0:37:58.78,0:38:01.40,Default,,0,0,0,,and entered a different flow altogether.
+Dialogue: 0,0:38:02.01,0:38:04.52,Default,,0,0,0,,Now new forks keep appearing,
+Dialogue: 0,0:38:04.52,0:38:07.57,Default,,0,0,0,,and this space encounters new branches each time.
+Dialogue: 0,0:38:07.57,0:38:10.77,Default,,0,0,0,,We've also discovered it's possible to jump to other parts of the path.
+Dialogue: 0,0:38:11.76,0:38:13.08,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:38:13.08,0:38:16.98,Default,,0,0,0,,Does that mean we'll keep getting\Nsent to other messed-up worlds?
+Dialogue: 0,0:38:16.98,0:38:17.91,Default,,0,0,0,,Yes.
+Dialogue: 0,0:38:17.91,0:38:21.03,Default,,0,0,0,,We'll run into the next branch after three days.
+Dialogue: 0,0:38:21.03,0:38:23.70,Default,,0,0,0,,But we've calculated the next one after that...
+Dialogue: 0,0:38:23.95,0:38:25.62,Default,,0,0,0,,will be 100 million years from now.
+Dialogue: 0,0:38:25.62,0:38:27.33,Default,,0,0,0,,That long?!
+Dialogue: 0,0:38:27.33,0:38:31.16,Default,,0,0,0,,I can't even begin to image what that'd be like-pri!
+Dialogue: 0,0:38:32.63,0:38:36.95,Default,,0,0,0,,So our original worlds will only continue to get farther away...
+Dialogue: 0,0:38:36.95,0:38:40.84,Default,,0,0,0,,Then that means we'll never be able to go back to our \Noriginal worlds and see the people from them?
+Dialogue: 0,0:38:41.30,0:38:44.22,Default,,0,0,0,,Our friends and family aren't here...
+Dialogue: 0,0:38:44.22,0:38:46.70,Default,,0,0,0,,And the fans who cheer us on...
+Dialogue: 0,0:38:50.25,0:38:52.98,Default,,0,0,0,,Um, is there anything we can do?
+Dialogue: 0,0:38:53.86,0:38:55.53,Default,,0,0,0,,This is merely conjecture,
+Dialogue: 0,0:38:55.53,0:38:59.03,Default,,0,0,0,,but if we were somehow able to jump back to the first point of divergence
+Dialogue: 0,0:38:59.03,0:39:02.72,Default,,0,0,0,,it may be possible for us to return to the original timeline.
+Dialogue: 0,0:39:03.61,0:39:05.49,Default,,0,0,0,,Is that even possible?
+Dialogue: 0,0:39:05.49,0:39:07.10,Default,,0,0,0,,That I cannot say for certain.
+Dialogue: 0,0:39:07.10,0:39:11.63,Default,,0,0,0,,However, the power which creates and sustains this space...
+Dialogue: 0,0:39:11.63,0:39:13.45,Default,,0,0,0,,is the radiance of idols.
+Dialogue: 0,0:39:13.45,0:39:17.75,Default,,0,0,0,,If we were to be able to combine that radiance,\N we could bring about a miracle.
+Dialogue: 0,0:39:18.05,0:39:19.28,Default,,0,0,0,,An idol's...
+Dialogue: 0,0:39:19.28,0:39:20.64,Default,,0,0,0,,radiance...
+Dialogue: 0,0:39:20.64,0:39:23.82,Default,,0,0,0,,But how do we combine it?
+Dialogue: 0,0:39:23.82,0:39:24.74,Default,,0,0,0,,Come on!
+Dialogue: 0,0:39:24.74,0:39:26.14,Default,,0,0,0,,That's easy-peasy.
+Dialogue: 0,0:39:26.14,0:39:28.66,Default,,0,0,0,,We just gotta put on a buncha shows!
+Dialogue: 0,0:39:28.66,0:39:31.77,Default,,0,0,0,,Don't ya think we'd shine really bright then?
+Dialogue: 0,0:39:32.72,0:39:33.53,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:39:33.53,0:39:34.74,Default,,0,0,0,,Agreed!
+Dialogue: 0,0:39:34.74,0:39:36.90,Default,,0,0,0,,I've been wanting to perform more anyways!
+Dialogue: 0,0:39:36.90,0:39:41.72,Default,,0,0,0,,If we grab our friends and sing the songs we like,\Nthere's a lot we can sing-pri!
+Dialogue: 0,0:39:41.72,0:39:43.32,Default,,0,0,0,,I'll be cheering you on!{Count me in?}
+Dialogue: 0,0:39:43.32,0:39:46.59,Default,,0,0,0,,I think it's only fair if Reona and I go first.
+Dialogue: 0,0:39:46.59,0:39:48.39,Default,,0,0,0,,If you say so, Dorothy.
+Dialogue: 0,0:39:48.39,0:39:51.20,Default,,0,0,0,,Let us sing with you, too!
+Dialogue: 0,0:39:51.52,0:39:52.87,Default,,0,0,0,,Then let's go!
+Dialogue: 0,0:39:52.87,0:39:54.38,Default,,0,0,0,,Get hyped to the max!
+Dialogue: 0,0:39:54.38,0:39:55.50,Default,,0,0,0,,And relax!
+Dialogue: 0,0:39:55.50,0:39:58.02,Default,,0,0,0,,Ultra maxxed!
+Dialogue: 0,0:40:01.02,0:40:01.94,Default,,0,0,0,,Hey, everybody!
+Dialogue: 0,0:40:01.94,0:40:05.55,Default,,0,0,0,,We're gonna get everything back to normal in no time!
+Dialogue: 0,0:41:32.59,0:41:35.44,Default,,0,0,0,,A small wormhole has appeared in the sky.
+Dialogue: 0,0:41:35.44,0:41:36.75,Default,,0,0,0,,10-4.
+Dialogue: 0,0:41:36.75,0:41:39.10,Default,,0,0,0,,Let's keep up that momentum.
+Dialogue: 0,0:41:39.36,0:41:40.96,Default,,0,0,0,,Let's go, Madoka!
+Dialogue: 0,0:41:40.96,0:41:41.98,Default,,0,0,0,,Alright!
+Dialogue: 0,0:42:05.71,0:42:08.84,Default,,0,0,0,,Take a step forward and ring the bell of blessings
+Dialogue: 0,0:42:08.84,0:42:12.13,Default,,0,0,0,,and take a bite from this sweet, red apple
+Dialogue: 0,0:42:12.13,0:42:15.55,Default,,0,0,0,,With just one bite,
+Dialogue: 0,0:42:15.55,0:42:18.89,Default,,0,0,0,,you've already become our captive
+Dialogue: 0,0:42:18.89,0:42:22.23,Default,,0,0,0,,Kneel there before me
+Dialogue: 0,0:42:22.23,0:42:25.52,Default,,0,0,0,,My soul
+Dialogue: 0,0:42:25.56,0:42:28.94,Default,,0,0,0,,twinges with unsatiable thirst
+Dialogue: 0,0:42:28.94,0:42:32.74,Default,,0,0,0,,We call out your name
+Dialogue: 0,0:42:32.74,0:42:39.54,Default,,0,0,0,,and invite you somewhere beyond fate
+Dialogue: 0,0:42:39.54,0:42:46.00,Default,,0,0,0,,where darkness and light intermix
+Dialogue: 0,0:42:46.50,0:42:48.17,Default,,0,0,0,,Reversible Ring
 Dialogue: 0,0:42:48.17,0:42:53.18,Default,,0,0,0,,A moebius strip wrapped around your finger
-Dialogue: 0,0:42:54.09,0:42:57.30,Default,,0,0,0,,The captivating demon and the smiling angel
-Dialogue: 0,0:42:57.60,0:43:02.77,Default,,0,0,0,,Cyalume change!
-Dialogue: 0,0:43:03.23,0:43:04.81,Default,,0,0,0,,The captivating demon and the smiling angel
-Dialogue: 0,0:43:04.81,0:43:09.94,Default,,0,0,0,,Remember we two maidens
-Dialogue: 0,0:43:09.94,0:43:11.57,Default,,0,0,0,,Reversible-Ring
-Dialogue: 0,0:43:11.57,0:43:14.20,Default,,0,0,0,,A moebius strip wrapped around your finger
-Dialogue: 0,0:43:14.20,0:43:17.62,Default,,0,0,0,,Fear not
-Dialogue: 0,0:43:17.62,0:43:24.50,Default,,0,0,0,,and yield yourself to us
-Dialogue: 0,0:43:27.75,0:43:29.21,Default,,0,0,0,,The Devil ＆ Angel;
-Dialogue: 0,0:43:29.88,0:43:32.17,Default,,0,0,0,,Worship we two maidens
-Dialogue: 0,0:43:51.65,0:43:58.07,Default,,0,0,0,,An idol's radiance;
-Dialogue: 0,0:43:58.07,0:44:04.29,Default,,0,0,0,,for that, you need look no further than us.
-Dialogue: 0,0:44:04.54,0:44:11.00,Default,,0,0,0,,My heart beats to the rhythm of this magic ornamentation
-Dialogue: 0,0:44:11.00,0:44:16.59,Default,,0,0,0,,and I come alive with joy
-Dialogue: 0,0:44:16.59,0:44:22.47,Default,,0,0,0,,Love and dates -- it's all so boring
-Dialogue: 0,0:44:22.47,0:44:29.35,Default,,0,0,0,,Tonight, too, I want to dance
-Dialogue: 0,0:44:29.35,0:44:36.57,Default,,0,0,0,,My heart comes alight like raging fire
-Dialogue: 0,0:44:36.57,0:44:42.45,Default,,0,0,0,,The ttrobbing passion in my heart has no end
-Dialogue: 0,0:44:42.45,0:44:49.54,Default,,0,0,0,,May this flower rooted deep inside my heart come into bloom
-Dialogue: 0,0:44:49.54,0:44:55.42,Default,,0,0,0,,I'll shine even brighter than ever before
-Dialogue: 0,0:44:55.42,0:45:02.39,Default,,0,0,0,,I'll bloom just as beautifully with the fire lit inside of me
-Dialogue: 0,0:45:02.39,0:45:08.35,Default,,0,0,0,,Just like the red passion flowers
-Dialogue: 0,0:45:08.35,0:45:15.44,Default,,0,0,0,,The flowers of my dream bloom splendidly
-Dialogue: 0,0:45:15.44,0:45:21.82,Default,,0,0,0,,Should these flower petals ever wither,
-Dialogue: 0,0:45:47.52,0:45:49.18,Default,,0,0,0,,They'll return as buds once again
-Dialogue: 0,0:45:49.56,0:45:51.85,Default,,0,0,0,,Just like the red passion flowers
-Dialogue: 0,0:45:52.19,0:45:53.69,Default,,0,0,0,,It's about time we go on.
-Dialogue: 0,0:45:53.86,0:45:55.02,Default,,0,0,0,,Next up: the Kansai team!
-Dialogue: 0,0:45:56.27,0:45:58.40,Default,,0,0,0,,Let's give'em a good show!
-Dialogue: 0,0:45:58.78,0:46:01.82,Default,,0,0,0,,Halt, I beseech of you!
-Dialogue: 0,0:46:02.36,0:46:04.45,Default,,0,0,0,,The cauldron of hell hath been opened.
-Dialogue: 0,0:46:04.78,0:46:06.83,Default,,0,0,0,,This is the beginning of the demons' night!
-Dialogue: 0,0:46:07.20,0:46:09.12,Default,,0,0,0,,It's finally our turn to sing and stuff!
-Dialogue: 0,0:46:10.04,0:46:12.17,Default,,0,0,0,,Gaarmageddon's show-garu!
-Dialogue: 0,0:46:29.18,0:46:33.81,Default,,0,0,0,,Then how about all 6 of us sing?
-Dialogue: 0,0:46:33.81,0:46:38.98,Default,,0,0,0,,Team Sekimageddon-garu!
-Dialogue: 0,0:46:40.49,0:46:44.95,Default,,0,0,0,,The unspoken words hiding inside your heart,
-Dialogue: 0,0:46:44.95,0:46:50.83,Default,,0,0,0,,Set them free and raise your voice
-Dialogue: 0,0:46:51.58,0:46:56.88,Default,,0,0,0,,Be the brightest version of yourself
-Dialogue: 0,0:46:56.88,0:47:01.38,Default,,0,0,0,,and take hold of all the things you love
-Dialogue: 0,0:47:01.38,0:47:05.18,Default,,0,0,0,,Winners and losers don't matter
-Dialogue: 0,0:47:05.18,0:47:07.26,Default,,0,0,0,,Come let's join hands
-Dialogue: 0,0:47:07.26,0:47:13.14,Default,,0,0,0,,Hey jimp! The part's just getting started!
-Dialogue: 0,0:47:13.14,0:47:18.32,Default,,0,0,0,,Hey! Let's go, it's party time!
-Dialogue: 0,0:47:18.32,0:47:24.70,Default,,0,0,0,,Let's dance with 1,2,3! Into the future! We're together forever
-Dialogue: 0,0:47:24.78,0:47:30.16,Default,,0,0,0,,We're never ever going to give up, we swear on that
-Dialogue: 0,0:47:24.86,0:47:27.91,Default,,0,0,0,,LEt's sing "I'll do my best"! Tomorrow will be even brighter
-Dialogue: 0,0:47:30.33,0:47:32.54,Default,,0,0,0,,Cyalume Change!
-Dialogue: 0,0:47:32.54,0:47:38.71,Default,,0,0,0,,Muster up your courage and search for joy
-Dialogue: 0,0:47:38.71,0:47:44.17,Default,,0,0,0,,and take over PriPara!
-Dialogue: 0,0:47:44.17,0:47:46.89,Default,,0,0,0,,LEt's sing "I'll do my best"! Tomorrow will be even brighter
-Dialogue: 0,0:48:06.11,0:48:08.57,Default,,0,0,0,,Muster up your courage and search for joy
-Dialogue: 0,0:48:09.07,0:48:11.12,Default,,0,0,0,,and take over PriPara!
-Dialogue: 0,0:48:17.46,0:48:18.88,Default,,0,0,0,,They've also produced radiance!
-Dialogue: 0,0:48:19.58,0:48:21.59,Default,,0,0,0,,We're so close to a miracle-pri!
-Dialogue: 0,0:48:23.21,0:48:24.34,Default,,0,0,0,,The light faded...
-Dialogue: 0,0:48:25.09,0:48:25.80,Default,,0,0,0,,The wormhole in the sky has disappeared.
-Dialogue: 0,0:48:26.34,0:48:30.51,Default,,0,0,0,,I suppose it's no use.
-Dialogue: 0,0:48:31.10,0:48:32.89,Default,,0,0,0,,But why...
-Dialogue: 0,0:48:33.22,0:48:34.47,Default,,0,0,0,,It seems we'll need more power if we're going to move this space...
-Dialogue: 0,0:48:34.47,0:48:36.89,Default,,0,0,0,,But can we even produce enough...
-Dialogue: 0,0:48:37.27,0:48:39.73,Default,,0,0,0,,What's with all this?!
-Dialogue: 0,0:48:39.73,0:48:43.11,Default,,0,0,0,,We've been performing day in and day out the whole time!
-Dialogue: 0,0:48:43.61,0:48:45.86,Default,,0,0,0,,How many times is it gonna take before it's enough?!
-Dialogue: 0,0:48:46.61,0:48:49.95,Default,,0,0,0,,After three days, it's gonna take 100 million years worth of power isn't it?!
-Dialogue: 0,0:48:51.32,0:48:52.08,Default,,0,0,0,,Can we even really bring about a miracle?
-Dialogue: 0,0:48:53.33,0:48:54.37,Default,,0,0,0,,Will we ever be able to go back to normal?
-Dialogue: 0,0:48:54.74,0:48:57.21,Default,,0,0,0,,It'll be okay!
-Dialogue: 0,0:48:57.66,0:48:58.16,Default,,0,0,0,,We can make a miracle happen!
-Dialogue: 0,0:48:58.71,0:49:01.25,Default,,0,0,0,,I know we can! No matter how much work it takes!
-Dialogue: 0,0:49:01.96,0:49:04.21,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:49:05.09,0:49:05.88,Default,,0,0,0,,I'm with Laala! We can do this!
-Dialogue: 0,0:49:06.26,0:49:09.63,Default,,0,0,0,,I mean, we almost did it!
-Dialogue: 0,0:49:09.63,0:49:11.39,Default,,0,0,0,,Akari?
-Dialogue: 0,0:49:12.18,0:49:14.89,Default,,0,0,0,,We were all just strangers who'd never met until yesterday.
-Dialogue: 0,0:49:15.56,0:49:19.64,Default,,0,0,0,,But this is how we met!
-Dialogue: 0,0:49:20.06,0:49:23.19,Default,,0,0,0,,And we've been doing so many wonderful shows!
-Dialogue: 0,0:49:23.77,0:49:24.98,Default,,0,0,0,,You know, when I first met you, I was really surprised!
-Dialogue: 0,0:49:24.98,0:49:26.82,Default,,0,0,0,,But when we ended up performing together, I had so much fun!
-Dialogue: 0,0:49:27.36,0:49:28.36,Default,,0,0,0,,Same here!
-Dialogue: 0,0:49:28.61,0:49:29.82,Default,,0,0,0,,It really felt like the start of something new!
-Dialogue: 0,0:49:31.07,0:49:32.07,Default,,0,0,0,,Laala...
-Dialogue: 0,0:49:32.87,0:49:33.87,Default,,0,0,0,,Akari!
-Dialogue: 0,0:49:35.45,0:49:36.75,Default,,0,0,0,,Akari!
-Dialogue: 0,0:49:42.04,0:49:44.42,Default,,0,0,0,,Laala!
-Dialogue: 0,0:49:53.51,0:49:55.26,Default,,0,0,0,,Let's sing together!
-Dialogue: 0,0:49:58.14,0:50:00.23,Default,,0,0,0,,Please scan the appropriate amount of My Tickets for your coord.
-Dialogue: 0,0:50:00.60,0:50:02.94,Default,,0,0,0,,Coord Change Start!
-Dialogue: 0,0:50:04.73,0:50:06.15,Default,,0,0,0,,The pink checks and layers are simply stunning!
-Dialogue: 0,0:50:09.28,0:50:11.82,Default,,0,0,0,,Just like the Starlight Academy Marching Coord
-Dialogue: 0,0:50:12.53,0:50:14.74,Default,,0,0,0,,Pink Parade Coord
-Dialogue: 0,0:50:15.49,0:50:17.99,Default,,0,0,0,,Even in another world, the feeling stays the same!
-Dialogue: 0,0:50:38.35,0:50:42.77,Default,,0,0,0,,The cute ribbons tie your memories together!
-Dialogue: 0,0:50:43.98,0:50:48.27,Default,,0,0,0,,Twinkle Ribbon Cyalume Coord!
-Dialogue: 0,0:50:49.57,0:50:53.86,Default,,0,0,0,,Stop trying to be like all those other girls you see
-Dialogue: 0,0:50:55.12,0:50:59.33,Default,,0,0,0,,You're better off just being yourself
-Dialogue: 0,0:51:00.33,0:51:05.21,Default,,0,0,0,,If you feel the spark in your heart,
-Dialogue: 0,0:51:05.92,0:51:08.55,Default,,0,0,0,,come search for your ideals
-Dialogue: 0,0:51:08.55,0:51:14.05,Default,,0,0,0,,Every single memory we've made,
-Dialogue: 0,0:51:16.39,0:51:21.64,Default,,0,0,0,,we'll snap'em in half
-Dialogue: 0,0:51:21.89,0:51:27.15,Default,,0,0,0,,and complete the set with our friends!
-Dialogue: 0,0:51:27.65,0:51:30.90,Default,,0,0,0,,Make it! Once you get started, you're invicible!
-Dialogue: 0,0:51:33.32,0:51:36.61,Default,,0,0,0,,Make up! Headed towards a radiant future
-Dialogue: 0,0:51:39.49,0:51:40.87,Default,,0,0,0,,Making Drama, switch on!
-Dialogue: 0,0:51:43.66,0:51:45.12,Default,,0,0,0,,That dream's not just a dream anymore
-Dialogue: 0,0:51:48.46,0:51:49.79,Default,,0,0,0,,You can dance!
-Dialogue: 0,0:51:50.04,0:51:55.18,Default,,0,0,0,,Anyone can be anything!
-Dialogue: 0,0:51:55.30,0:52:00.81,Default,,0,0,0,,You can walk the runway!
-Dialogue: 0,0:52:01.01,0:52:06.23,Default,,0,0,0,,Sing a song!
-Dialogue: 0,0:52:06.48,0:52:11.78,Default,,0,0,0,,Let's make a miracle!
-Dialogue: 0,0:52:12.15,0:52:17.70,Default,,0,0,0,,Cyalume Change!
-Dialogue: 0,0:52:17.70,0:52:21.28,Default,,0,0,0,,MAke it! Giving up on that dream is just not in the cards!
-Dialogue: 0,0:52:21.28,0:52:23.95,Default,,0,0,0,,Make up!
-Dialogue: 0,0:52:34.67,0:52:36.67,Default,,0,0,0,,Make it! Once you get started, you're invicible!
-Dialogue: 0,0:52:37.59,0:52:38.47,Default,,0,0,0,,Make up! Headed towards a radiant future
-Dialogue: 0,0:52:39.18,0:52:42.43,Default,,0,0,0,,Your dream's not just a dream anymore
-Dialogue: 0,0:52:43.01,0:52:45.64,Default,,0,0,0,,Anyone can be anything!
-Dialogue: 0,0:52:46.31,0:52:48.35,Default,,0,0,0,,PriPara PriPara-dise
-Dialogue: 0,0:52:48.85,0:52:51.69,Default,,0,0,0,,Laala! Akari!
-Dialogue: 0,0:52:52.02,0:52:53.36,Default,,0,0,0,,You guys!
-Dialogue: 0,0:52:54.48,0:52:56.53,Default,,0,0,0,,Something about the show you just did really lifted our spirits!
-Dialogue: 0,0:52:56.53,0:53:00.16,Default,,0,0,0,,It makes me believe we can pull off a miracle.
-Dialogue: 0,0:53:00.16,0:53:02.87,Default,,0,0,0,,Indeed! You're laser focused.
-Dialogue: 0,0:53:03.54,0:53:05.91,Default,,0,0,0,,We'll have to give gathering the idols radiance another go.
-Dialogue: 0,0:53:06.37,0:53:09.83,Default,,0,0,0,,Laser focused?
-Dialogue: 0,0:53:10.17,0:53:11.75,Default,,0,0,0,,Actually, I've been thinking...
-Dialogue: 0,0:53:12.46,0:53:15.92,Default,,0,0,0,,we've been doing all these thrown together performances, but what if instead,
-Dialogue: 0,0:53:16.34,0:53:18.97,Default,,0,0,0,,we prepared for one big, best of the best performance intsead?
-Dialogue: 0,0:53:20.26,0:53:23.68,Default,,0,0,0,,All of together for the best performance ever?
-Dialogue: 0,0:53:24.22,0:53:26.43,Default,,0,0,0,,So you're saying we should all work together for one big show-pri?
-Dialogue: 0,0:53:27.10,0:53:30.85,Default,,0,0,0,,That sounds so fun-garu!
-Dialogue: 0,0:53:31.77,0:53:33.82,Default,,0,0,0,,We could have the people who perform on stage and the people who support from the audience.
-Dialogue: 0,0:53:33.90,0:53:34.86,Default,,0,0,0,,We'd be bringing all our radiance together as one.
-Dialogue: 0,0:53:34.86,0:53:35.53,Default,,0,0,0,,That certainly sounds like an idea worth trying.
-Dialogue: 0,0:53:37.15,0:53:39.03,Default,,0,0,0,,In that case, we'll hold the show after three days.
-Dialogue: 0,0:53:39.53,0:53:40.15,Default,,0,0,0,,Otherwise that's our last chance for another 100 million years.
-Dialogue: 0,0:53:40.53,0:53:42.66,Default,,0,0,0,,But who should we choose?
-Dialogue: 0,0:53:43.45,0:53:44.83,Default,,0,0,0,,Obviously it's--
-Dialogue: 0,0:53:44.83,0:53:47.50,Default,,0,0,0,,me!
-Dialogue: 0,0:53:47.75,0:53:50.00,Default,,0,0,0,,Wouldn't Laala and Akari be good choices?
-Dialogue: 0,0:53:51.37,0:53:52.46,Default,,0,0,0,,You're right.
-Dialogue: 0,0:53:52.96,0:53:57.55,Default,,0,0,0,,They were the first of us to meet.
-Dialogue: 0,0:53:58.13,0:54:01.80,Default,,0,0,0,,Okay!
-Dialogue: 0,0:54:02.80,0:54:05.14,Default,,0,0,0,,Miss Akari and Miss Laala will be the centers
-Dialogue: 0,0:54:05.47,0:54:07.18,Default,,0,0,0,,in a brand new idol group!
-Dialogue: 0,0:54:07.18,0:54:08.27,Default,,0,0,0,,Then it's gotta be
-Dialogue: 0,0:54:08.43,0:54:10.39,Default,,0,0,0,,the ones who had a smash hit concert! The super idols, Luminas!
-Dialogue: 0,0:54:10.39,0:54:13.65,Default,,0,0,0,,And the team who emerged victorious at the Divine Idol Grand Prix: SoLaMi Smile!
-Dialogue: 0,0:54:14.77,0:54:16.94,Default,,0,0,0,,The new team will be made of these six members!
-Dialogue: 0,0:54:17.57,0:54:18.57,Default,,0,0,0,,They're SoLaMi Luminas!
-Dialogue: 0,0:54:18.57,0:54:21.65,Default,,0,0,0,,Garu!
-Dialogue: 0,0:54:22.20,0:54:25.49,Default,,0,0,0,,Tch. Fine, whatever.
-Dialogue: 0,0:54:26.12,0:54:28.29,Default,,0,0,0,,If it's support we must play, then I suppose we'll just have to do it.
-Dialogue: 0,0:54:29.37,0:54:33.37,Default,,0,0,0,,So then what are the supporters supposed to do-garu?
-Dialogue: 0,0:54:33.37,0:54:36.17,Default,,0,0,0,,Hm...
-Dialogue: 0,0:54:36.17,0:54:37.80,Default,,0,0,0,,We could create a new ultimate special appeal...
-Dialogue: 0,0:54:38.00,0:54:39.84,Default,,0,0,0,,And then we can create a new Making Drama!
-Dialogue: 0,0:54:41.17,0:54:42.30,Default,,0,0,0,,Why don't we work on it together?
-Dialogue: 0,0:54:42.72,0:54:45.72,Default,,0,0,0,,A Making Drama and Special Appeal put together... I like the sound of that!
-Dialogue: 0,0:54:46.18,0:54:48.47,Default,,0,0,0,,It's a Special Making Drama Appeal!
-Dialogue: 0,0:54:48.47,0:54:50.64,Default,,0,0,0,,Aha. That's a bit long.
-Dialogue: 0,0:54:53.23,0:54:54.27,Default,,0,0,0,,How about Making Appeal!
-Dialogue: 0,0:54:54.98,0:54:58.82,Default,,0,0,0,,That sounds great!
-Dialogue: 0,0:54:59.57,0:55:03.20,Default,,0,0,0,,If Kiriya was here, she'd say "isn't this chill?"
-Dialogue: 0,0:55:03.45,0:55:04.45,Default,,0,0,0,,If Ms. Ajimi was here, she'd say
-Dialogue: 0,0:55:04.66,0:55:07.78,Default,,0,0,0,,"
-Dialogue: 0,0:55:08.20,0:55:10.20,Default,,0,0,0,,That settles it.
-Dialogue: 0,0:55:10.79,0:55:13.25,Default,,0,0,0,,The six members of SoLaMi Luminas will prepare to take the stage.
-Dialogue: 0,0:55:13.96,0:55:15.00,Default,,0,0,0,,Everyone else should put forth maximum effort to support them.
-Dialogue: 0,0:55:15.54,0:55:17.17,Default,,0,0,0,,Okay!
-Dialogue: 0,0:55:17.71,0:55:19.42,Default,,0,0,0,,The three of us will work on putting together the best song for the show.
-Dialogue: 0,0:55:19.42,0:55:20.59,Default,,0,0,0,,Yeah! Let's get amped!
-Dialogue: 0,0:55:21.51,0:55:23.68,Default,,0,0,0,,We'll be doing everything we can to support you.
-Dialogue: 0,0:55:24.43,0:55:25.39,Default,,0,0,0,,Stylish!
-Dialogue: 0,0:55:25.39,0:55:26.39,Default,,0,0,0,,Amazing!
-Dialogue: 0,0:55:26.93,0:55:30.14,Default,,0,0,0,,Collaboration!
-Dialogue: 0,0:55:30.14,0:55:32.18,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:55:40.02,0:55:42.28,Default,,0,0,0,,Isn't there one more thing you need?
-Dialogue: 0,0:55:42.78,0:55:45.07,Default,,0,0,0,,Tsubasa!
-Dialogue: 0,0:55:45.95,0:55:46.95,Default,,0,0,0,,Cosmo!
-Dialogue: 0,0:55:46.95,0:55:47.53,Default,,0,0,0,,The best performance deserves the best outfits, right?
-Dialogue: 0,0:55:47.95,0:55:48.95,Default,,0,0,0,,We've got this cosmic covered.
-Dialogue: 0,0:55:49.41,0:55:50.62,Default,,0,0,0,,Laala and her friends should be here any minute now!
-Dialogue: 0,0:55:51.20,0:55:53.00,Default,,0,0,0,,I'm looking forward to practicing with them!
-Dialogue: 0,0:55:53.00,0:55:54.46,Default,,0,0,0,,Akari!
-Dialogue: 0,0:55:55.29,0:55:57.71,Default,,0,0,0,,Oh!
-Dialogue: 0,0:55:58.08,0:55:59.46,Default,,0,0,0,,Laala!
-Dialogue: 0,0:56:00.09,0:56:01.84,Default,,0,0,0,,Nice to see you!
-Dialogue: 0,0:56:02.13,0:56:03.13,Default,,0,0,0,,Oh, Sophy?
-Dialogue: 0,0:56:03.51,0:56:05.43,Default,,0,0,0,,I'm down here!
-Dialogue: 0,0:56:05.80,0:56:06.88,Default,,0,0,0,,How's it going? Capisce!
-Dialogue: 0,0:56:08.39,0:56:09.89,Default,,0,0,0,,Huh? That's you, Laala?!
-Dialogue: 0,0:56:10.51,0:56:11.56,Default,,0,0,0,,So you really are a primary schooler...
-Dialogue: 0,0:56:11.56,0:56:12.81,Default,,0,0,0,,
-Dialogue: 0,0:56:13.18,0:56:14.85,Default,,0,0,0,,Then does that mean...
-Dialogue: 0,0:56:15.35,0:56:16.19,Default,,0,0,0,,You're Mirei?
-Dialogue: 0,0:56:16.31,0:56:19.73,Default,,0,0,0,,Is it really that surprisng...
-Dialogue: 0,0:56:20.19,0:56:21.82,Default,,0,0,0,,pri?
-Dialogue: 0,0:56:24.82,0:56:27.78,Default,,0,0,0,,I can't believe it!
-Dialogue: 0,0:56:31.53,0:56:33.58,Default,,0,0,0,,Thanks for having us today.
-Dialogue: 0,0:56:33.79,0:56:36.00,Default,,0,0,0,,Of course!
-Dialogue: 0,0:56:36.00,0:56:38.67,Default,,0,0,0,,You good with doing our regular old training?
-Dialogue: 0,0:56:38.88,0:56:40.96,Default,,0,0,0,,Yeah, that's totally okay!
-Dialogue: 0,0:56:42.88,0:56:44.80,Default,,0,0,0,,Ai-katsu, ai-katsu, ai-katsu
-Dialogue: 0,0:57:00.19,0:57:02.11,Default,,0,0,0,,Their stamina is unbeatable.
-Dialogue: 0,0:57:02.40,0:57:04.53,Default,,0,0,0,,We're going to have to work overtime if we want to catch up.
-Dialogue: 0,0:57:08.20,0:57:09.70,Default,,0,0,0,,We're not gonna fall behind!
-Dialogue: 0,0:57:10.32,0:57:15.24,Default,,0,0,0,,Pri! Para! Pri! Para!
-Dialogue: 0,0:57:15.37,0:57:18.75,Default,,0,0,0,,Wait for me!
-Dialogue: 0,0:57:19.37,0:57:21.67,Default,,0,0,0,,Ai-katsu!
-Dialogue: 0,0:57:22.00,0:57:24.38,Default,,0,0,0,,Ai-katsu!
-Dialogue: 0,0:57:29.55,0:57:30.97,Default,,0,0,0,,Rock climbing...
-Dialogue: 0,0:57:30.97,0:57:33.43,Default,,0,0,0,,If this is what the Starlight Academy students are doing,
-Dialogue: 0,0:57:36.85,0:57:39.35,Default,,0,0,0,,then it's no wonder their idol abilities are on another level.
-Dialogue: 0,0:57:39.77,0:57:40.56,Default,,0,0,0,,Just a little longer! Hang in there!
-Dialogue: 0,0:57:40.56,0:57:42.06,Default,,0,0,0,,C-Capisce!
-Dialogue: 0,0:57:43.73,0:57:44.27,Default,,0,0,0,,Pshuu...
-Dialogue: 0,0:57:44.27,0:57:44.82,Default,,0,0,0,,Oh no! Sophy got blown away!
-Dialogue: 0,0:57:44.86,0:57:45.94,Default,,0,0,0,,The center of the universe...
-Dialogue: 0,0:57:45.94,0:57:46.53,Default,,0,0,0,,Kokone!
-Dialogue: 0,0:57:47.24,0:57:50.36,Default,,0,0,0,,I think ya mean me!
-Dialogue: 0,0:57:50.91,0:57:53.20,Default,,0,0,0,,No, me!
-Dialogue: 0,0:57:53.83,0:57:57.08,Default,,0,0,0,,No, me!
-Dialogue: 0,0:57:57.41,0:58:00.00,Default,,0,0,0,,No, me!
-Dialogue: 0,0:58:00.71,0:58:02.42,Default,,0,0,0,,No, me!
-Dialogue: 0,0:58:03.00,0:58:04.75,Default,,0,0,0,,They just can't get their act together.
-Dialogue: 0,0:58:05.42,0:58:06.42,Default,,0,0,0,,But despite that, we've been making good prgoress.
-Dialogue: 0,0:58:06.67,0:58:09.26,Default,,0,0,0,,Yeah! This is looking to be one awesome Making Appeal!
-Dialogue: 0,0:58:09.26,0:58:10.93,Default,,0,0,0,,It's chock full of idols' radiance!
-Dialogue: 0,0:58:11.51,0:58:14.10,Default,,0,0,0,,Are we sure we can pull this off?
-Dialogue: 0,0:58:14.51,0:58:16.56,Default,,0,0,0,,We only have one chance...
-Dialogue: 0,0:58:17.31,0:58:19.77,Default,,0,0,0,,That's quite true.
-Dialogue: 0,0:58:23.90,0:58:25.98,Default,,0,0,0,,If it doesn't end up being the best concert anyone's ever seen,
-Dialogue: 0,0:58:26.19,0:58:28.44,Default,,0,0,0,,it'll be a big failure.
-Dialogue: 0,0:58:29.15,0:58:32.66,Default,,0,0,0,,Hearing that gives me anxiety!
-Dialogue: 0,0:58:32.66,0:58:33.78,Default,,0,0,0,,It still feels like something's missing...
-Dialogue: 0,0:58:34.24,0:58:36.33,Default,,0,0,0,,Yeah, but thwat...
-Dialogue: 0,0:58:36.33,0:58:37.08,Default,,0,0,0,,Headmistress, we have a problem!
-Dialogue: 0,0:58:37.37,0:58:40.25,Default,,0,0,0,,Whatever is the matter, Johnny?
-Dialogue: 0,0:58:41.25,0:58:41.87,Default,,0,0,0,,When we were meeting about the new song, I heard from MegaBro —
-Dialogue: 0,0:58:42.33,0:58:44.04,Default,,0,0,0,,"MegaBro"?
-Dialogue: 0,0:58:44.38,0:58:45.17,Default,,0,0,0,,Oh, you mean Meganii?
-Dialogue: 0,0:58:45.17,0:58:46.04,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:58:47.84,0:58:51.63,Default,,0,0,0,,I found out something that was totally shocking!
-Dialogue: 0,0:58:51.63,0:58:53.63,Default,,0,0,0,,No way!
-Dialogue: 0,0:58:53.63,0:58:56.14,Default,,0,0,0,,The next performance will be the last one?!
-Dialogue: 0,0:58:58.56,0:59:02.89,Default,,0,0,0,,Darn straight.
-Dialogue: 0,0:59:03.39,0:59:04.10,Default,,0,0,0,,Er, yes.
-Dialogue: 0,0:59:04.56,0:59:07.77,Default,,0,0,0,,The power of our idols will return things to normal,
-Dialogue: 0,0:59:08.23,0:59:11.61,Default,,0,0,0,,and the two worlds will separate.
-Dialogue: 0,0:59:12.15,0:59:13.11,Default,,0,0,0,,We'll be cut off from each other forever.
-Dialogue: 0,0:59:13.28,0:59:14.24,Default,,0,0,0,,So after that, we won't be able to meet up any more?
-Dialogue: 0,0:59:14.66,0:59:17.16,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:59:17.16,0:59:20.08,Default,,0,0,0,,To make matters worse, all of our memories of this will disappear too.
-Dialogue: 0,0:59:20.54,0:59:22.16,Default,,0,0,0,,I see. So we'll forget all about this wonderful meeting...
-Dialogue: 0,0:59:23.12,0:59:24.71,Default,,0,0,0,,How unfortunate...
-Dialogue: 0,0:59:25.29,0:59:25.71,Default,,0,0,0,,Yes...
-Dialogue: 0,0:59:26.42,0:59:29.46,Default,,0,0,0,,I should tell Oozora and the others,
-Dialogue: 0,0:59:30.09,0:59:32.09,Default,,0,0,0,,I just hope it doesn't make them hesitant to go on...
-Dialogue: 0,0:59:33.67,0:59:35.59,Default,,0,0,0,,Well, about that...
-Dialogue: 0,0:59:35.84,0:59:37.64,Default,,0,0,0,,You've already told everyone?!
-Dialogue: 0,0:59:38.72,0:59:42.06,Default,,0,0,0,,Indeed.
-Dialogue: 0,0:59:42.60,0:59:45.56,Default,,0,0,0,,I had the opportunity to gether everyone earlier.
-Dialogue: 0,0:59:46.31,0:59:47.98,Default,,0,0,0,,So how did they take the news?
-Dialogue: 0,0:59:48.61,0:59:52.32,Default,,0,0,0,,This is their final performance.
-Dialogue: 0,0:59:52.78,0:59:55.82,Default,,0,0,0,,They're not going to be able to do things together anymore.
-Dialogue: 0,0:59:56.16,0:59:57.62,Default,,0,0,0,,Everyone was shocked at first, of course.
-Dialogue: 0,0:59:57.62,0:59:59.83,Default,,0,0,0,,But it wasn't long before they shifted and said,
-Dialogue: 0,1:00:00.62,1:00:01.91,Default,,0,0,0,,Who decided that?
-Dialogue: 0,1:00:02.45,1:00:03.66,Default,,0,0,0,,If it'll take a miracle to turn our worlds back, then we'll just make another miracle so we can meet again!
-Dialogue: 0,1:00:09.25,1:00:11.46,Default,,0,0,0,,We've made miracles before and we can do it again!
-Dialogue: 0,1:00:12.38,1:00:14.72,Default,,0,0,0,,"We'll give it our everything.
-Dialogue: 0,1:00:16.13,1:00:18.05,Default,,0,0,0,,"
-Dialogue: 0,1:00:18.59,1:00:19.68,Default,,0,0,0,,We have to place our faith in our radiance.
-Dialogue: 0,1:00:20.10,1:00:21.60,Default,,0,0,0,,After all,
-Dialogue: 0,1:00:22.01,1:00:23.56,Default,,0,0,0,,we're idols!
-Dialogue: 0,1:00:23.93,1:00:25.73,Default,,0,0,0,,We should place our hopes in them, too.
-Dialogue: 0,1:00:26.14,1:00:28.31,Default,,0,0,0,,I know those girls can bring about a miracle.
-Dialogue: 0,1:00:29.48,1:00:32.11,Default,,0,0,0,,Ai-katsu! Ai-katsu!
-Dialogue: 0,1:00:32.44,1:00:35.36,Default,,0,0,0,,So this is PriPara!
-Dialogue: 0,1:00:35.36,1:00:37.36,Default,,0,0,0,,Everything here is so cool!
-Dialogue: 0,1:00:37.78,1:00:39.78,Default,,0,0,0,,You could come here every day!
-Dialogue: 0,1:00:40.20,1:00:42.16,Default,,0,0,0,,And look at all those animals!
-Dialogue: 0,1:00:44.37,1:00:46.33,Default,,0,0,0,,Pri-Para! Pri-Para!
-Dialogue: 0,1:00:46.91,1:00:48.33,Default,,0,0,0,,Oh, Laala. You're as lively as ever!
-Dialogue: 0,1:00:48.58,1:00:50.58,Default,,0,0,0,,Something about being in idol in PriPara
-Dialogue: 0,1:00:51.96,1:00:53.42,Default,,0,0,0,,increases my power by 100 times!
-Dialogue: 0,1:00:56.47,1:01:00.89,Default,,0,0,0,,Your idol aura's increased 100 times over, too!
-Dialogue: 0,1:01:01.18,1:01:02.43,Default,,0,0,0,,That's the power of PriPara-pri!
-Dialogue: 0,1:01:03.47,1:01:05.18,Default,,0,0,0,,You're far too slow, my little cagebirds!
-Dialogue: 0,1:01:05.73,1:01:07.44,Default,,0,0,0,,Holy moly!
-Dialogue: 0,1:01:08.48,1:01:10.02,Default,,0,0,0,,And that's the power of pickled plums-pri.
-Dialogue: 0,1:01:10.31,1:01:12.32,Default,,0,0,0,,Hologrammation!
-Dialogue: 0,1:01:12.94,1:01:14.57,Default,,0,0,0,,We used the power of hologrammation to construct a 3000 meter rock wall.
-Dialogue: 0,1:01:16.28,1:01:20.24,Default,,0,0,0,,What?!
-Dialogue: 0,1:01:20.74,1:01:23.33,Default,,0,0,0,,Ai-katsu!
+Dialogue: 0,0:42:53.38,0:42:57.47,Default,,0,0,0,,The captivating demon and the smiling angel
+Dialogue: 0,0:42:54.09,0:42:57.30,Default,,0,0,0,,Cyalume change!
+Dialogue: 0,0:42:57.60,0:43:02.77,Default,,0,0,0,,Remember we two maidens
+Dialogue: 0,0:43:03.23,0:43:04.81,Default,,0,0,0,,Reversible-Ring
+Dialogue: 0,0:43:04.81,0:43:09.94,Default,,0,0,0,,A moebius strip wrapped around your finger
+Dialogue: 0,0:43:09.94,0:43:11.57,Default,,0,0,0,,Fear not
+Dialogue: 0,0:43:11.57,0:43:14.20,Default,,0,0,0,,and yield yourself to us
+Dialogue: 0,0:43:14.20,0:43:17.62,Default,,0,0,0,,The Devil ＆ Angel;
+Dialogue: 0,0:43:17.62,0:43:24.50,Default,,0,0,0,,Worship we two maidens
+Dialogue: 0,0:43:27.83,0:43:29.89,Default,,0,0,0,,An idol's radiance;
+Dialogue: 0,0:43:29.89,0:43:32.38,Default,,0,0,0,,for that, you need look no further than us.
+Dialogue: 0,0:45:47.40,0:45:49.44,Default,,0,0,0,,It's about time we go on.
+Dialogue: 0,0:45:49.44,0:45:52.20,Default,,0,0,0,,Next up: the Kansai team!
+Dialogue: 0,0:45:52.20,0:45:53.89,Default,,0,0,0,,Let's give'em a good show!
+Dialogue: 0,0:45:53.89,0:45:55.73,Default,,0,0,0,,Halt, I beseech of you!
+Dialogue: 0,0:45:56.27,0:45:58.91,Default,,0,0,0,,The cauldron of hell hath been opened.
+Dialogue: 0,0:45:58.91,0:46:02.24,Default,,0,0,0,,This is the beginning of the demons' night! {I dunno how to handle "demons' night"}
+Dialogue: 0,0:46:02.24,0:46:04.84,Default,,0,0,0,,It's finally our turn to sing and stuff!
+Dialogue: 0,0:46:04.84,0:46:07.20,Default,,0,0,0,,Gaarmageddon's show-garu!
+Dialogue: 0,0:46:07.20,0:46:09.75,Default,,0,0,0,,Then how about all six of us sing?
+Dialogue: 0,0:46:09.75,0:46:12.57,Default,,0,0,0,,Team Karmageddon{Sekimageddon}-garu!
+Dialogue: 0,0:48:05.86,0:48:08.95,Default,,0,0,0,,They've also produced radiance!
+Dialogue: 0,0:48:08.95,0:48:11.87,Default,,0,0,0,,We're so close to a miracle-pri!
+Dialogue: 0,0:48:17.34,0:48:19.38,Default,,0,0,0,,The light faded...
+Dialogue: 0,0:48:19.65,0:48:22.06,Default,,0,0,0,,The wormhole in the sky has disappeared.
+Dialogue: 0,0:48:23.23,0:48:24.88,Default,,0,0,0,,I suppose it's no use.
+Dialogue: 0,0:48:24.88,0:48:26.39,Default,,0,0,0,,But why...
+Dialogue: 0,0:48:26.39,0:48:30.89,Default,,0,0,0,,It seems we'll need more power if we're going to move this space...
+Dialogue: 0,0:48:31.15,0:48:33.26,Default,,0,0,0,,But can we even produce enough...
+Dialogue: 0,0:48:33.26,0:48:34.58,Default,,0,0,0,,What's with all this?!
+Dialogue: 0,0:48:34.58,0:48:37.32,Default,,0,0,0,,We've been performing day in and day out the whole time!
+Dialogue: 0,0:48:37.32,0:48:39.82,Default,,0,0,0,,How many times is it gonna take before it's enough?!
+Dialogue: 0,0:48:39.82,0:48:43.40,Default,,0,0,0,,After three days, it's gonna take 100 million years worth of power isn't it?!
+Dialogue: 0,0:48:43.65,0:48:46.68,Default,,0,0,0,,Can we even really bring about a miracle?
+Dialogue: 0,0:48:46.68,0:48:50.45,Default,,0,0,0,,Will we ever be able to go back to normal?
+Dialogue: 0,0:48:51.29,0:48:52.99,Default,,0,0,0,,It'll be okay!
+Dialogue: 0,0:48:52.99,0:48:54.62,Default,,0,0,0,,We can make a miracle happen!
+Dialogue: 0,0:48:54.62,0:48:57.54,Default,,0,0,0,,I know we can! No matter how much work it takes!
+Dialogue: 0,0:48:57.54,0:48:58.59,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:48:58.59,0:49:01.84,Default,,0,0,0,,I'm with Laala! We can do this!
+Dialogue: 0,0:49:01.84,0:49:04.67,Default,,0,0,0,,I mean, we almost did it!
+Dialogue: 0,0:49:04.97,0:49:06.14,Default,,0,0,0,,Akari?
+Dialogue: 0,0:49:06.14,0:49:09.51,Default,,0,0,0,,We were all just strangers who'd never met until yesterday.
+Dialogue: 0,0:49:09.51,0:49:11.68,Default,,0,0,0,,But this is how we met!
+Dialogue: 0,0:49:12.06,0:49:15.44,Default,,0,0,0,,And we've been doing so many wonderful shows!
+Dialogue: 0,0:49:15.44,0:49:20.07,Default,,0,0,0,,You know, when I first met you, I was really surprised!
+Dialogue: 0,0:49:20.07,0:49:23.65,Default,,0,0,0,,And when we ended up performing \Ntogether, I had so much fun!
+Dialogue: 0,0:49:23.65,0:49:25.01,Default,,0,0,0,,Same here!
+Dialogue: 0,0:49:25.01,0:49:27.19,Default,,0,0,0,,It really felt like the start of something new!
+Dialogue: 0,0:49:27.19,0:49:28.72,Default,,0,0,0,,Laala...
+Dialogue: 0,0:49:28.72,0:49:30.45,Default,,0,0,0,,Akari!
+Dialogue: 0,0:49:30.95,0:49:32.41,Default,,0,0,0,,Akari!
+Dialogue: 0,0:49:32.75,0:49:34.41,Default,,0,0,0,,Laala!
+Dialogue: 0,0:49:35.33,0:49:37.50,Default,,0,0,0,,Let's sing together!
+Dialogue: 0,0:49:41.92,0:49:44.13,Default,,0,0,0,,Please scan the appropriate amount\N of My Tickets for your coord.
+Dialogue: 0,0:49:53.39,0:49:55.66,Default,,0,0,0,,Coord Change Start!
+Dialogue: 0,0:49:58.02,0:50:00.35,Default,,0,0,0,,The pink checks and layers are simply stunning!
+Dialogue: 0,0:50:00.48,0:50:03.31,Default,,0,0,0,,Just like the Starlight Academy Marching Coord
+Dialogue: 0,0:50:04.61,0:50:05.94,Default,,0,0,0,,Pink Parade Coord
+Dialogue: 0,0:50:09.16,0:50:12.41,Default,,0,0,0,,Even in another world, the feeling never changes!
+Dialogue: 0,0:50:12.41,0:50:15.62,Default,,0,0,0,,The cute ribbons tie your memories together!
+Dialogue: 0,0:50:15.62,0:50:18.39,Default,,0,0,0,,Twinkle Ribbon Cyalume Coord!
+Dialogue: 0,0:50:38.35,0:50:42.77,Default,,0,0,0,,Stop trying to be like all those other girls you see
+Dialogue: 0,0:50:43.98,0:50:48.27,Default,,0,0,0,,You're better off just being yourself
+Dialogue: 0,0:50:49.57,0:50:53.86,Default,,0,0,0,,If you feel the spark in your heart,
+Dialogue: 0,0:50:55.12,0:50:59.33,Default,,0,0,0,,come search for your ideals
+Dialogue: 0,0:51:00.33,0:51:05.21,Default,,0,0,0,,Every single memory we've made,
+Dialogue: 0,0:51:05.92,0:51:08.55,Default,,0,0,0,,we'll snap'em in half
+Dialogue: 0,0:51:08.55,0:51:14.05,Default,,0,0,0,,and complete the set with our friends!
+Dialogue: 0,0:51:16.39,0:51:21.64,Default,,0,0,0,,Make it! Once you get started, you're invicible!
+Dialogue: 0,0:51:21.89,0:51:27.69,Default,,0,0,0,,Make up! Headed towards a radiant future
+Dialogue: 0,0:51:27.69,0:51:30.86,Default,,0,0,0,,Making Drama, switch on!
+Dialogue: 0,0:51:33.32,0:51:36.61,Default,,0,0,0,,Anyone can be anything!
+Dialogue: 0,0:51:48.46,0:51:49.79,Default,,0,0,0,,You can walk the runway!
+Dialogue: 0,0:51:43.66,0:51:45.12,Default,,0,0,0,,Sing a song!
+Dialogue: 0,0:51:55.30,0:52:00.81,Default,,0,0,0,,Let's make a miracle!
+Dialogue: 0,0:51:50.04,0:51:55.18,Default,,0,0,0,,Cyalume Change!
+Dialogue: 0,0:51:39.49,0:51:40.87,Default,,0,0,0,,MAke it! Giving up on that dream is just not in the cards!
+Dialogue: 0,0:52:01.01,0:52:06.23,Default,,0,0,0,,Make up!
+Dialogue: 0,0:52:06.48,0:52:11.78,Default,,0,0,0,,Make it! Once you get started, you're invicible!
+Dialogue: 0,0:52:12.15,0:52:17.70,Default,,0,0,0,,Make up! Headed towards a radiant future
+Dialogue: 0,0:52:17.70,0:52:21.28,Default,,0,0,0,,Your dream's not just a dream anymore
+Dialogue: 0,0:52:21.28,0:52:23.95,Default,,0,0,0,,Anyone can be anything!
+Dialogue: 0,0:52:34.67,0:52:36.67,Default,,0,0,0,,PriPara PriPara-dise
+Dialogue: 0,0:52:37.59,0:52:38.47,Default,,0,0,0,,Laala! Akari!
+Dialogue: 0,0:52:39.18,0:52:42.43,Default,,0,0,0,,You guys!
+Dialogue: 0,0:52:43.01,0:52:45.64,Default,,0,0,0,,Something about the show you just did really lifted our spirits!
+Dialogue: 0,0:52:46.31,0:52:48.35,Default,,0,0,0,,It makes me believe we can pull off a miracle.
+Dialogue: 0,0:52:48.85,0:52:51.69,Default,,0,0,0,,Indeed! You're laser focused.
+Dialogue: 0,0:52:52.02,0:52:53.36,Default,,0,0,0,,We'll have to give gathering the idols radiance another go.
+Dialogue: 0,0:52:54.48,0:52:56.53,Default,,0,0,0,,Laser focused?
+Dialogue: 0,0:52:56.53,0:53:00.16,Default,,0,0,0,,Actually, I've been thinking...
+Dialogue: 0,0:53:00.16,0:53:02.87,Default,,0,0,0,,we've been doing all these thrown together performances, but what if instead,
+Dialogue: 0,0:53:03.54,0:53:05.91,Default,,0,0,0,,we prepared for one big, best of the best performance intsead?
+Dialogue: 0,0:53:06.37,0:53:09.83,Default,,0,0,0,,All of together for the best performance ever?
+Dialogue: 0,0:53:10.17,0:53:11.75,Default,,0,0,0,,So you're saying we should all work together for one big show-pri?
+Dialogue: 0,0:53:12.46,0:53:15.92,Default,,0,0,0,,That sounds so fun-garu!
+Dialogue: 0,0:53:16.34,0:53:18.97,Default,,0,0,0,,We could have the people who perform on stage and the people who support from the audience.
+Dialogue: 0,0:53:20.26,0:53:23.68,Default,,0,0,0,,We'd be bringing all our radiance together as one.
+Dialogue: 0,0:53:24.22,0:53:26.43,Default,,0,0,0,,That certainly sounds like an idea worth trying.
+Dialogue: 0,0:53:27.10,0:53:30.85,Default,,0,0,0,,In that case, we'll hold the show after three days.
+Dialogue: 0,0:53:31.77,0:53:33.82,Default,,0,0,0,,Otherwise that's our last chance for another 100 million years.
+Dialogue: 0,0:53:33.90,0:53:34.86,Default,,0,0,0,,But who should we choose?
+Dialogue: 0,0:53:34.86,0:53:35.53,Default,,0,0,0,,Obviously it's--
+Dialogue: 0,0:53:37.15,0:53:39.03,Default,,0,0,0,,me!
+Dialogue: 0,0:53:39.53,0:53:40.15,Default,,0,0,0,,Wouldn't Laala and Akari be good choices?
+Dialogue: 0,0:53:40.53,0:53:42.66,Default,,0,0,0,,You're right.
+Dialogue: 0,0:53:43.45,0:53:44.83,Default,,0,0,0,,They were the first of us to meet.
+Dialogue: 0,0:53:44.83,0:53:47.50,Default,,0,0,0,,Okay!
+Dialogue: 0,0:53:47.75,0:53:50.00,Default,,0,0,0,,Miss Akari and Miss Laala will be the centers
+Dialogue: 0,0:53:51.37,0:53:52.46,Default,,0,0,0,,in a brand new idol group!
+Dialogue: 0,0:53:52.96,0:53:57.55,Default,,0,0,0,,Then it's gotta be
+Dialogue: 0,0:53:58.13,0:54:01.80,Default,,0,0,0,,the ones who had a smash hit concert! The super idols, Luminas!
+Dialogue: 0,0:54:02.80,0:54:05.14,Default,,0,0,0,,And the team who emerged victorious at the Divine Idol Grand Prix: SoLaMi Smile!
+Dialogue: 0,0:54:05.47,0:54:07.18,Default,,0,0,0,,The new team will be made of these six members!
+Dialogue: 0,0:54:07.18,0:54:08.27,Default,,0,0,0,,They're SoLaMi Luminas!
+Dialogue: 0,0:54:08.43,0:54:10.39,Default,,0,0,0,,Garu!
+Dialogue: 0,0:54:10.39,0:54:13.65,Default,,0,0,0,,Tch. Fine, whatever.
+Dialogue: 0,0:54:14.77,0:54:16.94,Default,,0,0,0,,If it's support we must play, then I suppose we'll just have to do it.
+Dialogue: 0,0:54:17.57,0:54:18.57,Default,,0,0,0,,So then what are the supporters supposed to do-garu?
+Dialogue: 0,0:54:18.57,0:54:21.65,Default,,0,0,0,,Hm...
+Dialogue: 0,0:54:22.20,0:54:25.49,Default,,0,0,0,,We could create a new ultimate special appeal...
+Dialogue: 0,0:54:26.12,0:54:28.29,Default,,0,0,0,,And then we can create a new Making Drama!
+Dialogue: 0,0:54:29.37,0:54:33.37,Default,,0,0,0,,Why don't we work on it together?
+Dialogue: 0,0:54:33.37,0:54:36.17,Default,,0,0,0,,A Making Drama and Special Appeal put together... I like the sound of that!
+Dialogue: 0,0:54:36.17,0:54:37.80,Default,,0,0,0,,It's a Special Making Drama Appeal!
+Dialogue: 0,0:54:38.00,0:54:39.84,Default,,0,0,0,,Aha. That's a bit long.
+Dialogue: 0,0:54:41.17,0:54:42.30,Default,,0,0,0,,How about Making Appeal!
+Dialogue: 0,0:54:42.72,0:54:45.72,Default,,0,0,0,,That sounds great!
+Dialogue: 0,0:54:46.18,0:54:48.47,Default,,0,0,0,,If Kiriya was here, she'd say "isn't this chill?"
+Dialogue: 0,0:54:48.47,0:54:50.64,Default,,0,0,0,,If Ms. Ajimi was here, she'd say "
+Dialogue: 0,0:54:53.23,0:54:54.27,Default,,0,0,0,,That settles it.
+Dialogue: 0,0:54:54.98,0:54:58.82,Default,,0,0,0,,The six members of SoLaMi Luminas will prepare to take the stage.
+Dialogue: 0,0:54:59.57,0:55:03.20,Default,,0,0,0,,Everyone else should put forth maximum effort to support them.
+Dialogue: 0,0:55:03.45,0:55:04.45,Default,,0,0,0,,Okay!
+Dialogue: 0,0:55:04.66,0:55:07.78,Default,,0,0,0,,The three of us will work on putting together the best song for the show.
+Dialogue: 0,0:55:08.20,0:55:10.20,Default,,0,0,0,,Yeah! Let's get amped!
+Dialogue: 0,0:55:10.79,0:55:13.25,Default,,0,0,0,,We'll be doing everything we can to support you.
+Dialogue: 0,0:55:13.96,0:55:15.00,Default,,0,0,0,,Stylish!
+Dialogue: 0,0:55:15.54,0:55:17.17,Default,,0,0,0,,Amazing!
+Dialogue: 0,0:55:17.71,0:55:19.42,Default,,0,0,0,,Collaboration!
+Dialogue: 0,0:55:19.42,0:55:20.59,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:55:21.51,0:55:23.68,Default,,0,0,0,,Isn't there one more thing you need?
+Dialogue: 0,0:55:24.43,0:55:25.39,Default,,0,0,0,,Tsubasa!
+Dialogue: 0,0:55:25.39,0:55:26.39,Default,,0,0,0,,Cosmo!
+Dialogue: 0,0:55:26.93,0:55:30.14,Default,,0,0,0,,The best performance deserves the best outfits, right?
+Dialogue: 0,0:55:30.14,0:55:32.18,Default,,0,0,0,,We've got this cosmic covered.
+Dialogue: 0,0:55:40.02,0:55:42.28,Default,,0,0,0,,Laala and her friends should be here any minute now!
+Dialogue: 0,0:55:42.78,0:55:45.07,Default,,0,0,0,,I'm looking forward to practicing with them!
+Dialogue: 0,0:55:45.95,0:55:46.95,Default,,0,0,0,,Akari!
+Dialogue: 0,0:55:46.95,0:55:47.53,Default,,0,0,0,,Oh!
+Dialogue: 0,0:55:47.95,0:55:48.95,Default,,0,0,0,,Laala!
+Dialogue: 0,0:55:49.41,0:55:50.62,Default,,0,0,0,,Nice to see you!
+Dialogue: 0,0:55:51.20,0:55:53.00,Default,,0,0,0,,Oh, Sophy?
+Dialogue: 0,0:55:53.00,0:55:54.46,Default,,0,0,0,,I'm down here!
+Dialogue: 0,0:55:55.29,0:55:57.71,Default,,0,0,0,,How's it going? Capisce!
+Dialogue: 0,0:55:58.08,0:55:59.46,Default,,0,0,0,,Huh? That's you, Laala?!
+Dialogue: 0,0:56:00.09,0:56:01.84,Default,,0,0,0,,So you really are a primary schooler...
+Dialogue: 0,0:56:02.13,0:56:03.13,Default,,0,0,0,,Then does that mean...
+Dialogue: 0,0:56:03.51,0:56:05.43,Default,,0,0,0,,You're Mirei?
+Dialogue: 0,0:56:05.80,0:56:06.88,Default,,0,0,0,,Is it really that surprisng...
+Dialogue: 0,0:56:08.39,0:56:09.89,Default,,0,0,0,,pri?
+Dialogue: 0,0:56:10.51,0:56:11.56,Default,,0,0,0,,I can't believe it!
+Dialogue: 0,0:56:11.56,0:56:12.81,Default,,0,0,0,,Thanks for having us today.
+Dialogue: 0,0:56:13.18,0:56:14.85,Default,,0,0,0,,Of course!
+Dialogue: 0,0:56:15.35,0:56:16.19,Default,,0,0,0,,You good with doing our regular old training?
+Dialogue: 0,0:56:16.31,0:56:19.73,Default,,0,0,0,,Yeah, that's totally okay!
+Dialogue: 0,0:56:20.19,0:56:21.82,Default,,0,0,0,,Ai-katsu, ai-katsu, ai-katsu
+Dialogue: 0,0:56:24.82,0:56:27.78,Default,,0,0,0,,Their stamina is unbeatable.
+Dialogue: 0,0:56:31.53,0:56:33.58,Default,,0,0,0,,We're going to have to work overtime if we want to catch up.
+Dialogue: 0,0:56:33.79,0:56:36.00,Default,,0,0,0,,We're not gonna fall behind!
+Dialogue: 0,0:56:36.00,0:56:38.67,Default,,0,0,0,,Pri! Para! Pri! Para!
+Dialogue: 0,0:56:38.88,0:56:40.96,Default,,0,0,0,,Wait for me!
+Dialogue: 0,0:56:42.88,0:56:44.80,Default,,0,0,0,,Ai-katsu!
+Dialogue: 0,0:57:00.19,0:57:02.11,Default,,0,0,0,,Ai-katsu!
+Dialogue: 0,0:57:02.40,0:57:04.53,Default,,0,0,0,,Rock climbing...
+Dialogue: 0,0:57:08.20,0:57:09.70,Default,,0,0,0,,If this is what the Starlight Academy students are doing,
+Dialogue: 0,0:57:10.32,0:57:15.24,Default,,0,0,0,,then it's no wonder their idol abilities are on another level.
+Dialogue: 0,0:57:15.37,0:57:18.75,Default,,0,0,0,,Just a little longer! Hang in there!
+Dialogue: 0,0:57:19.37,0:57:21.67,Default,,0,0,0,,C-Capisce!
+Dialogue: 0,0:57:22.00,0:57:24.38,Default,,0,0,0,,Pshuu...
+Dialogue: 0,0:57:29.55,0:57:30.97,Default,,0,0,0,,Oh no! Sophy got blown away!
+Dialogue: 0,0:57:30.97,0:57:33.43,Default,,0,0,0,,The center of the universe...
+Dialogue: 0,0:57:36.85,0:57:39.35,Default,,0,0,0,,Kokone!
+Dialogue: 0,0:57:39.77,0:57:40.56,Default,,0,0,0,,I think ya mean me!
+Dialogue: 0,0:57:40.56,0:57:42.06,Default,,0,0,0,,No, me!
+Dialogue: 0,0:57:43.73,0:57:44.27,Default,,0,0,0,,No, me!
+Dialogue: 0,0:57:44.27,0:57:44.82,Default,,0,0,0,,No, me!
+Dialogue: 0,0:57:44.86,0:57:45.94,Default,,0,0,0,,No, me!
+Dialogue: 0,0:57:45.94,0:57:46.53,Default,,0,0,0,,They just can't get their act together.
+Dialogue: 0,0:57:47.24,0:57:50.36,Default,,0,0,0,,But despite that, we've been making good prgoress.
+Dialogue: 0,0:57:50.91,0:57:53.20,Default,,0,0,0,,Yeah! This is looking to be one awesome Making Appeal!
+Dialogue: 0,0:57:53.83,0:57:57.08,Default,,0,0,0,,It's chock full of idols' radiance!
+Dialogue: 0,0:57:57.41,0:58:00.00,Default,,0,0,0,,Are we sure we can pull this off?
+Dialogue: 0,0:58:00.71,0:58:02.42,Default,,0,0,0,,We only have one chance...
+Dialogue: 0,0:58:03.00,0:58:04.75,Default,,0,0,0,,That's quite true.
+Dialogue: 0,0:58:05.42,0:58:06.42,Default,,0,0,0,,If it doesn't end up being the best concert anyone's ever seen,
+Dialogue: 0,0:58:06.67,0:58:09.26,Default,,0,0,0,,it'll be a big failure.
+Dialogue: 0,0:58:09.26,0:58:10.93,Default,,0,0,0,,Hearing that gives me anxiety!
+Dialogue: 0,0:58:11.51,0:58:14.10,Default,,0,0,0,,It still feels like something's missing...
+Dialogue: 0,0:58:14.51,0:58:16.56,Default,,0,0,0,,Yeah, but thwat...
+Dialogue: 0,0:58:17.31,0:58:19.77,Default,,0,0,0,,Headmistress, we have a problem!
+Dialogue: 0,0:58:23.90,0:58:25.98,Default,,0,0,0,,Whatever is the matter, Johnny?
+Dialogue: 0,0:58:26.19,0:58:28.44,Default,,0,0,0,,When we were meeting about the new song, I heard from MegaBro —
+Dialogue: 0,0:58:29.15,0:58:32.66,Default,,0,0,0,,"MegaBro"?
+Dialogue: 0,0:58:32.66,0:58:33.78,Default,,0,0,0,,Oh, you mean Meganii?
+Dialogue: 0,0:58:34.24,0:58:36.33,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:58:36.33,0:58:37.08,Default,,0,0,0,,I found out something that was totally shocking!
+Dialogue: 0,0:58:37.37,0:58:40.25,Default,,0,0,0,,No way!
+Dialogue: 0,0:58:41.25,0:58:41.87,Default,,0,0,0,,The next performance will be the last one?!
+Dialogue: 0,0:58:42.33,0:58:44.04,Default,,0,0,0,,Darn straight.
+Dialogue: 0,0:58:44.38,0:58:45.17,Default,,0,0,0,,Er, yes.
+Dialogue: 0,0:58:45.17,0:58:46.04,Default,,0,0,0,,The power of our idols will return things to normal,
+Dialogue: 0,0:58:47.84,0:58:51.63,Default,,0,0,0,,and the two worlds will separate.
+Dialogue: 0,0:58:51.63,0:58:53.63,Default,,0,0,0,,We'll be cut off from each other forever.
+Dialogue: 0,0:58:53.63,0:58:56.14,Default,,0,0,0,,So after that, we won't be able to meet up any more?
+Dialogue: 0,0:58:58.56,0:59:02.89,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:59:03.39,0:59:04.10,Default,,0,0,0,,To make matters worse, all of our memories of this will disappear too.
+Dialogue: 0,0:59:04.56,0:59:07.77,Default,,0,0,0,,I see. So we'll forget all about this wonderful meeting...
+Dialogue: 0,0:59:08.23,0:59:11.61,Default,,0,0,0,,How unfortunate...
+Dialogue: 0,0:59:12.15,0:59:13.11,Default,,0,0,0,,Yes...
+Dialogue: 0,0:59:13.28,0:59:14.24,Default,,0,0,0,,I should tell Oozora and the others,
+Dialogue: 0,0:59:14.66,0:59:17.16,Default,,0,0,0,,I just hope it doesn't make them hesitant to go on...
+Dialogue: 0,0:59:17.16,0:59:20.08,Default,,0,0,0,,Well, about that...
+Dialogue: 0,0:59:20.54,0:59:22.16,Default,,0,0,0,,You've already told everyone?!
+Dialogue: 0,0:59:23.12,0:59:24.71,Default,,0,0,0,,Indeed.
+Dialogue: 0,0:59:25.29,0:59:25.71,Default,,0,0,0,,I had the opportunity to gether everyone earlier.
+Dialogue: 0,0:59:26.42,0:59:29.46,Default,,0,0,0,,So how did they take the news?
+Dialogue: 0,0:59:30.09,0:59:32.09,Default,,0,0,0,,This is their final performance.
+Dialogue: 0,0:59:33.67,0:59:35.59,Default,,0,0,0,,They're not going to be able to do things together anymore.
+Dialogue: 0,0:59:35.84,0:59:37.64,Default,,0,0,0,,Everyone was shocked at first, of course.
+Dialogue: 0,0:59:38.72,0:59:42.06,Default,,0,0,0,,But it wasn't long before they shifted and said,
+Dialogue: 0,0:59:42.60,0:59:45.56,Default,,0,0,0,,Who decided that?
+Dialogue: 0,0:59:46.31,0:59:47.98,Default,,0,0,0,,If it'll take a miracle to turn our worlds back, then we'll just make another miracle so we can meet again!
+Dialogue: 0,0:59:48.61,0:59:52.32,Default,,0,0,0,,We've made miracles before and we can do it again!
+Dialogue: 0,0:59:52.78,0:59:55.82,Default,,0,0,0,,"We'll give it our everything.
+Dialogue: 0,0:59:56.16,0:59:57.62,Default,,0,0,0,,"
+Dialogue: 0,0:59:57.62,0:59:59.83,Default,,0,0,0,,We have to place our faith in our radiance.
+Dialogue: 0,1:00:00.62,1:00:01.91,Default,,0,0,0,,After all,
+Dialogue: 0,1:00:02.45,1:00:03.66,Default,,0,0,0,,we're idols!
+Dialogue: 0,1:00:09.25,1:00:11.46,Default,,0,0,0,,We should place our hopes in them, too.
+Dialogue: 0,1:00:12.38,1:00:14.72,Default,,0,0,0,,I know those girls can bring about a miracle.
+Dialogue: 0,1:00:16.13,1:00:18.05,Default,,0,0,0,,Ai-katsu! Ai-katsu!
+Dialogue: 0,1:00:18.59,1:00:19.68,Default,,0,0,0,,So this is PriPara!
+Dialogue: 0,1:00:20.10,1:00:21.60,Default,,0,0,0,,Everything here is so cool!
+Dialogue: 0,1:00:22.01,1:00:23.56,Default,,0,0,0,,You could come here every day!
+Dialogue: 0,1:00:23.93,1:00:25.73,Default,,0,0,0,,And look at all those animals!
+Dialogue: 0,1:00:26.14,1:00:28.31,Default,,0,0,0,,Pri-Para! Pri-Para!
+Dialogue: 0,1:00:29.48,1:00:32.11,Default,,0,0,0,,Oh, Laala. You're as lively as ever!
+Dialogue: 0,1:00:32.44,1:00:35.36,Default,,0,0,0,,Something about being in idol in PriPara
+Dialogue: 0,1:00:35.36,1:00:37.36,Default,,0,0,0,,increases my power by 100 times!
+Dialogue: 0,1:00:37.78,1:00:39.78,Default,,0,0,0,,Your idol aura's increased 100 times over, too!
+Dialogue: 0,1:00:40.20,1:00:42.16,Default,,0,0,0,,That's the power of PriPara-pri!
+Dialogue: 0,1:00:44.37,1:00:46.33,Default,,0,0,0,,You're far too slow, my little cagebirds!
+Dialogue: 0,1:00:46.91,1:00:48.33,Default,,0,0,0,,Holy moly!
+Dialogue: 0,1:00:48.58,1:00:50.58,Default,,0,0,0,,And that's the power of pickled plums-pri.
+Dialogue: 0,1:00:51.96,1:00:53.42,Default,,0,0,0,,Hologrammation!
+Dialogue: 0,1:00:56.47,1:01:00.89,Default,,0,0,0,,We used the power of hologrammation to construct a 3000 meter rock wall.
+Dialogue: 0,1:01:01.18,1:01:02.43,Default,,0,0,0,,What?!
+Dialogue: 0,1:01:03.47,1:01:05.18,Default,,0,0,0,,Ai-katsu!
+Dialogue: 0,1:01:05.73,1:01:07.44,Default,,0,0,0,,Ai-katsu!
+Dialogue: 0,1:01:08.48,1:01:10.02,Default,,0,0,0,,This is the first I've ever
+Dialogue: 0,1:01:10.31,1:01:12.32,Default,,0,0,0,,climbed a rock wall this tall.
+Dialogue: 0,1:01:12.94,1:01:14.57,Default,,0,0,0,,PriPara is something else.
+Dialogue: 0,1:01:16.28,1:01:20.24,Default,,0,0,0,,This is my winning idiot power!
+Dialogue: 0,1:01:20.74,1:01:23.33,Default,,0,0,0,,With the power of both effort and calculations, we can't be beat!
 Dialogue: 0,1:01:24.29,1:01:26.00,Default,,0,0,0,,Ai-katsu!
-Dialogue: 0,1:01:26.62,1:01:28.29,Default,,0,0,0,,This is the first I've ever
-Dialogue: 0,1:01:28.75,1:01:30.46,Default,,0,0,0,,climbed a rock wall this tall.
-Dialogue: 0,1:01:30.96,1:01:31.79,Default,,0,0,0,,PriPara is something else.
-Dialogue: 0,1:01:35.84,1:01:38.92,Default,,0,0,0,,This is my winning idiot power!
-Dialogue: 0,1:01:39.55,1:01:40.80,Default,,0,0,0,,With the power of both effort and calculations, we can't be beat!
-Dialogue: 0,1:01:41.22,1:01:44.10,Default,,0,0,0,,Ai-katsu!
-Dialogue: 0,1:01:47.68,1:01:48.48,Default,,0,0,0,,Pri-Para!
-Dialogue: 0,1:01:50.35,1:01:52.65,Default,,0,0,0,,Ai-katsu!
-Dialogue: 0,1:01:54.11,1:01:57.53,Default,,0,0,0,,Pri...
-Dialogue: 0,1:01:58.28,1:02:00.82,Default,,0,0,0,,Ah, I give up! I'm out of ideas!
-Dialogue: 0,1:02:01.07,1:02:03.07,Default,,0,0,0,,Then a change of pace is in order.
-Dialogue: 0,1:02:03.37,1:02:06.12,Default,,0,0,0,,At times like this, it's best to get up and moving.
-Dialogue: 0,1:02:06.70,1:02:10.04,Default,,0,0,0,,What's all this?
-Dialogue: 0,1:02:10.04,1:02:11.67,Default,,0,0,0,,Wow, it's so lovely!
-Dialogue: 0,1:02:11.67,1:02:13.25,Default,,0,0,0,,After that conversation, we all thought there must be some way we can pitch in!
-Dialogue: 0,1:02:14.63,1:02:16.17,Default,,0,0,0,,We want the stage itself to be able to give off the brightest shine!
-Dialogue: 0,1:02:16.71,1:02:17.71,Default,,0,0,0,,This is our aikatsu!
-Dialogue: 0,1:02:25.05,1:02:26.18,Default,,0,0,0,,This is our way to say "we're all idols"!
-Dialogue: 0,1:02:27.06,1:02:27.77,Default,,0,0,0,,It's like everyone's [whatever word I used before]
-Dialogue: 0,1:02:29.68,1:02:32.77,Default,,0,0,0,,has come together!/united
-Dialogue: 0,1:02:33.69,1:02:36.40,Default,,0,0,0,,Excelente!
-Dialogue: 0,1:02:37.27,1:02:39.86,Default,,0,0,0,,In other words, fantastic!
-Dialogue: 0,1:02:40.32,1:02:43.53,Default,,0,0,0,,It's time for us to pull ourselves together.
-Dialogue: 0,1:02:43.53,1:02:45.87,Default,,0,0,0,,Yeah!
-Dialogue: 0,1:02:45.87,1:02:48.58,Default,,0,0,0,,Let's climb together!
-Dialogue: 0,1:02:49.29,1:02:51.58,Default,,0,0,0,,Okay!
-Dialogue: 0,1:02:51.91,1:02:52.92,Default,,0,0,0,,Each and every one of us shines in our own way.
-Dialogue: 0,1:03:02.05,1:03:03.72,Default,,0,0,0,,And when we bring all of our [word I used] together,
-Dialogue: 0,1:03:11.89,1:03:13.94,Default,,0,0,0,,I know we'll put on the greatets show ever!
-Dialogue: 0,1:03:14.60,1:03:17.06,Default,,0,0,0,,Whatcha guys lollygagging around for?
-Dialogue: 0,1:03:17.77,1:03:19.48,Default,,0,0,0,,Have you all forgotten about the Making Appeal?
-Dialogue: 0,1:03:20.40,1:03:22.36,Default,,0,0,0,,Has hell's banquet not started?
-Dialogue: 0,1:03:23.86,1:03:24.36,Default,,0,0,0,,Alright. Let's go wrap things up.
-Dialogue: 0,1:03:25.91,1:03:27.58,Default,,0,0,0,,Yeah!
-Dialogue: 0,1:03:29.66,1:03:30.66,Default,,0,0,0,,We finally made it...
-Dialogue: 0,1:03:40.67,1:03:41.80,Default,,0,0,0,,The sky looks stunning...
-Dialogue: 0,1:03:44.09,1:03:45.47,Default,,0,0,0,,I hope everything works out tomorrow...
-Dialogue: 0,1:03:51.18,1:03:53.35,Default,,0,0,0,,We won't know until we try-pri.
-Dialogue: 0,1:03:56.06,1:03:58.52,Default,,0,0,0,,All we can do is give it our all.
-Dialogue: 0,1:03:58.56,1:04:00.23,Default,,0,0,0,,Mhm.
-Dialogue: 0,1:04:00.82,1:04:01.57,Default,,0,0,0,,Let's have fun and go all out!
-Dialogue: 0,1:04:09.53,1:04:10.87,Default,,0,0,0,,Capisce!
-Dialogue: 0,1:04:11.49,1:04:13.95,Default,,0,0,0,,Whoa!
-Dialogue: 0,1:04:14.50,1:04:19.00,Default,,0,0,0,,We call it the "Star Paradise Coord".
-Dialogue: 0,1:05:34.74,1:05:35.66,Default,,0,0,0,,Looking forward to working with you, partner.
-Dialogue: 0,1:05:36.08,1:05:37.37,Default,,0,0,0,,Get out there and show us the greatest show ever.
-Dialogue: 0,1:05:37.91,1:05:38.71,Default,,0,0,0,,We'll cosmically be cheering for you from the sidelines.
-Dialogue: 0,1:05:39.21,1:05:40.33,Default,,0,0,0,,Thank you!
-Dialogue: 0,1:05:41.25,1:05:43.54,Default,,0,0,0,,Look up at the sky and smile
-Dialogue: 0,1:05:44.30,1:05:48.55,Default,,0,0,0,,The ones who twinkle and shine,
-Dialogue: 0,1:05:54.97,1:06:01.15,Default,,0,0,0,,we're SoLaMi Luminas!
-Dialogue: 0,1:06:01.15,1:06:09.19,Default,,0,0,0,,Pretty!
-Dialogue: 0,1:06:19.37,1:06:24.13,Default,,0,0,0,,A surprise-pri?
-Dialogue: 0,1:06:24.13,1:06:30.38,Default,,0,0,0,,How wonderful!
-Dialogue: 0,1:06:30.38,1:06:35.14,Default,,0,0,0,,This rocks!
-Dialogue: 0,1:06:35.14,1:06:41.10,Default,,0,0,0,,Thank you, everyone!
-Dialogue: 0,1:06:41.10,1:06:46.40,Default,,0,0,0,,We're gonna have the best time ever, so let's get hyped!
-Dialogue: 0,1:06:46.40,1:06:54.87,Default,,0,0,0,,When our two worlds met, I got to sing with you
-Dialogue: 0,1:06:52.03,1:06:56.24,Default,,0,0,0,,A miracle we found by chasing swinging notes
-Dialogue: 0,1:06:56.53,1:07:02.66,Default,,0,0,0,,Our final, destined stage
-Dialogue: 0,1:07:02.66,1:07:07.54,Default,,0,0,0,,The impossible is now possible, and we're so excited
-Dialogue: 0,1:07:07.54,1:07:13.63,Default,,0,0,0,,Altogether now! Let's take a dive into this play!
-Dialogue: 0,1:07:13.63,1:07:19.68,Default,,0,0,0,,Let me feel even more of your Appeal
-Dialogue: 0,1:07:19.68,1:07:25.81,Default,,0,0,0,,I'm sure we share the same motivation to do our best!
-Dialogue: 0,1:07:25.81,1:07:33.49,Default,,0,0,0,,Passing through us, connecting us, I'm so glad we can shine like this
-Dialogue: 0,1:07:31.40,1:07:33.82,Default,,0,0,0,,Because we're idols! Yeah!
-Dialogue: 0,1:07:33.82,1:07:36.62,Default,,0,0,0,,Singing the melody that was made when we met
-Dialogue: 0,1:07:36.82,1:07:39.49,Default,,0,0,0,,we'll bring our voices together, uniting our glimmer as one
-Dialogue: 0,1:07:41.87,1:07:46.58,Default,,0,0,0,,Can you hear the sound of our racing hearts?
-Dialogue: 0,1:07:41.54,1:07:43.08,Default,,0,0,0,,Nature and happy tuning is what makes the sound of life
-Dialogue: 0,1:07:43.08,1:07:44.75,Default,,0,0,0,,You know it well -- this lyric starts it all
-Dialogue: 0,1:07:46.75,1:07:48.59,Default,,0,0,0,,We're making miracles on this very stage
-Dialogue: 0,1:07:46.83,1:07:52.05,Default,,0,0,0,,Our voices reached them!
-Dialogue: 0,1:07:48.59,1:07:51.05,Default,,0,0,0,,We're all friends, we're all idols!
-Dialogue: 0,1:07:52.80,1:07:57.72,Default,,0,0,0,,Let's make this miracle happen-pri!
-Dialogue: 0,1:07:53.34,1:07:55.22,Default,,0,0,0,,Our feelings...
-Dialogue: 0,1:07:55.22,1:07:56.39,Default,,0,0,0,,We should share those with them!
-Dialogue: 0,1:07:57.85,1:08:03.48,Default,,0,0,0,,Our defiant, inspiring steps
-Dialogue: 0,1:07:57.05,1:08:00.89,Default,,0,0,0,,Look at everyone's cards!
-Dialogue: 0,1:08:03.81,1:08:08.98,Default,,0,0,0,,We should all work together! Allow us to join!
-Dialogue: 0,1:08:08.98,1:08:17.20,Default,,0,0,0,,One single step leads to infinite possibilities!
-Dialogue: 0,1:08:01.56,1:08:04.14,Default,,0,0,0,,Give it your all and show how much you want it!
-Dialogue: 0,1:08:04.14,1:08:06.60,Default,,0,0,0,,These are PriTickets
-Dialogue: 0,1:08:11.32,1:08:13.44,Default,,0,0,0,,and Aikatsu cards!
-Dialogue: 0,1:08:13.90,1:08:16.49,Default,,0,0,0,,Give it your all and show how much you want it!
-Dialogue: 0,1:08:18.82,1:08:25.21,Default,,0,0,0,,For an idol, this is just the symbol of a new meeting
-Dialogue: 0,1:08:25.21,1:08:29.63,Default,,0,0,0,,Never lose your faith in everyone's courage
-Dialogue: 0,1:08:29.63,1:08:35.92,Default,,0,0,0,,They've been making miracles since the moment they met
-Dialogue: 0,1:08:35.92,1:08:42.06,Default,,0,0,0,,and now they'll be shining at the brightest they've ever been in this finale!
-Dialogue: 0,1:08:42.06,1:08:48.10,Default,,0,0,0,,One day you'll find yourself casually humming this tune
-Dialogue: 0,1:08:48.10,1:08:52.69,Default,,0,0,0,,Don't ever forget the fun we had while we were together
-Dialogue: 0,1:08:52.69,1:08:58.57,Default,,0,0,0,,It's almost time for the climax!
-Dialogue: 0,1:08:58.57,1:09:02.83,Default,,0,0,0,,Get hyped to the max and go!
-Dialogue: 0,1:09:03.49,1:09:04.79,Default,,0,0,0,,Singing the melody that was made when we met
-Dialogue: 0,1:09:04.79,1:09:05.50,Default,,0,0,0,,we'll bring our voices together, uniting our glimmer as one
-Dialogue: 0,1:09:05.50,1:09:06.58,Default,,0,0,0,,And the rhythm of our beating hearts comes together
-Dialogue: 0,1:09:06.66,1:09:07.75,Default,,0,0,0,,With our smiles and happy tuning, let's create the best moment ever
-Dialogue: 0,1:09:07.75,1:09:08.75,Default,,0,0,0,,Thank you. These lyrics will last forver
-Dialogue: 0,1:09:08.79,1:09:10.00,Default,,0,0,0,,Let's sing this treasure
-Dialogue: 0,1:09:10.67,1:09:14.00,Default,,0,0,0,,Ah, miracles are right within our grasp!
-Dialogue: 0,1:09:14.67,1:09:16.72,Default,,0,0,0,,Making Appeal, switch on!
-Dialogue: 0,1:09:16.72,1:09:20.68,Default,,0,0,0,,Friends
-Dialogue: 0,1:09:38.32,1:09:39.61,Default,,0,0,0,,Fans
-Dialogue: 0,1:09:39.61,1:09:41.74,Default,,0,0,0,,coords
-Dialogue: 0,1:09:42.49,1:09:45.91,Default,,0,0,0,,Dreams
-Dialogue: 0,1:10:06.81,1:10:08.10,Default,,0,0,0,,memories
-Dialogue: 0,1:10:08.56,1:10:10.23,Default,,0,0,0,,the future
-Dialogue: 0,1:10:20.90,1:10:22.70,Default,,0,0,0,,We can't be thankful enough!
-Dialogue: 0,1:10:22.70,1:10:24.16,Default,,0,0,0,,The miraculous meeting!
-Dialogue: 0,1:10:24.87,1:10:25.28,Default,,0,0,0,,An idol paradise for you!
-Dialogue: 0,1:10:25.87,1:10:27.87,Default,,0,0,0,,This is
-Dialogue: 0,1:10:29.04,1:10:30.08,Default,,0,0,0,,the idols' radiance!
-Dialogue: 0,1:10:39.72,1:10:40.55,Default,,0,0,0,,Success! Your chance is starting!
-Dialogue: 0,1:10:40.55,1:10:41.63,Default,,0,0,0,,Laala!
-Dialogue: 0,1:10:42.84,1:10:45.18,Default,,0,0,0,,Yeah! Let's snap!
-Dialogue: 0,1:10:45.55,1:10:48.22,Default,,0,0,0,,This isn't goodbye,
-Dialogue: 0,1:10:48.43,1:10:49.81,Default,,0,0,0,,it's just goodbye until next time.
-Dialogue: 0,1:10:50.23,1:10:51.69,Default,,0,0,0,,Yeah! Let's snap!
-Dialogue: 0,1:10:53.94,1:10:54.65,Default,,0,0,0,,I know we'll meet again,
-Dialogue: 0,1:10:55.19,1:10:56.19,Default,,0,0,0,,so
-Dialogue: 0,1:11:00.07,1:11:00.90,Default,,0,0,0,,Wha?
-Dialogue: 0,1:11:00.90,1:11:02.74,Default,,0,0,0,,It's already evening?
-Dialogue: 0,1:11:03.03,1:11:04.57,Default,,0,0,0,,Wans't I supposed to perform today?
-Dialogue: 0,1:11:04.57,1:11:07.33,Default,,0,0,0,,I wonder what happened...
-Dialogue: 0,1:11:07.74,1:11:08.54,Default,,0,0,0,,It's over, isn't it?
-Dialogue: 0,1:11:09.37,1:11:09.91,Default,,0,0,0,,But I don't remember a thing...
-Dialogue: 0,1:11:11.29,1:11:11.79,Default,,0,0,0,,Ah.
-Dialogue: 0,1:11:18.71,1:11:20.42,Default,,0,0,0,,This is...
-Dialogue: 0,1:11:21.34,1:11:23.22,Default,,0,0,0,,Huh?
-Dialogue: 0,1:11:23.55,1:11:24.55,Default,,0,0,0,,Today's supposed to be a special show...
-Dialogue: 0,1:11:28.81,1:11:29.60,Default,,0,0,0,,What're you talking about-pri?
-Dialogue: 0,1:11:31.43,1:11:34.90,Default,,0,0,0,,The show's been over for a while...
-Dialogue: 0,1:11:35.19,1:11:42.44,Default,,0,0,0,,Pri?
-Dialogue: 0,1:11:42.44,1:11:45.99,Default,,0,0,0,,Hm?
-Dialogue: 0,1:11:51.75,1:11:54.62,Default,,0,0,0,,
-Dialogue: 0,1:11:59.75,1:12:03.38,Default,,0,0,0,,This isn't goodbye,
-Dialogue: 0,1:12:03.38,1:12:07.18,Default,,0,0,0,,it's just goodbye until next time.
-Dialogue: 0,1:12:07.18,1:12:10.85,Default,,0,0,0,,I know we'll meet again,
-Dialogue: 0,1:12:10.85,1:12:14.60,Default,,0,0,0,,so
-Dialogue: 0,1:12:14.60,1:12:22.48,Default,,0,0,0,,see you then!
-Dialogue: 0,1:12:23.15,1:12:25.70,Default,,0,0,0,,We'll meet again! It's a promise!
-Dialogue: 0,1:12:25.70,1:12:29.70,Default,,0,0,0,,A message you'll remember even after 10,000 years;
-Dialogue: 0,1:12:29.70,1:12:32.37,Default,,0,0,0,,I'll share it with you!
-Dialogue: 0,1:12:32.37,1:12:36.12,Default,,0,0,0,,My precious friends!
-Dialogue: 0,1:12:36.12,1:12:40.79,Default,,0,0,0,,The fact we met means we were meant to be together
-Dialogue: 0,1:12:40.79,1:12:47.13,Default,,0,0,0,,
-Dialogue: 0,1:12:47.13,1:12:50.68,Default,,0,0,0,,We can hear each other's songs
-Dialogue: 0,1:12:50.68,1:12:54.93,Default,,0,0,0,,like we're singing in unison
-Dialogue: 0,1:12:54.93,1:12:59.15,Default,,0,0,0,,Place all of your goals into the cards and put your dreams into the ticket
-Dialogue: 0,1:12:59.15,1:13:04.90,Default,,0,0,0,,Carry friends
-Dialogue: 0,1:13:06.36,1:13:10.03,Default,,0,0,0,,We'll meet again, but it feels like we won't have to wait
-Dialogue: 0,1:13:10.03,1:13:13.70,Default,,0,0,0,,When do you want to meet next?
-Dialogue: 0,1:13:13.70,1:13:17.41,Default,,0,0,0,,We'll have so much fun
-Dialogue: 0,1:13:17.41,1:13:21.13,Default,,0,0,0,,We'll be together forever
-Dialogue: 0,1:13:21.13,1:13:29.38,Default,,0,0,0,,Our wonderful story -- let's start something new
-Dialogue: 0,1:13:29.38,1:13:32.14,Default,,0,0,0,,Pa-Pa-Ra Make it, Now!\NDu-Du-Wa DO IT, Now!!
-Dialogue: 0,1:13:32.14,1:13:35.93,Default,,0,0,0,,Singing is how we understand each other!
-Dialogue: 0,1:13:35.93,1:13:38.64,Default,,0,0,0,,Our show will never end
-Dialogue: 0,1:13:38.64,1:13:40.73,Default,,0,0,0,,Our Pretty Activites will continue forever
-Dialogue: 0,1:13:40.73,1:13:46.23,Default,,0,0,0,,
-Dialogue: 0,1:13:46.23,1:13:48.11,Default,,0,0,0,,Even just one second
-Dialogue: 0,1:13:48.11,1:13:51.28,Default,,0,0,0,,We'll meet each other wearing the best coord sever
-Dialogue: 0,1:13:51.32,1:13:55.99,Default,,0,0,0,,We won't be able to stop compliment each other
-Dialogue: 0,1:14:15.76,1:14:19.52,Default,,0,0,0,,We've gone back to our homes, but we can never talk enough!
-Dialogue: 0,1:14:19.52,1:14:23.90,Default,,0,0,0,,Whether the present
-Dialogue: 0,1:14:23.94,1:14:27.82,Default,,0,0,0,,Can't wait to see what's coming
-Dialogue: 0,1:14:27.82,1:14:31.03,Default,,0,0,0,,in the future
-Dialogue: 0,1:14:31.03,1:14:32.36,Default,,0,0,0,,(Our Dream Stage!)
-Dialogue: 0,1:14:32.36,1:14:36.12,Default,,0,0,0,,We're the same generation, so let it resonate
-Dialogue: 0,1:14:36.12,1:14:40.71,Default,,0,0,0,,(Our Dream Stage!)
-Dialogue: 0,1:14:40.71,1:14:46.96,Default,,0,0,0,,Like a prism
-Dialogue: 0,1:14:46.96,1:14:50.84,Default,,0,0,0,,shining is so many colors
-Dialogue: 0,1:14:50.84,1:14:54.89,Default,,0,0,0,,It might sometimes feel lonely
-Dialogue: 0,1:14:54.89,1:14:59.18,Default,,0,0,0,,but this promise is something we'll cherish
-Dialogue: 0,1:14:59.18,1:15:01.94,Default,,0,0,0,,So now when your heart beats
-Dialogue: 0,1:15:01.94,1:15:08.98,Default,,0,0,0,,look forward to it!
-Dialogue: 0,1:15:14.87,1:15:17.78,Default,,0,0,0,,Let's go!
+Dialogue: 0,1:01:26.62,1:01:28.29,Default,,0,0,0,,Pri-Para!
+Dialogue: 0,1:01:28.75,1:01:30.46,Default,,0,0,0,,Ai-katsu!
+Dialogue: 0,1:01:30.96,1:01:31.79,Default,,0,0,0,,Pri...
+Dialogue: 0,1:01:35.84,1:01:38.92,Default,,0,0,0,,Ah, I give up! I'm out of ideas!
+Dialogue: 0,1:01:39.55,1:01:40.80,Default,,0,0,0,,Then a change of pace is in order.
+Dialogue: 0,1:01:41.22,1:01:44.10,Default,,0,0,0,,At times like this, it's best to get up and moving.
+Dialogue: 0,1:01:47.68,1:01:48.48,Default,,0,0,0,,What's all this?
+Dialogue: 0,1:01:50.35,1:01:52.65,Default,,0,0,0,,Wow, it's so lovely!
+Dialogue: 0,1:01:54.11,1:01:57.53,Default,,0,0,0,,After that conversation, we all thought there must be some way we can pitch in!
+Dialogue: 0,1:01:58.28,1:02:00.82,Default,,0,0,0,,We want the stage itself to be able to give off the brightest shine!
+Dialogue: 0,1:02:01.07,1:02:03.07,Default,,0,0,0,,This is our aikatsu!
+Dialogue: 0,1:02:03.37,1:02:06.12,Default,,0,0,0,,This is our way to say "we're all idols"!
+Dialogue: 0,1:02:06.70,1:02:10.04,Default,,0,0,0,,It's like everyone's [whatever word I used before]
+Dialogue: 0,1:02:10.04,1:02:11.67,Default,,0,0,0,,has come together!/united
+Dialogue: 0,1:02:11.67,1:02:13.25,Default,,0,0,0,,Excelente!
+Dialogue: 0,1:02:14.63,1:02:16.17,Default,,0,0,0,,In other words, fantastic!
+Dialogue: 0,1:02:16.71,1:02:17.71,Default,,0,0,0,,It's time for us to pull ourselves together.
+Dialogue: 0,1:02:25.05,1:02:26.18,Default,,0,0,0,,Yeah!
+Dialogue: 0,1:02:27.06,1:02:27.77,Default,,0,0,0,,Let's climb together!
+Dialogue: 0,1:02:29.68,1:02:32.77,Default,,0,0,0,,Okay!
+Dialogue: 0,1:02:33.69,1:02:36.40,Default,,0,0,0,,Each and every one of us shines in our own way.
+Dialogue: 0,1:02:37.27,1:02:39.86,Default,,0,0,0,,And when we bring all of our [word I used] together,
+Dialogue: 0,1:02:40.32,1:02:43.53,Default,,0,0,0,,I know we'll put on the greatets show ever!
+Dialogue: 0,1:02:43.53,1:02:45.87,Default,,0,0,0,,Whatcha guys lollygagging around for?
+Dialogue: 0,1:02:45.87,1:02:48.58,Default,,0,0,0,,Have you all forgotten about the Making Appeal?
+Dialogue: 0,1:02:49.29,1:02:51.58,Default,,0,0,0,,Has hell's banquet not started?
+Dialogue: 0,1:02:51.91,1:02:52.92,Default,,0,0,0,,Alright. Let's go wrap things up.
+Dialogue: 0,1:03:02.05,1:03:03.72,Default,,0,0,0,,Yeah!
+Dialogue: 0,1:03:11.89,1:03:13.94,Default,,0,0,0,,We finally made it...
+Dialogue: 0,1:03:14.60,1:03:17.06,Default,,0,0,0,,The sky looks stunning...
+Dialogue: 0,1:03:17.77,1:03:19.48,Default,,0,0,0,,I hope everything works out tomorrow...
+Dialogue: 0,1:03:20.40,1:03:22.36,Default,,0,0,0,,We won't know until we try-pri.
+Dialogue: 0,1:03:23.86,1:03:24.36,Default,,0,0,0,,All we can do is give it our all.
+Dialogue: 0,1:03:25.91,1:03:27.58,Default,,0,0,0,,Mhm.
+Dialogue: 0,1:03:29.66,1:03:30.66,Default,,0,0,0,,Let's have fun and go all out!
+Dialogue: 0,1:03:40.67,1:03:41.80,Default,,0,0,0,,Capisce!
+Dialogue: 0,1:03:44.09,1:03:45.47,Default,,0,0,0,,Whoa!
+Dialogue: 0,1:03:51.18,1:03:53.35,Default,,0,0,0,,We call it the "Star Paradise Coord".
+Dialogue: 0,1:03:56.06,1:03:58.52,Default,,0,0,0,,Looking forward to working with you, partner.
+Dialogue: 0,1:03:58.56,1:04:00.23,Default,,0,0,0,,Get out there and show us the greatest show ever.
+Dialogue: 0,1:04:00.82,1:04:01.57,Default,,0,0,0,,We'll cosmically be cheering for you from the sidelines.
+Dialogue: 0,1:04:09.53,1:04:10.87,Default,,0,0,0,,Thank you!
+Dialogue: 0,1:04:11.49,1:04:13.95,Default,,0,0,0,,Look up at the sky and smile
+Dialogue: 0,1:04:14.50,1:04:19.00,Default,,0,0,0,,The ones who twinkle and shine,
+Dialogue: 0,1:05:34.74,1:05:35.66,Default,,0,0,0,,we're SoLaMi Luminas!
+Dialogue: 0,1:05:36.08,1:05:37.37,Default,,0,0,0,,Pretty!
+Dialogue: 0,1:05:37.91,1:05:38.71,Default,,0,0,0,,A surprise-pri?
+Dialogue: 0,1:05:39.21,1:05:40.33,Default,,0,0,0,,How wonderful!
+Dialogue: 0,1:05:41.25,1:05:43.54,Default,,0,0,0,,This rocks!
+Dialogue: 0,1:05:44.30,1:05:48.55,Default,,0,0,0,,Thank you, everyone!
+Dialogue: 0,1:05:54.97,1:06:01.15,Default,,0,0,0,,We're gonna have the best time ever, so let's get hyped!
+Dialogue: 0,1:06:01.15,1:06:09.19,Default,,0,0,0,,When our two worlds met, I got to sing with you
+Dialogue: 0,1:06:19.37,1:06:24.13,Default,,0,0,0,,A miracle we found by chasing swinging notes
+Dialogue: 0,1:06:24.13,1:06:30.38,Default,,0,0,0,,Our final, destined stage
+Dialogue: 0,1:06:30.38,1:06:35.14,Default,,0,0,0,,The impossible is now possible, and we're so excited
+Dialogue: 0,1:06:35.14,1:06:41.10,Default,,0,0,0,,Altogether now! Let's take a dive into this play!
+Dialogue: 0,1:06:41.10,1:06:46.40,Default,,0,0,0,,Let me feel even more of your Appeal
+Dialogue: 0,1:06:46.40,1:06:54.87,Default,,0,0,0,,I'm sure we share the same motivation to do our best!
+Dialogue: 0,1:06:52.03,1:06:56.24,Default,,0,0,0,,Passing through us, connecting us, I'm so glad we can shine like this
+Dialogue: 0,1:06:56.53,1:07:02.66,Default,,0,0,0,,Because we're idols! Yeah!
+Dialogue: 0,1:07:02.66,1:07:07.54,Default,,0,0,0,,Singing the melody that was made when we met
+Dialogue: 0,1:07:07.54,1:07:13.63,Default,,0,0,0,,we'll bring our voices together, uniting our glimmer as one
+Dialogue: 0,1:07:13.63,1:07:19.68,Default,,0,0,0,,Can you hear the sound of our racing hearts?
+Dialogue: 0,1:07:19.68,1:07:25.81,Default,,0,0,0,,Nature and happy tuning is what makes the sound of life
+Dialogue: 0,1:07:25.81,1:07:33.49,Default,,0,0,0,,You know it well -- this lyric starts it all
+Dialogue: 0,1:07:31.40,1:07:33.82,Default,,0,0,0,,We're making miracles on this very stage
+Dialogue: 0,1:07:33.82,1:07:36.62,Default,,0,0,0,,Our voices reached them!
+Dialogue: 0,1:07:36.82,1:07:39.49,Default,,0,0,0,,We're all friends, we're all idols!
+Dialogue: 0,1:07:41.87,1:07:46.58,Default,,0,0,0,,Let's make this miracle happen-pri!
+Dialogue: 0,1:07:41.54,1:07:43.08,Default,,0,0,0,,Our feelings...
+Dialogue: 0,1:07:43.08,1:07:44.75,Default,,0,0,0,,We should share those with them!
+Dialogue: 0,1:07:46.75,1:07:48.59,Default,,0,0,0,,Our defiant, inspiring steps
+Dialogue: 0,1:07:46.83,1:07:52.05,Default,,0,0,0,,Look at everyone's cards!
+Dialogue: 0,1:07:48.59,1:07:51.05,Default,,0,0,0,,We should all work together! Allow us to join!
+Dialogue: 0,1:07:52.80,1:07:57.72,Default,,0,0,0,,One single step leads to infinite possibilities!
+Dialogue: 0,1:07:53.34,1:07:55.22,Default,,0,0,0,,Give it your all and show how much you want it!
+Dialogue: 0,1:07:55.22,1:07:56.39,Default,,0,0,0,,These are PriTickets
+Dialogue: 0,1:07:57.85,1:08:03.48,Default,,0,0,0,,and Aikatsu cards!
+Dialogue: 0,1:07:57.05,1:08:00.89,Default,,0,0,0,,Give it your all and show how much you want it!
+Dialogue: 0,1:08:03.81,1:08:08.98,Default,,0,0,0,,For an idol, this is just the symbol of a new meeting
+Dialogue: 0,1:08:08.98,1:08:17.20,Default,,0,0,0,,Never lose your faith in everyone's courage
+Dialogue: 0,1:08:01.56,1:08:04.14,Default,,0,0,0,,They've been making miracles since the moment they met
+Dialogue: 0,1:08:04.14,1:08:06.60,Default,,0,0,0,,and now they'll be shining at the brightest they've ever been in this finale!
+Dialogue: 0,1:08:11.32,1:08:13.44,Default,,0,0,0,,One day you'll find yourself casually humming this tune
+Dialogue: 0,1:08:13.90,1:08:16.49,Default,,0,0,0,,Don't ever forget the fun we had while we were together
+Dialogue: 0,1:08:18.82,1:08:25.21,Default,,0,0,0,,It's almost time for the climax!
+Dialogue: 0,1:08:25.21,1:08:29.63,Default,,0,0,0,,Get hyped to the max and go!
+Dialogue: 0,1:08:29.63,1:08:35.92,Default,,0,0,0,,Singing the melody that was made when we met
+Dialogue: 0,1:08:35.92,1:08:42.06,Default,,0,0,0,,we'll bring our voices together, uniting our glimmer as one
+Dialogue: 0,1:08:42.06,1:08:48.10,Default,,0,0,0,,And the rhythm of our beating hearts comes together
+Dialogue: 0,1:08:48.10,1:08:52.69,Default,,0,0,0,,With our smiles and happy tuning, let's create the best moment ever
+Dialogue: 0,1:08:52.69,1:08:58.57,Default,,0,0,0,,Thank you. These lyrics will last forver
+Dialogue: 0,1:08:58.57,1:09:02.83,Default,,0,0,0,,Let's sing this treasure
+Dialogue: 0,1:09:03.49,1:09:04.79,Default,,0,0,0,,Ah, miracles are right within our grasp!
+Dialogue: 0,1:09:04.79,1:09:05.50,Default,,0,0,0,,Making Appeal, switch on!
+Dialogue: 0,1:09:05.50,1:09:06.58,Default,,0,0,0,,Friends
+Dialogue: 0,1:09:06.66,1:09:07.75,Default,,0,0,0,,Fans
+Dialogue: 0,1:09:07.75,1:09:08.75,Default,,0,0,0,,coords
+Dialogue: 0,1:09:08.79,1:09:10.00,Default,,0,0,0,,Dreams
+Dialogue: 0,1:09:10.67,1:09:14.00,Default,,0,0,0,,memories
+Dialogue: 0,1:09:14.67,1:09:16.72,Default,,0,0,0,,the future
+Dialogue: 0,1:09:16.72,1:09:20.68,Default,,0,0,0,,We can't be thankful enough!
+Dialogue: 0,1:09:38.32,1:09:39.61,Default,,0,0,0,,The miraculous meeting!
+Dialogue: 0,1:09:39.61,1:09:41.74,Default,,0,0,0,,An idol paradise for you!
+Dialogue: 0,1:09:42.49,1:09:45.91,Default,,0,0,0,,This is
+Dialogue: 0,1:10:06.81,1:10:08.10,Default,,0,0,0,,the idols' radiance!
+Dialogue: 0,1:10:08.56,1:10:10.23,Default,,0,0,0,,Success! Your chance is starting!
+Dialogue: 0,1:10:20.90,1:10:22.70,Default,,0,0,0,,Laala!
+Dialogue: 0,1:10:22.70,1:10:24.16,Default,,0,0,0,,Yeah! Let's snap!
+Dialogue: 0,1:10:24.87,1:10:25.28,Default,,0,0,0,,This isn't goodbye,
+Dialogue: 0,1:10:25.87,1:10:27.87,Default,,0,0,0,,it's just goodbye until next time.
+Dialogue: 0,1:10:29.04,1:10:30.08,Default,,0,0,0,,Yeah! Let's snap!
+Dialogue: 0,1:10:39.72,1:10:40.55,Default,,0,0,0,,I know we'll meet again,
+Dialogue: 0,1:10:40.55,1:10:41.63,Default,,0,0,0,,so
+Dialogue: 0,1:10:42.84,1:10:45.18,Default,,0,0,0,,Wha?
+Dialogue: 0,1:10:45.55,1:10:48.22,Default,,0,0,0,,It's already evening?
+Dialogue: 0,1:10:48.43,1:10:49.81,Default,,0,0,0,,Wans't I supposed to perform today?
+Dialogue: 0,1:10:50.23,1:10:51.69,Default,,0,0,0,,I wonder what happened...
+Dialogue: 0,1:10:53.94,1:10:54.65,Default,,0,0,0,,It's over, isn't it?
+Dialogue: 0,1:10:55.19,1:10:56.19,Default,,0,0,0,,But I don't remember a thing...
+Dialogue: 0,1:11:00.07,1:11:00.90,Default,,0,0,0,,Ah.
+Dialogue: 0,1:11:00.90,1:11:02.74,Default,,0,0,0,,This is...
+Dialogue: 0,1:11:03.03,1:11:04.57,Default,,0,0,0,,Huh?
+Dialogue: 0,1:11:04.57,1:11:07.33,Default,,0,0,0,,Today's supposed to be a special show...
+Dialogue: 0,1:11:07.74,1:11:08.54,Default,,0,0,0,,What're you talking about-pri?
+Dialogue: 0,1:11:09.37,1:11:09.91,Default,,0,0,0,,The show's been over for a while...
+Dialogue: 0,1:11:11.29,1:11:11.79,Default,,0,0,0,,Pri?
+Dialogue: 0,1:11:18.71,1:11:20.42,Default,,0,0,0,,Hm?
+Dialogue: 0,1:11:21.34,1:11:23.22,Default,,0,0,0,,This isn't goodbye,
+Dialogue: 0,1:11:23.55,1:11:24.55,Default,,0,0,0,,it's just goodbye until next time.
+Dialogue: 0,1:11:28.81,1:11:29.60,Default,,0,0,0,,I know we'll meet again,
+Dialogue: 0,1:11:31.43,1:11:34.90,Default,,0,0,0,,so
+Dialogue: 0,1:11:35.19,1:11:42.44,Default,,0,0,0,,see you then!
+Dialogue: 0,1:11:42.44,1:11:45.99,Default,,0,0,0,,We'll meet again! It's a promise!
+Dialogue: 0,1:11:51.75,1:11:54.62,Default,,0,0,0,,A message you'll remember even after 10,000 years;
+Dialogue: 0,1:11:59.75,1:12:03.38,Default,,0,0,0,,I'll share it with you!
+Dialogue: 0,1:12:03.38,1:12:07.18,Default,,0,0,0,,My precious friends!
+Dialogue: 0,1:12:07.18,1:12:10.85,Default,,0,0,0,,The fact we met means we were meant to be together
+Dialogue: 0,1:12:10.85,1:12:14.60,Default,,0,0,0,,We can hear each other's songs
+Dialogue: 0,1:12:14.60,1:12:22.48,Default,,0,0,0,,like we're singing in unison
+Dialogue: 0,1:12:23.15,1:12:25.70,Default,,0,0,0,,Place all of your goals into the cards and put your dreams into the ticket
+Dialogue: 0,1:12:25.70,1:12:29.70,Default,,0,0,0,,Carry friends
+Dialogue: 0,1:12:29.70,1:12:32.37,Default,,0,0,0,,We'll meet again, but it feels like we won't have to wait
+Dialogue: 0,1:12:32.37,1:12:36.12,Default,,0,0,0,,When do you want to meet next?
+Dialogue: 0,1:12:36.12,1:12:40.79,Default,,0,0,0,,We'll have so much fun
+Dialogue: 0,1:12:40.79,1:12:47.13,Default,,0,0,0,,We'll be together forever
+Dialogue: 0,1:12:47.13,1:12:50.68,Default,,0,0,0,,Our wonderful story -- let's start something new
+Dialogue: 0,1:12:50.68,1:12:54.93,Default,,0,0,0,,Pa-Pa-Ra Make it, Now!\NDu-Du-Wa DO IT, Now!!
+Dialogue: 0,1:12:54.93,1:12:59.15,Default,,0,0,0,,Singing is how we understand each other!
+Dialogue: 0,1:12:59.15,1:13:04.90,Default,,0,0,0,,Our show will never end
+Dialogue: 0,1:13:06.36,1:13:10.03,Default,,0,0,0,,Our Pretty Activites will continue forever
+Dialogue: 0,1:13:10.03,1:13:13.70,Default,,0,0,0,,Even just one second
+Dialogue: 0,1:13:13.70,1:13:17.41,Default,,0,0,0,,We'll meet each other wearing the best coord sever
+Dialogue: 0,1:13:17.41,1:13:21.13,Default,,0,0,0,,We won't be able to stop compliment each other
+Dialogue: 0,1:13:21.13,1:13:29.38,Default,,0,0,0,,We've gone back to our homes, but we can never talk enough!
+Dialogue: 0,1:13:29.38,1:13:32.14,Default,,0,0,0,,Whether the present
+Dialogue: 0,1:13:32.14,1:13:35.93,Default,,0,0,0,,Can't wait to see what's coming
+Dialogue: 0,1:13:35.93,1:13:38.64,Default,,0,0,0,,in the future
+Dialogue: 0,1:13:38.64,1:13:40.73,Default,,0,0,0,,(Our Dream Stage!)
+Dialogue: 0,1:13:40.73,1:13:46.23,Default,,0,0,0,,We're the same generation, so let it resonate
+Dialogue: 0,1:13:46.23,1:13:48.11,Default,,0,0,0,,(Our Dream Stage!)
+Dialogue: 0,1:13:48.11,1:13:51.28,Default,,0,0,0,,Like a prism
+Dialogue: 0,1:13:51.32,1:13:55.99,Default,,0,0,0,,shining is so many colors
+Dialogue: 0,1:14:15.76,1:14:19.52,Default,,0,0,0,,It might sometimes feel lonely
+Dialogue: 0,1:14:19.52,1:14:23.90,Default,,0,0,0,,but this promise is something we'll cherish
+Dialogue: 0,1:14:23.94,1:14:27.82,Default,,0,0,0,,So now when your heart beats
+Dialogue: 0,1:14:27.82,1:14:31.03,Default,,0,0,0,,look forward to it!
+Dialogue: 0,1:14:31.03,1:14:32.36,Default,,0,0,0,,Let's go!
+Dialogue: 0,1:14:32.36,1:14:36.12,Default,,0,0,0,,We'll share our thanks with you!
+Dialogue: 0,1:14:36.12,1:14:40.71,Default,,0,0,0,,For all the time we've walked together side-by-side
+Dialogue: 0,1:14:40.71,1:14:46.96,Default,,0,0,0,,The amount of wonderful stories we have will continue growing
+Dialogue: 0,1:14:46.96,1:14:50.84,Default,,0,0,0,,Special Appeal! Making Drama!
+Dialogue: 0,1:14:50.84,1:14:54.89,Default,,0,0,0,,We'll keep having miraculous meetings!
+Dialogue: 0,1:14:54.89,1:14:59.18,Default,,0,0,0,,We'll shine forever
+Dialogue: 0,1:14:59.18,1:15:01.94,Default,,0,0,0,,in our idol paradise
+Dialogue: 0,1:15:01.94,1:15:08.98,Default,,0,0,0,,Our pretty activities will never end!
+Dialogue: 0,1:15:14.87,1:15:17.78,Default,,0,0,0,,I love it!

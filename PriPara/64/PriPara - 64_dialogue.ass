@@ -21,9 +21,9 @@ Keyframes File: 64_Keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 68
-Video Position: 6979
+Scroll Position: 66
+Active Line: 122
+Video Position: 10310
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,21 +107,21 @@ Dialogue: 1,0:04:51.05,0:04:53.56,Default,Leona,0,0,0,,Since she's an artist, I 
 Dialogue: 1,0:04:54.35,0:04:56.31,Default,Lala,0,0,0,,Who the Vinci is Da Vinci?
 Dialogue: 1,0:04:56.31,0:04:58.03,Default,Mirei,0,0,0,,What do you mean "who the Vinci"-pri!
 Dialogue: 1,0:04:58.03,0:05:01.15,Default,Mirei,0,0,0,,Da Vinci as in {\i1}the{\i0} Leonardo from the village Vinci.
-Dialogue: 1,0:05:01.15,0:05:03.53,Default,Mirei,0,0,0,,So you know, Leonardo da Vinci.
+Dialogue: 1,0:05:01.15,0:05:03.53,Default,Mirei,0,0,0,,You know, Leonardo da Vinci.
 Dialogue: 1,0:05:04.74,0:05:08.62,Default,Mirei,0,0,0,,To put it simply, a famous historical artist-pri.
 Dialogue: 1,0:05:08.62,0:05:10.96,Default,Lala,0,0,0,,Oh? I see...
-Dialogue: 1,0:05:14.29,0:05:15.61,Default,Ajimi,0,0,0,,Da Vinci.
-Dialogue: 1,0:05:15.39,0:05:17.57,Default,Ajimi,0,0,0,,Ta-da!
-Dialogue: 1,0:05:17.57,0:05:18.89,Default,Ajimi,0,0,0,,Michelange-look!
-Dialogue: 1,0:05:18.89,0:05:20.88,Default,Ajimi,0,0,0,,Venus de Milo!
-Dialogue: 1,0:05:20.88,0:05:22.86,Default,Ajimi,0,0,0,,Complete-da Vinci!
-Dialogue: 1,0:05:23.29,0:05:24.57,Default,Lala,0,0,0,,Capisce!
-Dialogue: 1,0:05:24.98,0:05:26.48,Default,Leona,0,0,0,,So cute!
-Dialogue: 1,0:05:26.48,0:05:28.94,Default,Dorothy,0,0,0,,She brought out my cute side!
-Dialogue: 1,0:05:29.69,0:05:31.00,Default,Shion,0,0,0,,Creatively original.
-Dialogue: 1,0:05:31.00,0:05:31.95,Default,Shion,0,0,0,,Thunderous applause.
-Dialogue: 1,0:05:31.95,0:05:34.91,Default,Sophie,0,0,0,,Sunflower!
-Dialogue: 1,0:05:35.26,0:05:38.37,Default,Mirei,0,0,0,,I can feel the Winds of Andalucia-pri.
+Dialogue: 1,0:05:14.29,0:05:15.27,Default,Ajimi,0,0,0,,Da Vinci.
+Dialogue: 1,0:05:15.27,0:05:17.13,Default,Ajimi,0,0,0,,Ta-da!
+Dialogue: 1,0:05:17.45,0:05:18.77,Default,Ajimi,0,0,0,,Michelange-look!
+Dialogue: 1,0:05:18.77,0:05:20.76,Default,Ajimi,0,0,0,,Take a Venus de Mi-look!
+Dialogue: 1,0:05:20.76,0:05:22.80,Default,Ajimi,0,0,0,,Complete-da Vinci!
+Dialogue: 1,0:05:23.29,0:05:24.86,Default,Lala,0,0,0,,Capisce!
+Dialogue: 1,0:05:24.86,0:05:26.43,Default,Leona,0,0,0,,It's adorable!
+Dialogue: 1,0:05:26.43,0:05:28.89,Default,Dorothy,0,0,0,,She brought out my cute side!
+Dialogue: 1,0:05:29.57,0:05:30.98,Default,Shion,0,0,0,,How ceatively original.
+Dialogue: 1,0:05:30.98,0:05:31.89,Default,Shion,0,0,0,,A thunderous applause to you.
+Dialogue: 1,0:05:31.89,0:05:34.86,Default,Sophie,0,0,0,,Look at the sunflowers!
+Dialogue: 1,0:05:35.14,0:05:38.32,Default,Mirei,0,0,0,,I can feel the Winds of Andalucia-pri.
 Dialogue: 1,0:05:40.03,0:05:43.16,Default,Ajimi,0,0,0,,It's embarrassing to have you praise me deske-like that!
 Dialogue: 1,0:05:43.16,0:05:44.96,Default,Ajimi,0,0,0,,My happiness has really deskel-ated!
 Dialogue: 1,0:05:45.28,0:05:47.01,Default,Lala,0,0,0,,That's amazing, Ajimi!
@@ -141,10 +141,10 @@ Dialogue: 1,0:06:28.95,0:06:30.76,Default,Mega-nii,0,0,0,,An eerie picture drawn
 Dialogue: 1,0:06:31.35,0:06:32.57,Default,Mega-nii,0,0,0,,This is the seventh.
 Dialogue: 1,0:06:32.57,0:06:34.42,Default,Dorothy,0,0,0,,Hey, Meganii!
 Dialogue: 1,0:06:34.42,0:06:35.97,Default,Lala,0,0,0,,Did something happen?
-Dialogue: 1,0:06:35.97,0:06:38.68,Default,Ookanda,0,0,0,,Practical jokes are bad.
 Dialogue: 1,0:06:35.97,0:06:38.68,Default,Mega-nee,0,0,0,,Be a good kid and don't imitate this.
-Dialogue: 1,0:06:38.68,0:06:42.29,Default,Ookanda,0,0,0,,Lina, make it nice and clean.
-Dialogue: 1,0:06:44.03,0:06:46.40,Default,Ookanda,0,0,0,,Hang in there, Lina!
+Dialogue: 1,0:06:35.97,0:06:38.68,Default,Ookanda,0,0,0,,{\3c&H0C0C87&}Practical jokes are bad.
+Dialogue: 1,0:06:38.68,0:06:42.29,Default,Ookanda,0,0,0,[term fix],Rina, make it nice and clean.
+Dialogue: 1,0:06:44.03,0:06:46.40,Default,Ookanda,0,0,0,[term fix],Hang in there, Rina!
 Dialogue: 1,0:06:47.46,0:06:51.49,Default,Mega-nii,0,0,0,,There have been other jokes like this one.
 Dialogue: 1,0:06:52.38,0:06:53.19,Default,Ajimi,0,0,0,,Infuriating!
 Dialogue: 1,0:06:53.19,0:06:55.11,Default,,0,0,0,,Graffiti is ba-dechin!
@@ -196,8 +196,8 @@ Dialogue: 1,0:08:35.13,0:08:37.51,Default,Aloma,0,0,0,,Is three pizza buns all I
 Dialogue: 1,0:08:37.51,0:08:39.72,Default,Mikan,0,0,0,,Just trying it out! Just trying it out!
 Dialogue: 1,0:08:42.73,0:08:45.02,Default,Dorothy,0,0,0,,Another suspicious individual spotted!
 Dialogue: 1,0:08:45.02,0:08:45.93,Default,Dorothy,0,0,0,,Arrest her!
-Dialogue: 1,0:08:46.94,0:08:49.59,Default,Chanko,0,0,0,,Chanko was just drawing a sumo arena-chanko!
-Dialogue: 1,0:08:49.59,0:08:51.40,Default,Chanko,0,0,0,,It's the autumn of sports-chanko!
+Dialogue: 1,0:08:46.94,0:08:49.59,Default,Chanko,0,0,0,[honorific],Chanko was just drawing a sumo arena-chanko!
+Dialogue: 1,0:08:49.59,0:08:51.40,Default,Chanko,0,0,0,[honorific],It's the autumn of sports-chanko!
 Dialogue: 1,0:08:52.16,0:08:54.70,Default,Dorothy,0,0,0,,Come on, Ajimi, pull it together.
 Dialogue: 1,0:08:54.70,0:08:56.36,Default,Dorothy,0,0,0,,Every single one of them have been innocent!
 Dialogue: 1,0:08:56.80,0:09:00.21,Default,Shion,0,0,0,,Will you really be able to catch the phantom thief like this?
@@ -273,7 +273,7 @@ Dialogue: 1,0:11:54.71,0:12:06.87,Default,Ajimi,0,0,0,,{My oh my oh my oh my!}
 Dialogue: 1,0:12:11.31,0:12:14.18,Default,Ajimi,0,0,0,,Leonardo da Vinci!
 Dialogue: 1,0:12:14.18,0:12:16.34,Default,Ajimi,0,0,0,,Da-Da-Da Vinci! Da-Da-Da-Da Vinci!
 Dialogue: 1,0:12:16.34,0:12:18.87,Default,Ajimi,0,0,0,,I saw it-da Vinci!
-Dialogue: 1,0:12:22.52,0:12:24.18,Default,Ajimi,0,0,0,,Thank you, da Vinci-sama!
+Dialogue: 1,0:12:22.52,0:12:24.18,Default,Ajimi,0,0,0,[honorific],Thank you, da Vinci-sama!
 Dialogue: 1,0:12:24.18,0:12:25.78,Default,Ajimi,0,0,0,,Da Vinci!
 Dialogue: 1,0:12:26.65,0:12:28.41,Default,Dorothy,0,0,0,,Bam!
 Dialogue: 1,0:12:30.37,0:12:31.83,Default,Girls,0,0,0,,Ajimi!
@@ -339,7 +339,7 @@ Dialogue: 1,0:15:12.98,0:15:15.21,Default,Mirei,0,0,0,,I'm beyond worried-pri.
 Dialogue: 1,0:15:16.03,0:15:18.44,Default,Lala,0,0,0,,But that is a charm, isn't it?
 Dialogue: 1,0:15:18.44,0:15:21.47,Default,Leona,0,0,0,,Which means that he's also Ajimi's...
 Dialogue: 1,0:15:21.47,0:15:22.87,Default,Shion,0,0,0,,Manager?!
-Dialogue: 1,0:15:25.28,0:15:28.69,Default,Mega-nii,0,0,0,,Ajimi's police and idol début!
+Dialogue: 1,0:15:25.28,0:15:28.69,Default,Mega-nii,0,0,0,[term fix],Ajimi's police and idol debut!
 Dialogue: 1,0:15:28.69,0:15:30.30,Default,Mega-nii,0,0,0,,Congratulations!
 Dialogue: 1,0:15:30.61,0:15:32.72,Default,Ajimi,0,0,0,,What's this-da Vinci?
 Dialogue: 1,0:15:32.72,0:15:36.62,Default,Mega-nii,0,0,0,,The new PriPass, the Cyalume Miracle Pact!
@@ -358,7 +358,7 @@ Dialogue: 1,0:16:15.10,0:16:16.97,Default,Mega-nee,0,0,0,,Good luck with your fi
 Dialogue: 1,0:16:22.72,0:16:25.73,Default,Rand1,0,0,0,,Ajimi!
 Dialogue: 1,0:16:23.90,0:16:25.73,Default,Rand2,0,0,0,,Ajimi, go, go!
 Dialogue: 1,0:16:26.66,0:16:27.69,Default,Andou,0,0,0,,Welcome back.
-Dialogue: 1,0:16:28.61,0:16:31.15,Default,Hibiki,0,0,0,,So an idol is making her début today?
+Dialogue: 1,0:16:28.61,0:16:31.15,Default,Hibiki,0,0,0,[term fix],So an idol is making her debut today?
 Dialogue: 1,0:16:31.15,0:16:31.65,Default,Andou,0,0,0,,Yes.
 Dialogue: 1,0:16:32.72,0:16:34.10,Default,Hibiki,0,0,0,,{\i1}Kiki Ajimi.
 Dialogue: 1,0:16:34.10,0:16:37.11,Default,Hibiki,0,0,0,,{\i1}I wonder if she could be another princess?
@@ -374,7 +374,7 @@ Dialogue: 1,0:18:16.29,0:18:19.91,Default,Ajimi,0,0,0,,{\pos(960,990)}Cyalume Ch
 Dialogue: 1,0:18:24.92,0:18:26.38,Default,,0,0,0,,{\pos(960,997.5)}DaVinci!
 Dialogue: 1,0:18:52.23,0:18:54.62,Default,Mega-nee,0,0,0,,Ajimi got blue; pop.
 Dialogue: 1,0:18:56.26,0:18:58.05,Default,Ajimi,0,0,0,,Happy heart!
-Dialogue: 1,0:18:58.05,0:19:04.09,Default,Ajimi,0,0,0,,Jumping, dancing, cheerful, blazing,\N fun, heart-pounding début concert!
+Dialogue: 1,0:18:58.05,0:19:04.09,Default,Ajimi,0,0,0,[term fix],Jumping, dancing, cheerful, blazing,\N fun, heart-pounding debut concert!
 Dialogue: 1,0:19:04.09,0:19:05.80,Default,Ajimi,0,0,0,,Thank you so much-da Vinci!
 Dialogue: 1,0:19:05.80,0:19:08.35,Default,Ajimi,0,0,0,,A flower of a smile!
 Dialogue: 1,0:19:08.67,0:19:12.81,Default,Ajimi,0,0,0,,Ajiri wants to bloom even Michelangelo more-PicassoDaVinci!
@@ -403,7 +403,7 @@ Dialogue: 1,0:20:02.61,0:20:06.04,Default,,0,0,0,,Sir At The New Century We Are 
 Dialogue: 1,0:20:06.04,0:20:10.08,Default,,0,0,0,,H A M Tarou The Great Golden Selime-usa!{That's not how you usually spell slime and I doubt such a venerable hamster would be named Slime anyway}
 Dialogue: 1,0:19:58.23,0:20:02.61,Default,Kusagi,0,0,0,,Hannibal Caesar Elizabeth Archimedes Newton Duke The Tougou Boss Yujiro Master of Mascots
 Dialogue: 1,0:20:02.61,0:20:06.04,Default,,0,0,0,,At The New Century We Are The World We Are The Sun Flower Friedrich
-Dialogue: 1,0:20:06.04,0:20:10.08,Default,,0,0,0,,H A M Tarou The Great Golden Selime-senpai-kuma!
+Dialogue: 1,0:20:06.04,0:20:10.08,Default,,0,0,0,[honorific],H A M Tarou The Great Golden Selime-senpai-kuma!
 Dialogue: 1,0:20:10.38,0:20:11.62,Default,Girls,0,0,0,,What's that?
 Dialogue: 1,0:20:11.62,0:20:13.63,Default,Kuma,0,0,0,,He has a great legacy-kuma!
 Dialogue: 1,0:20:13.63,0:20:18.63,Default,Usagi,0,0,0,,For instance, he might be able to fit 256 sunflower seeds in his cheek pouch!
