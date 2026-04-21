@@ -13,13 +13,14 @@ Video Zoom: 8
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Keyframes File: PriPara - 58_keyframes.log
+Audio File: E:/Raws/PriPara/PriPara s2/PriPara - 58.mkv
+Video File: E:/Raws/PriPara/PriPara s2/PriPara - 58.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 78
-Active Line: 87
-Video Position: 30577
+Scroll Position: 379
+Active Line: 393
+Video Position: 30800
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,28 +46,27 @@ Comment: 0,0:00:00.05,0:00:00.05,Default,MiniFalulus,0,0,0,,Kyupikon!
 Comment: 0,0:00:00.05,0:00:00.05,Default,PinkAcress,0,0,0,,Eh?!
 Comment: 0,0:00:00.05,0:00:00.05,Default,,0,0,0,,Eyecatch
 Comment: 0,0:00:00.05,0:00:00.05,Default,All,0,0,0,,{your choice on the continual repeating of this in the alt line}
-Comment: 0,0:00:00.05,0:00:00.05,Default,,0,0,0,,Alolulu{aloma falulu}
+Comment: 0,0:00:00.05,0:00:00.05,Default,,0,0,0,[term fix],Alolulu{Aroma falulu}
 Comment: 0,0:00:00.05,0:00:00.05,Default,,0,0,0,,Insert 58-01{used in S1}
-Comment: 0,0:00:00.05,0:00:00.05,Default,,0,0,0,,Well, obviously... we all know who got "left behind"...
 Comment: 0,0:00:00.05,0:00:00.05,Default,,0,0,0,,ED
 Dialogue: 0,0:00:01.68,0:00:03.94,Default,Lala,0,0,0,,Is Falulu here yet?
 Dialogue: 0,0:00:04.22,0:00:09.49,Default,Mirelle,0,0,0,,I can't wait to hear about her time at PriParis,\N the capital of flowers and fashion-pri!
 Dialogue: 0,0:00:09.49,0:00:11.91,Default,Shion,0,0,0,,I'm sure she's grown a bit.
 Dialogue: 0,0:00:11.91,0:00:14.48,Default,Dorthy,0,0,0,,But I'm still ticked off to the max!
-Dialogue: 0,0:00:14.48,0:00:15.87,Default,Dorthy,0,0,0,,That stupid Phantom Thief Genius.
-Dialogue: 0,0:00:15.87,0:00:19.14,Default,Dorthy,0,0,0,,He made a fool of us by stealing our coord\N and calling our friendship fake.
+Dialogue: 0,0:00:14.48,0:00:15.87,Default,Dorthy,0,0,0,,That dang Phantom Thief Genius.
+Dialogue: 0,0:00:15.87,0:00:19.14,Default,Dorthy,0,0,0,,He sure made a fool of us by stealing our coord\N and calling our friendship fake.
 Dialogue: 0,0:00:19.14,0:00:20.39,Default,Mirelle,0,0,0,,It's the worst-pri!
 Dialogue: 0,0:00:20.39,0:00:21.13,Default,Shion,0,0,0,,Yeah.
 Dialogue: 0,0:00:21.62,0:00:22.64,Default,Lala,0,0,0,,Oh well.
 Dialogue: 0,0:00:22.64,0:00:25.85,Default,Lala,0,0,0,,Falulu and Unicorn are finally coming back to see us!
 Dialogue: 0,0:00:25.85,0:00:27.34,Default,Lala,0,0,0,,Let's just relax and have fun today.
-Dialogue: 0,0:00:28.97,0:00:33.06,Default,Kuma,0,0,0,,It's been so long since I've seen Almighty Unicorn\N that I'm getting excited-kuma!
+Dialogue: 0,0:00:28.97,0:00:33.06,Default,Kuma,0,0,0,,I can't wait to see Almighty Unicorn again. \NIt's been way too long-kuma!
 Dialogue: 0,0:00:33.38,0:00:38.33,Default,Usagi,0,0,0,,When she turned into Pegasus, \Nshe became a Legendary Mascot-usa!
-Dialogue: 0,0:00:40.17,0:00:42.48,Default,Kuma,0,0,0,,With that, there's no way we could disrespect her-kuma!
+Dialogue: 0,0:00:40.17,0:00:42.48,Default,Kuma,0,0,0,,With a form like that, she just commands respect-kuma!
 Dialogue: 0,0:00:47.16,0:00:49.95,Default,Usagi,0,0,0,,That divine light...
 Dialogue: 0,0:00:51.34,0:00:53.29,Default,Kuma,0,0,0,,Almighty Unicorn!
 Dialogue: 0,0:00:53.29,0:00:56.25,Default,Kuma,0,0,0,,Your light is so radiant, Almighty Unicorn!
-Dialogue: 0,0:01:10.25,0:01:11.75,Default,Unicorn,0,0,0,,Long time no see.
+Dialogue: 0,0:01:10.25,0:01:11.75,Default,Unicorn,0,0,0,,Long time, no see.
 Dialogue: 0,0:01:11.75,0:01:14.22,Default,Kuma,0,0,0,,Huh? You're back to normal-kuma?
 Dialogue: 0,0:01:14.22,0:01:16.06,Default,Unicorn,0,0,0,,I turned back after two days.
 Dialogue: 0,0:01:17.71,0:01:20.34,Default,Unicorn,0,0,0,,Okay! You can get off now, Falulu.
@@ -80,10 +80,10 @@ Dialogue: 0,0:01:44.21,0:01:45.70,Default,Lala,0,0,0,,So do you!
 Dialogue: 0,0:01:45.70,0:01:49.63,Default,Lala,0,0,0,,Since you're back, here's my\N extremely happy capisce!
 Dialogue: 0,0:01:49.63,0:01:51.88,Default,MiniFalulus,0,0,0,,{\an8}Capisce! Capisce!
 Dialogue: 0,0:01:51.88,0:02:06.94,Default,MiniFalulus,0,0,0,,{\an8}Capisce! Capisce! Capisce! Capisce!
-Dialogue: 0,0:02:00.98,0:02:04.83,Default,Lala,0,0,0,,Whaaat?!
+Dialogue: 0,0:02:00.98,0:02:04.83,Default,Lala,0,0,0,,What?!
 Dialogue: 0,0:03:38.10,0:03:41.35,S2 Episode Title,Unicorn,0,0,0,,{\blur4}Falulu Has Returned
 Dialogue: 0,0:03:38.10,0:03:41.35,Default,Unicorn,0,0,0,,Falulu Has Returned.
-Dialogue: 0,0:03:42.18,0:03:44.58,Default,Non,0,0,0,,Welcome back, Falulu!
+Dialogue: 0,0:03:42.18,0:03:44.58,Default,Non,0,0,0,,Welcome back, Lady Falulu!
 Dialogue: 0,0:03:44.97,0:03:46.54,Default,Falulu,0,0,0,,Nice to see you again, Non.
 Dialogue: 0,0:03:46.54,0:03:51.05,Default,Non,0,0,0,,Being able to talk with my beloved Falulu\N again is like a dream come true!
 Dialogue: 0,0:03:51.05,0:03:55.45,Default,Lala,0,0,0,,But Non, I thought you were a Fuwari fan now.
@@ -93,7 +93,7 @@ Dialogue: 0,0:04:01.22,0:04:03.29,Default,Falulu,0,0,0,,They're flower seeds fro
 Dialogue: 0,0:04:03.29,0:04:04.30,Default,Non,0,0,0,,Really?
 Dialogue: 0,0:04:04.30,0:04:05.94,Default,Non,0,0,0,,Thank you so much!
 Dialogue: 0,0:04:05.94,0:04:07.56,Default,Non,0,0,0,,I'll make sure they grow up nice and healthy!
-Dialogue: 0,0:04:07.56,0:04:12.02,Default,Unicorn,0,0,0,,We bought stylish PriParis\Nsouvenirs for the rest of you, too.
+Dialogue: 0,0:04:07.56,0:04:12.02,Default,Unicorn,0,0,0,,We brought stylish PriParis souvenirs\N for the rest of you, too.
 Dialogue: 0,0:04:14.93,0:04:16.61,Default,Leona,0,0,0,,PriParis cookies!
 Dialogue: 0,0:04:16.61,0:04:18.10,Default,Mirelle,0,0,0,,A pendant-pri!
 Dialogue: 0,0:04:18.10,0:04:19.33,Default,Lala,0,0,0,,It's so cute!
@@ -101,11 +101,11 @@ Dialogue: 0,0:04:19.98,0:04:21.79,Default,Dorthy,0,0,0,,This is pretty stylish!
 Dialogue: 0,0:04:21.79,0:04:24.50,Default,Sophie,0,0,0,,Thank you very much.
 Dialogue: 0,0:04:24.50,0:04:27.21,Default,Shion,0,0,0,,You even got a {\i1}Go{\i0} table!
 Dialogue: 0,0:04:27.21,0:04:30.35,Default,Kuma,0,0,0,,Um, what about us?
-Dialogue: 0,0:04:30.35,0:04:32.10,Default,Usagi,0,0,0,,Did you get anything-usa?
+Dialogue: 0,0:04:30.35,0:04:32.10,Default,Usagi,0,0,0,,Did you get us anything-usa?
 Dialogue: 0,0:04:32.10,0:04:35.19,Default,Unicorn,0,0,0,,We got special presents for the two of you.
 Dialogue: 0,0:04:35.68,0:04:38.55,default - copy,Kuma,0,0,0,,Your generosity is much appreciated-kuma!
 Dialogue: 0,0:04:35.19,0:04:37.26,Default,Usagi,0,0,0,,{\3c&HCE5139&}Hooray-usa!
-Dialogue: 0,0:04:38.55,0:04:42.93,Default,Usagi,0,0,0,,I'm sure it's a wonderful item for an exceedingly\N handsome gentleman such as myself-usa.
+Dialogue: 0,0:04:38.55,0:04:42.93,Default,Usagi,0,0,0,,I'm sure it's a wonderful item for an incredibly\N handsome gentleman such as myself-usa.
 Dialogue: 0,0:04:44.37,0:04:45.39,Default,Kuma,0,0,0,,What?
 Dialogue: 0,0:04:46.82,0:04:47.85,Default,Usagi,0,0,0,,Huh?
 Dialogue: 0,0:04:48.16,0:04:50.93,Default,Unicorn,0,0,0,,It seems they're so impressed they're speechless.
@@ -113,8 +113,8 @@ Dialogue: 0,0:04:50.93,0:04:53.32,Default,Falulu,0,0,0,,It's wonderful that they
 Dialogue: 0,0:04:53.32,0:04:57.28,Default,Lala,0,0,0,,It looks like the two of you are still really close.
 Dialogue: 0,0:04:57.28,0:04:59.10,Default,Unicorn,0,0,0,,Of course.
 Dialogue: 0,0:04:59.10,0:05:02.34,Default,Unicorn,0,0,0,,But I am {\i1}also{\i0} a capable manager.
-Dialogue: 0,0:05:02.34,0:05:05.02,Default,Unicorn,0,0,0,,We're trying to achieve her dream of being a Divine Idol,
-Dialogue: 0,0:05:05.02,0:05:07.38,Default,Unicorn,0,0,0,,so there are still times when I have to scold her.
+Dialogue: 0,0:05:02.34,0:05:05.02,Default,Unicorn,0,0,0,,We're trying to reach her dream of being a Divine Idol,
+Dialogue: 0,0:05:05.02,0:05:07.38,Default,Unicorn,0,0,0,,so there are still times when I have to be hard on her.
 Dialogue: 0,0:05:07.38,0:05:09.00,Default,Falulu,0,0,0,,Falulu knows...
 Dialogue: 0,0:05:09.77,0:05:11.71,Default,Unicorn,0,0,0,,{\i1}Come on, Falulu!
 Dialogue: 0,0:05:11.71,0:05:14.49,Default,Unicorn,0,0,0,,{\i1}Redo that move!{lit- dance, but probably not the whole thing, but the part she screwed up}
@@ -129,12 +129,12 @@ Dialogue: 0,0:05:36.57,0:05:40.27,Default,MiniFalulus,0,0,0,,{\fad(100,0)}Unicor
 Dialogue: 0,0:05:40.27,0:05:43.57,Default,MiniFalulus,0,0,0,,Spiral poop!
 Dialogue: 0,0:05:43.57,0:05:45.07,Default,Unicorn,0,0,0,,Why you!
 Dialogue: 0,0:05:45.07,0:05:47.95,Default,Unicorn,0,0,0,,If you don't shut your traps, you're gonna get it!
-Dialogue: 0,0:05:49.12,0:05:54.08,Default,Mirelle,0,0,0,,Um, now that we're on the topic,\Njust who are these little girls-pri?
+Dialogue: 0,0:05:49.12,0:05:54.08,Default,Mirelle,0,0,0,,Um, now that we're on the topic,\Nwho exactly are these little girls-pri?
 Dialogue: 0,0:05:54.43,0:05:58.28,Default,Unicorn,0,0,0,,These Mini-Falulus are all the same as Falulu.
 Dialogue: 0,0:05:58.28,0:05:59.55,Default,Lala,0,0,0,,Wait, that means...
 Dialogue: 0,0:06:00.09,0:06:02.26,Default,Shion,0,0,0,,The PriTickets that don't have owners?
 Dialogue: 0,0:06:02.73,0:06:04.28,Default,Unicorn,0,0,0,,Exactly.
-Dialogue: 0,0:06:04.82,0:06:11.40,Default,Unicorn,0,0,0,,I now have the job of visiting the other PriParas\N and collecting dropped PriTickets.
+Dialogue: 0,0:06:04.82,0:06:11.40,Default,Unicorn,0,0,0,,My job now is to visit other PriParas\N and collect dropped PriTickets.{I now have the job of visiting the other PriParas\N and collecting dropped PriTickets.}
 Dialogue: 0,0:06:11.90,0:06:12.98,Default,Unicorn,0,0,0,,And then...
 Dialogue: 0,0:06:15.82,0:06:20.61,Default,Unicorn,0,0,0,,These girls are born from the feelings\N of girls who wanted to become idols.
 Dialogue: 0,0:06:39.43,0:06:47.03,Default,Unicorn,0,0,0,,They are awoken as Vocal Dolls just like Falulu.
@@ -146,14 +146,14 @@ Dialogue: 0,0:06:53.44,0:06:55.69,Default,MiniFalulus,0,0,0,,{\fad(100,0)}Falulu
 Dialogue: 0,0:06:56.81,0:06:58.89,Default,Lala,0,0,0,,So they're all Falulu's little sisters.
 Dialogue: 0,0:06:58.89,0:07:00.53,Default,Sophie,0,0,0,,They're all so cute!
 Dialogue: 0,0:07:00.53,0:07:02.66,Default,Mirelle,0,0,0,,But aren't there a bit too many-pri?
-Dialogue: 0,0:07:02.66,0:07:04.28,Default,MiniFalulu3,0,0,0,,What's "-pri"?
+Dialogue: 0,0:07:02.66,0:07:04.28,Default,MiniFalulu3,0,0,0,,What's a "-pri"?
 Dialogue: 0,0:07:04.28,0:07:04.73,Default,Mirelle,0,0,0,,Huh?
 Dialogue: 0,0:07:04.73,0:07:05.84,Default,MiniFalulus,0,0,0,,What is it?
 Dialogue: 0,0:07:05.84,0:07:09.44,Default,Mirelle,0,0,0,,"-Pri" is... uh...
-Dialogue: 0,0:07:09.44,0:07:10.87,Default,Mirelle,0,0,0,,A verbal quirk-pri.
-Dialogue: 0,0:07:10.87,0:07:12.34,Default,MiniFalulu4,0,0,0,,What's a verbal quirk?
+Dialogue: 0,0:07:09.44,0:07:10.87,Default,Mirelle,0,0,0,,A wordplay quirk-pri.
+Dialogue: 0,0:07:10.87,0:07:12.34,Default,MiniFalulu4,0,0,0,,What's a wordplay quirk?
 Dialogue: 0,0:07:12.34,0:07:14.08,Default,MiniFalulus,0,0,0,,What is it? What is it?
-Dialogue: 0,0:07:14.21,0:07:18.18,Default,Mirelle,0,0,0,,Verbal quirks like "-pri" and "-chanko" \Nare usually used at the end of a sentence...
+Dialogue: 0,0:07:14.21,0:07:18.18,Default,Mirelle,0,0,0,[honorific],Well, ones like "-pri" and "-chanko" \Nare usually used at the end of a sentence...
 Dialogue: 0,0:07:18.18,0:07:21.64,Default,Mirelle,0,0,0,,to portray a type of character or atmosphere.
 Dialogue: 0,0:07:21.29,0:07:23.14,Default,MiniFalulus,0,0,0,,{\an8}What's "atmosphere"?
 Dialogue: 0,0:07:23.14,0:07:27.26,default - copy,MiniFalulus,0,0,0,,{\an8}What is it? What is it?
@@ -167,17 +167,17 @@ Dialogue: 0,0:07:39.41,0:07:42.63,Default,MiniFalulu,0,0,0,,Pri! Pri! Pri!
 Dialogue: 0,0:07:42.63,0:07:43.74,Default,Falulu,0,0,0,,One more time.
 Dialogue: 0,0:07:43.74,0:07:44.84,Default,Falulu,0,0,0,,And start!
 Dialogue: 0,0:07:44.84,0:07:47.92,Default,MiniFalulus,0,0,0,,Pri! Pri! Pri!
-Dialogue: 0,0:07:47.92,0:07:49.59,Default,MiniFalulu5,0,0,0,,I've memorised "-pri"-pri
-Dialogue: 0,0:07:49.59,0:07:50.90,Default,MiniFalulu6,0,0,0,,I've memorised it-pri.
+Dialogue: 0,0:07:47.92,0:07:49.59,Default,MiniFalulu5,0,0,0,,I've memorized "-pri"-pri
+Dialogue: 0,0:07:49.59,0:07:50.90,Default,MiniFalulu6,0,0,0,,I've memorized it-pri.
 Dialogue: 0,0:07:50.90,0:07:52.96,Default,Falulu,0,0,0,,Good job, everyone.
 Dialogue: 0,0:07:53.36,0:07:54.20,Default,Mirelle,0,0,0,,Pri...
-Dialogue: 0,0:07:54.20,0:07:55.92,Default,Mirelle,0,0,0,,They really learned it-pri.
+Dialogue: 0,0:07:54.20,0:07:56.04,Default,Mirelle,0,0,0,,They really learned it-pri.
 Dialogue: 0,0:07:56.04,0:07:59.67,Default,Falulu,0,0,0,,Everyone playing with Falulu, gather around the horn.
 Dialogue: 0,0:08:00.88,0:08:03.84,Default,MiniFalulus,0,0,0,,Okay!
 Dialogue: 0,0:08:05.00,0:08:06.80,Default,Unicorn,0,0,0,,Stop that!
 Dialogue: 0,0:08:06.80,0:08:09.76,Default,Unicorn,0,0,0,,Hey, that's—
 Dialogue: 0,0:08:09.76,0:08:11.17,Default,Unicorn,0,0,0,,No, not there!
-Dialogue: 0,0:08:11.17,0:08:15.10,Default,Lala,0,0,0,,Falulu really is acting like a proper older sister.
+Dialogue: 0,0:08:11.17,0:08:15.10,Default,Lala,0,0,0,,Falulu really is like a big sister.
 Dialogue: 0,0:08:16.14,0:08:17.36,Default,Mega-nee,0,0,0,,Falulu.
 Dialogue: 0,0:08:18.27,0:08:19.55,Default,Mega-nee,0,0,0,,It's almost time.
 Dialogue: 0,0:08:19.55,0:08:21.33,Default,Falulu,0,0,0,,Oh, whoops.
@@ -189,7 +189,7 @@ Dialogue: 0,0:08:30.54,0:08:32.97,Default,Falulu,0,0,0,,Please look after them.
 Dialogue: 0,0:08:32.97,0:08:34.07,Default,Lala,0,0,0,,Capisce!
 Dialogue: 0,0:08:35.12,0:08:39.60,Default,Unicorn,0,0,0,,Now then, those playing with Unicorn gather round the horn.
 Dialogue: 0,0:08:44.11,0:08:45.30,Default,Unicorn,0,0,0,,Ouch...
-Dialogue: 0,0:08:45.30,0:08:48.38,Default,Dorthy,0,0,0,,Hey, you cant just go wherever you want!
+Dialogue: 0,0:08:45.30,0:08:48.38,Default,Dorthy,0,0,0,,Hey, you can't just go running off on your own!
 Dialogue: 0,0:08:48.38,0:08:50.70,Default,Dorthy,0,0,0,,What the heck are you doing, you brats?!
 Dialogue: 0,0:08:50.70,0:08:51.76,Default,Dorthy,0,0,0,,What should we do?
 Dialogue: 0,0:08:51.76,0:08:53.17,Default,Shion,0,0,0,,They're in groups!
@@ -216,17 +216,17 @@ Dialogue: 0,0:09:45.14,0:09:46.36,default - copy,MiniFalulu,0,0,0,,{\3c&H19198B&
 Dialogue: 0,0:09:46.81,0:09:47.72,Default,Mega-nee,0,0,0,,Wow!
 Dialogue: 0,0:09:47.72,0:09:49.73,Default,Mega-nee,0,0,0,,Chanko, that's really good!
 Dialogue: 0,0:09:49.73,0:09:51.20,Default,Mega-nee,0,0,0,,It's perfect!
-Dialogue: 0,0:09:51.20,0:09:52.79,Default,Chanko,0,0,0,,Thank you-chanko.
+Dialogue: 0,0:09:51.20,0:09:52.79,Default,Chanko,0,0,0,[honorific],Thank you-chanko.
 Dialogue: 0,0:09:52.79,0:09:55.74,Default,Mega-nee,0,0,0,,Now give us an even more daring, mature pose!
-Dialogue: 0,0:09:55.74,0:09:57.24,Default,Chanko,0,0,0,,Shy-chanko.
+Dialogue: 0,0:09:55.74,0:09:57.24,Default,Chanko,0,0,0,[honorific],Shy-chanko.
 Dialogue: 0,0:09:57.24,0:09:58.66,Default,Chanko,0,0,0,,But now I...
-Dialogue: 0,0:09:58.66,0:10:01.42,Default,Chanko [time gap 80ms] ...timer pls,0,0,0,,have climbed the stairs of adulthood-chanko!
+Dialogue: 0,0:09:58.66,0:10:01.42,Default,Chanko [time gap 80ms] ...timer pls,0,0,0,[honorific],have climbed the stairs of adulthood-chanko!
 Dialogue: 0,0:10:01.42,0:10:02.37,Default,MiniFalulu,0,0,0,,Chalu!
-Dialogue: 0,0:10:02.37,0:10:06.09,Default,Chanko,0,0,0,,Hey, get out of the way-chanko!
+Dialogue: 0,0:10:02.37,0:10:06.09,Default,Chanko,0,0,0,[honorific],Hey, get out of the way-chanko!
 Dialogue: 0,0:10:06.09,0:10:07.45,Default,Shion,0,0,0,,A swarm has been found!
 Dialogue: 0,0:10:07.45,0:10:08.55,Default,Shion,0,0,0,,Prepare yourselves!
 Dialogue: 0,0:10:11.94,0:10:13.84,Default,Dorthy,0,0,0,,Get back here!
-Dialogue: 0,0:10:13.84,0:10:19.01,Default,Dorthy,0,0,0,,It looks like I'll just be eternally innocent-chanko.
+Dialogue: 0,0:10:13.84,0:10:19.01,Default,Dorthy,0,0,0,[honorific],It looks like I'll just be eternally innocent-chanko.
 Dialogue: 0,0:10:19.77,0:10:26.69,Default,Gondolier,0,0,0,,O Sole, O Sole Mio.
 Dialogue: 0,0:10:25.46,0:10:26.57,default - copy,MiniFalulu,0,0,0,,Malu!
 Dialogue: 0,0:10:26.69,0:10:27.27,Default,MiniFalulu,0,0,0,,{\fad(0,100)}Maalu!
@@ -326,8 +326,8 @@ Dialogue: 0,0:14:06.53,0:14:09.24,Default,Fan1,0,0,0,,You can do it, Falulu.
 Dialogue: 0,0:14:11.18,0:14:12.46,Default,Falulu,0,0,0,,Got it.
 Dialogue: 0,0:14:12.46,0:14:14.92,Default,Fans,0,0,0,,Hooray!
 Dialogue: 0,0:14:14.92,0:14:20.38,Default,Unicorn,0,0,0,,We'll show you how much brighter she'ch become since PriParis.
-Dialogue: 0,0:14:28.47,0:14:31.98,Default,Mega-nee,0,0,0,,Please scan the appropriate number of My Tickets for your coord.
-Dialogue: 0,0:14:31.98,0:14:34.69,Default,Mega-nee,0,0,0,,Coord Change Start!
+Dialogue: 0,0:14:28.47,0:14:31.84,Default,Mega-nee,0,0,0,,Please scan the appropriate number of My Tickets for your coord.
+Dialogue: 0,0:14:31.84,0:14:34.16,Default,Mega-nee,0,0,0,,Coord Change Start!
 Dialogue: 0,0:14:34.34,0:14:38.81,Default,Mega-nee,0,0,0,,A mauve arrangement full of high-end cloth as pure white as an angel.
 Dialogue: 0,0:14:38.81,0:14:42.37,Default,Mega-nee,0,0,0,,"Mauve" is what one in Prance would call purple.
 Dialogue: 0,0:14:42.37,0:14:44.45,Default,Falulu,0,0,0,,Angelic Mauve Coord!
@@ -394,8 +394,8 @@ Dialogue: 0,0:19:46.92,0:19:48.95,Default,Rand1,0,0,0,,{\i1}I can't sing.
 Dialogue: 0,0:19:48.95,0:19:50.82,Default,Rand2,0,0,0,,{\i1}I'm a horrible dancer!
 Dialogue: 0,0:19:50.82,0:19:53.70,Default,Rand3,0,0,0,,{\i1}I never want to do or see any more concerts!
 Dialogue: 0,0:19:53.70,0:19:56.75,Default,Rand4,0,0,0,,{\i1}Maybe l'm not meant to be an idol...
-Dialogue: 0,0:19:57.32,0:20:00.53,Default,Unicorn,0,0,0,,They couldn't achieve their dreams.
-Dialogue: 0,0:20:00.53,0:20:04.35,Default,Unicorn,0,0,0,,Those girls' feelings of hopelessness gathered together...
+Dialogue: 0,0:19:57.32,0:20:00.53,Default,Unicorn,0,0,0,,Some of them can't reach their dreams,
+Dialogue: 0,0:20:00.53,0:20:04.35,Default,Unicorn,0,0,0,,and those girls's feelings of hopelessness gathered together...
 Dialogue: 0,0:20:14.15,0:20:18.36,Default,Unicorn,0,0,0,,And that's how Gaaruru was born.
 Dialogue: 0,0:20:18.00,0:20:20.32,Default,Gaalulu,0,0,0,,Gaaruru...
 Dialogue: 0,0:20:20.63,0:20:23.59,Default,Sophie,0,0,0,,She said she hates idols...
@@ -403,7 +403,7 @@ Dialogue: 0,0:20:23.59,0:20:26.29,Default,Mirelle,0,0,0,,Sophy, you can understa
 Dialogue: 0,0:20:26.29,0:20:28.00,Default,Gaalulu,0,0,0,,Gaaruru!
 Dialogue: 0,0:20:28.47,0:20:31.42,Default,Sophie,0,0,0,,She said she wants to be a monster...
 Dialogue: 0,0:20:34.04,0:20:35.58,Default,Lala,0,0,0,,Gaaruru...
-Dialogue: 0,0:20:38.40,0:20:41.55,Default,Unicorn,0,0,0,,It went by so quickly, but you really helped us!
+Dialogue: 0,0:20:38.40,0:20:41.55,Default,Unicorn,0,0,0,,Things went by so quickly, but you really helped us!
 Dialogue: 0,0:20:41.55,0:20:43.25,Default,Falulu,0,0,0,,Thank you.
 Dialogue: 0,0:20:43.25,0:20:45.50,Default,Falulu,0,0,0,,Did all of you learn a lot?
 Dialogue: 0,0:20:45.50,0:20:46.77,Default,MiniFalulu,0,0,0,,Yeah!
@@ -425,10 +425,10 @@ Dialogue: 0,0:21:12.73,0:21:13.76,Default,Unicorn,0,0,0,,Huh?
 Dialogue: 0,0:21:13.76,0:21:15.30,Default,Unicorn,0,0,0,,We're missing one!
 Dialogue: 0,0:21:15.30,0:21:16.73,Default,All,0,0,0,,Huh?!
 Dialogue: 0,0:21:16.73,0:21:19.93,Default,Mega-nee,0,0,0,,Our flight bound for PriParis will be taking off shortly.
-Dialogue: 0,0:21:19.93,0:21:22.14,Default,Lala,0,0,0,,Eh?!
+Dialogue: 0,0:21:19.93,0:21:22.14,Default,Lala,0,0,0,,What?!
 Dialogue: 0,0:21:22.14,0:21:23.13,Default,Falulu,0,0,0,,Oh no!
 Dialogue: 0,0:21:23.13,0:21:24.60,Default,Falulu,0,0,0,,Gaaruru's not onboard!
-Dialogue: 0,0:21:24.60,0:21:27.06,Default,Lala,0,0,0,,Eh?! Gaaruru's not?!
+Dialogue: 0,0:21:24.60,0:21:27.06,Default,Lala,0,0,0,,What?! Gaaruru's not?!
 Dialogue: 0,0:23:05.73,0:23:06.78,Default,Lala,0,0,0,,Gaaruru ran away?
 Dialogue: 0,0:23:07.22,0:23:08.37,Default,Lala,0,0,0,,Why?
 Dialogue: 0,0:23:07.99,0:23:11.45,Default,Sophie,0,0,0,,I wonder if there's something she doesn't like.
